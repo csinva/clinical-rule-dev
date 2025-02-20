@@ -6,7 +6,7 @@
 </p>
 
 Code for auditing patient perspectives, underlying a cross-sectional study of sentiment and thematic classification on exception from informed consent (<a href="https://www.nature.com/articles/s41598-025-89996-w">Kornblith et al. 2025, Nature scientific reports</a>) <br/>
-<img align="center" width=100% src="https://csinva.io/analyzing-patient-psrspectives/figs/sentiment_agg.png"> </img>
+<img align="center" width=100% src="https://csinva.io/analyzing-patient-perspectives/figs/sentiment_agg.png"> </img>
 
 
 ### Abstract
