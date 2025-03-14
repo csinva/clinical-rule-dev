@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22826567"
+    ],
+    "22826567": {
+      "uid": "22826567",
+      "pubdate": "2012 Aug",
+      "epubdate": "2012 Jul 23",
+      "source": "Pediatrics",
+      "authors": [
+        {
+          "name": "Cappelli M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gray C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zemek R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cloutier P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kennedy A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Glennie E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Doucet G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lyons JS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lyons JS",
+      "title": "The HEADS-ED: a rapid mental health screening tool for pediatric patients in the emergency department.",
+      "sorttitle": "heads ed a rapid mental health screening tool for pediatric patients in the emergency department",
+      "volume": "130",
+      "issue": "2",
+      "pages": "e321-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376422",
+      "issn": "0031-4005",
+      "essn": "1098-4275",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22826567"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1542/peds.2011-3798"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "peds.2011-3798"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/07/25 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/07/25 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/10/12 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatrics",
+      "elocationid": "doi: 10.1542/peds.2011-3798",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/08/01 00:00",
+      "sortfirstauthor": "Cappelli M",
+      "vernaculartitle": ""
+    }
+  }
+}

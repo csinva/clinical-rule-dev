@@ -1,0 +1,86 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4609676"
+    ],
+    "4609676": {
+      "uid": "4609676",
+      "pubdate": "1974 Oct",
+      "epubdate": "",
+      "source": "Clin Plast Surg",
+      "authors": [
+        {
+          "name": "Baxter CR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Baxter CR",
+      "title": "Fluid volume and electrolyte changes of the early postburn period.",
+      "sorttitle": "fluid volume and electrolyte changes of the early postburn period",
+      "volume": "1",
+      "issue": "4",
+      "pages": "693-703",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0424767",
+      "issn": "0094-1298",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4609676"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1974/10/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1974/10/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1974/10/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinics in plastic surgery",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1974/10/01 00:00",
+      "sortfirstauthor": "Baxter CR",
+      "vernaculartitle": ""
+    }
+  }
+}

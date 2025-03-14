@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10561319"
+    ],
+    "10561319": {
+      "uid": "10561319",
+      "pubdate": "1999 Aug",
+      "epubdate": "",
+      "source": "J Clin Oncol",
+      "authors": [
+        {
+          "name": "Motzer RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mazumdar M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bacik J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berg W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Amsterdam A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferrara J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ferrara J",
+      "title": "Survival and prognostic stratification of 670 patients with advanced renal cell carcinoma.",
+      "sorttitle": "survival and prognostic stratification of 670 patients with advanced renal cell carcinoma",
+      "volume": "17",
+      "issue": "8",
+      "pages": "2530-40",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309333",
+      "issn": "0732-183X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10561319"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1200/JCO.1999.17.8.2530"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/11/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/11/24 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/11/24 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/08/01 00:00",
+      "sortfirstauthor": "Motzer RJ",
+      "vernaculartitle": ""
+    }
+  }
+}

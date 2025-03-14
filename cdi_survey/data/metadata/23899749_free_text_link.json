@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "23899749",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://doi.org/10.1159/000352050"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--karger.com-ImageLibrary-webmaterial-sk_nlm_fa.jpg"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "S. Karger AG, Basel, Switzerland",
+                "nameabbr": "Karger",
+                "id": "3030"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

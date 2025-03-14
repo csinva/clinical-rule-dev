@@ -1,0 +1,105 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4136718"
+    ],
+    "4136718": {
+      "uid": "4136718",
+      "pubdate": "1974 Aug 17",
+      "epubdate": "",
+      "source": "Lancet",
+      "authors": [
+        {
+          "name": "Forrest JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Finlayson ND",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shearman DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shearman DJ",
+      "title": "Endoscopy in gastrointestinal bleeding.",
+      "sorttitle": "endoscopy in gastrointestinal bleeding",
+      "volume": "2",
+      "issue": "7877",
+      "pages": "394-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985213R",
+      "issn": "0140-6736",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4136718"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0140-6736(74)91770-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(74)91770-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1974/08/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1974/08/17 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1974/08/17 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Lancet (London, England)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1974/08/17 00:00",
+      "sortfirstauthor": "Forrest JA",
+      "vernaculartitle": ""
+    }
+  }
+}

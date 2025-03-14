@@ -1,0 +1,137 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19158356"
+    ],
+    "19158356": {
+      "uid": "19158356",
+      "pubdate": "2009 Mar",
+      "epubdate": "2009 Jan 21",
+      "source": "J Am Soc Nephrol",
+      "authors": [
+        {
+          "name": "Schwartz GJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mu\u00f1oz A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schneider MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mak RH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaskel F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Warady BA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Furth SL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Furth SL",
+      "title": "New equations to estimate GFR in children with CKD.",
+      "sorttitle": "new equations to estimate gfr in children with ckd",
+      "volume": "20",
+      "issue": "3",
+      "pages": "629-37",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9013836",
+      "issn": "1046-6673",
+      "essn": "1533-3450",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19158356"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2653687"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2653687;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1681/ASN.2008030287"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ASN.2008030287"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/01/23 09:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/01/23 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/03/27 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 36,
+      "fulljournalname": "Journal of the American Society of Nephrology : JASN",
+      "elocationid": "doi: 10.1681/ASN.2008030287",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/03/01 00:00",
+      "sortfirstauthor": "Schwartz GJ",
+      "vernaculartitle": ""
+    }
+  }
+}

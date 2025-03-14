@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14691787"
+    ],
+    "14691787": {
+      "uid": "14691787",
+      "pubdate": "2004 Jan-Mar",
+      "epubdate": "",
+      "source": "Prehosp Emerg Care",
+      "authors": [
+        {
+          "name": "Llanes JN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kidwell CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Starkman S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leary MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eckstein M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saver JL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Saver JL",
+      "title": "The Los Angeles Motor Scale (LAMS): a new measure to characterize stroke severity in the field.",
+      "sorttitle": "los angeles motor scale lams a new measure to characterize stroke severity in the field",
+      "volume": "8",
+      "issue": "1",
+      "pages": "46-50",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9703530",
+      "issn": "1090-3127",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14691787"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/312703002806"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1090312703002806"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/12/24 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/04/24 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/12/24 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Prehospital emergency care",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/01/01 00:00",
+      "sortfirstauthor": "Llanes JN",
+      "vernaculartitle": ""
+    }
+  }
+}

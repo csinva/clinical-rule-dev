@@ -1,0 +1,124 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11387492"
+    ],
+    "11387492": {
+      "uid": "11387492",
+      "pubdate": "2001 Jun",
+      "epubdate": "",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "Lyden PD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levine SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brott TG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Broderick J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "NINDS rtPA Stroke Study Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Broderick J",
+      "title": "A modified National Institutes of Health Stroke Scale for use in stroke clinical trials: preliminary reliability and validity.",
+      "sorttitle": "modified national institutes of health stroke scale for use in stroke clinical trials preliminary reliability and validity",
+      "volume": "32",
+      "issue": "6",
+      "pages": "1310-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "1524-4628",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11387492"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/01.str.32.6.1310"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/06/02 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/06/29 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/06/02 10:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Stroke. 2001 Dec 1;32(12):2958-60",
+          "reftype": "Comment in",
+          "pmid": 11740007,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Stroke",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/06/01 00:00",
+      "sortfirstauthor": "Lyden PD",
+      "vernaculartitle": ""
+    }
+  }
+}

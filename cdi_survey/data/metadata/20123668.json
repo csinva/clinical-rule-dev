@@ -1,0 +1,138 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20123668"
+    ],
+    "20123668": {
+      "uid": "20123668",
+      "pubdate": "2010 Jan",
+      "epubdate": "2009 Dec 8",
+      "source": "Circ Cardiovasc Qual Outcomes",
+      "authors": [
+        {
+          "name": "Peterson PN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rumsfeld JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Albert NM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hernandez AF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peterson ED",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fonarow GC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Masoudi FA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "American Heart Association Get With the Guidelines-Heart Failure Program",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Masoudi FA",
+      "title": "A validated risk score for in-hospital mortality in patients with heart failure from the American Heart Association get with the guidelines program.",
+      "sorttitle": "validated risk score for in hospital mortality in patients with heart failure from the american heart association get with the guidelines program",
+      "volume": "3",
+      "issue": "1",
+      "pages": "25-32",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101489148",
+      "issn": "1941-7713",
+      "essn": "1941-7705",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20123668"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/CIRCOUTCOMES.109.854877"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CIRCOUTCOMES.109.854877"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/02/04 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/02/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/04/17 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Circulation. Cardiovascular quality and outcomes",
+      "elocationid": "doi: 10.1161/CIRCOUTCOMES.109.854877",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/01/01 00:00",
+      "sortfirstauthor": "Peterson PN",
+      "vernaculartitle": ""
+    }
+  }
+}

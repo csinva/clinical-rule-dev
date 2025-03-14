@@ -1,0 +1,174 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21645235"
+    ],
+    "21645235": {
+      "uid": "21645235",
+      "pubdate": "2011 Aug",
+      "epubdate": "",
+      "source": "J Thromb Haemost",
+      "authors": [
+        {
+          "name": "Zondag W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mos IC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Creemers-Schild D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoogerbrugge AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dekkers OM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dolsma J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eijsvogel M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Faber LM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hofstee HM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hovens MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jonkers GJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Kralingen KW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kruip MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vlasveld T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Vreede MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huisman MV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hestia Study Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Huisman MV",
+      "title": "Outpatient treatment in patients with acute pulmonary embolism: the Hestia Study.",
+      "sorttitle": "outpatient treatment in patients with acute pulmonary embolism the hestia study",
+      "volume": "9",
+      "issue": "8",
+      "pages": "1500-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101170508",
+      "issn": "",
+      "essn": "1538-7836",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21645235"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1538-7836.2011.04388.x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/06/08 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/06/08 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/02/04 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of thrombosis and haemostasis : JTH",
+      "elocationid": "doi: 10.1111/j.1538-7836.2011.04388.x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/08/01 00:00",
+      "sortfirstauthor": "Zondag W",
+      "vernaculartitle": ""
+    }
+  }
+}

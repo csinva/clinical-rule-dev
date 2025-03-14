@@ -1,0 +1,221 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19297344"
+    ],
+    "19297344": {
+      "uid": "19297344",
+      "pubdate": "2009 Jun",
+      "epubdate": "2009 Mar 17",
+      "source": "Ann Rheum Dis",
+      "authors": [
+        {
+          "name": "Rudwaleit M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van der Heijde D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Landew\u00e9 R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Listing J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Akkoc N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brandt J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Braun J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chou CT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Collantes-Estevez E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dougados M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khan MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kirazli Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maksymowych WP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mielants H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "S\u00f8rensen IJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ozgocmen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roussou E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Valle-O\u00f1ate R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weber U",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wei J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sieper J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sieper J",
+      "title": "The development of Assessment of SpondyloArthritis international Society classification criteria for axial spondyloarthritis (part II): validation and final selection.",
+      "sorttitle": "development of assessment of spondyloarthritis international society classification criteria for axial spondyloarthritis part ii validation and final selection",
+      "volume": "68",
+      "issue": "6",
+      "pages": "777-83",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372355",
+      "issn": "0003-4967",
+      "essn": "1468-2060",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19297344"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/ard.2009.108233"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ard.2009.108233"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/03/20 09:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/03/20 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/06/25 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Rheum Dis. 2009 Jun;68(6):765-7",
+          "reftype": "Comment in",
+          "pmid": 19435721,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Rheum Dis. 2019 Jun;78(6):e59",
+          "reftype": "Erratum in",
+          "pmid": 31088800,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of the rheumatic diseases",
+      "elocationid": "doi: 10.1136/ard.2009.108233",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/06/01 00:00",
+      "sortfirstauthor": "Rudwaleit M",
+      "vernaculartitle": ""
+    }
+  }
+}

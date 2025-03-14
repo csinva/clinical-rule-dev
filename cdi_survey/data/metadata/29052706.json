@@ -1,0 +1,175 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29052706"
+    ],
+    "29052706": {
+      "uid": "29052706",
+      "pubdate": "2017 Dec 1",
+      "epubdate": "",
+      "source": "JAMA Neurol",
+      "authors": [
+        {
+          "name": "Struck AF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ustun B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruiz AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LaRoche SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hirsch LJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gilmore EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vlachy J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haider HA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rudin C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Westover MB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Westover MB",
+      "title": "Association of an Electroencephalography-Based Risk Score With Seizure Probability in Hospitalized Patients.",
+      "sorttitle": "association of an electroencephalography based risk score with seizure probability in hospitalized patients",
+      "volume": "74",
+      "issue": "12",
+      "pages": "1419-1424",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101589536",
+      "issn": "2168-6149",
+      "essn": "2168-6157",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29052706"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS946109"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5822188"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5822188;manuscript-id: NIHMS946109;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamaneurol.2017.2459"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2656833"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/10/21 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/12/27 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/10/21 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA Neurol. 2017 Dec 1;74(12):1395-1396",
+          "reftype": "Comment in",
+          "pmid": 29052732,
+          "note": ""
+        },
+        {
+          "refsource": "Epilepsy Curr. 2018 Jul-Aug;18(4):233-235",
+          "reftype": "Comment in",
+          "pmid": 30254517,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 22,
+      "fulljournalname": "JAMA neurology",
+      "elocationid": "doi: 10.1001/jamaneurol.2017.2459",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/12/01 00:00",
+      "sortfirstauthor": "Struck AF",
+      "vernaculartitle": ""
+    }
+  }
+}

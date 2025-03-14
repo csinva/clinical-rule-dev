@@ -1,0 +1,151 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28651935"
+    ],
+    "28651935": {
+      "uid": "28651935",
+      "pubdate": "2017 Sep",
+      "epubdate": "2017 Jun 23",
+      "source": "Lancet Gastroenterol Hepatol",
+      "authors": [
+        {
+          "name": "Oakland K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jairath V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uberoi R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guy R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ayaru L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mortensen N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Murphy MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Collins GS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Collins GS",
+      "title": "Derivation and validation of a novel risk score for safe discharge after acute lower gastrointestinal bleeding: a modelling study.",
+      "sorttitle": "derivation and validation of a novel risk score for safe discharge after acute lower gastrointestinal bleeding a modelling study",
+      "volume": "2",
+      "issue": "9",
+      "pages": "635-643",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101690683",
+      "issn": "",
+      "essn": "2468-1253",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28651935"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S2468-1253(17)30150-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2468-1253(17)30150-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2017/04/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2017/05/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2017/05/07 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/06/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/08/31 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/06/28 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet Gastroenterol Hepatol. 2017 Sep;2(9):620-621",
+          "reftype": "Comment in",
+          "pmid": 28651934,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The lancet. Gastroenterology & hepatology",
+      "elocationid": "doi: 10.1016/S2468-1253(17)30150-4",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/09/01 00:00",
+      "sortfirstauthor": "Oakland K",
+      "vernaculartitle": ""
+    }
+  }
+}

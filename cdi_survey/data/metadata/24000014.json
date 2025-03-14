@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24000014"
+    ],
+    "24000014": {
+      "uid": "24000014",
+      "pubdate": "2013 Oct 28",
+      "epubdate": "",
+      "source": "JAMA Intern Med",
+      "authors": [
+        {
+          "name": "McMahon GM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeng X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Waikar SS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Waikar SS",
+      "title": "A risk prediction score for kidney failure or mortality in rhabdomyolysis.",
+      "sorttitle": "risk prediction score for kidney failure or mortality in rhabdomyolysis",
+      "volume": "173",
+      "issue": "19",
+      "pages": "1821-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101589534",
+      "issn": "2168-6106",
+      "essn": "2168-6114",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24000014"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS834120"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5152583"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5152583;manuscript-id: NIHMS834120;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamainternmed.2013.9774"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1733454"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/09/04 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/09/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/12/20 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA Intern Med. 2013 Oct 28;173(19):1828-9",
+          "reftype": "Comment in",
+          "pmid": 23999843,
+          "note": ""
+        },
+        {
+          "refsource": "Nat Rev Nephrol. 2013 Nov;9(11):637-8",
+          "reftype": "Comment in",
+          "pmid": 24100402,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 21,
+      "fulljournalname": "JAMA internal medicine",
+      "elocationid": "doi: 10.1001/jamainternmed.2013.9774",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/10/28 00:00",
+      "sortfirstauthor": "McMahon GM",
+      "vernaculartitle": ""
+    }
+  }
+}

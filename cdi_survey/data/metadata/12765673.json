@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12765673"
+    ],
+    "12765673": {
+      "uid": "12765673",
+      "pubdate": "2003 Jun",
+      "epubdate": "",
+      "source": "Clin Nutr",
+      "authors": [
+        {
+          "name": "Kondrup J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rasmussen HH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamberg O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stanga Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ad Hoc ESPEN Working Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Stanga Z",
+      "title": "Nutritional risk screening (NRS 2002): a new method based on an analysis of controlled clinical trials.",
+      "sorttitle": "nutritional risk screening nrs 2002 a new method based on an analysis of controlled clinical trials",
+      "volume": "22",
+      "issue": "3",
+      "pages": "321-36",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309603",
+      "issn": "0261-5614",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12765673"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0261-5614(02)00214-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0261561402002145"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/05/27 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/12/24 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/05/27 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical nutrition (Edinburgh, Scotland)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/06/01 00:00",
+      "sortfirstauthor": "Kondrup J",
+      "vernaculartitle": ""
+    }
+  }
+}

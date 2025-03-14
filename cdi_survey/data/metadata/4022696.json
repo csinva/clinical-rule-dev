@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4022696"
+    ],
+    "4022696": {
+      "uid": "4022696",
+      "pubdate": "1985 Aug",
+      "epubdate": "",
+      "source": "Pediatrics",
+      "authors": [
+        {
+          "name": "Black VD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rumack CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lubchenco LO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Koops BL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Koops BL",
+      "title": "Gastrointestinal injury in polycythemic term infants.",
+      "sorttitle": "gastrointestinal injury in polycythemic term infants",
+      "volume": "76",
+      "issue": "2",
+      "pages": "225-31",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376422",
+      "issn": "0031-4005",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4022696"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1985/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1985/08/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1985/08/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatrics",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1985/08/01 00:00",
+      "sortfirstauthor": "Black VD",
+      "vernaculartitle": ""
+    }
+  }
+}

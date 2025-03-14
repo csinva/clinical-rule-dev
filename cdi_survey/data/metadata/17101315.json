@@ -1,0 +1,155 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17101315"
+    ],
+    "17101315": {
+      "uid": "17101315",
+      "pubdate": "2006 Nov",
+      "epubdate": "2006 Aug 16",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Sharma P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dent J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Armstrong D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bergman JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gossner L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoshihara Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jankowski JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Junghard O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lundell L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tytgat GN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vieth M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Vieth M",
+      "title": "The development and validation of an endoscopic grading system for Barrett's esophagus: the Prague C & M criteria.",
+      "sorttitle": "development and validation of an endoscopic grading system for barrett s esophagus the prague c m criteria",
+      "volume": "131",
+      "issue": "5",
+      "pages": "1392-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17101315"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.gastro.2006.08.032"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016-5085(06)01791-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2006/05/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2006/07/28 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/11/15 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/12/13 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/11/15 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/11/01 00:00",
+      "sortfirstauthor": "Sharma P",
+      "vernaculartitle": ""
+    }
+  }
+}

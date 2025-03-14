@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8711791"
+    ],
+    "8711791": {
+      "uid": "8711791",
+      "pubdate": "1996 Aug",
+      "epubdate": "",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "Kothari RU",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brott T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Broderick JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Barsan WG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sauerbeck LR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zuccarello M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khoury J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Khoury J",
+      "title": "The ABCs of measuring intracerebral hemorrhage volumes.",
+      "sorttitle": "abcs of measuring intracerebral hemorrhage volumes",
+      "volume": "27",
+      "issue": "8",
+      "pages": "1304-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8711791"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/01.str.27.8.1304"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1996/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1996/08/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1996/08/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Stroke",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1996/08/01 00:00",
+      "sortfirstauthor": "Kothari RU",
+      "vernaculartitle": ""
+    }
+  }
+}

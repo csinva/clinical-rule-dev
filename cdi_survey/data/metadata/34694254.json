@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "34694254"
+    ],
+    "34694254": {
+      "uid": "34694254",
+      "pubdate": "2022 Jan 1",
+      "epubdate": "",
+      "source": "Pediatr Infect Dis J",
+      "authors": [
+        {
+          "name": "Lipsett SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hirsch AW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Monuteaux MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bachur RG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neuman MI",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Neuman MI",
+      "title": "Development of the Novel Pneumonia Risk Score to Predict Radiographic Pneumonia in Children.",
+      "sorttitle": "development of the novel pneumonia risk score to predict radiographic pneumonia in children",
+      "volume": "41",
+      "issue": "1",
+      "pages": "24-30",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8701858",
+      "issn": "0891-3668",
+      "essn": "1532-0987",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34694254"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/INF.0000000000003361"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00006454-202201000-00005"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/10/26 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/01/20 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/10/25 12:19"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Pediatric infectious disease journal",
+      "elocationid": "doi: 10.1097/INF.0000000000003361",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2022/01/01 00:00",
+      "sortfirstauthor": "Lipsett SC",
+      "vernaculartitle": ""
+    }
+  }
+}

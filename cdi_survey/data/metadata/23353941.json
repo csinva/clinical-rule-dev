@@ -1,0 +1,353 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23353941"
+    ],
+    "23353941": {
+      "uid": "23353941",
+      "pubdate": "2013 Feb",
+      "epubdate": "",
+      "source": "Crit Care Med",
+      "authors": [
+        {
+          "name": "Dellinger RP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levy MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rhodes A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Annane D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gerlach H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Opal SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sevransky JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sprung CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Douglas IS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jaeschke R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Osborn TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nunnally ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Townsend SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reinhart K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kleinpell RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Angus DC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deutschman CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Machado FR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rubenfeld GD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Webb SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beale RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vincent JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moreno R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Surviving Sepsis Campaign Guidelines Committee including the Pediatric Subgroup",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Moreno R",
+      "title": "Surviving sepsis campaign: international guidelines for management of severe sepsis and septic shock: 2012.",
+      "sorttitle": "surviving sepsis campaign international guidelines for management of severe sepsis and septic shock 2012",
+      "volume": "41",
+      "issue": "2",
+      "pages": "580-637",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0355501",
+      "issn": "0090-3493",
+      "essn": "1530-0293",
+      "pubtype": [
+        "Consensus Development Conference",
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23353941"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/CCM.0b013e31827e83af"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00003246-201302000-00024"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/01/29 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/01/29 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/04/09 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Crit Care Med. 2013 Oct;41(10):e289",
+          "reftype": "Comment in",
+          "pmid": 24060790,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Oct;41(10):e289-90",
+          "reftype": "Comment in",
+          "pmid": 24060791,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Oct;41(10):e290-1",
+          "reftype": "Comment in",
+          "pmid": 24060792,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Oct;41(10):e291-2",
+          "reftype": "Comment in",
+          "pmid": 24060793,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Oct;41(10):e292-3",
+          "reftype": "Comment in",
+          "pmid": 24060794,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Oct;41(10):e293-4",
+          "reftype": "Comment in",
+          "pmid": 24060795,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Oct;41(10):e294-5",
+          "reftype": "Comment in",
+          "pmid": 24060796,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Oct;41(10):e295",
+          "reftype": "Comment in",
+          "pmid": 24060797,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Nov;41(11):e385-6",
+          "reftype": "Comment in",
+          "pmid": 24162689,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Nov;41(11):e386-7",
+          "reftype": "Comment in",
+          "pmid": 24162690,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care. 2013;17(6):328",
+          "reftype": "Comment in",
+          "pmid": 24229440,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Dec;41(12):e482-3",
+          "reftype": "Comment in",
+          "pmid": 24275410,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Dec;41(12):e483",
+          "reftype": "Comment in",
+          "pmid": 24275411,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Dec;41(12):e483-4",
+          "reftype": "Comment in",
+          "pmid": 24275412,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Dec;41(12):e484",
+          "reftype": "Comment in",
+          "pmid": 24275413,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Dec;41(12):e484-5",
+          "reftype": "Comment in",
+          "pmid": 24275414,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Dec;41(12):e485",
+          "reftype": "Comment in",
+          "pmid": 24275415,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Dec;41(12):e485-6",
+          "reftype": "Comment in",
+          "pmid": 24275416,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Dec;41(12):e486",
+          "reftype": "Comment in",
+          "pmid": 24275417,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Dec;41(12):e486-7",
+          "reftype": "Comment in",
+          "pmid": 24275418,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2013 Dec;41(12):e487",
+          "reftype": "Comment in",
+          "pmid": 24275419,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2014 Jan;42(1):e83-4",
+          "reftype": "Comment in",
+          "pmid": 24346552,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2014 Jan;42(1):e84-5",
+          "reftype": "Comment in",
+          "pmid": 24346553,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Critical care medicine",
+      "elocationid": "doi: 10.1097/CCM.0b013e31827e83af",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/02/01 00:00",
+      "sortfirstauthor": "Dellinger RP",
+      "vernaculartitle": ""
+    }
+  }
+}

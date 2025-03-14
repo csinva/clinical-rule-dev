@@ -1,0 +1,97 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6703889"
+    ],
+    "6703889": {
+      "uid": "6703889",
+      "pubdate": "1984 Mar",
+      "epubdate": "",
+      "source": "Arch Phys Med Rehabil",
+      "authors": [
+        {
+          "name": "Freal JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kraft GH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coryell JK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Coryell JK",
+      "title": "Symptomatic fatigue in multiple sclerosis.",
+      "sorttitle": "symptomatic fatigue in multiple sclerosis",
+      "volume": "65",
+      "issue": "3",
+      "pages": "135-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985158R",
+      "issn": "0003-9993",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6703889"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1984/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1984/03/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1984/03/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of physical medicine and rehabilitation",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1984/03/01 00:00",
+      "sortfirstauthor": "Freal JE",
+      "vernaculartitle": ""
+    }
+  }
+}

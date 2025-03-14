@@ -1,0 +1,146 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27481760"
+    ],
+    "27481760": {
+      "uid": "27481760",
+      "pubdate": "2016 Oct",
+      "epubdate": "2016 May 31",
+      "source": "J Crit Care",
+      "authors": [
+        {
+          "name": "Roca O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Messika J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caralt B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garc\u00eda-de-Acilu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sztrymf B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ricard JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Masclans JR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Masclans JR",
+      "title": "Predicting success of high-flow nasal cannula in pneumonia patients with hypoxemic respiratory failure: The utility of the ROX index.",
+      "sorttitle": "predicting success of high flow nasal cannula in pneumonia patients with hypoxemic respiratory failure the utility of the rox index",
+      "volume": "35",
+      "issue": "",
+      "pages": "200-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8610642",
+      "issn": "0883-9441",
+      "essn": "1557-8615",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27481760"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jcrc.2016.05.022"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0883-9441(16)30094-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/02/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2016/05/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/05/23 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/08/03 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/08/03 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/09/02 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Intensive Care Med. 2020 Nov;46(11):2094-2095",
+          "reftype": "Comment in",
+          "pmid": 32737522,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of critical care",
+      "elocationid": "doi: 10.1016/j.jcrc.2016.05.022",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/10/01 00:00",
+      "sortfirstauthor": "Roca O",
+      "vernaculartitle": ""
+    }
+  }
+}

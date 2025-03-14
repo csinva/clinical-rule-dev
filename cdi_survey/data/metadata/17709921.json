@@ -1,0 +1,110 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17709921"
+    ],
+    "17709921": {
+      "uid": "17709921",
+      "pubdate": "2007",
+      "epubdate": "",
+      "source": "Med Princ Pract",
+      "authors": [
+        {
+          "name": "Al-Gwaiz LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Babay HH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Babay HH",
+      "title": "The diagnostic value of absolute neutrophil count, band count and morphologic changes of neutrophils in predicting bacterial infections.",
+      "sorttitle": "diagnostic value of absolute neutrophil count band count and morphologic changes of neutrophils in predicting bacterial infections",
+      "volume": "16",
+      "issue": "5",
+      "pages": "344-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8901334",
+      "issn": "1011-7571",
+      "essn": "1423-0151",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17709921"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000104806"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "000104806"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2006/06/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2007/02/05 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/08/22 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/11/07 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/08/22 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Medical principles and practice : international journal of the Kuwait University, Health Science Centre",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/01/01 00:00",
+      "sortfirstauthor": "Al-Gwaiz LA",
+      "vernaculartitle": ""
+    }
+  }
+}

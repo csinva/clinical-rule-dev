@@ -1,0 +1,140 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24657098"
+    ],
+    "24657098": {
+      "uid": "24657098",
+      "pubdate": "2014 Jun",
+      "epubdate": "2014 Feb 19",
+      "source": "Alcohol",
+      "authors": [
+        {
+          "name": "Maldonado JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sher Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ashouri JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hills-Evans K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Swendsen H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lolak S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller AC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Miller AC",
+      "title": "The \"Prediction of Alcohol Withdrawal Severity Scale\" (PAWSS): systematic literature review and pilot study of a new scale for the prediction of complicated alcohol withdrawal syndrome.",
+      "sorttitle": "prediction of alcohol withdrawal severity scale pawss systematic literature review and pilot study of a new scale for the prediction of complicated alcohol withdrawal syndrome",
+      "volume": "48",
+      "issue": "4",
+      "pages": "375-90",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8502311",
+      "issn": "0741-8329",
+      "essn": "1873-6823",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24657098"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.alcohol.2014.01.004"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0741-8329(14)00024-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2013/05/19 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2014/01/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2014/01/23 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2014/03/25 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/03/25 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/01/01 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Alcohol (Fayetteville, N.Y.)",
+      "elocationid": "doi: 10.1016/j.alcohol.2014.01.004",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/06/01 00:00",
+      "sortfirstauthor": "Maldonado JR",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21775931"
+    ],
+    "21775931": {
+      "uid": "21775931",
+      "pubdate": "2011 Aug 27",
+      "epubdate": "",
+      "source": "Transplantation",
+      "authors": [
+        {
+          "name": "Barber K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Madden S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Allen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Collett D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neuberger J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gimson A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "United Kingdom Liver Transplant Selection and Allocation Working Party",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gimson A",
+      "title": "Elective liver transplant list mortality: development of a United Kingdom end-stage liver disease score.",
+      "sorttitle": "elective liver transplant list mortality development of a united kingdom end stage liver disease score",
+      "volume": "92",
+      "issue": "4",
+      "pages": "469-76",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0132144",
+      "issn": "0041-1337",
+      "essn": "1534-6080",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21775931"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/TP.0b013e318225db4d"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/07/22 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/07/22 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/09/29 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Transplantation",
+      "elocationid": "doi: 10.1097/TP.0b013e318225db4d",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/08/27 00:00",
+      "sortfirstauthor": "Barber K",
+      "vernaculartitle": ""
+    }
+  }
+}

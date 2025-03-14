@@ -1,0 +1,145 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23922253"
+    ],
+    "23922253": {
+      "uid": "23922253",
+      "pubdate": "2013 Sep",
+      "epubdate": "2013 Aug 7",
+      "source": "J Hosp Med",
+      "authors": [
+        {
+          "name": "Douglas VC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hessler CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dhaliwal G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Betjemann JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fukuda KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alameddine LR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lucatorto R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnston SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Josephson SA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Josephson SA",
+      "title": "The AWOL tool: derivation and validation of a delirium prediction rule.",
+      "sorttitle": "awol tool derivation and validation of a delirium prediction rule",
+      "volume": "8",
+      "issue": "9",
+      "pages": "493-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101271025",
+      "issn": "1553-5592",
+      "essn": "1553-5606",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23922253"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jhm.2062"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2013/02/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2013/05/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2013/05/20 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/08/08 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/08/08 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/04/30 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of hospital medicine",
+      "elocationid": "doi: 10.1002/jhm.2062",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/09/01 00:00",
+      "sortfirstauthor": "Douglas VC",
+      "vernaculartitle": ""
+    }
+  }
+}

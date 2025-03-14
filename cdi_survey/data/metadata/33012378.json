@@ -1,0 +1,161 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "33012378"
+    ],
+    "33012378": {
+      "uid": "33012378",
+      "pubdate": "2020 Oct",
+      "epubdate": "2020 Jul 21",
+      "source": "Ann Emerg Med",
+      "authors": [
+        {
+          "name": "Haimovich AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ravindra NG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stoytchev S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Young HP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wilson FP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Dijk D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schulz WL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taylor RA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Taylor RA",
+      "title": "Development and Validation of the Quick COVID-19 Severity Index: A Prognostic Tool for Early Clinical Decompensation.",
+      "sorttitle": "development and validation of the quick covid 19 severity index a prognostic tool for early clinical decompensation",
+      "volume": "76",
+      "issue": "4",
+      "pages": "442-453",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8002646",
+      "issn": "0196-0644",
+      "essn": "1097-6760",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33012378"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7373004"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7373004;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.annemergmed.2020.07.022"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0196-0644(20)30588-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2020/05/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2020/07/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2020/07/13 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2020/10/05 05:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/10/06 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/10/21 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Intern Med. 2021 Feb;174(2):JC23",
+          "reftype": "Comment in",
+          "pmid": 33524288,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 46,
+      "fulljournalname": "Annals of emergency medicine",
+      "elocationid": "doi: 10.1016/j.annemergmed.2020.07.022",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2020/10/01 00:00",
+      "sortfirstauthor": "Haimovich AD",
+      "vernaculartitle": ""
+    }
+  }
+}

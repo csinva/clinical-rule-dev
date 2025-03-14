@@ -1,0 +1,157 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22522478"
+    ],
+    "22522478": {
+      "uid": "22522478",
+      "pubdate": "2012 May",
+      "epubdate": "",
+      "source": "Ann Neurol",
+      "authors": [
+        {
+          "name": "Strbian D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Engelter S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Michel P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Meretoja A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sekoranja L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahlhelm FJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mustanoja S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kuzmanovic I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sairanen T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Forss N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cordier M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lyrer P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaste M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tatlisumak T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tatlisumak T",
+      "title": "Symptomatic intracranial hemorrhage after stroke thrombolysis: the SEDAN score.",
+      "sorttitle": "symptomatic intracranial hemorrhage after stroke thrombolysis the sedan score",
+      "volume": "71",
+      "issue": "5",
+      "pages": "634-41",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7707449",
+      "issn": "0364-5134",
+      "essn": "1531-8249",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22522478"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ana.23546"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/04/24 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/04/24 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/06/07 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of neurology",
+      "elocationid": "doi: 10.1002/ana.23546",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/05/01 00:00",
+      "sortfirstauthor": "Strbian D",
+      "vernaculartitle": ""
+    }
+  }
+}

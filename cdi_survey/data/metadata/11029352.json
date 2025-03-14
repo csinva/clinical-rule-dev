@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11029352"
+    ],
+    "11029352": {
+      "uid": "11029352",
+      "pubdate": "2000 Oct",
+      "epubdate": "",
+      "source": "Am J Respir Crit Care Med",
+      "authors": [
+        {
+          "name": "Castro-Rodr\u00edguez JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holberg CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wright AL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Martinez FD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Martinez FD",
+      "title": "A clinical index to define risk of asthma in young children with recurrent wheezing.",
+      "sorttitle": "clinical index to define risk of asthma in young children with recurrent wheezing",
+      "volume": "162",
+      "issue": "4 Pt 1",
+      "pages": "1403-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9421642",
+      "issn": "1073-449X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11029352"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1164/ajrccm.162.4.9912111"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/10/13 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/02/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/10/13 11:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of respiratory and critical care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/10/01 00:00",
+      "sortfirstauthor": "Castro-Rodr\u00edguez JA",
+      "vernaculartitle": ""
+    }
+  }
+}

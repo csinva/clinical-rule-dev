@@ -1,0 +1,186 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19414839"
+    ],
+    "19414839": {
+      "uid": "19414839",
+      "pubdate": "2009 May 5",
+      "epubdate": "",
+      "source": "Ann Intern Med",
+      "authors": [
+        {
+          "name": "Levey AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stevens LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schmid CH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang YL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Castro AF 3rd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feldman HI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kusek JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eggers P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Van Lente F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greene T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coresh J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration)",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Coresh J",
+      "title": "A new equation to estimate glomerular filtration rate.",
+      "sorttitle": "new equation to estimate glomerular filtration rate",
+      "volume": "150",
+      "issue": "9",
+      "pages": "604-12",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372351",
+      "issn": "0003-4819",
+      "essn": "1539-3704",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19414839"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS132246"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2763564"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2763564;manuscript-id: NIHMS132246;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7326/0003-4819-150-9-200905050-00006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "150/9/604"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/05/06 09:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/05/06 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/05/22 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Intern Med. 2011 Sep 20;155(6):408",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "Ann Intern Med. 2009 Dec 15;151(12):892-3; author reply 893",
+          "reftype": "Comment in",
+          "pmid": 20008766,
+          "note": ""
+        },
+        {
+          "refsource": "Nefrologia. 2009;29(6 Suppl):33-5",
+          "reftype": "Comment in",
+          "pmid": 20221222,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 51,
+      "fulljournalname": "Annals of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/05/05 00:00",
+      "sortfirstauthor": "Levey AS",
+      "vernaculartitle": ""
+    }
+  }
+}

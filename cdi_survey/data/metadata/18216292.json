@@ -1,0 +1,134 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18216292"
+    ],
+    "18216292": {
+      "uid": "18216292",
+      "pubdate": "2008 May 15",
+      "epubdate": "2008 Jan 23",
+      "source": "Blood",
+      "authors": [
+        {
+          "name": "Khorana AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kuderer NM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Culakova E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lyman GH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Francis CW",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Francis CW",
+      "title": "Development and validation of a predictive model for chemotherapy-associated thrombosis.",
+      "sorttitle": "development and validation of a predictive model for chemotherapy associated thrombosis",
+      "volume": "111",
+      "issue": "10",
+      "pages": "4902-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7603509",
+      "issn": "0006-4971",
+      "essn": "1528-0020",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18216292"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2384124"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2384124;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2007-10-116327"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)47171-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/01/25 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/07/11 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/01/25 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Blood. 2008 May 15;111(10):4833",
+          "reftype": "Comment in",
+          "pmid": 18467600,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 58,
+      "fulljournalname": "Blood",
+      "elocationid": "doi: 10.1182/blood-2007-10-116327",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/05/15 00:00",
+      "sortfirstauthor": "Khorana AA",
+      "vernaculartitle": ""
+    }
+  }
+}

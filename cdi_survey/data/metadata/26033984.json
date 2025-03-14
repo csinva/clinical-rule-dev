@@ -1,0 +1,165 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "26033984"
+    ],
+    "26033984": {
+      "uid": "26033984",
+      "pubdate": "2015 Sep 1",
+      "epubdate": "2015 Jun 1",
+      "source": "Eur Heart J",
+      "authors": [
+        {
+          "name": "Schmidt M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burrell A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roberts L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bailey M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheldrake J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rycus PT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hodgson C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scheinkestel C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cooper DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thiagarajan RR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brodie D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pellegrino V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pilcher D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pilcher D",
+      "title": "Predicting survival after ECMO for refractory cardiogenic shock: the survival after veno-arterial-ECMO (SAVE)-score.",
+      "sorttitle": "predicting survival after ecmo for refractory cardiogenic shock the survival after veno arterial ecmo save score",
+      "volume": "36",
+      "issue": "33",
+      "pages": "2246-56",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8006263",
+      "issn": "0195-668X",
+      "essn": "1522-9645",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26033984"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/eurheartj/ehv194"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ehv194"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2014/12/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2015/04/29 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2015/06/03 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/06/03 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/06/16 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European heart journal",
+      "elocationid": "doi: 10.1093/eurheartj/ehv194",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/09/01 00:00",
+      "sortfirstauthor": "Schmidt M",
+      "vernaculartitle": ""
+    }
+  }
+}

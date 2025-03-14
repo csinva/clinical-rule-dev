@@ -1,0 +1,167 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24693864"
+    ],
+    "24693864": {
+      "uid": "24693864",
+      "pubdate": "2014 Jun 1",
+      "epubdate": "",
+      "source": "Am J Respir Crit Care Med",
+      "authors": [
+        {
+          "name": "Schmidt M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bailey M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheldrake J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hodgson C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aubron C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rycus PT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scheinkestel C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cooper DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brodie D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pellegrino V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Combes A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pilcher D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pilcher D",
+      "title": "Predicting survival after extracorporeal membrane oxygenation for severe acute respiratory failure. The Respiratory Extracorporeal Membrane Oxygenation Survival Prediction (RESP) score.",
+      "sorttitle": "predicting survival after extracorporeal membrane oxygenation for severe acute respiratory failure the respiratory extracorporeal membrane oxygenation survival prediction resp score",
+      "volume": "189",
+      "issue": "11",
+      "pages": "1374-82",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9421642",
+      "issn": "1073-449X",
+      "essn": "1535-4970",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24693864"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1164/rccm.201311-2023OC"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/04/04 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/04/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/08/13 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Respir Crit Care Med. 2014 Jun 1;189(11):1293-5",
+          "reftype": "Comment in",
+          "pmid": 24881932,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Respir Crit Care Med. 2014 Oct 15;190(8):962-3",
+          "reftype": "Comment in",
+          "pmid": 25317470,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Respir Crit Care Med. 2014 Oct 15;190(8):963",
+          "reftype": "Comment in",
+          "pmid": 25317472,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of respiratory and critical care medicine",
+      "elocationid": "doi: 10.1164/rccm.201311-2023OC",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/06/01 00:00",
+      "sortfirstauthor": "Schmidt M",
+      "vernaculartitle": ""
+    }
+  }
+}

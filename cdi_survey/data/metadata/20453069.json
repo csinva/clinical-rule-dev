@@ -1,0 +1,196 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20453069"
+    ],
+    "20453069": {
+      "uid": "20453069",
+      "pubdate": "2011 Jan",
+      "epubdate": "2010 May 7",
+      "source": "Chest",
+      "authors": [
+        {
+          "name": "Decousus H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tapson VF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bergmann JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chong BH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Froehlich JB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kakkar AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Merli GJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Monreal M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nakamura M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pavanello R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pini M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Piovella F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spencer FA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spyropoulos AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Turpie AG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zotz RB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fitzgerald G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson FA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "IMPROVE Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Anderson FA",
+      "title": "Factors at admission associated with bleeding risk in medical patients: findings from the IMPROVE investigators.",
+      "sorttitle": "factors at admission associated with bleeding risk in medical patients findings from the improve investigators",
+      "volume": "139",
+      "issue": "1",
+      "pages": "69-79",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0231335",
+      "issn": "0012-3692",
+      "essn": "1931-3543",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20453069"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1378/chest.09-3081"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0012-3692(11)60016-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/05/11 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/05/11 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/04/06 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Chest. 2011 Jan;139(1):10-3",
+          "reftype": "Comment in",
+          "pmid": 21208874,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Chest",
+      "elocationid": "doi: 10.1378/chest.09-3081",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/01/01 00:00",
+      "sortfirstauthor": "Decousus H",
+      "vernaculartitle": ""
+    }
+  }
+}

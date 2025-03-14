@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3299278"
+    ],
+    "3299278": {
+      "uid": "3299278",
+      "pubdate": "1987 Jul-Aug",
+      "epubdate": "",
+      "source": "Nurs Res",
+      "authors": [
+        {
+          "name": "Bergstrom N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Braden BJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laguzza A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holman V",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Holman V",
+      "title": "The Braden Scale for Predicting Pressure Sore Risk.",
+      "sorttitle": "braden scale for predicting pressure sore risk",
+      "volume": "36",
+      "issue": "4",
+      "pages": "205-10",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376404",
+      "issn": "0029-6562",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3299278"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1987/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1987/07/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1987/07/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Nursing research",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1987/07/01 00:00",
+      "sortfirstauthor": "Bergstrom N",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "33274414"
+    ],
+    "33274414": {
+      "uid": "33274414",
+      "pubdate": "2021 Mar",
+      "epubdate": "2020 Dec 3",
+      "source": "J Gen Intern Med",
+      "authors": [
+        {
+          "name": "Levine DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lipsitz SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Co Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dykes PC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Samal L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Samal L",
+      "title": "Derivation of a Clinical Risk Score to Predict 14-Day Occurrence of Hypoxia, ICU Admission, and Death Among Patients with Coronavirus Disease 2019.",
+      "sorttitle": "derivation of a clinical risk score to predict 14 day occurrence of hypoxia icu admission and death among patients with coronavirus disease 2019",
+      "volume": "36",
+      "issue": "3",
+      "pages": "730-737",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8605834",
+      "issn": "0884-8734",
+      "essn": "1525-1497",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33274414"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7713904"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7713904;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s11606-020-06353-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s11606-020-06353-5"
+        },
+        {
+          "idtype": "version",
+          "idtypen": 8,
+          "value": "2"
+        },
+        {
+          "idtype": "version-id",
+          "idtypen": 8,
+          "value": "2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2020/06/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2020/11/17 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/12/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/03/19 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2020/12/04 05:49"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Gen Intern Med. 2021 Jul;36(7):2151",
+          "reftype": "Comment in",
+          "pmid": 33821409,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 34,
+      "fulljournalname": "Journal of general internal medicine",
+      "elocationid": "doi: 10.1007/s11606-020-06353-5",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/03/01 00:00",
+      "sortfirstauthor": "Levine DM",
+      "vernaculartitle": ""
+    }
+  }
+}

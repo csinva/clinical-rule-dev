@@ -1,0 +1,129 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10235151"
+    ],
+    "10235151": {
+      "uid": "10235151",
+      "pubdate": "1999 May 5",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Pound CR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Partin AW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eisenberger MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chan DW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pearson JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Walsh PC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Walsh PC",
+      "title": "Natural history of progression after PSA elevation following radical prostatectomy.",
+      "sorttitle": "natural history of progression after psa elevation following radical prostatectomy",
+      "volume": "281",
+      "issue": "17",
+      "pages": "1591-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10235151"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.281.17.1591"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "joc81655"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/05/11 02:03"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/08/14 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/05/11 02:03"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 1999 May 5;281(17):1642-5",
+          "reftype": "Comment in",
+          "pmid": 10235160,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/05/05 00:00",
+      "sortfirstauthor": "Pound CR",
+      "vernaculartitle": ""
+    }
+  }
+}

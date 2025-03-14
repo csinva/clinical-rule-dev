@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3257068"
+    ],
+    "3257068": {
+      "uid": "3257068",
+      "pubdate": "1988",
+      "epubdate": "",
+      "source": "Fetal Ther",
+      "authors": [
+        {
+          "name": "Mandelbrot L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Daffos F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Forestier F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "MacAleese J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Descombey D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Descombey D",
+      "title": "Assessment of fetal blood volume for computer-assisted management of in utero transfusion.",
+      "sorttitle": "assessment of fetal blood volume for computer assisted management of in utero transfusion",
+      "volume": "3",
+      "issue": "1-2",
+      "pages": "60-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8700083",
+      "issn": "0257-2788",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3257068"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000263335"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1988/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1988/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1988/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Fetal therapy",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1988/01/01 00:00",
+      "sortfirstauthor": "Mandelbrot L",
+      "vernaculartitle": ""
+    }
+  }
+}

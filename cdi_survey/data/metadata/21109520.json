@@ -1,0 +1,194 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21109520"
+    ],
+    "21109520": {
+      "uid": "21109520",
+      "pubdate": "2011 Jan",
+      "epubdate": "2010 Nov 24",
+      "source": "Ann Rheum Dis",
+      "authors": [
+        {
+          "name": "Rudwaleit M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van der Heijde D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Landew\u00e9 R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Akkoc N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brandt J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chou CT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dougados M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kirazli Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Van den Bosch F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Olivieri I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roussou E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scarpato S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "S\u00f8rensen IJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Valle-O\u00f1ate R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weber U",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wei J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sieper J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sieper J",
+      "title": "The Assessment of SpondyloArthritis International Society classification criteria for peripheral spondyloarthritis and for spondyloarthritis in general.",
+      "sorttitle": "assessment of spondyloarthritis international society classification criteria for peripheral spondyloarthritis and for spondyloarthritis in general",
+      "volume": "70",
+      "issue": "1",
+      "pages": "25-31",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372355",
+      "issn": "0003-4967",
+      "essn": "1468-2060",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21109520"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/ard.2010.133645"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ard.2010.133645"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/11/27 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/11/27 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/03/19 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Rheum Dis. 2011 Jan;70(1):1-3",
+          "reftype": "Comment in",
+          "pmid": 21163805,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of the rheumatic diseases",
+      "elocationid": "doi: 10.1136/ard.2010.133645",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/01/01 00:00",
+      "sortfirstauthor": "Rudwaleit M",
+      "vernaculartitle": ""
+    }
+  }
+}

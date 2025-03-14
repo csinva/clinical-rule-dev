@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2597811"
+    ],
+    "2597811": {
+      "uid": "2597811",
+      "pubdate": "1989 Nov",
+      "epubdate": "",
+      "source": "Br J Addict",
+      "authors": [
+        {
+          "name": "Sullivan JT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sykora K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schneiderman J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naranjo CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sellers EM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sellers EM",
+      "title": "Assessment of alcohol withdrawal: the revised clinical institute withdrawal assessment for alcohol scale (CIWA-Ar).",
+      "sorttitle": "assessment of alcohol withdrawal the revised clinical institute withdrawal assessment for alcohol scale ciwa ar",
+      "volume": "84",
+      "issue": "11",
+      "pages": "1353-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804404",
+      "issn": "0952-0481",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2597811"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1360-0443.1989.tb00737.x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1989/11/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1989/11/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1989/11/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "British journal of addiction",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1989/11/01 00:00",
+      "sortfirstauthor": "Sullivan JT",
+      "vernaculartitle": ""
+    }
+  }
+}

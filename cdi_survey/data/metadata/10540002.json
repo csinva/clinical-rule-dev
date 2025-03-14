@@ -1,0 +1,129 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10540002"
+    ],
+    "10540002": {
+      "uid": "10540002",
+      "pubdate": "1999 Oct 31",
+      "epubdate": "",
+      "source": "J Neurol Sci",
+      "authors": [
+        {
+          "name": "Cedarbaum JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stambler N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Malta E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fuller C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hilt D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thurmond B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nakanishi A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nakanishi A",
+      "title": "The ALSFRS-R: a revised ALS functional rating scale that incorporates assessments of respiratory function. BDNF ALS Study Group (Phase III).",
+      "sorttitle": "alsfrs r a revised als functional rating scale that incorporates assessments of respiratory function bdnf als study group phase iii",
+      "volume": "169",
+      "issue": "1-2",
+      "pages": "13-21",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375403",
+      "issn": "0022-510X",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10540002"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0022-510x(99)00210-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022510X99002105"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/12/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/12/14 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/12/14 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the neurological sciences",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/10/31 00:00",
+      "sortfirstauthor": "Cedarbaum JM",
+      "vernaculartitle": ""
+    }
+  }
+}

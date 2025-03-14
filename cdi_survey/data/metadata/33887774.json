@@ -1,0 +1,170 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "33887774"
+    ],
+    "33887774": {
+      "uid": "33887774",
+      "pubdate": "2021 Jul 15",
+      "epubdate": "",
+      "source": "Neurosurgery",
+      "authors": [
+        {
+          "name": "Terrapon APR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zattra CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Voglis S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Velz J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vasella F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Akeret K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Held U",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schiavolin S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bozinov O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferroli P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Broggi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sarnthein J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Regli L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neidert MC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Neidert MC",
+      "title": "Adverse Events in Neurosurgery: The Novel Therapy-Disability-Neurology Grade.",
+      "sorttitle": "adverse events in neurosurgery the novel therapy disability neurology grade",
+      "volume": "89",
+      "issue": "2",
+      "pages": "236-245",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7802914",
+      "issn": "0148-396X",
+      "essn": "1524-4040",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33887774"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/neuros/nyab121"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "6246764"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2020/11/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2021/02/14 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/04/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/11/26 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/04/22 20:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurosurgery",
+      "elocationid": "doi: 10.1093/neuros/nyab121",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/07/15 00:00",
+      "sortfirstauthor": "Terrapon APR",
+      "vernaculartitle": ""
+    }
+  }
+}

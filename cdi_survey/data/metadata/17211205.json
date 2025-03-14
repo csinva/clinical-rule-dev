@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17211205"
+    ],
+    "17211205": {
+      "uid": "17211205",
+      "pubdate": "2007 Jan-Feb",
+      "epubdate": "",
+      "source": "J Burn Care Res",
+      "authors": [
+        {
+          "name": "Endorf FW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gamelli RL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gamelli RL",
+      "title": "Inhalation injury, pulmonary perturbations, and fluid resuscitation.",
+      "sorttitle": "inhalation injury pulmonary perturbations and fluid resuscitation",
+      "volume": "28",
+      "issue": "1",
+      "pages": "80-3",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101262774",
+      "issn": "1559-047X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17211205"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/BCR.0B013E31802C889F"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01253092-200701000-00013"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/01/11 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/03/21 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/01/11 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of burn care & research : official publication of the American Burn Association",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/01/01 00:00",
+      "sortfirstauthor": "Endorf FW",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22489957"
+    ],
+    "22489957": {
+      "uid": "22489957",
+      "pubdate": "2012 Jun",
+      "epubdate": "",
+      "source": "J Thromb Haemost",
+      "authors": [
+        {
+          "name": "Tosetto A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iorio A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marcucci M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baglin T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cushman M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eichinger S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Palareti G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Poli D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tait RC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Douketis J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Douketis J",
+      "title": "Predicting disease recurrence in patients with previous unprovoked venous thromboembolism: a proposed prediction score (DASH).",
+      "sorttitle": "predicting disease recurrence in patients with previous unprovoked venous thromboembolism a proposed prediction score dash",
+      "volume": "10",
+      "issue": "6",
+      "pages": "1019-25",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101170508",
+      "issn": "",
+      "essn": "1538-7836",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22489957"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1538-7836.2012.04735.x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/04/12 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/04/12 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/01/10 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of thrombosis and haemostasis : JTH",
+      "elocationid": "doi: 10.1111/j.1538-7836.2012.04735.x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/06/01 00:00",
+      "sortfirstauthor": "Tosetto A",
+      "vernaculartitle": ""
+    }
+  }
+}

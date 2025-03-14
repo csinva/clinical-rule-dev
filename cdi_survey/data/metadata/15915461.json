@@ -1,0 +1,165 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15915461"
+    ],
+    "15915461": {
+      "uid": "15915461",
+      "pubdate": "2005 Jun",
+      "epubdate": "",
+      "source": "Hepatology",
+      "authors": [
+        {
+          "name": "Kleiner DE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brunt EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Van Natta M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Behling C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Contos MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cummings OW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferrell LD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu YC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Torbenson MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Unalp-Arida A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yeh M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McCullough AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sanyal AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nonalcoholic Steatohepatitis Clinical Research Network",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sanyal AJ",
+      "title": "Design and validation of a histological scoring system for nonalcoholic fatty liver disease.",
+      "sorttitle": "design and validation of a histological scoring system for nonalcoholic fatty liver disease",
+      "volume": "41",
+      "issue": "6",
+      "pages": "1313-21",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8302946",
+      "issn": "0270-9139",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15915461"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/hep.20701"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/05/26 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/06/24 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/05/26 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Hepatology. 2011 Jun;53(6):2142-3; author reply 2143",
+          "reftype": "Comment in",
+          "pmid": 21618266,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Hepatology (Baltimore, Md.)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/06/01 00:00",
+      "sortfirstauthor": "Kleiner DE",
+      "vernaculartitle": ""
+    }
+  }
+}

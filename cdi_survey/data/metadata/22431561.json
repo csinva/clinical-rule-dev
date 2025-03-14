@@ -1,0 +1,164 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22431561"
+    ],
+    "22431561": {
+      "uid": "22431561",
+      "pubdate": "2012 Apr 15",
+      "epubdate": "2012 Mar 19",
+      "source": "Am J Epidemiol",
+      "authors": [
+        {
+          "name": "Haukoos JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lyons MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lindsell CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hopkins E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bender B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rothman RE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hsieh YH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maclaren LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thrun MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sasson C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Byyny RL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Byyny RL",
+      "title": "Derivation and validation of the Denver Human Immunodeficiency Virus (HIV) risk score for targeted HIV screening.",
+      "sorttitle": "derivation and validation of the denver human immunodeficiency virus hiv risk score for targeted hiv screening",
+      "volume": "175",
+      "issue": "8",
+      "pages": "838-46",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7910653",
+      "issn": "0002-9262",
+      "essn": "1476-6256",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22431561"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3390011"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3390011;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/aje/kwr389"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "kwr389"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/03/21 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/03/21 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/07/28 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Epidemiol. 2012 Sep 15;176(6):567-8; author reply 568-9",
+          "reftype": "Comment in",
+          "pmid": 22899828,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 42,
+      "fulljournalname": "American journal of epidemiology",
+      "elocationid": "doi: 10.1093/aje/kwr389",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/04/15 00:00",
+      "sortfirstauthor": "Haukoos JS",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8325286"
+    ],
+    "8325286": {
+      "uid": "8325286",
+      "pubdate": "1993 Jun",
+      "epubdate": "",
+      "source": "Endocrinol Metab Clin North Am",
+      "authors": [
+        {
+          "name": "Burch HB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wartofsky L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wartofsky L",
+      "title": "Life-threatening thyrotoxicosis. Thyroid storm.",
+      "sorttitle": "life threatening thyrotoxicosis thyroid storm",
+      "volume": "22",
+      "issue": "2",
+      "pages": "263-77",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8800104",
+      "issn": "0889-8529",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8325286"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1993/06/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1993/06/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1993/06/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Endocrinology and metabolism clinics of North America",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1993/06/01 00:00",
+      "sortfirstauthor": "Burch HB",
+      "vernaculartitle": ""
+    }
+  }
+}

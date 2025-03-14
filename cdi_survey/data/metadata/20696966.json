@@ -1,0 +1,147 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20696966"
+    ],
+    "20696966": {
+      "uid": "20696966",
+      "pubdate": "2010 Aug 9",
+      "epubdate": "",
+      "source": "Arch Intern Med",
+      "authors": [
+        {
+          "name": "Jim\u00e9nez D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aujesky D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moores L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "G\u00f3mez V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lobo JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uresandi F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Otero R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Monreal M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Muriel A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yusen RD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "RIETE Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yusen RD",
+      "title": "Simplification of the pulmonary embolism severity index for prognostication in patients with acute symptomatic pulmonary embolism.",
+      "sorttitle": "simplification of the pulmonary embolism severity index for prognostication in patients with acute symptomatic pulmonary embolism",
+      "volume": "170",
+      "issue": "15",
+      "pages": "1383-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372440",
+      "issn": "0003-9926",
+      "essn": "1538-3679",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20696966"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/archinternmed.2010.199"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "170/15/1383"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/08/11 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/08/11 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/09/02 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of internal medicine",
+      "elocationid": "doi: 10.1001/archinternmed.2010.199",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/08/09 00:00",
+      "sortfirstauthor": "Jim\u00e9nez D",
+      "vernaculartitle": ""
+    }
+  }
+}

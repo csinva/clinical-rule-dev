@@ -1,0 +1,199 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23864310"
+    ],
+    "23864310": {
+      "uid": "23864310",
+      "pubdate": "2013 Aug 13",
+      "epubdate": "2013 Jul 17",
+      "source": "Neurology",
+      "authors": [
+        {
+          "name": "Kent DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruthazer R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weimar C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mas JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Serena J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Homma S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Di Angelantonio E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Di Tullio MR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lutz JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elkind MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Griffith J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jaigobin C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mattle HP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Michel P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mono ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nedeltchev K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Papetti F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thaler DE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Thaler DE",
+      "title": "An index to identify stroke-related vs incidental patent foramen ovale in cryptogenic stroke.",
+      "sorttitle": "index to identify stroke related vs incidental patent foramen ovale in cryptogenic stroke",
+      "volume": "81",
+      "issue": "7",
+      "pages": "619-25",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401060",
+      "issn": "0028-3878",
+      "essn": "1526-632X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23864310"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3775694"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3775694;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1212/WNL.0b013e3182a08d59"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "WNL.0b013e3182a08d59"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/07/19 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/07/19 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/11/08 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Neurology. 2013 Aug 13;81(7):610-1",
+          "reftype": "Comment in",
+          "pmid": 23864313,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 31,
+      "fulljournalname": "Neurology",
+      "elocationid": "doi: 10.1212/WNL.0b013e3182a08d59",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/08/13 00:00",
+      "sortfirstauthor": "Kent DM",
+      "vernaculartitle": ""
+    }
+  }
+}

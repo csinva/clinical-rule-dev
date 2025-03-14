@@ -1,0 +1,136 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28796444"
+    ],
+    "28796444": {
+      "uid": "28796444",
+      "pubdate": "2017 Oct",
+      "epubdate": "2017 Sep 13",
+      "source": "J Thromb Haemost",
+      "authors": [
+        {
+          "name": "Chopra V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaatz S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Conlon A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paje D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grant PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rogers MAM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernstein SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saint S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Flanders SA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Flanders SA",
+      "title": "The Michigan Risk Score to predict peripherally inserted central catheter-associated thrombosis.",
+      "sorttitle": "michigan risk score to predict peripherally inserted central catheter associated thrombosis",
+      "volume": "15",
+      "issue": "10",
+      "pages": "1951-1962",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101170508",
+      "issn": "",
+      "essn": "1538-7836",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28796444"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/jth.13794"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2017/05/05 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/08/11 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/07/24 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/08/11 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of thrombosis and haemostasis : JTH",
+      "elocationid": "doi: 10.1111/jth.13794",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/10/01 00:00",
+      "sortfirstauthor": "Chopra V",
+      "vernaculartitle": ""
+    }
+  }
+}

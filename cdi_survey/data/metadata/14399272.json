@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14399272"
+    ],
+    "14399272": {
+      "uid": "14399272",
+      "pubdate": "1960 Feb",
+      "epubdate": "",
+      "source": "J Neurol Neurosurg Psychiatry",
+      "authors": [
+        {
+          "name": "HAMILTON M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "HAMILTON M",
+      "title": "A rating scale for depression.",
+      "sorttitle": "rating scale for depression",
+      "volume": "23",
+      "issue": "1",
+      "pages": "56-62",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985191R",
+      "issn": "0022-3050",
+      "essn": "1468-330X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14399272"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC495331"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC495331;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/jnnp.23.1.56"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1960/02/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1960/02/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1960/02/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Neurol Neurosurg Psychiatry. 2014 Feb;85(2):119-20",
+          "reftype": "Comment in",
+          "pmid": 24443712,
+          "note": ""
+        }
+      ],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of neurology, neurosurgery, and psychiatry",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1960/02/01 00:00",
+      "sortfirstauthor": "HAMILTON M",
+      "vernaculartitle": ""
+    }
+  }
+}

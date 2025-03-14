@@ -1,0 +1,113 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19616235"
+    ],
+    "19616235": {
+      "uid": "19616235",
+      "pubdate": "2009 Sep",
+      "epubdate": "2009 Jul 17",
+      "source": "J Urol",
+      "authors": [
+        {
+          "name": "Kutikov A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uzzo RG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Uzzo RG",
+      "title": "The R.E.N.A.L. nephrometry score: a comprehensive standardized system for quantitating renal tumor size, location and depth.",
+      "sorttitle": "r e n a l nephrometry score a comprehensive standardized system for quantitating renal tumor size location and depth",
+      "volume": "182",
+      "issue": "3",
+      "pages": "844-53",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376374",
+      "issn": "0022-5347",
+      "essn": "1527-3792",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19616235"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.juro.2009.05.035"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-5347(09)01175-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2009/01/19 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2009/07/21 09:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/07/21 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/09/09 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Urol. 2009 Sep;182(3):853; discussion 853",
+          "reftype": "Comment in",
+          "pmid": 19616255,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of urology",
+      "elocationid": "doi: 10.1016/j.juro.2009.05.035",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/09/01 00:00",
+      "sortfirstauthor": "Kutikov A",
+      "vernaculartitle": ""
+    }
+  }
+}

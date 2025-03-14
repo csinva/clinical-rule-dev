@@ -1,0 +1,150 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23594468"
+    ],
+    "23594468": {
+      "uid": "23594468",
+      "pubdate": "2013 Oct",
+      "epubdate": "2013 Apr 16",
+      "source": "Rheumatology (Oxford)",
+      "authors": [
+        {
+          "name": "Misra R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Danda D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rajappa SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ghosh A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gupta R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahendranath KM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jeyaseelan L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lawrence A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bacon PA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Indian Rheumatology Vasculitis (IRAVAS) group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bacon PA",
+      "title": "Development and initial validation of the Indian Takayasu Clinical Activity Score (ITAS2010).",
+      "sorttitle": "development and initial validation of the indian takayasu clinical activity score itas2010",
+      "volume": "52",
+      "issue": "10",
+      "pages": "1795-801",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100883501",
+      "issn": "1462-0324",
+      "essn": "1462-0332",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23594468"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/rheumatology/ket128"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ket128"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/04/19 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/04/19 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/11/14 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Rheumatology (Oxford). 2013 Oct;52(10):1735-6",
+          "reftype": "Comment in",
+          "pmid": 23955648,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Rheumatology (Oxford, England)",
+      "elocationid": "doi: 10.1093/rheumatology/ket128",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/10/01 00:00",
+      "sortfirstauthor": "Misra R",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14258950"
+    ],
+    "14258950": {
+      "uid": "14258950",
+      "pubdate": "1965 Feb",
+      "epubdate": "",
+      "source": "Md State Med J",
+      "authors": [
+        {
+          "name": "MAHONEY FI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "BARTHEL DW",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "BARTHEL DW",
+      "title": "FUNCTIONAL EVALUATION: THE BARTHEL INDEX.",
+      "sorttitle": "functional evaluation the barthel index",
+      "volume": "14",
+      "issue": "",
+      "pages": "61-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985229R",
+      "issn": "0025-4363",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14258950"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1965/02/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1965/02/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1965/02/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Maryland state medical journal",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1965/02/01 00:00",
+      "sortfirstauthor": "MAHONEY FI",
+      "vernaculartitle": ""
+    }
+  }
+}

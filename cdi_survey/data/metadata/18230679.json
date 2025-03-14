@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18230679"
+    ],
+    "18230679": {
+      "uid": "18230679",
+      "pubdate": "2008 Mar 15",
+      "epubdate": "2008 Jan 29",
+      "source": "Am J Epidemiol",
+      "authors": [
+        {
+          "name": "Rosner B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cook N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Portman R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Daniels S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Falkner B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Falkner B",
+      "title": "Determination of blood pressure percentiles in normal-weight children: some methodological issues.",
+      "sorttitle": "determination of blood pressure percentiles in normal weight children some methodological issues",
+      "volume": "167",
+      "issue": "6",
+      "pages": "653-66",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7910653",
+      "issn": "0002-9262",
+      "essn": "1476-6256",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18230679"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/aje/kwm348"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "kwm348"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/01/31 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/05/07 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/01/31 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of epidemiology",
+      "elocationid": "doi: 10.1093/aje/kwm348",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/03/15 00:00",
+      "sortfirstauthor": "Rosner B",
+      "vernaculartitle": ""
+    }
+  }
+}

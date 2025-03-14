@@ -1,0 +1,124 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15304025"
+    ],
+    "15304025": {
+      "uid": "15304025",
+      "pubdate": "2004 Aug",
+      "epubdate": "",
+      "source": "J Thromb Haemost",
+      "authors": [
+        {
+          "name": "Kline JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mitchell AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kabrhel C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Richman PB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Courtney DM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Courtney DM",
+      "title": "Clinical criteria to prevent unnecessary diagnostic testing in emergency department patients with suspected pulmonary embolism.",
+      "sorttitle": "clinical criteria to prevent unnecessary diagnostic testing in emergency department patients with suspected pulmonary embolism",
+      "volume": "2",
+      "issue": "8",
+      "pages": "1247-55",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101170508",
+      "issn": "1538-7933",
+      "essn": "1538-7836",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15304025"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1538-7836.2004.00790.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JTH790"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/08/12 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/03/08 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/08/12 05:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Thromb Haemost. 2005 Jan;3(1):188-9; author reply 190-1",
+          "reftype": "Comment in",
+          "pmid": 15634291,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of thrombosis and haemostasis : JTH",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/08/01 00:00",
+      "sortfirstauthor": "Kline JA",
+      "vernaculartitle": ""
+    }
+  }
+}

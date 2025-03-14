@@ -1,0 +1,166 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25258144"
+    ],
+    "25258144": {
+      "uid": "25258144",
+      "pubdate": "2015 Jun",
+      "epubdate": "2014 Sep 23",
+      "source": "J Allergy Clin Immunol",
+      "authors": [
+        {
+          "name": "Bateman ED",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buhl R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "O'Byrne PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Humbert M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reddel HK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sears MR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jenkins C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Harrison TW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Quirce S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peterson S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eriksson G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Eriksson G",
+      "title": "Development and validation of a novel risk score for asthma exacerbations: The risk score for exacerbations.",
+      "sorttitle": "development and validation of a novel risk score for asthma exacerbations the risk score for exacerbations",
+      "volume": "135",
+      "issue": "6",
+      "pages": "1457-64.e4",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1275002",
+      "issn": "0091-6749",
+      "essn": "1097-6825",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25258144"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jaci.2014.08.015"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0091-6749(14)01187-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2014/03/11 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2014/08/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2014/08/25 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2014/09/27 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/09/27 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/08/13 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Allergy Clin Immunol. 2015 Jun;135(6):1474-5",
+          "reftype": "Comment in",
+          "pmid": 26051951,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of allergy and clinical immunology",
+      "elocationid": "doi: 10.1016/j.jaci.2014.08.015",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/06/01 00:00",
+      "sortfirstauthor": "Bateman ED",
+      "vernaculartitle": ""
+    }
+  }
+}

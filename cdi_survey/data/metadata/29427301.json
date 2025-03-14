@@ -1,0 +1,145 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29427301"
+    ],
+    "29427301": {
+      "uid": "29427301",
+      "pubdate": "2018 Jun",
+      "epubdate": "2018 May 16",
+      "source": "Acad Emerg Med",
+      "authors": [
+        {
+          "name": "Newsom C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jeanmonod R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Woolley W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shah N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Asher S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bruno E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silberman M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reiter M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jeanmonod D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jeanmonod D",
+      "title": "Prospective Validation and Refinement of a Decision Rule to Obtain Chest X-ray in Patients With Nontraumatic Chest Pain in the Emergency Department.",
+      "sorttitle": "prospective validation and refinement of a decision rule to obtain chest x ray in patients with nontraumatic chest pain in the emergency department",
+      "volume": "25",
+      "issue": "6",
+      "pages": "650-656",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9418450",
+      "issn": "1069-6563",
+      "essn": "1553-2712",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29427301"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/acem.13386"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2017/11/17 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2018/01/17 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2018/01/21 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/02/11 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/09/10 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/02/11 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Academic emergency medicine : official journal of the Society for Academic Emergency Medicine",
+      "elocationid": "doi: 10.1111/acem.13386",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/06/01 00:00",
+      "sortfirstauthor": "Newsom C",
+      "vernaculartitle": ""
+    }
+  }
+}

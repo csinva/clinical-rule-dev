@@ -1,0 +1,99 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "357213"
+    ],
+    "357213": {
+      "uid": "357213",
+      "pubdate": "1978",
+      "epubdate": "",
+      "source": "Dermatologica",
+      "authors": [
+        {
+          "name": "Fredriksson T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pettersson U",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pettersson U",
+      "title": "Severe psoriasis--oral therapy with a new retinoid.",
+      "sorttitle": "severe psoriasis oral therapy with a new retinoid",
+      "volume": "157",
+      "issue": "4",
+      "pages": "238-44",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0211607",
+      "issn": "0011-9075",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "357213"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000250839"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1978/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1978/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1978/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Dermatologica",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1978/01/01 00:00",
+      "sortfirstauthor": "Fredriksson T",
+      "vernaculartitle": ""
+    }
+  }
+}

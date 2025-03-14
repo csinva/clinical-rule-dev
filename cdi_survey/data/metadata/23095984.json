@@ -1,0 +1,160 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23095984"
+    ],
+    "23095984": {
+      "uid": "23095984",
+      "pubdate": "2013 May",
+      "epubdate": "2012 Oct 24",
+      "source": "Eur Heart J",
+      "authors": [
+        {
+          "name": "Pocock SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ariti CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McMurray JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maggioni A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "K\u00f8ber L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Squire IB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Swedberg K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dobson J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Poppe KK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Whalley GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Doughty RN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Meta-Analysis Global Group in Chronic Heart Failure",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Doughty RN",
+      "title": "Predicting survival in heart failure: a risk score based on 39 372 patients from 30 studies.",
+      "sorttitle": "predicting survival in heart failure a risk score based on 39 372 patients from 30 studies",
+      "volume": "34",
+      "issue": "19",
+      "pages": "1404-13",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8006263",
+      "issn": "0195-668X",
+      "essn": "1522-9645",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23095984"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/eurheartj/ehs337"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ehs337"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/10/26 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/10/26 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/01/08 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Eur Heart J. 2013 May;34(19):1391-2",
+          "reftype": "Comment in",
+          "pmid": 23103661,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European heart journal",
+      "elocationid": "doi: 10.1093/eurheartj/ehs337",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/05/01 00:00",
+      "sortfirstauthor": "Pocock SJ",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23851127"
+    ],
+    "23851127": {
+      "uid": "23851127",
+      "pubdate": "2014 Oct",
+      "epubdate": "2013 Jul 14",
+      "source": "Emerg Med J",
+      "authors": [
+        {
+          "name": "Mintegi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bressan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gomez B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Da Dalt L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bl\u00e1zquez D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Olaciregui I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de la Torre M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Palacios M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berlese P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Benito J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Benito J",
+      "title": "Accuracy of a sequential approach to identify young febrile infants at low risk for invasive bacterial infection.",
+      "sorttitle": "accuracy of a sequential approach to identify young febrile infants at low risk for invasive bacterial infection",
+      "volume": "31",
+      "issue": "e1",
+      "pages": "e19-24",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100963089",
+      "issn": "1472-0205",
+      "essn": "1472-0213",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23851127"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/emermed-2013-202449"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "emermed-2013-202449"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/07/16 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/07/16 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/06/16 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Emergency medicine journal : EMJ",
+      "elocationid": "doi: 10.1136/emermed-2013-202449",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/10/01 00:00",
+      "sortfirstauthor": "Mintegi S",
+      "vernaculartitle": ""
+    }
+  }
+}

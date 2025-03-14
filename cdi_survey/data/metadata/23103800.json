@@ -1,0 +1,152 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23103800"
+    ],
+    "23103800": {
+      "uid": "23103800",
+      "pubdate": "2013 May",
+      "epubdate": "2012 Oct 24",
+      "source": "J Urol",
+      "authors": [
+        {
+          "name": "Barbosa JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tiseo BC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Barayan GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosman BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Torricelli FC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Passerotti CC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Srougi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Retik AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nguyen HT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nguyen HT",
+      "title": "Development and initial validation of a scoring system to diagnose testicular torsion in children.",
+      "sorttitle": "development and initial validation of a scoring system to diagnose testicular torsion in children",
+      "volume": "189",
+      "issue": "5",
+      "pages": "1859-64",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376374",
+      "issn": "0022-5347",
+      "essn": "1527-3792",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23103800"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.juro.2012.10.056"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-5347(12)05334-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2012/10/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2012/10/16 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2012/10/30 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/10/30 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/06/19 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Urol. 2014 Aug;192(2):619",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of urology",
+      "elocationid": "doi: 10.1016/j.juro.2012.10.056",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/05/01 00:00",
+      "sortfirstauthor": "Barbosa JA",
+      "vernaculartitle": ""
+    }
+  }
+}

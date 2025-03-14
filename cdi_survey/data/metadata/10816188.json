@@ -1,0 +1,109 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10816188"
+    ],
+    "10816188": {
+      "uid": "10816188",
+      "pubdate": "2000 May 18",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Adrogu\u00e9 HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Madias NE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Madias NE",
+      "title": "Hypernatremia.",
+      "sorttitle": "hypernatremia",
+      "volume": "342",
+      "issue": "20",
+      "pages": "1493-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10816188"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM200005183422006"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/05/18 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/05/29 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/05/18 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med. 2000 Sep 14;343(11):817; author reply 817-8",
+          "reftype": "Comment in",
+          "pmid": 10991713,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Sep 14;343(11):817; author reply 817-8",
+          "reftype": "Comment in",
+          "pmid": 10991714,
+          "note": ""
+        }
+      ],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/05/18 00:00",
+      "sortfirstauthor": "Adrogu\u00e9 HJ",
+      "vernaculartitle": ""
+    }
+  }
+}

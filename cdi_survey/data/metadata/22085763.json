@@ -1,0 +1,141 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22085763"
+    ],
+    "22085763": {
+      "uid": "22085763",
+      "pubdate": "2011",
+      "epubdate": "2011 Nov 15",
+      "source": "Crit Care",
+      "authors": [
+        {
+          "name": "Heyland DK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dhaliwal R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Day AG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Day AG",
+      "title": "Identifying critically ill patients who benefit the most from nutrition therapy: the development and initial validation of a novel risk assessment tool.",
+      "sorttitle": "identifying critically ill patients who benefit the most from nutrition therapy the development and initial validation of a novel risk assessment tool",
+      "volume": "15",
+      "issue": "6",
+      "pages": "R268",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9801902",
+      "issn": "1364-8535",
+      "essn": "1466-609X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22085763"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3388687"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3388687;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/cc10546"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cc10546"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2011/08/12 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2011/08/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2011/11/15 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2011/11/17 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/11/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/06/13 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Crit Care. 2012;16(1):101",
+          "reftype": "Comment in",
+          "pmid": 22236982,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 28,
+      "fulljournalname": "Critical care (London, England)",
+      "elocationid": "doi: 10.1186/cc10546",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/01/01 00:00",
+      "sortfirstauthor": "Heyland DK",
+      "vernaculartitle": ""
+    }
+  }
+}

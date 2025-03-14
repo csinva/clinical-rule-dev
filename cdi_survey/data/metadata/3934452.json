@@ -1,0 +1,103 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3934452"
+    ],
+    "3934452": {
+      "uid": "3934452",
+      "pubdate": "1985 Sep",
+      "epubdate": "",
+      "source": "Kidney Int",
+      "authors": [
+        {
+          "name": "Gotch FA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sargent JA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sargent JA",
+      "title": "A mechanistic analysis of the National Cooperative Dialysis Study (NCDS).",
+      "sorttitle": "mechanistic analysis of the national cooperative dialysis study ncds",
+      "volume": "28",
+      "issue": "3",
+      "pages": "526-34",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0323470",
+      "issn": "0085-2538",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3934452"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/ki.1985.160"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0085-2538(15)33508-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1985/09/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1985/09/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1985/09/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Kidney international",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1985/09/01 00:00",
+      "sortfirstauthor": "Gotch FA",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6656849"
+    ],
+    "6656849": {
+      "uid": "6656849",
+      "pubdate": "1983 Dec 22",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Ginsberg JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang BS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matarese RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garella S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Garella S",
+      "title": "Use of single voided urine samples to estimate quantitative proteinuria.",
+      "sorttitle": "use of single voided urine samples to estimate quantitative proteinuria",
+      "volume": "309",
+      "issue": "25",
+      "pages": "1543-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6656849"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM198312223092503"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1983/12/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1983/12/22 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1983/12/22 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1983/12/22 00:00",
+      "sortfirstauthor": "Ginsberg JM",
+      "vernaculartitle": ""
+    }
+  }
+}

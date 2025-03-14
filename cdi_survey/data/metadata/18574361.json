@@ -1,0 +1,169 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18574361"
+    ],
+    "18574361": {
+      "uid": "18574361",
+      "pubdate": "2008 Jul-Aug",
+      "epubdate": "",
+      "source": "Clin J Pain",
+      "authors": [
+        {
+          "name": "Von Korff M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saunders K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomas Ray G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boudreau D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Campbell C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Merrill J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sullivan MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rutter CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silverberg MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Banta-Green C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weisner C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Weisner C",
+      "title": "De facto long-term opioid therapy for noncancer pain.",
+      "sorttitle": "de facto long term opioid therapy for noncancer pain",
+      "volume": "24",
+      "issue": "6",
+      "pages": "521-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8507389",
+      "issn": "0749-8047",
+      "essn": "1536-5409",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18574361"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS355561"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3286630"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3286630;manuscript-id: NIHMS355561;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/AJP.0b013e318169d03b"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00002508-200807000-00006"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/06/25 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/08/19 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/06/25 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Clin J Pain. 2014 Sep;30(9):830",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": "Korff, Michael Von [corrected to Von Korff, Michael]"
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 23,
+      "fulljournalname": "The Clinical journal of pain",
+      "elocationid": "doi: 10.1097/AJP.0b013e318169d03b",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/07/01 00:00",
+      "sortfirstauthor": "Von Korff M",
+      "vernaculartitle": ""
+    }
+  }
+}

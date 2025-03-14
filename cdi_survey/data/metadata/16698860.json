@@ -1,0 +1,103 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16698860"
+    ],
+    "16698860": {
+      "uid": "16698860",
+      "pubdate": "2006 Jul",
+      "epubdate": "2006 May 12",
+      "source": "Br J Anaesth",
+      "authors": [
+        {
+          "name": "Steiner LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Andrews PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Andrews PJ",
+      "title": "Monitoring the injured brain: ICP and CBF.",
+      "sorttitle": "monitoring the injured brain icp and cbf",
+      "volume": "97",
+      "issue": "1",
+      "pages": "26-38",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372541",
+      "issn": "0007-0912",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16698860"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/bja/ael110"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0007-0912(17)35180-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/05/16 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/08/01 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/05/16 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "British journal of anaesthesia",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/07/01 00:00",
+      "sortfirstauthor": "Steiner LA",
+      "vernaculartitle": ""
+    }
+  }
+}

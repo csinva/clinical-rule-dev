@@ -1,0 +1,124 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15563569"
+    ],
+    "15563569": {
+      "uid": "15563569",
+      "pubdate": "2005 Jan",
+      "epubdate": "2004 Nov 24",
+      "source": "J Am Soc Nephrol",
+      "authors": [
+        {
+          "name": "Thakar CV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arrigain S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Worley S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yared JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paganini EP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Paganini EP",
+      "title": "A clinical score to predict acute renal failure after cardiac surgery.",
+      "sorttitle": "clinical score to predict acute renal failure after cardiac surgery",
+      "volume": "16",
+      "issue": "1",
+      "pages": "162-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9013836",
+      "issn": "1046-6673",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15563569"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1681/ASN.2004040331"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ASN.2004040331"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/11/26 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/06/23 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/11/26 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Am Soc Nephrol. 2005 Jan;16(1):12-4",
+          "reftype": "Comment in",
+          "pmid": 15590755,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American Society of Nephrology : JASN",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/01/01 00:00",
+      "sortfirstauthor": "Thakar CV",
+      "vernaculartitle": ""
+    }
+  }
+}

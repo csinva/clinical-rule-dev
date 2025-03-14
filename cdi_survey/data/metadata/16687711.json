@@ -1,0 +1,214 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16687711"
+    ],
+    "16687711": {
+      "uid": "16687711",
+      "pubdate": "2006 May 11",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Guilbert TW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morgan WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeiger RS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mauger DT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boehmer SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Szefler SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bacharier LB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lemanske RF Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Strunk RC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Allen DB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bloomberg GR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heldt G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krawiec M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Larsen G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu AH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chinchilli VM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sorkness CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taussig LM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Martinez FD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Martinez FD",
+      "title": "Long-term inhaled corticosteroids in preschool children at high risk for asthma.",
+      "sorttitle": "long term inhaled corticosteroids in preschool children at high risk for asthma",
+      "volume": "354",
+      "issue": "19",
+      "pages": "1985-97",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "1533-4406",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16687711"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa051378"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "354/19/1985"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/05/12 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/05/17 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/05/12 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med. 2006 May 11;354(19):2058-60",
+          "reftype": "Comment in",
+          "pmid": 16687719,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2006 Aug 10;355(6):624; author reply 625-6",
+          "reftype": "Comment in",
+          "pmid": 16899785,
+          "note": ""
+        },
+        {
+          "refsource": "J Pediatr. 2006 Nov;149(5):728-9",
+          "reftype": "Comment in",
+          "pmid": 17095358,
+          "note": ""
+        },
+        {
+          "refsource": "Evid Based Med. 2006 Dec;11(6):174",
+          "reftype": "Comment in",
+          "pmid": 17213168,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/05/11 00:00",
+      "sortfirstauthor": "Guilbert TW",
+      "vernaculartitle": ""
+    }
+  }
+}

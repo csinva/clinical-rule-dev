@@ -1,0 +1,171 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "26497161"
+    ],
+    "26497161": {
+      "uid": "26497161",
+      "pubdate": "2016 Nov 7",
+      "epubdate": "2015 Oct 24",
+      "source": "Eur Heart J",
+      "authors": [
+        {
+          "name": "Maupain C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bougouin W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lamhaut L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deye N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Diehl JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Geri G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perier MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beganton F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marijon E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jouven X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cariou A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dumas F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dumas F",
+      "title": "The CAHP (Cardiac Arrest Hospital Prognosis) score: a tool for risk stratification after out-of-hospital cardiac arrest.",
+      "sorttitle": "cahp cardiac arrest hospital prognosis score a tool for risk stratification after out of hospital cardiac arrest",
+      "volume": "37",
+      "issue": "42",
+      "pages": "3222-3228",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8006263",
+      "issn": "0195-668X",
+      "essn": "1522-9645",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26497161"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/eurheartj/ehv556"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ehv556"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2015/01/10 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2015/08/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2015/09/29 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/10/27 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/04/10 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2015/10/27 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Eur Heart J. 2016 Nov 7;37(42):3229-3231",
+          "reftype": "Comment in",
+          "pmid": 26516178,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European heart journal",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/11/07 00:00",
+      "sortfirstauthor": "Maupain C",
+      "vernaculartitle": ""
+    }
+  }
+}

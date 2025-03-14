@@ -1,0 +1,100 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6059183"
+    ],
+    "6059183": {
+      "uid": "6059183",
+      "pubdate": "1967 Oct",
+      "epubdate": "",
+      "source": "Am J Cardiol",
+      "authors": [
+        {
+          "name": "Killip T 3rd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kimball JT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kimball JT",
+      "title": "Treatment of myocardial infarction in a coronary care unit. A two year experience with 250 patients.",
+      "sorttitle": "treatment of myocardial infarction in a coronary care unit a two year experience with 250 patients",
+      "volume": "20",
+      "issue": "4",
+      "pages": "457-64",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0207277",
+      "issn": "0002-9149",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6059183"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0002-9149(67)90023-9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0002-9149(67)90023-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1967/10/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1967/10/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1967/10/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of cardiology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1967/10/01 00:00",
+      "sortfirstauthor": "Killip T 3rd",
+      "vernaculartitle": ""
+    }
+  }
+}

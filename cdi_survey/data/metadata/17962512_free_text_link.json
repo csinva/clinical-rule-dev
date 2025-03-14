@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "17962512",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://ashpublications.org/blood/article-lookup/doi/10.1182/blood-2007-06-095331"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--ashpublications.org-images-blood-pubmed.jpg"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Silverchair Information Systems",
+                "nameabbr": "silverchair",
+                "id": "7898"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

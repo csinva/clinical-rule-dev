@@ -1,0 +1,114 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1593739"
+    ],
+    "1593739": {
+      "uid": "1593739",
+      "pubdate": "1992 Jun 17",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "McFarlane J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Parker B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Soeken K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bullock L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bullock L",
+      "title": "Assessing for abuse during pregnancy. Severity and frequency of injuries and associated entry into prenatal care.",
+      "sorttitle": "assessing for abuse during pregnancy severity and frequency of injuries and associated entry into prenatal care",
+      "volume": "267",
+      "issue": "23",
+      "pages": "3176-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1593739"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.267.23.3176"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1992/06/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1992/06/17 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1992/06/17 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 1992 Jun 17;267(23):3194-5",
+          "reftype": "Comment in",
+          "pmid": 1593743,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1992/06/17 00:00",
+      "sortfirstauthor": "McFarlane J",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22843133"
+    ],
+    "22843133": {
+      "uid": "22843133",
+      "pubdate": "2012 Nov",
+      "epubdate": "",
+      "source": "Neurosurgery",
+      "authors": [
+        {
+          "name": "Patel N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rao VA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heilman-Espinoza ER",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lai R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Quesada RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Flint AC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Flint AC",
+      "title": "Simple and reliable determination of the modified rankin scale score in neurosurgical and neurological patients: the mRS-9Q.",
+      "sorttitle": "simple and reliable determination of the modified rankin scale score in neurosurgical and neurological patients the mrs 9q",
+      "volume": "71",
+      "issue": "5",
+      "pages": "971-5; discussion 975",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7802914",
+      "issn": "0148-396X",
+      "essn": "1524-4040",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22843133"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1227/NEU.0b013e31826a8a56"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/07/31 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/07/31 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/05/18 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurosurgery",
+      "elocationid": "doi: 10.1227/NEU.0b013e31826a8a56",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/11/01 00:00",
+      "sortfirstauthor": "Patel N",
+      "vernaculartitle": ""
+    }
+  }
+}

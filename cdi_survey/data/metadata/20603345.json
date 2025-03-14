@@ -1,0 +1,197 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20603345"
+    ],
+    "20603345": {
+      "uid": "20603345",
+      "pubdate": "2010 Sep 7",
+      "epubdate": "2010 Jul 5",
+      "source": "CMAJ",
+      "authors": [
+        {
+          "name": "B\u00f6sner S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haasenritter J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Becker A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Karatolios K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vaucher P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gencer B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herzig L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heinzel-Gutenbrunner M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schaefer JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abu Hani M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Keller H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "S\u00f6nnichsen AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baum E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Donner-Banzhoff N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Donner-Banzhoff N",
+      "title": "Ruling out coronary artery disease in primary care: development and validation of a simple prediction rule.",
+      "sorttitle": "ruling out coronary artery disease in primary care development and validation of a simple prediction rule",
+      "volume": "182",
+      "issue": "12",
+      "pages": "1295-300",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9711805",
+      "issn": "0820-3946",
+      "essn": "1488-2329",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20603345"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2934794"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2934794;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1503/cmaj.100212"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cmaj.100212"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/07/07 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/07/07 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/09/29 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "CMAJ. 2010 Sep 7;182(12):1281-2",
+          "reftype": "Comment in",
+          "pmid": 20603344,
+          "note": ""
+        },
+        {
+          "refsource": "CMAJ. 2010 Nov 9;182(16):1761",
+          "reftype": "Comment in",
+          "pmid": 21059786,
+          "note": ""
+        },
+        {
+          "refsource": "Praxis (Bern 1994). 2011 Jan 5;100(1):47-8",
+          "reftype": "Comment in",
+          "pmid": 21210361,
+          "note": ""
+        },
+        {
+          "refsource": "CMAJ. 2011 Mar 8;183(4):463",
+          "reftype": "Comment in",
+          "pmid": 21398253,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 28,
+      "fulljournalname": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+      "elocationid": "doi: 10.1503/cmaj.100212",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/09/07 00:00",
+      "sortfirstauthor": "B\u00f6sner S",
+      "vernaculartitle": ""
+    }
+  }
+}

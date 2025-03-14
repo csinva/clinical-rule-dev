@@ -1,0 +1,148 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27471209"
+    ],
+    "27471209": {
+      "uid": "27471209",
+      "pubdate": "2016 Nov",
+      "epubdate": "2016 Jul 28",
+      "source": "Eur Respir J",
+      "authors": [
+        {
+          "name": "Klok FA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "H\u00f6sel V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Clemens A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yollo WD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tilke C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schulman S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lankeit M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Konstantinides SV",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Konstantinides SV",
+      "title": "Prediction of bleeding events in patients with venous thromboembolism on stable anticoagulation treatment.",
+      "sorttitle": "prediction of bleeding events in patients with venous thromboembolism on stable anticoagulation treatment",
+      "volume": "48",
+      "issue": "5",
+      "pages": "1369-1376",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8803460",
+      "issn": "0903-1936",
+      "essn": "1399-3003",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27471209"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1183/13993003.00280-2016"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "13993003.00280-2016"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/02/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/05/29 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/11/02 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/04/06 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/07/30 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Eur Respir J. 2016 Nov;48(5):1268-1270",
+          "reftype": "Comment in",
+          "pmid": 27799379,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The European respiratory journal",
+      "elocationid": "doi: 10.1183/13993003.00280-2016",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/11/01 00:00",
+      "sortfirstauthor": "Klok FA",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9925079"
+    ],
+    "9925079": {
+      "uid": "9925079",
+      "pubdate": "1999 Jan",
+      "epubdate": "",
+      "source": "Chest",
+      "authors": [
+        {
+          "name": "Pizov R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oppenheim-Eden A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matot I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weiss YG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eidelman LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rivkind AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sprung CL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sprung CL",
+      "title": "Blast lung injury from an explosion on a civilian bus.",
+      "sorttitle": "blast lung injury from an explosion on a civilian bus",
+      "volume": "115",
+      "issue": "1",
+      "pages": "165-72",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0231335",
+      "issn": "0012-3692",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9925079"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1378/chest.115.1.165"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0012-3692(15)38099-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/01/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/01/30 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/01/30 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Chest",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/01/01 00:00",
+      "sortfirstauthor": "Pizov R",
+      "vernaculartitle": ""
+    }
+  }
+}

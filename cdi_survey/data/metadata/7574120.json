@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7574120"
+    ],
+    "7574120": {
+      "uid": "7574120",
+      "pubdate": "1995 Oct",
+      "epubdate": "",
+      "source": "Ann Emerg Med",
+      "authors": [
+        {
+          "name": "Stiell IG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greenberg GH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McKnight RD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cwinn AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cacciotti T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McDowell I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith NA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Smith NA",
+      "title": "Derivation of a decision rule for the use of radiography in acute knee injuries.",
+      "sorttitle": "derivation of a decision rule for the use of radiography in acute knee injuries",
+      "volume": "26",
+      "issue": "4",
+      "pages": "405-13",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8002646",
+      "issn": "0196-0644",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7574120"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0196-0644(95)70106-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0196-0644(95)70106-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1995/10/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1995/10/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1995/10/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of emergency medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1995/10/01 00:00",
+      "sortfirstauthor": "Stiell IG",
+      "vernaculartitle": ""
+    }
+  }
+}

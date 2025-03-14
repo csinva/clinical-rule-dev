@@ -1,0 +1,200 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24118027"
+    ],
+    "24118027": {
+      "uid": "24118027",
+      "pubdate": "2014 Apr",
+      "epubdate": "2013 Oct 9",
+      "source": "Transfusion",
+      "authors": [
+        {
+          "name": "Hosing C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saliba RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamerschlak N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kutner JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sakashita AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kondo AT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rodrigues M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fernande JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chiattone A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chiattone VC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Barros JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chiattone CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chiattone R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Popat U",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qazilbash M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang XW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Majilis A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Lima M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anguita T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Anguita T",
+      "title": "Peripheral blood stem cell yield calculated using preapheresis absolute CD34+ cell count, peripheral blood volume processed, and donor body weight accurately predicts actual yield at multiple centers.",
+      "sorttitle": "peripheral blood stem cell yield calculated using preapheresis absolute cd34 cell count peripheral blood volume processed and donor body weight accurately predicts actual yield at multiple centers",
+      "volume": "54",
+      "issue": "4",
+      "pages": "1081-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0417360",
+      "issn": "0041-1132",
+      "essn": "1537-2995",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24118027"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/trf.12435"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2013/04/04 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2013/07/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2013/07/22 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/10/15 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/10/15 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/06/05 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Transfusion",
+      "elocationid": "doi: 10.1111/trf.12435",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/04/01 00:00",
+      "sortfirstauthor": "Hosing C",
+      "vernaculartitle": ""
+    }
+  }
+}

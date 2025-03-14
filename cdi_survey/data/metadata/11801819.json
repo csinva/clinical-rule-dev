@@ -1,0 +1,134 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11801819"
+    ],
+    "11801819": {
+      "uid": "11801819",
+      "pubdate": "2001 Dec",
+      "epubdate": "",
+      "source": "Crit Care Med",
+      "authors": [
+        {
+          "name": "Payen JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bru O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bosson JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lagrasta A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Novel E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deschaux I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lavagne P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacquot C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jacquot C",
+      "title": "Assessing pain in critically ill sedated patients by using a behavioral pain scale.",
+      "sorttitle": "assessing pain in critically ill sedated patients by using a behavioral pain scale",
+      "volume": "29",
+      "issue": "12",
+      "pages": "2258-63",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0355501",
+      "issn": "0090-3493",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11801819"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00003246-200112000-00004"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2002/01/22 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/02/08 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2002/01/22 10:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Acta Anaesthesiol Scand. 2016 Jul;60(6):821-8",
+          "reftype": "Comment in",
+          "pmid": 27251598,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Critical care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/12/01 00:00",
+      "sortfirstauthor": "Payen JF",
+      "vernaculartitle": ""
+    }
+  }
+}

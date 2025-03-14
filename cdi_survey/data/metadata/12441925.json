@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12441925"
+    ],
+    "12441925": {
+      "uid": "12441925",
+      "pubdate": "2002 Dec",
+      "epubdate": "",
+      "source": "J Urol",
+      "authors": [
+        {
+          "name": "Frank I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blute ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheville JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lohse CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weaver AL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zincke H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zincke H",
+      "title": "An outcome prediction model for patients with clear cell renal cell carcinoma treated with radical nephrectomy based on tumor stage, size, grade and necrosis: the SSIGN score.",
+      "sorttitle": "outcome prediction model for patients with clear cell renal cell carcinoma treated with radical nephrectomy based on tumor stage size grade and necrosis the ssign score",
+      "volume": "168",
+      "issue": "6",
+      "pages": "2395-400",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376374",
+      "issn": "0022-5347",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12441925"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0022-5347(05)64153-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-5347(05)64153-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2002/11/21 04:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/12/18 04:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2002/11/21 04:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of urology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2002/12/01 00:00",
+      "sortfirstauthor": "Frank I",
+      "vernaculartitle": ""
+    }
+  }
+}

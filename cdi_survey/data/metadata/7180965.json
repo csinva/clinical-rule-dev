@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7180965"
+    ],
+    "7180965": {
+      "uid": "7180965",
+      "pubdate": "1982 Oct",
+      "epubdate": "",
+      "source": "Am J Surg Pathol",
+      "authors": [
+        {
+          "name": "Fuhrman SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lasky LC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Limas C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Limas C",
+      "title": "Prognostic significance of morphologic parameters in renal cell carcinoma.",
+      "sorttitle": "prognostic significance of morphologic parameters in renal cell carcinoma",
+      "volume": "6",
+      "issue": "7",
+      "pages": "655-63",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7707904",
+      "issn": "0147-5185",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7180965"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00000478-198210000-00007"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1982/10/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1982/10/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1982/10/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of surgical pathology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1982/10/01 00:00",
+      "sortfirstauthor": "Fuhrman SA",
+      "vernaculartitle": ""
+    }
+  }
+}

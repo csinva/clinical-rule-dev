@@ -1,0 +1,171 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22378855"
+    ],
+    "22378855": {
+      "uid": "22378855",
+      "pubdate": "2012 Apr",
+      "epubdate": "2012 Feb 29",
+      "source": "Eur J Cardiothorac Surg",
+      "authors": [
+        {
+          "name": "Nashef SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roques F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sharples LD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nilsson J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goldstone AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lockowandt U",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lockowandt U",
+      "title": "EuroSCORE II.",
+      "sorttitle": "euroscore ii",
+      "volume": "41",
+      "issue": "4",
+      "pages": "734-44; discussion 744-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804069",
+      "issn": "1010-7940",
+      "essn": "1873-734X",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22378855"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/ejcts/ezs043"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ezs043"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/03/02 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/03/02 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/06/20 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Eur J Cardiothorac Surg. 2013 Jan;43(1):208",
+          "reftype": "Comment in",
+          "pmid": 22648918,
+          "note": ""
+        },
+        {
+          "refsource": "Eur J Cardiothorac Surg. 2013 Jan;43(1):207",
+          "reftype": "Comment in",
+          "pmid": 22728227,
+          "note": ""
+        },
+        {
+          "refsource": "Eur J Cardiothorac Surg. 2013 Jan;43(1):206",
+          "reftype": "Comment in",
+          "pmid": 22728228,
+          "note": ""
+        },
+        {
+          "refsource": "Eur J Cardiothorac Surg. 2013 Jan;43(1):208-9",
+          "reftype": "Comment in",
+          "pmid": 22728229,
+          "note": ""
+        },
+        {
+          "refsource": "Eur J Cardiothorac Surg. 2013 Mar;43(3):654",
+          "reftype": "Comment in",
+          "pmid": 23041551,
+          "note": ""
+        },
+        {
+          "refsource": "Eur J Cardiothorac Surg. 2013 Apr;43(4):871",
+          "reftype": "Comment in",
+          "pmid": 23100294,
+          "note": ""
+        },
+        {
+          "refsource": "Eur J Cardiothorac Surg. 2013 Apr;43(4):872",
+          "reftype": "Comment in",
+          "pmid": 23111559,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+      "elocationid": "doi: 10.1093/ejcts/ezs043",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/04/01 00:00",
+      "sortfirstauthor": "Nashef SA",
+      "vernaculartitle": ""
+    }
+  }
+}

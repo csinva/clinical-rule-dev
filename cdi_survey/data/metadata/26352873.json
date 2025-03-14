@@ -1,0 +1,238 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "26352873"
+    ],
+    "26352873": {
+      "uid": "26352873",
+      "pubdate": "2015 Oct",
+      "epubdate": "",
+      "source": "Arthritis Rheumatol",
+      "authors": [
+        {
+          "name": "Neogi T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jansen TL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dalbeth N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fransen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schumacher HR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berendsen D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brown M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Choi H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Edwards NL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Janssens HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liot\u00e9 F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naden RP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nuki G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ogdie A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perez-Ruiz F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saag K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singh JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sundy JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tausche AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vazquez-Mellado J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yarows SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taylor WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Taylor WJ",
+      "title": "2015 Gout Classification Criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative.",
+      "sorttitle": "2015 gout classification criteria an american college of rheumatology european league against rheumatism collaborative initiative",
+      "volume": "67",
+      "issue": "10",
+      "pages": "2557-68",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101623795",
+      "issn": "2326-5191",
+      "essn": "2326-5205",
+      "pubtype": [
+        "Consensus Development Conference",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26352873"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS702504"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4566153"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4566153;manuscript-id: NIHMS702504;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/art.39254"
+        },
+        {
+          "idtype": "version",
+          "idtypen": 8,
+          "value": "2"
+        },
+        {
+          "idtype": "version-id",
+          "idtypen": 8,
+          "value": "2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2014/12/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2015/06/18 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2015/09/10 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/09/10 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/02/18 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Arthritis Rheumatol. 2016 Feb;68(2):515",
+          "reftype": "Erratum in",
+          "pmid": 26808828,
+          "note": "Vaquez-Mellado, Janitzia [corrected to Vazquez-Mellado, Janitzia]"
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 35,
+      "fulljournalname": "Arthritis & rheumatology (Hoboken, N.J.)",
+      "elocationid": "doi: 10.1002/art.39254",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/10/01 00:00",
+      "sortfirstauthor": "Neogi T",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10905241"
+    ],
+    "10905241": {
+      "uid": "10905241",
+      "pubdate": "2000 May 13",
+      "epubdate": "",
+      "source": "Lancet",
+      "authors": [
+        {
+          "name": "Barber PA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Demchuk AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buchan AM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Buchan AM",
+      "title": "Validity and reliability of a quantitative computed tomography score in predicting outcome of hyperacute stroke before thrombolytic therapy. ASPECTS Study Group. Alberta Stroke Programme Early CT Score.",
+      "sorttitle": "validity and reliability of a quantitative computed tomography score in predicting outcome of hyperacute stroke before thrombolytic therapy aspects study group alberta stroke programme early ct score",
+      "volume": "355",
+      "issue": "9216",
+      "pages": "1670-4",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985213R",
+      "issn": "0140-6736",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10905241"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0140-6736(00)02237-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140673600022376"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/07/25 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/08/06 11:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/07/25 11:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet 2000 Jun 17;355(9221):2170",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "Lancet. 2000 Sep 23;356(9235):1111-2",
+          "reftype": "Comment in",
+          "pmid": 11009167,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Lancet (London, England)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/05/13 00:00",
+      "sortfirstauthor": "Barber PA",
+      "vernaculartitle": ""
+    }
+  }
+}

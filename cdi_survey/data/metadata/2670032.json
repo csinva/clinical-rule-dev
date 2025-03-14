@@ -1,0 +1,98 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2670032"
+    ],
+    "2670032": {
+      "uid": "2670032",
+      "pubdate": "1989 Aug",
+      "epubdate": "",
+      "source": "Br J Radiol",
+      "authors": [
+        {
+          "name": "Fowler JF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fowler JF",
+      "title": "The linear-quadratic formula and progress in fractionated radiotherapy.",
+      "sorttitle": "linear quadratic formula and progress in fractionated radiotherapy",
+      "volume": "62",
+      "issue": "740",
+      "pages": "679-94",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0373125",
+      "issn": "0007-1285",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2670032"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1259/0007-1285-62-740-679"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1989/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1989/08/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1989/08/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Br J Radiol. 2010 Jul;83(991):544-5",
+          "reftype": "Comment in",
+          "pmid": 20603406,
+          "note": ""
+        }
+      ],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "The British journal of radiology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1989/08/01 00:00",
+      "sortfirstauthor": "Fowler JF",
+      "vernaculartitle": ""
+    }
+  }
+}

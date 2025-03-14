@@ -1,0 +1,172 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23095314"
+    ],
+    "23095314": {
+      "uid": "23095314",
+      "pubdate": "2013 Feb 20",
+      "epubdate": "",
+      "source": "AIDS",
+      "authors": [
+        {
+          "name": "Tate JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Justice AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hughes MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bonnet F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reiss P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mocroft A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nattermann J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lampe FC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bucher HC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sterling TR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Crane HM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kitahata MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "May M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sterne JA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sterne JA",
+      "title": "An internationally generalizable risk index for mortality after one year of antiretroviral therapy.",
+      "sorttitle": "internationally generalizable risk index for mortality after one year of antiretroviral therapy",
+      "volume": "27",
+      "issue": "4",
+      "pages": "563-72",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8710219",
+      "issn": "0269-9370",
+      "essn": "1473-5571",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23095314"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS648636"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4283204"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4283204;manuscript-id: NIHMS648636;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/QAD.0b013e32835b8c7f"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/10/26 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/10/26 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/08/22 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 40,
+      "fulljournalname": "AIDS (London, England)",
+      "elocationid": "doi: 10.1097/QAD.0b013e32835b8c7f",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/02/20 00:00",
+      "sortfirstauthor": "Tate JP",
+      "vernaculartitle": ""
+    }
+  }
+}

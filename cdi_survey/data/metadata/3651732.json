@@ -1,0 +1,120 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3651732"
+    ],
+    "3651732": {
+      "uid": "3651732",
+      "pubdate": "1987 Jun",
+      "epubdate": "",
+      "source": "Br J Psychiatry",
+      "authors": [
+        {
+          "name": "Cox JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holden JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sagovsky R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sagovsky R",
+      "title": "Detection of postnatal depression. Development of the 10-item Edinburgh Postnatal Depression Scale.",
+      "sorttitle": "detection of postnatal depression development of the 10 item edinburgh postnatal depression scale",
+      "volume": "150",
+      "issue": "",
+      "pages": "782-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0342367",
+      "issn": "0007-1250",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3651732"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1192/bjp.150.6.782"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0007125000214712"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1987/06/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1987/06/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1987/06/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Br J Psychiatry. 1991 Jun;158:865",
+          "reftype": "Comment in",
+          "pmid": 1873645,
+          "note": ""
+        },
+        {
+          "refsource": "Br J Psychiatry. 2003 Apr;182:368; author reply 368",
+          "reftype": "Comment in",
+          "pmid": 12668422,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The British journal of psychiatry : the journal of mental science",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1987/06/01 00:00",
+      "sortfirstauthor": "Cox JL",
+      "vernaculartitle": ""
+    }
+  }
+}

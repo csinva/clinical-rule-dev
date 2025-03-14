@@ -1,0 +1,58 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "23716032",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.113.000152?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.ahajournals.org-pb-assets-pubmed-images-CSA-circoutcomes.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Atypon",
+                "nameabbr": "ATYPON",
+                "id": "4487"
+              }
+            },
+            {
+              "url": {
+                "value": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23716032/"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "PubMed Central",
+                "nameabbr": "PMC",
+                "id": "3494"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

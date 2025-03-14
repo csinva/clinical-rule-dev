@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "8141877",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.nejm.org/doi/10.1056/NEJM199309303291402?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0www.ncbi.nlm.nih.gov"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.nejm.org-pb-assets-images-editorial-icons-nejm-free-full-text.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "Atypon",
+                "nameabbr": "ATYPON",
+                "id": "4487"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

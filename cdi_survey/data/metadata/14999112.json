@@ -1,0 +1,169 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14999112"
+    ],
+    "14999112": {
+      "uid": "14999112",
+      "pubdate": "2004 Mar 4",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Celli BR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cote CG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marin JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Casanova C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Montes de Oca M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mendez RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pinto Plata V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cabral HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cabral HJ",
+      "title": "The body-mass index, airflow obstruction, dyspnea, and exercise capacity index in chronic obstructive pulmonary disease.",
+      "sorttitle": "body mass index airflow obstruction dyspnea and exercise capacity index in chronic obstructive pulmonary disease",
+      "volume": "350",
+      "issue": "10",
+      "pages": "1005-12",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "1533-4406",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14999112"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa021322"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "350/10/1005"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/03/05 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/03/10 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/03/05 05:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med. 2004 Mar 4;350(10):965-6",
+          "reftype": "Comment in",
+          "pmid": 14999106,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2004 May 27;350(22):2308-10; author reply 2308-10",
+          "reftype": "Comment in",
+          "pmid": 15163786,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2004 May 27;350(22):2308-10; author reply 2308-10",
+          "reftype": "Comment in",
+          "pmid": 15168424,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2004 May 27;350(22):2308-10; author reply 2308-10",
+          "reftype": "Comment in",
+          "pmid": 15168425,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2004 May 27;350(22):2308-10; author reply 2308-10",
+          "reftype": "Comment in",
+          "pmid": 15168426,
+          "note": ""
+        },
+        {
+          "refsource": "ACP J Club. 2004 Sep-Oct;141(2):53",
+          "reftype": "Comment in",
+          "pmid": 15341473,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/03/04 00:00",
+      "sortfirstauthor": "Celli BR",
+      "vernaculartitle": ""
+    }
+  }
+}

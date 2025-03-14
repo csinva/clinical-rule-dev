@@ -1,0 +1,166 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29535251"
+    ],
+    "29535251": {
+      "uid": "29535251",
+      "pubdate": "2018 Apr",
+      "epubdate": "2018 Mar 13",
+      "source": "Pediatrics",
+      "authors": [
+        {
+          "name": "Kharbanda AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vazquez-Benitez G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ballard DW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vinson DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chettipally UK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kene MV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dehmer SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bachur RG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dayan PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kuppermann N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "O'Connor PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kharbanda EO",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kharbanda EO",
+      "title": "Development and Validation of a Novel Pediatric Appendicitis Risk Calculator (pARC).",
+      "sorttitle": "development and validation of a novel pediatric appendicitis risk calculator parc",
+      "volume": "141",
+      "issue": "4",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376422",
+      "issn": "0031-4005",
+      "essn": "1098-4275",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29535251"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5869337"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5869337;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1542/peds.2017-2699"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "peds.2017-2699"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "accepted",
+          "date": "2018/01/17 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/03/15 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/04/12 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/03/15 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 37,
+      "fulljournalname": "Pediatrics",
+      "elocationid": "doi: 10.1542/peds.2017-2699",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/04/01 00:00",
+      "sortfirstauthor": "Kharbanda AB",
+      "vernaculartitle": ""
+    }
+  }
+}

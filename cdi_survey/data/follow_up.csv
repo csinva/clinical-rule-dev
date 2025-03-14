@@ -1,0 +1,641 @@
+,CDI,CDI Purpose,,CDI Outcome,CDI Outcome Measure,Follow-up? (Y/N),Direct or Indirect?,Bucket?,Notes,Aaron,,Kenshata,,Working Examples for Buckets
+40,CHADS<sub>2</sub> Score for Atrial Fibrillation Stroke Risk,Stroke risk in AFib.,1,"Assess the predictive value of classification schemes that estimate stroke risk in patients with AF, specifically CHADS2 index","outcome definition: hospitalization for ischemic stroke as determined by Medicare claims (Outcomes Assessment - Page 2866)
+
+*To identify stroke from the MEDPAR data, we used the following ICD-9-CM codes in the primary position: 434 (occlusion of cerebral arteries), 435 (transient cerebral ischemia), and 436 (acute, but ill-defined, cerebrovascular disease). We did not use the ICD-9-CM code of 433 (occlusion and stenosis of precerebral arteries) because that code is used for asymptomatic carotid artery disease. We had a minimum of 365 days of follow-up claims for all Medicare beneficiaries, and we censored beneficiaries at the time of nonstroke death or at a maximum of 1000 days after the index hospitalization.",Y,Indirect,EMR,"After linking a maximum of 3 years of follow-up data and remov- ing all patient and provider identifi- ers, the QIO/PRO analysts sent the unidentified records to Washington University for inclusion into the NRAF data set.",Y,Indirect,,,
+78,MELD Na (UNOS/OPTN),Liver transplant planning + Na.,1,Severity of liver disease (3 month survival rate),Patient surival was assessed as the interval from the day of hospitalization until death or last follow-up,Y,Indirect,In-person,Finally an additional 258 were excluded because of lack of follow-up to determine the 3-month survival.,Y,Indirect,,,
+115,Wells' Criteria for Pulmonary Embolism,Risk of PE.,1,pulmonary embolism,"High-probability ventilation-perfusion lung scanning, abnormal sonography or pulmonary angiography, or venous thromboembolic event in follow-up  (pg 98)",Y,Hybrid,In-person/Telephone,"After 3 months, patients were followed up for development of thromboembolic events at a return appointment or by telephone contact.",Y,Hybrid,,,
+589,PECARN Pediatric Head Injury/Trauma Algorithm,Clears peds head injury without imaging.,1,if patients have traumatic brain injury,"Death from TBI, neurosurgery, intubation for >24 hours, hospital admission of 2 nights or more, CT scan interpreted by paediatric radiologist, follow-up (Page 1162 Outcome Measures)
+
+follow-up involved",Y,Direct,,,Y,Direct,,,
+608,Canadian CT Head Injury/Trauma Rule,"Very sensitive, rules out imaging in many.",1,need for neurological intervention; clinically important brain injury on CT,"Need for neurological intervention: death within 7 days secondary to head injury, need for any of following procedures in 7 days: craniotomy, elevation of skull fracture, intracranial pressure monitoring, or intubation for head injury.
+
+clinically important brain injury on CT: acute brain finding on CT and would require admission to hospital and neurological follow-up",Y,Direct,Telephone,all enrolled patients who did not have imaging underwent the structured 14 day telephone proxy outcoe easure administered by a registered nurse. Patients who could not be reached were excluded from the final analysis.,Y,DIrect,,,
+696,Canadian C-Spine Rule,"More sens/spec, but more complex, than NEXUS.",1,detect acute C-spine injury,"plain radiography, computed tomography, structured follow-up telephone interview (Page 1841 - Main Outcome Measure)",Y,Direct,In-person,Patients who did not fulfill the criteria were recalled for clinical assessment and radiography. Patients who could not be reached were excluded from the final analysis.,Y,Direct,,,
+801,CHA<sub>2</sub>DS<sub>2</sub>-VASc Score for Atrial Fibrillation Stroke Risk,Stroke risk in afib; better than CHADS₂.,1,risk stratification for stroke and thromboembolism in atrial fibrillation,follow-up was performed to assess mortality and incidence of major adverse events during 1 year (Page 265 Validation Cohort),Y,Hybrid,,A follow-up was performed to assess mortality and incidence of  major adverse events during 1 year. (only validation cohort tested because CDI was a refined version of original),Y,Hybrid,,,
+807,HAS-BLED Score for Major Bleeding Risk,Bleeding risk with AFib anticoagulation.,1,assess risk of major bleeding in patients with atrial fibrillation,1 year follow-up assessment performed to determine survival and major adverse cardiovascular events. any bleeding requiring hospitalization and/or causing a decrease in hemoglobin level of >2 g/L and/or requiring blood transfusion that was not a hemorrhagic stroke (Pg 1094 materials and methods),Y,Hybrid,EMR,"A 1-year follow-up assessment was performed to determine survival and major adverse cardio-
+vascular events, such as major bleeding. Medical records and/or medical information systems were used to populate the data set.",Y,Hybrid,,,
+1099,GRACE ACS Risk and Mortality Calculator,Mortality in ACS admissions.,1,estimate cumulative six month risk of death and death or myocardial infarction after ACS presentation,"death and myocardial infarction in hospital or after discharge (Page 1091 Abstract and Page 1092 GRACE methods and design)
+
+follow-up involved",Y,Indirect,EMR,"all-cause death or the composite measure of death or non-fatal myocardial infarction during admission to hospital or after discharge (presentation to six months)
+
+Used the GRACE registry",Y,Indirect,,,
+1247,Simplified PESI (Pulmonary Embolism Severity Index),Mortality from PE.,1,severity index for pulmonary embolism,"30 day mortality for outpatients with acute symptomatic PE (Page 1384 Study Design)
+
+*follow-up involved",Y,Hybrid,Telephone and EMR,Mortality was assessed in the derivation cohort by using pa- tient or proxy interviews and/or by review of the hospital medi- cal records. Interviews were performed by telephone and ad- ministered by local study personnel.,Y,Hybrid,,,
+1304,Pulmonary Embolism Severity Index (PESI),Mortality from PE.,1,identify prognosis for pulmonary embolism,"death from all causes within 30 days of hospitalization based on mortality data from National Death Index (Page 1041 Baseline Predictor Variables and Outcome Measures)
+
+*follow-up involved (ONLY in external validation)",Y,Indirect,Death records,National Death Index to examine mortality,Y,Indirect,,,
+1706,THRIVE Score for Stroke Outcome,Prognosis after stroke; incorporates NIHSS.,1,predict chronic disease outcomes after stroke treatment,"Primary outcomes were vessel recanalization and device-related complications. Secondary outcomes included modified Rankin Scale (mRS) with mRS score of 3-6 being poor outcome and National Institutes of Health Stroke Scale (NIHSS scores) with mild (<=10), moderate (11-20), and severe (>=20) at 30 and 90 days (Page 1193 - Patients and Techniques) 
+
+""Successful recanalization was defined as achieving a Thrombolysis in Myocardial Infarction8 2 or 3 flow in all treatable vessels"" (Page 1193 - Patients and Techniques)
+
+follow-up involved? (not explicit)",Y,Indirect,,,Y,Indirect,,,database
+1718,ATRIA Bleeding Risk Score,Bleeding risk from warfarin.,1,risk stratification predicting warfarin-associated hemorrhage,"""major hemorrhages"" defined as fatal, requiring transfusion of >= 2 U packed blood cells, or hemorrhage into a critical anatomic site (e.g., intracranial, retroperitoneal) (Page 396 Major hemorrhage outcomes)
+
+identified ICD-9 codes for extracranial hemorrhages (i.e., gastrointestinal, genitourinary, retroperitoneal) and primary and secondary diagnoses of intracranial hemorrhage, including intracerebral, subarachnoid, or subdural hemorrhages DURING OR WITHIN 5 days of preceding preceding warfarin exposure (Page 396 Major hemorrhage outcomes)
+
+*follow-up involved",Y,Indirect,,,Y,Indirect,,,
+1750,Geneva Score (Revised) for Pulmonary Embolism,Risk of PE.,1,predict PE,"PE diagnosed by 1) proximal DVT found on lower-limb ultrasonography, 2) a positive helical CT scan, 3) positive pulmonary angiogram in patients with high clinical probability, and 4) high-probability ventilation-perfusion lung scan in patients with inconclusive results on CT. Follow up for patients who met criteria for absence of pulmonary embolism and who were not receiving anticoagulant therapy.
+
+*follow-up involved",Y,Direct,,,Y,Unclear,Y,Direct,jed said unclear
+1752,HEART Score for Major Cardiac Events,6-week risk of cardiac event.,1,non-ST elevation acute coronary syndrome risk stratification,"A diagnosis of acute myocardial infarction (page 191 Abstract)
+
+Endpoints in this study were acute myocardial infarction (AMI), percutaneous coronary intervention (PCI), coronary artery bypass graft (CABG) and death plus a combined endpoint of AMI, PCI, CABG and death. (Page 192 Endpoints)
+
+*follow-up involved
+",Y,Hybrid,Telephone and EMR,"All admission and follow-up data were retrieved from hospital charts. If follow-up data were lacking, patients were called at home to chek their condition.",Y,Hybrid,,,telephone and database
+1756,Modified NIH Stroke Scale/Score (mNIHSS),"Shortened, validated version of the NIHSS.",1,modify NIHSS to reduce items of poor reliability,"In part I, rtPA activity (>=4-point improvement over baseline) was assessed 24 hours after stroke onset, but all end points were evaluated 90 days after stroke as well. Part II was a study of the rtPA treatment efficacy 90 days after stroke onset. In both parts, the NIHSS scores were collected at baseline, 2 hours after treatment onset, and 24 hours, 7 to 10 days, and 3 months after stroke onset. Lesion volumes were estimated from unenhanced CT scans obtained 3 months after stroke with quantitative volumetry. (Page 1311 Methods - Scale Derivation)
+
+*follow-up involved",Y,Indirect,In-person,"In both parts, the NIHSS scores were collected at baseline, 2 hours after treatment onset, and 24 hours, 7 to 10 days, and 3 months after stroke onset. Lesion volumes were estimated from unenhanced CT scans obtained 3 months after stroke with quantitative volumetry. The details of the CT method will be the subject of another publication.",Y,Indirect,,,
+1757,Opioid Risk Tool (ORT) for Narcotic Abuse,Risk of narcotic abuse/misuse.,1,predict abberant behavior in patients prescribed opioids,"Each risk factor was weighted and attributed a point value believed to reflect its risk relative to the other risk factors. This was carried out based on the authors’ personal clinical experience and a review of the literature on the best-known risk factors associated with abuse. These weights were derived entirely before any data used in this study were collected and were not modified after the study began. (page 433 Methods)
+
+The aberrant behavior was documented in the chart by any member of the clinical staff after being observed directly, reported by the patient or a family member or detected by a lab test. This procedure was intended to minimize the authors’ subjective interpretation and bias in recording the behaviors (page 434 methods)
+
+*follow-up involved",Y,Indirect,In-person,"All patients were monitored for aberrant behaviors for 12 months after their initial visits. The first author, also the clinic’s med- ical director, recorded each aberrant behavior as present when it was first documented in the patient’s medical chart. The aberrant behavior was documented in the chart by any member of the clinical staff after being observed directly, reported by the patient or a family member or detected by a lab test.",Y,Indirect,,,
+1785,HEMORR<sub>2</sub>HAGES Score for Major Bleeding Risk,Bleeding risk in elderly AF.,1,predict hemorrhage in elderly patients with atrial fibrillation,"time to hospitalization for hemorrhage treatment (Page 715 outcomes assessment)
+
+To improve sensitivity in identifying major bleeds and based on recent findings, we included ICD-9-CM codes for hemorrhage in any position, rather than only the primary one. (Page 715 outcomes asessment) 
+
+*follow-up involved",Y,Indirect,EMR,"To obtain outcomes, reviewers linked abstractions of index hospitalizations to MEDPAR records and the denominator file of living Medicare beneficiaries. After linking follow-up data and removing identifiers, the QIOs sent the de-identified records to Washington University for inclusion into the NRAF data set.",Y,Indirect,,,
+1789,HIT Expert Probability (HEP) Score for Heparin-Induced Thrombocytopenia,Likelihood of HIT.,1,predict heparin induced thrombocytopenia,"HIT laboratory testing with a polyspecific HIT ELISA and serotonin release assay (SRA) (Page 2642 - Summary)
+
+*follow-up involved",Y,Hybrid,Telephone and EMR,Clinical information on each subject was collected by chart review and follow-up telephone interview 30 days after initial evaluation.,Y,Hybrid,,,
+1842,ATRIA Stroke Risk Score,Stroke risk in Afib.,1,predict ischemic stroke and thromboembolism with atrial fibrillation,"Ischemic stroke was defined as sudden onset of a neurologic deficit lasting >24 hours and not attributable to other identifiable causes.13 Other thromboembolic events were considered valid if they met the following criterion: sudden occlusion of an artery to a visceral organ or extremity documented by imaging, surgery, or pathology and not attributable to concomitant atherosclerosis or other etiology. (Page 2 Outcome Event Identification)
+
+*follow-up involved",Y,Indirect,EMR and hospitalization/billing claims database,"From the index date through August 31, 1999, we prospectively searched hospitalization and billing claims databases for discharge diagnoses indicating potential thromboembolic and outcome events. A total of 783 potential thromboembolic events were individually adjudicated by medical records review.
+
+https://jamanetwork.com/journals/jama/fullarticle/197710",Y,Indirect,,,
+1856,Vancouver Chest Pain Rule,2-hour rule out for low risk chest pain.,1,predict need for provocative cardiac testing for potential ischemic chest pain,"30-day ACS diagnosis
+
+*follow-up involved",Y,Hybrid,Telephone,Research staff contacted patients via telephone to review medications and document physician or hospital visits that occurred within 30 days of the index ED visit.,Y,Hybrid,,,
+1858,Emergency Department Assessment of Chest Pain Score (EDACS),"Identifies low risk chest pain, longer but more specific than HEART.",1,assess chest pain symptoms for early discharge,"major adverse cardiac event (MACE) defined as ST-elevation or non-ST-elevation MI, required emergency revascularisation procedure, had died of cardiovascular causes, and had suffered a ventricular arrhythmia, cardiac arrest, cariogenic shock or a high atrio-ventricular block within 30 days based on TELEPHONE CONTACT, review of patient hospital notes, and electronic health events. (Page 37 Outcome assessment)
+
+*follow-up involved",Y,Hybrid,Telephone and EMR,"Patients were followed up to determine the occurrence of MACE within 30 days of presentation using the fol- lowing methods: telephone contact, review of patients’ hospital notes and an electronic health events search (which identifies any deaths).",Y,Hybrid,,,
+1870,Confusion Assessment Method for the ICU (CAM-ICU),Monitors delirium in ICU patients.,1,detect delirium in high-risk settings,"The final diagnoses of the psychiatrist, as confirmed by follow-up medical record review, were the reference standard against which the CAM was assessed (Page 942 - Concurrent Validation - Procedure)",N,-,,"""follow-up medical record review"" has no baseline measurement. It is just checking the first diagnosis on EMR",N,-,,,
+1875,Modified Early Warning Score (MEWS) for Clinical Deterioration,Severity screening of declining conditions.,1,identify medical patients at risk of catastrophic deterioration,"Death, intensive care unit (ICU) admission, high dependency (HDU) admission, cardiac arrest, survival and hospital discharge at 60 days. (Page 521 - Summary)
+
+*follow-up involved",N,-,In-person,"Primary endpoints were HDU admission, ICU admission, attendance of the cardiac arrest team at a cardiorespiratory emergency and death at 60 days.",Y,Indirect,N,-,jed said yes - direct
+1892,DRAGON Score for Post-TPA Stroke Outcome,Calculate before tPA; predicts long term outcome.,1,predict outcome of ischemic stroke patients receiving IV alteplase,"mRS score after 3 months. A good mRS score is defined as 0-2 (independence in activities of daily living). Poor outcome was defined as mRS score 3-6. Miserable outcome was defined as 5 (bedridden, incontinent, and requiring constant nursing care and attention), and 6 score (dead). (Page 428 - Methods)
+
+*follow-up involved",Y,Direct,In-person,Pretreatment NIHSS score and 3-month mRS score were assessed by certified stroke neurologists.,Y,Direct,,,
+2011,DASH Prediction Score for Recurrent VTE,Predicts likelihood of recurrence of first VTE.,1,predict disease recurrence in patients with previous unprovoked venous thromboembolism,Follow-up until symptomatic recurrent VTE; death from another cause; resumption of anticoagulant therapy for another reason; or the study ended (Page 1020 - Methods - Patient follow-up and outcomes),Y,Indirect,Database,We therefore undertook a meta-analysis of individual patient data derived from prospective studies that included patients with a first VTE who received conventional anticoagulant therapy and were followed for up to 5 years after treatment was stopped,Y,Indirect,,,
+2022,POMPE-C Tool for Pulmonary Embolism Mortality,Mortality for cancer patients with PE.,1,predict mortality from pulmonary embolism with cancer,"Death within 30 days (Page 1 - Abstract Methods)
+
+*follow-up involved",Y,Indirect,Database,From the data available in the PREVAIL data set,Y,Indirect,,,
+2023,Padua Prediction Score for Risk of VTE,"Inpatient risk of VTE, need for anticoagulation.",1,"assess the adjusted hazard ratio (HR) of vote in high-risk patients who had adequate in-hospital thromboprophylaxis in comparison with those who did not, and that of VTE in the latter group in comparison with low-risk patients",Follow-up for up to 90 days to assess occurrence of symptomatic VTE complications (Page 2450 - Summary),Y,Direct,In-person,,Y,Direct,,,
+2024,Lille Model for Alcoholic Hepatitis,Mortality in Alcoholic Hepatitis that's unresponsive to steroids.,1,generate a model to identify candidates for therapeutic strategies who have severe alcohol hepatitis that are treated with steroids,Follow-up for 6 month survival (Page 1349 - Patients and Methods Clinical and Biological Data),Y,Direct,In-person,"All patients were followed
+for at least 6 months. For patients lost to follow-up
+before 6months, data were censored at the last follow-up.",Y,Direct,,,
+2030,HAT (Hemorrhage After Thrombolysis) Score for Predicting Post-tPA Hemorrhage,Hemorrhage risk after tPA.,1,predict risk of intracerebral hemorrhage after treatment with IV tissue-plasminogen activator (t-PA) in patients with ischemic stroke,Hemorrhages on follow-up MRI were identified as areas of susceptibility effect (signal loss; darkening) on T2* images. SICH in our patients was defined as ICH associated with an increase of >=4 points on the NIHSS score from baseline assessment. Hemorrhage with final fatal outcome (HFFO) refers to death during hospitalization after the development of ICH. (End of Page 1418 and mainly 1419 - Methods - scale development),Y,Indirect,Database,"We reviewed our prospectively collected stroke database from 2001 to 2007. We included consecutive patients with AIS, treated with IV t-PA within 3 hours from symptom onset according to the NINDS trials protocol and the American Stroke/Heart Association guidelines,17 Results of the official
+neuroradiology report were used to determine the presence and extent of visible hypodensity on initial head CT scan and the presence vs absence of ICH on follow-up scans",Y,Indirect,,,
+2044,STONE Nephrolithometry Score for Renal Calculi,"Predicts renal stone recurrence, after CT.",1,predict outcomes for percutaneous nephrolithotomy,"Score correlation with the stone-free rate (SFR). To assess for residual stones, intraoperative flexible nephroscope with fluoroscopy was performed in all patients to explore all chalices. Additionally, the stone-free status was assessed for all patients at the 3-month follow-up visit using renal ultrasonography (Page 1155 - Perioperative Data)",Y,Direct,In-person,"Additionally,
+the stone-free status was assessed for all patients at the
+3-month follow-up visit using renal ultrasonography.",Y,Direct,,,
+2046,UCSF-CAPRA Score for Prostate Cancer Risk,Post-treatment outcomes for prostate cancer.,1,risk assessment for prostate cancer metastasis and mortality at diagnosis,"Death from prostate cancer listed as a primary, secondary, or tertiary cause of death and no other malignancy was listed as a higher order cause (end of Page 879 to 880 - Patients and Methods - Patient Cohort)
+
+*follow-up involved",Y,Indirect,Database,"We studied 10 627 men with clinically localized prostate cancer in the Cancer of the Prostate Strategic
+Urologic Research Endeavor registry, who underwent primary radical prostatectomy, radiation therapy
+(external beam or interstitial), androgen deprivation monotherapy, or watchful waiting/active surveillance,
+and had at least 6 months of follow-up after treatment.
+
+If the patient has been lost to follow-up or a state death certifi cate is not available, the National Death Index is queried to identify date and cause of death. Additional details regarding CaPSURE ’ s methodology have been reported previously ( 10 , 11 ).",Y,Indirect,,,
+2049,D'Amico Risk Classification for Prostate Cancer,Assesses 5 year failure of prostate CA treatment failure.,1,"estimate control of prostate-specific antigen after radical prostatectomy, external beam radiation therapy, or interstitial radiation therapy for clinically localized prostate cancer","Actuarial freedom from prostate-specific antigen (PSA) failure (Page 969 Main Outcome Measure)
+
+*follow-up included",Y,Direct,In-person,"If the patient has been lost to follow-up or a state death certifi cate is not available, the National Death Index is queried to identify date and cause of death. Additional details regarding CaPSURE ’ s methodology have been reported previously ( 10 , 11 ).",Y,Direct,,,
+2075,NEXUS Chest Decision Instrument for Blunt Chest Trauma,Blunt chest trauma decision making.,1,validate existing NEXUS chest decision instrument for chest imaging of blunt trauma patients with very low risk of thoracic injury,"Thoracic injury seen on chest imaging by pneumothorax, hemothorax, aortic or great vessel injury, 2 or more rib fractures, ruptured diaphragm, sternal fracture, and pulmonary contusion or laceration seen on radiiographs (Page 940 - Main Outcomes and Measures)
+
+*follow-up involved",Y,Direct,Telephone,"we obtained written consent for telephone follow-up of
+nonimaged blunt trauma patients dischargedfrom1 of theEDs.
+We contacted these patients between 2 weeks and 3 months
+ofEDdischargeandaskedthemwhether theyhadseen a health
+care provider for chest injuries",Y,Direct,,,
+2141,Kruis Score for Diagnosis of Irritable Bowel Syndrome (IBS),Diagnoses IBS.,1,create a scoring system for diagnosis of IBS,"The diagnostic accuracy of this simple adapted scoring system was compared with the extensive routine workup as listed in Table 1 (this included laboratory tests, endoscopy tests, ultrasonography, stool sample, lactose tolerance and small bowel biopsy for lactase activity, and thyroid panel) (Page 2 - Materials and Methods)
+
+*follow-up involved",Y,Indirect,Unclear,"(not really related to study outcome though) Of the 108 IBS patients, 97 were followed for l-47 mo (median 4 mo).",Y,Indirect,,,
+2143,Sokal Index for Chronic Myelogenous Leukemia (CML),CML survival.,1,determine prognosis in “good-risk” chronic granulocytic leukemia,"Determination of mortality through follow-up and the patient’s status at that time (alive, dead of leukemia, or dead of other cause) were recorded (Page 790 - Materials and Methods - Patients)",Y,Indirect,database,"This report is based on data submitted by cooperating investigatons for 813 nonblastic Ph’-positive patients. This clinical material was collected from 6 sources, over somewhat different time periods
+
+Three serieshad a significant number of exclusions for incomplete work-up (including failure to obtain chromosome analysis) on follow-up.",Y, Indirect,,,
+2153,Memorial Sloan-Kettering Cancer Center (MSKCC/Motzer) Score for Metastatic Renal Cell Carcinoma (RCC),Predicts survival in RCC patients.,1,prognostic factors and predict survival in patients with metastatic renal cell carcinoma (RCC),"time to progression after systemic therapy, and survival and current status were recorded. (Page 2531 Patients and Methods - patients) The endpoint of interest was survival time, defined as the time from treatment initiation to the death date or last follow-up date (Page 2531 Patients and Methods - survival analysis)",Y,Indirect,Database,"All patients were treated on MSKCC Institutional Review Boardapproved
+clinical trials conducted between September 1975 and July
+1996. The patients were identified through registration on 24 consecutive
+MSKCC clinical trials;
+
+MSKCC (memorial sloan kettering cancer center)",Y,Indirect,,,
+2157,GAP Index for Idiopathic Pulmonary Fibrosis (IPF) Mortality,Staging and prognosis in IPF.,1,develop staging system for IPF,"mortality (Measurements Page 684)
+
+*follow-up involved",Y,Indirect,Database,"Design: A clinical prediction model was developed and validated by using retrospective data from 3 large, geographically distinct cohorts.",Y,Indirect,,,
+2175,Acute Gout Diagnosis Rule,Risk for gout.,1,study validity of gout diagnosis by physicians in primary care,"synovial fluid was aspirated from the affected joint of each patient and was microscopically analyzed to identify the presence of MSU crystals (Page 1121 - Procedures)
+
+*follow-up involved",Y,Direct,In-person,"If MSU crystals were later identified during the follow-up period, the patient was then classified as having gout according to the reference test, with the initial falsenegative MSU test result changed to a positive result",Y,Direct,,,
+2176,Disease Activity Score-28 for Rheumatoid Arthritis with ESR (DAS28-ESR),"RA severity, specifically based on ESR.",1,identify disease activity of rheumatoid arthritis,"Every six months plain anterior radiographs of the hands and feet were obtained (Assessments Page 917)
+
+*follow-up involved",Y,Direct,In-person,"At the time of analysis
+113 patients participated in the study and the
+follow up ranged from two to 39 months
+(number of check ups 1816).",Y,Direct,,,Looks good
+2177,Clinical Disease Activity Index (CDAI) for Rheumatoid Arthritis,"RA Severity, clinical data only.",1,identify score for rheumatoid arthritis activity,"Radiographic data were available for the majority of the 80 patients in the inception cohort who were followed for 3 years (n=56) (Page 799 Construct Validity)
+
+*follow-up involved
+",Y,Indirect,Database,"One source of data employed was a large observational cohort of RA outpatients, who were seen on a regular basis, usually every 3 months.",Y,Indirect,,,Looks good
+2193,Disease Activity Score-28 for Rheumatoid Arthritis with CRP (DAS28-CRP),"RA severity, specifically based on CRP.",1,identify disease activity of rheumatoid arthritis,"Every six months plain anterior radiographs of the hands and feet were obtained (Assessments Page 917)
+
+*follow-up involved",Y,Direct,In-person,"At the time of analysis
+113 patients participated in the study and the
+follow up ranged from two to 39 months
+(number of check ups 1816).",Y,Direct,,,Looks good
+2194,Simple Disease Activity Index (SDAI) for Rheumatoid Arthritis,"RA Severity, clinical data only.",1,identify activity index for rheumatoid arthritis,"comparing the SDAI with survey results obtained from rheumatologists' evaluations of disease activity in test cases (Page 244 Abstract - Methods)
+
+*survey from providers
+*follow-up involved",Y,Direct,In-person,"As a further test of the SDAI validity, the change in total
+Sharp score at 6 and 12 months’ treatment for all patients in
+the three trials was determined for those who met either major,",Y,Direct,,,Looks good
+2199,Disease Steps for Multiple Sclerosis,"MS progression, based on ambulation.",1,evaluate disease progression in multiple sclerosis,"Change was defined to be either improvement or worsening according to the criteria in the Methods above. For these analyses, the starting time for each patient was taken to be the time of first worsening observed during the first year of follow up. (Page 350 - Statistical Methods)
+
+*Patients were examined by one of nine neurologists. Patients were included if they had a diagnosis of probable or definite MS16 and at least two assessments performed on separate occasions, usually by the same neurologist. Simultaneous classifications of Disease Steps and EDSS were performed for each patient. Follow-up visits were typically scheduled every 6 months although some patients were seen more or less often depending on their need. (Page 350 - Materials and Methods)",Y,Direct,In-person,"Follow-up visits were
+typically scheduled every 6 months although some
+patients were seen more or less often depending on
+their need.",Y,Direct,,,"Should add some details here: Patients were examined by one of nine neurologists. Patients were included if they had a diagnosis of probable or definite MS16 and at least two assessments performed on separate occasions, usually by the same neurologist. Simulta- neous classifications of Disease Steps and EDSS were performed for each patient. Follow-up visits were typically scheduled every 6 months although some patients were seen more or less often depending on their need."
+2200,Fibrosis-4 (FIB-4) Index for Liver Fibrosis,Noninvasive estimate of liver fibrosis.,1,significant fibrosis in patients with HIV/HCV connection,"Liver histology was determined via Ishak score40 as assessed by local pathologists (from 95 centers in 19 countries). (Page 1318 - Methods)
+*follow-up involved",Y,Indirect,in-person,,,,Y,Indirect,
+2201,Veterans Aging Cohort Study (VACS) 1.0 Index,All-cause mortality for patients with HIV or HCV.,1,mortality after 1 year of antiretroviral therapy,"5-year, all-cause mortality from 1 year after initiation of ART. Observation time ended at the earlier of death, the date of last follow-up, or 6 years after ART initiation.",Y,Indirect,database,collaboration databases,,,Y,Indirect,
+2202,CKD Prediction in HIV+ Patients,5 year likelihood of CKD in HIV.,1,tenofovir safety for chronic kidney disease,"The primary study outcome was time to first occurrence of eGFR less than 60 ml/min per 1.73 m2. eGFR was calculated using the Chronic Kidney Disease Epidemiol- ogy Collaboration (CKD-EPI) formula based on age, sex, race and serum creatinine. CKD was defined by two consecutive estimates of GFR less than 60 ml/min per 1.73 m2 , wherein consecutive estimates were required to be at least 3 months apart and not obtained during inpatient admissions. (Page 1290 - Outcome)
+
+*follow-up involved",Y,Indirect,database,VA HIV clinical case registry (Source 10),,,Y,Indirect,
+2320,Follicular Lymphoma International Prognostic Index (FLIPI),Overall survival from FL.,1,prognosis of follicular lymphoma,"Follow-up until death, or for at least 5 years for surviving patients (Page 1259 - Patients)",Y,Indirect,database,analyzed data from 1985-1992. FLIPI retrospective study,,,Y,Indirect,
+2321,Groupe d'Etude des Lymphomes Folliculaires (GELF) Criteria,Assesses immediate therapy need.,1,evaluate therapeutic options for patients with follicular lymphoma,"All initial sites of the disease were reassessed after 6 and 18 months or when clinically indicated. Complete remission (CR) was defined as the disappearance of all clinical evidence of disease and normalization of radiographic findings and BM biopsy. Partial remission (PR) was defined as a reduction greater than 50% in the largest diameter of all measurable sites of disease. Disease was considered to be stable when tumor regression was less than 50%.( Page 1111 - Determination of Response to Treatment and Progression)
+
+*follow-up",Y,Direct,in-person,All initial sites of the disease were reassessed after 6 and 18 months or when clinically indicated,,,Y,Direct,
+2693,"MELD Score (Original, Pre-2016, Model for End-Stage Liver Disease)",Liver transplant planning.,1,survival in patients with end-stage liver disease,"3- month survival (Page 465 - What Criteria determine the validity of the model?)
+
+Patient survival was assessed as the interval from the day of hospitalization until death or last follow-up.",Y,Indirect,database,"All cirrhotic patients 18 years or older, hospitalized at the Mayo Clinic between January 1994 and January 1999 were identified using a computerized diagnostic index. Individual hospital records were reviewed to verify the diagnosis of cirrhosis and extract information including patient demographic data, liver disease diagnosis, portal hypertensive complications, and laboratory data.",,,Y,Indirect,
+3007,Mekhail Extension of the Motzer Score,Metastatic RCC survival.,1,survival in patients with previously untreated metastatic renal cell carcinoma,Survival was defined as the time from initiation of treatment to the date of death or last follow-up (Page 833 - Patients and Methods),Y,Indirect,database,Data were collected on 353 previously untreated metastatic RCC patients enrolled onto clinical trials between 1987 and 2002.,,,Y,Indirect,
+3008,IMDC (International Metastatic RCC Database Consortium) Risk Model for Metastatic Renal Cell Carcinoma,Metastatic RCC survival.,1,survival in patients with metastatic renal cell carcinoma,"Follow-up data has been updated significantly to allow for analysis of overall survival (OS; ie, different end point) (Page 5795 - Methods - Patient Population)",Y,Indirect,database,"patient data collected from different institutes
+
+Baseline demographic, clinical and laboratory data including those previously found to have prognostic value13-16 were collected retrospectively on all patients by using uniform database templates to ensure consistent data collection.",,,Y,Indirect,
+3009,UCLA Integrated Staging System (UISS) for Renal Cell Carcinoma (RCC),5 year prognosis for RCC.,1,predict natural history of patients with surgically resected renal cell carcinoma,Survival end point was date of death or date of last follow-up (Page 4560 - Metastatic Patients),Y,Indirect,database (prospective cohort study?),"A prospective cohort study was performed with outcome assessment on the basis of chart review of 814 patients who underwent nephrectomy be· tween 1989 and 2000.
+
+Between 1989 and 2000, 892 patients underwent nephrectomy for unilateral RCC at the UCLA Medical Center. Seventy-eight patients were excluded from the study because of either loss to follow-up",,,Y,Indirect,
+3012,Fuhrman Nuclear Grade for Clear Cell Renal Carcinoma,Prognose RCC based on cellular appearance.,1,prognosis from morphologic parameters in renal cell carcinoma,"Material from 85 patients who had either completed a minimum 5-year period of follow-up or died with well-documented evidence of their disease status through biopsy or autopsy was used in analyses involving metastatic potential. (Page 656 - Materials and Methods0
+
+*follow-up involved",Y,Indirect,database,see outcome measure column,,,Y,Indirect,
+3121,Infective Endocarditis (IE) Mortality Risk Score,6-month Mortality from Infective Endocarditis.,1,3121 - mortality in infective endocarditis,"6 month mortality (Page 4 - Model Derivation)
+
+*follow-up involved",Y,Indirect,database,ICE-PCS registry - 64 centers in 28 countries,,,Y,Indirect,
+3164,Alberta Stroke Program Early CT Score (ASPECTS),MCA stroke severity using CT data.,1,3164 - CT scan validity in predicting hyperacute stroke,"Symptomatic intracerebral hemorrhage and 3-month functional outcome (Page 1670 - Summary Methods)
+
+*follow-up involved",Y,Indirect,in-person,"The Rankin scale score at 3 months was assessed by a stroke neurologist or nurse stroke practitioner who was not aware of the results of the baseline CT, baseline NIHSS score, or the acute clinical events.",Y,Indirect,Y,Unclear,jed said direct here
+3311,Glasgow Prognostic Score (GPS) for Cancer Outcomes,Cancer prognosis based on biomarkers.,1,3311 - prognosis of inoperable non-small-cell lung cancer,Patients died during the follow-up period (Page 1029 - Results),Y,Indirect,database,"Information was abstracted from the case notes by a
+specially trained research nurse (LMF). Data for 1997–1999 were
+collected retrospectively and that for 2000–2002 prospectively",,,Y,Indirect,
+3312,Modified Glasgow Prognostic Score (mGPS) for Cancer Outcomes,Cancer prognosis based on biomarkers.,1,3312 - prognosis of cancer survival based on inflammation,"Survival, overall and cancer-specific, was calculated from the time of cancer diagnosis to death (Page 727 - Statistical Analysis)
+
+*follow-up involved",Y,Indirect,database,,,,Y,Indirect,
+3313,Prognostic Index for Cancer Outcomes,Predicts cancer mortality.,1,3313 - predict advanced non-small-cell lung cancer from pre-treatment inflammatory markers,"Computed tomography (CT) imaging of chest and abdomen, followed by metabolic imaging using positron-emission tomography, was used for staging (Page 53 - 2.1 Participant Identification)
+
+*follow-up involved",Y,Indirect,in-person?,prospective study,Y,Indirect,N,,closer to indirect (jed said hybrid)
+3315,Khorana Risk Score for Venous Thromboembolism in Cancer Patients,Predicts risk of VTE for cancer patients.,1,3315 - predict chemotherapy-associated thrombosis,"VTE was diagnosed by the treating clinician (Page 4903 - Study Population)
+
+*follow-up",Y,Indirect,database? (even though patients had to come in for chemotherapy),"The study population comprised consecutively enrolled patients in the Awareness of Neutropenia in Chemotherapy (ANC) Study Group Registry, an observational study of cancer patients initiating a new chemotherapy regimen at 115 sites within the United States, balanced for practice volume and geographic location.",,,Y,Indirect,
+3381,Asthma Predictive Index (API),Likelihood of childhood asthma.,1,3381 - define risk of asthma,"Parents of enrolled children were asked to complete questionnaires regarding their child’s history of respiratory conditions and health at different ages during childhood (Page 1403 - Methods)
+
+*follow-up involved",Y,Direct,database,"In the present study, we used the longitudinal data available in the Tucson Children’s Respiratory Study to describe predictive indices for asthma during the school years among children having wheezing episodes during the first 3 yr of life.",,,Y ,Direct,
+3382,Modified Asthma Predictive Index (mAPI),Predicts future asthma diagnosis.,1,3382 - determine development of asthma,"Proportion of episode-free days during the observation year (Page 1985 - Methods)
+
+*follow-up involved",Y,Direct,in-person,E,,,Y,Direct,
+3383,Pediatric Asthma Severity Score (PASS) for Asthma Exacerbation Severity,Severity of pediatric asthma.,1,3383 - evaluate severity of acute asthma,"We defined two dichotomous outcomes. The first was actual disposition - admission versus discharge - for which admission to short-stay unit or hospital were combined. We also defined an outcome of “need for hospitalization,” or the requirement for inpatient care beyond 24 hours, versus not needing hospitalization. (Page 12 - Measures)
+
+*follow-up involved",Y,Direct,in-person,The clinical findings were recorded on standardized asthma documentation forms in use at the two institutions,,,Y,Direct,
+3385,Prevention and Incidence of Asthma and Mite Allergy (PIAMA) Risk Score,Risk of asthma for school age children.,1,3385 - evaluate incidence of asthma,Follow-up the study children for 8 years to allow sufficient time for allergic sensitization and clinical manifestations to develop (Page 57 - Design of the PIAMA study),Y,Direct,in-person,in-home visit,,,Y,Direct,
+3647,Gail Model for Breast Cancer Risk,Breast CA risk based on demographic and clinical data.,1,3647 - predict breast cancer,"To obtain counts of breast cancers, we analyzed a file containing data on persons with hisotologically confirmed breast cancer (Page 1882 - Projecting long-term probabilities of developing breast cancer)
+
+*follow-up involved",Y,Indirect,database,,,,Y,Indirect,
+3676,Revised Natural History Model for Primary Sclerosing Cholangitis,Estimates survival in primary sclerosing cholangitis.,1,3676 - describe a history model for primary sclerosing cholangitis,"Interval between initial referral and patient’s death (Page 689 - Model Development and Validation)
+
+*follow-up involved",Y,Direct,in-person,CKiD cohort,,,Y,Direct,
+3803,MAGGIC Risk Calculator for Heart Failure,Estimates 1- and 3- year heart failure mortality.,1,3803 - survival in heart failure,Mortality during follow-up (Page 1406 - Results),Y,Indirect,database,does not describe how patients were followed up,,,Y,Indirect,
+3805,LACE Index for Readmission,Predicts 30-day readmission or death.,1,3805 - prognosis after discharge from hospital,Contacted either patients or their principal contacts (identified by each patient at recruitment) one month after discharge. 30-day time frame for our primary outcome. Follow-up (Page 552 - Study Design),Y,Direct,phone,having a phone is in inclusion criteria,,,Y,Direct,
+3815,NEXUS Chest CT Decision Instrument for CT Imaging,Identifies clinically significant thoracic injuries in blunt trauma patients.,1,3815 - need for chest CT in blunt trauma,"CT radiology readings (Page 1/17 - Abstract Methods and Findings)
+
+*follow-up involved",Y,Indirect,in-person,"there is mention of ""complete follow-up"" but it is not mentioned anywhere in methods",,,Y,Indirect,rob rodriguez
+3817,Simon Broome Diagnostic Criteria for Familial Hypercholesterolemia (FH),Diagnoses familial hypercholesterolemia (FH).,1,3817 - mortality from all causes and coronary heart disease in patients with familial hyperlipidemia,"Standardized mortality ratio, all adults in England and Wales being taken as standard (Page 893 - Abstract main outcome measure)
+
+*follow-up involved",Y,Indirect,database,or is it database to assess mortality?,,,Y,Indirect,
+3823,Metroticket Calculator for Hepatocellular Carcinoma (HCC) Survival,Predicts survival for patients with HCC.,1,3823 - prognosis of liver transplantation,"Overall survival was defined as time interval between liver transplantation and death from any cause (Page 36 - Data presentation and study endpoints)
+
+*follow-up",Y,Indirect,database,data from different centers input by specialists,Y,Indirect,N,-,
+3838,Michigan Risk Score for PICC-Related Thrombosis,PICC-related DVT.,1,3838 - predict peripherally inserted central catheter-associated thrombosis,"Image confirmed upper-extremity DVT cases (Page 2 - methods)
+
+*follow-up involved",Y,Indirect,database,data from a registry,,,Y,Indirect,
+3842,Revised Multiple Myeloma International Staging System (R-ISS),Prognostication of myeloma.,1,3842 - prognosis multiple myeloma,"Primary end point was OS, defined as the time from start of treatment until death as a result of any cause or until the last date the patient was known to be alive (Page 2864 - Patients)
+
+*follow-up involved",Y,Indirect,database,,Y,Indirect,Y,Direct,
+3875,Ottawa Subarachnoid Hemorrhage (SAH) Rule for Headache Evaluation,Rules out SAH.,1,3875 - characteristics for subarachnoid hemorrhage,"Subarachnoid haemorrhage, as defined by any of subarachnoid haemorrhage on computed tomography of the head, xanthochromia in the cerebrospinal fluid, or red blood cells in the final sample of cerebrospinal fluid with positive results on angiography. Physicians completed data collection forms before investigations. (Page 1 - Abstract- Main Outcome Measures)
+
+*follow-up involved",Y,Direct,telephone,,,,Y,Direct,
+3883,Functional Outcome in Patients With Primary Intracerebral Hemorrhage (FUNC) Score,Likelihood of functional independence after ICH.,1,3883 - functional independence after primary intracerebral hemorrhage,"“functional independence” was defined as Glasgow Outcome Scale >= 4 (Page 2305 - Subjects and Methods)
+
+*follow-up",Y,Direct,database,,Y,Direct,Y,Direct,jed said indirect
+3900,Milan Criteria for Liver Transplantation,Assess suitability of patients for liver transplant.,1,3900 - effectiveness of liver transplantation to treat hepatocellular carcinoma,"survival (overall, disease-free, and recurrence free) (Page S45 - Table 1)
+
+*follow-up",N,-,,meta-analysis (not unanimously follow-up on reviews included. ADD THIS TO METHODS),,,N,-,meta-analysis
+3902,Risk of Paradoxical Embolism (RoPE) Score,Identifies stroke-related PFO in cryptogenic stroke patients.,1,3902 - identify stroke-related vs incidental patent foramen ovale in cryptogenic stroke,"presence of a patent foramen ovale among patients with cryptogenic stroke (Page 620 - Methods)
+
+*follow-up involved",Y,Indirect,database,,Y,Indirect,N/A,,
+3906,EUTOS Score for Chronic Myelogenous Leukemia (CML),CML outcomes.,1,3906 - cryogenic response and progression-free survival,"cryogenic response status and progressed or died within 36 months or had a minimum follow-up of 36 months (Page 686 - Patients)
+
+*follow-up involved",Y,Indirect,database,,,,Y,Indirect,
+3916,BODE Index for COPD Survival,COPD survival.,1,3916 - predict health outcome of COPD,"One year mortality (Page 1006 - Methods)
+
+*follow-up involved",Y,Direct,in-person,,,,Y,Direct,
+3917,Charlson Comorbidity Index (CCI),10-year survival.,1,3917 - prognostic comorbidity in longitudinal studies,"Survival was measured in months from the date of admission to the hospital (zero time) to the date of death or to 1 yr after admission. As is customary, the patients who were lost to follow-up prior to 1 yr were considered as withdrawn alive as of the last date of follow-up for life table analysis (Page 374 - Follow-up)",Y,Hybrid,in-person,direct for development and indirect for validation,,,Y,Hybrid,
+3918,Hestia Criteria for Outpatient Pulmonary Embolism Treatment,Outpatient VTE treatment.,1,"3918 - identify risk of VTE recurrence, major bleeding, and mortality","The primary endpoint was objectively proved recurrent VTE during the 3 months of follow-up. Major bleeding and death within 3 months were defined as secondary endpoints. death resulting from recurrent PE (fatal PE), fatal bleeding, cancer, or another established diagnosis (Page 1502 - Outcomes and follow-up)",Y,Direct,in-person,,,,Y,Direct,
+3920,IMPROVE RAM (International Medical Prevention Registry on Venous Thromboembolism Risk Assessment Model),Estimates risk of VTE.,1,3920 - assess risk of VTE,"none
+
+*follow-up involved",Y,Indirect,database,,,,Y,Indirect,
+3925,Fong Clinical Risk Score for Colorectal Cancer Recurrence,Predicts outcome for colorectal cancer recurrence.,1,3925 - assess recurrence of colorectal cancer,"5-year and 10-year survival rate
+
+*follow-up involved",Y,Direct,in-person,,,,Y,Direct,
+3927,POSSUM for Operative Morbidity and Mortality Risk,Estimates morbidity and mortality for general surgery patients.,1,3927 - morbidity and mortality in surgery patients,"Outcome (dead/alive or complicated/uncomplicated) (Page 357 - Method of analysis)
+
+*follow-up involved",Y,Indirect,database,,,,Y,Indirect,
+3928,Endotracheal Tube (ETT) Depth and Tidal Volume Calculator,Estimates ETT depth and tidal volume.,1,3928 - treatment effectiveness for acute lung injury / acute respiratory distress syndrome,"Death before a patient was discharged home and was breathing without assistance. Number of days without ventilator use from day 1 to day 28 (Page 1301 - Methods)
+
+*follow-up involved",Y,Direct,in-person,,Y,Direct,,,
+3929,Asymptomatic Myeloma Prognosis,Predicts risk of progression to active myeloma or amyloidosis.,1,3929 - prognosis of multiple myeloma,"Progression to active multiple myeloma (anemia, hypercalcemia, renal insufficiency, or bone lesions) or amyloidosis (positive results on Congo red staining and characteristic clinical features). Follow-up included a review of the medical records of patients at the Mayo Clinic and of death certificates for patients who had died (Page 2583 - Follow-up and study end point)",Y,Indirect,database,,Y,Indirect,,,
+3932,Reynolds Risk Score for Cardiovascular Risk in Women,Estimates cardiac risk in women over 45.,1,3932 - cardiovascular disease,"Minimization of the bayes information criterion (Page 611 - Main Outcome Measure) 
+
+Incident myocardial infarction, ischemic stroke, coronary revascularization, and cardiovascular deaths (Page 612 - Methods)
+
+*follow-up involved",Y,Indirect,database,,Y,Indirect,,,
+3935,Pediatric Asthma Score (PAS),Pediatric asthma severity.,1,3935 - health outcome for hospitalized asthmatic children,"Length of stay (LOS), total cost of care, and readmission to the hospital or ED within 72 hours of discharge (Page 511 - Outcomes)
+
+*follow-up involved",N,-,,,N,-,,,no follow up
+3942,Troponin-only Manchester Acute Coronary Syndromes (T-MACS) Decision Aid,Rules out ACS.,1,3942 - acute coronary syndrome,"Prevalent acute myocardial infarction or incident death, AMI  or coronary revascularisation within 30 days. (Page 349 - Abstract Methods)
+
+*follow-up involved",Y,Direct,in-person,,Y,Direct,,,
+3943,Pittsburgh Response to Endovascular therapy (PRE) Score,LVO stroke patients for endovascularization.,1,3943 - benefit from endovascular therapy,"Final infarct volume 9mL) was determined by measuring the area of the infarct on each slice (diffusion-weighted MRI scan within the first 48 h following treatment or first available non-contrast head CT scan after 24 h of treatment) and then summating individual slice thicknesses of all outlined areas. (Page 784 - Measurements)
+
+*follow-up involved",Y,Indirect,database,,Y,Indirect,,,
+3946,Mirels’ Criteria for Prophylactic Fixation,Fracture risk with bone mets.,1,pathologic fracture through a metastatic lesion in a long bone.,"Scoring of the preirradiation roentgenograms was done separately by three consultant orthopedic surgeons (Page 258 - Materials and Methods) 
+
+*follow-up involved",Y,Indirect,database,,Y,Indirect,,,
+3948,EGSYS (Evaluation of Guidelines in SYncope Study) Score for Syncope,Identifies cardiac syncope.,1,cardiac syncope,"Diagnosis of cardiac syncope; mortality (Page 1620 - Main outcome measurements)
+
+ In particular mechanical cardiac syncope was diagnosed in the presence of severe valvular stenosis, or other flow obstruction, or when symptoms were present with ECG evidence of acute myocardial ischaemia. Arrhythmic syncope was diagnosed on the basis of a standard ECG, ECG monitoring, 24-h Holter recordings, or during the electrophysiological study. (Page 1621 - Diagnostic criteria)
+
+*follow-up involved",Y,Direct,in-person,,Y,Direct,,,
+3949,ROSE (Risk Stratification of Syncope in the Emergency Department) Rule,Morbidity and mortality in syncope patients.,1,syncope,"The primary end point was the combination of serious outcome and all-cause death at 1 month after ED presentation. 
+
+Serious outcome encompassed the following: 
+1) acute myocardial infarction (MI) according to the universal definition; 
+2) life-threatening arrhythmia (ventricular fibrillation, sustained ventricular tachycardia [120 beats/min], ventricular pause [3 s], ventricular standstill, or asystole); 
+3) decision to implant a pacemaker or cardiac defibrillator within 1 month of index collapse; 
+4) pulmonary embolus (confirmed on lung perfusion scan or CT pulmonary angiography); 
+5) cerebrovascular accident, intracranial hemorrhage, or subarachnoid hemorrhage (demonstrated by brain imaging or lumbar puncture); 
+6) hemorrhage requiring a blood transfusion of 2 U; or 
+7) acute surgical procedure or endoscopic intervention. Secondary end points were cardiovascular serious outcome (acute MI, arrhythmia, pacemaker/defibrillator implantation, or cardiac procedure) and syncope-related death (death due to cause of presenting syncopal episode). Patients were followed up 1 month after presentation through the hospital Electronic Patient Record system, hospital pacemaker records, radiological reports, and direct contact with the patient or general practitioner.  (Page 714 - Outcome measures and assignment)
+
+*follow-up involved",Y,Indirect,database,,Y,Indirect,,,
+3951,Canadian Syncope Risk Score,Morbidity and mortality in syncope patients.,1,adverse event after syncope,"death, myocardial infarction, arrhythmia, structural heart disease, pulmonary embolism, serious hemorrhage, and procedural interentions within 30 days (Abstract Methods - E289)
+
+*follow-up involved",Y,Direct,telephone,,Yes,Direct,,,
+3953,CHALICE (Children's Head injury ALgorithm for the prediction of Important Clinical Events) Rule,Clinically significant head injuries in children.,1,head injury,"death, need for neurosurgical interention or abnormality on a computed tomography scan (Abstract - Design Page 885)
+
+*follow-up involved",N,-,,"if they won't follow up, it was considered N",N,-,,,not everyone followed up
+3954,CATCH (Canadian Assessment of Tomography for Childhood Head injury) Rule,Clinically significant head injuries in children.,1,minor head injury,"neurologic intervention and presence of brain injury as determined by CT (Methods - Page 341)
+
+*follow-up involved
+",Y,Direct,telephone,,Y,Direct,,,
+3955,Palchak (UC Davis) Rule for Pediatric Head Trauma,Clinically significant head injuries in children.,1,3955 - blunt head trauma,"We defined traumatic brain injury requiring acute intervention by 1 or more of the following: the requirement for a neurosurgical procedure, ongoing antiepileptic pharmacotherapy beyond 7 days, the presence of a neurologic deficit that persisted until discharge from the hospital, or 2 or more nights of hospitalization because of treatment of the head injury. (Page 494 - Materials and Methods)
+
+*follow-up involved",Y,Direct,telephone,,Y,Direct,,,
+3975,HEART Pathway for Early Discharge in Acute Chest Pain,Early discharge in acute chest pain.,1,3975 - acute chest pain,"Objective cardiac testing (stress testing or angiography) (Methods and Results - Page 1)
+
+*follow-up involved",Y,Hybrid,telephone/database,,Yes,Hybrid,,,
+3976,Modified Hoehn and Yahr Scale for Parkinson’s Disease,Parkinson's disease severity.,1,3976 - Parkinsonism,"Combination of clinical data and presumed etiology (Page 428 - Classification)
+
+*follow-up involved",Y,Hybrid,telephone/database,,Yes,Hybrid,,,
+3981,Revised International Prognostic Scoring System (IPSS-R) for Myelodysplastic Syndrome (MDS),MDS staging.,1,3981 - prognosis of myelodysplastic syndrome,"Survival, AML evolution (Patient characteristics Page 2455)
+
+*follow-up involved",Y,Indirect,database,,Y,Indirect,,,
+3990,Killip Classification for Heart Failure,ACS mortality.,1,3990 - myocardial infarction mortality,"Mortality after eight months of operation (Page 460 - mortality)
+
+*follow-up involved (assumed but key term not explicit in article)",Y,Indirect,database,,Y,Indirect,,,
+3991,Duke Treadmill Score,CAD survival.,1,3991 - coronary artery disease prognosis,"Kaplan-Meier life-table estimates were used to generate cumulative survival curves from the day of catheterization (Page 794 - Statistical Analysis) 
+
+All patients were followed by clinic visit, mailed questionnaire, or telephone interview at 6 months and 1 year after catheterization, and thereafter at yearly intervals (Page 794 - Patients and Methods)
+
+*follow-up involved",Y,Direct,in-person/telephone,,Y,Direct,,,
+3994,Ottawa Heart Failure Risk Scale (OHFRS),Heart failure risk (ED patients).,1,3994 - adverse events after having heart failure,"Serious adverse events defined as death from any cause within 30 days of the ED visit, or any of the following within 14 days of the index ED visit, regardless of whether initially admitted: 
+1) Admission to a critical care or acute monitoring unit where the patient is too ill to ambulate; this excludes ambulatory telemetry units. 
+2) Endotracheal intubation or need for noninvasive ventilation after hospital admission, unless on noninvasive ventilation at home. 
+
+3) MI, as defined by international consensus standards. Either one of the following criteria satis!es the diagnosis for an acute, evolving, or recent MI: 
+i) Typical rise and gradual fall of troponin with at least one of the following: a) ischemic symptoms, b) development of pathologic Q waves on the ECG, c) ECG changes indicative of ischemia, or d) coronary artery intervention (e.g., coronary angioplasty). 
+ii) Pathologic findings of an acute MI. 
+
+4) Major procedure de!ned as coronary artery bypass graft, percutaneous coronary intervention, other cardiac surgery, or new hemodialysis. 
+5) Relapse and hospital admission for patients who were discharged on the initial ED visit, de!ned as a return to the ED for any related medical problem within 14 days followed by admission to hospital; relapse to the ED without associated admission was not considered a SAE. (Page 19 - Outcome Measures)
+
+*follow-up involved",Y,Indirect,database,,Y,Indirect,,,
+4000,FINDRISC (Finnish Diabetes Risk Score),T2DM risk.,1,4000 - diabetes type 2,"The end point of follow-up was development of drug-treated diabetes. To identify prevalent diabetes in the 1987 survey, the subjects were asked to fast for at least 4 h before the scheduled examination. Blood samples for determination of fasting blood glucose levels were collected from participants aged 45–64 years. (Page 726 - Research Design and Methods)
+
+*follow-up involved",Y,Indirect,database,,Y,Indirect,,,
+4004,Bova Score for Pulmonary Embolism Complications,PE complications if hemodynamically stable.,1,4004 - adverse PE-related clinical events,"Assessment of RV dysfunction either by echocardiogram or CT; measurement of markers of myocardial injury
+
+*follow-up involved",N,-,,E,N,-,,,meta analysis
+4005,HERDOO2 Rule for Discontinuing Anticoagulation in Unprovoked VTE,Stop anticoagulation in VTE.,1,4005 - unprovoked thromboembolism,"Objective documentation of deep vein thrombosis required the presence of a noncompressible segment on a compression ultrasound of the popliteal vein or a more proximal leg vein. Objective documentation of a pulmonary embolism required a high-probability ventilation–perfusion scan or a segmental or larger artery filling defect on a spiral computed tomography (CT) scan. We defined an unprovoked index venous thromboembolism as one that occurred in the absence of a leg fracture or lower-extremity plaster cast, immobilization for greater than 3 days or surgery using a general anesthetic in the 3 months before the index event, and without the diagnosis of a malignant disease in the past 5 years (Page 418 - study design and selection of participants)
+
+*follow-up involved",Y,Direct,,,Y,Direct,,,
+4010,LENT Prognostic Score for Malignant Pleural Effusion,Malignant pleural effusion survival.,1,4010 - survival in malignant pleural effusion,"Survival time was calculated from the date of diagnosis of MPE to death (Page 1099 Methods)
+
+*follow-up involved",Y,Indirect,,E,Y,Indirect,,,database
+4022,Marburg Heart Score (MHS),Rules out CAD (primary care).,1,4022 - coronary artery disease,"A reference panel of one cardiologist, one primary care physician and one research staff member of the Department of General Practice at the University of Marburg reviewed baseline and follow-up data for every patient. The panel decided on whether coronary artery disease was present or absent at the time of the index consultation (delayed-type reference standard). It based its decision on all of the results available after the follow-up period (index questionnaire, the attending physician’s provisional diagnosis, coronary angiography, if available, and results of noninvasive tests such as electrocardiography, exercise test and echocardiography). A diagnosis of coronary artery disease was based on recommendations from the German Program for Disease Management Guidelines. (Page 1296 - Reference Standard)
+
+*follow-up involved",Y,Direct,,,Y,Direct,,,telephone
+4028,Blast Lung Injury Severity Score,Blast lung severity.,1,4028 - biast lung injury,"Lung injury was estimated 6 and 24 h after admission by the modified Murray score for estimation of lung injury, and was defined as ALI or ARDS. (Page 166 - Measurements)
+
+*follow-up involved",Y,Indirect,,E,Y,Indirect,,,
+4031,Hypoglycemia Risk Score,Hypoglycemia prediction.,1,4031 - T2DM,Hypoglycemia-related ED or hospital use during 12 months of follow-up (Page 1461 - Main Outcomes and Measures),Y,Indirect,,E,Y,Indirect,,,
+4053,Mantle Cell Lymphoma International Prognostic Index (MIPI),Mantle cell lymphoma survival.,1,4053 - prognosis with advanced-stage mantle cell lymphoma,The outcome parameter was OS calculated from the day of recruitment to death from any cause or to the latest follow-up date. (Page 559 - Candidate prognostic factors and outcome parameters),Y,Indirect,,E,Y,Indirect,,,
+4054,International Prognostic Index for Chronic Lymphocytic Leukemia (CLL-IPI),CLL risk stratification.,1,4054 - chronic lymphocytic leukemia prognosis,"Overall survival calculated from study entry to date of death for patients of the full analysis dataset (training and internal-validation datasets) and from diagnosis to date of death for the external-validation datasets. (Page 781 - Methods - data analysis)
+
+*follow-up involved",Y,Indirect,,E,Y,Indirect,,,
+4057,Solitary Pulmonary Nodule (SPN) Malignancy Risk Score (Mayo Clinic Model),Risk that lung nodule is malignant.,1,4057 - risk of malignancy,"(1) radiographic follow-up for 2 years or more (if it resolved or decreased in size, or there was no growth, the nodule was considered to be benign); (2) surgical diagnosis; (3) TNAB positive for malignancy; or (4) bronchoscopic biopsy, washing, or brushing positive for malignancy. (Page 850 - Patients and Methods)
+
+*follow-up involved",N,-,,E,N,-,,,meta analysis
+4060,Aortic Dissection Detection Risk Score (ADD-RS),Rules out aortic dissection.,1,4060 - acute aortic syndromes,"Final case adjudication was based on conclusive diagnostic imaging, autopsy, surgery or on 14-day follow-up. (Page 2 - Methods)",Y,Hybrid,,E,Y,Hybrid,,,
+4067,YEARS Algorithm for Pulmonary Embolism (PE),PE rule-out.,1,4067 - pulmonary embolism,"3-month incidence of symptomatic venous thromboembolism in the overall population and in patients managed with and without CTPA separately. (Page 291 - Outcomes)
+
+*follow-up",Y,Direct,,E,Y,Direct,,,
+10014,IMPACT Score for Outcomes in Head Injury,TBI outcomes.,1,10014 - TBI outcome,"6 month glaucoma outcome scale: dead, vegetative state, severe disability, moderate disability, good recovery
+
+*follow-up involved (assumption based on 6 month follow)",Y,Indirect,,E,Y,Indirect,,,
+10016,Dual Antiplatelet Therapy (DAPT) Score,Prolonged (>1 year) dual antiplatelet therapy after PCI.,1,10016 - dual anti platelet therapy outcome after 1 year of percutaneous coronary intervention,"Ischemia (myocardial infarction or stent thrombosis) and bleeding (moderate or severe) 12 to 30 months after PCI (Page 1735 - Main Outcomes and Measures)
+
+*follow-up involved",Y,Hybrid,,E,Y,Hybrid,,,
+10020,ACTION ICU Score for Intensive Care in NSTEMI,Critical NSTEMI complications.,1,10020 - need for intensive care,"We defined complications requiring ICU care as cardiac arrest, shock, heart block requiring pacemaker placement, respiratory failure, stroke, or death occurring any time during the hospitalization. (Page 2 - Data definitions)
+
+*follow-up involved",Y,Indirect,,E,Y,Indirect,,,
+10022,ARISCAT Score for Postoperative Pulmonary Complications,Post-op pulmonary complications.,1,10022 - postoperative pulmonary complications,"The main outcome, a PPC, was a composite of the in-hospital fatal or nonfatal postoperative events, as defined in table 1. Complication: 
+
+Respiratory infection - When a patient received antibiotics for a suspected respiratory infection and met at least one of the following criteria: new or changed sputum, new or changed lung opacities, fever, leukocyte count 12,000 
+
+Respiratory failure - When postoperative PaO2 60 mmHg on room air, a ratio of PaO2 to inspired oxygen fraction 300 or arterial oxyhemoglobin saturation measured with pulse oximetry 90% and requiring oxygen therapy 
+
+Pleural effusion - Chest x-ray demonstrating blunting of the costophrenic angle, loss of the sharp silhouette of the ipsilateral hemidiaphragm in upright position, evidence of displacement of adjacent anatomical structures, or (in supine position) a hazy opacity in one hemithorax with preserved vascular shadows 
+
+Atelectasis - Lung opacification with a shift of the mediastinum, hilum, or hemidiaphragm toward the affected area, and compensatory overinflation in the adjacent nonatelectatic lung 
+
+Pneumothorax - Air in the pleural space with no vascular bed surrounding the visceral pleura 
+
+Bronchospasm - Newly detected expiratory wheezing treated with bronchodilators 
+
+Aspiration pneumonitis - Acute lung injury after the inhalation of regurgitated gastric contents (Page 1340 - Outcomes)
+
+*follow-up only",Y,Hybrid,,E,Y,Hybrid,,,
+10023,Leiden Clinical Prediction Rule for Undifferentiated Arthritis,Rheumatoid arthritis diagnosis.,1,10023 - rheumatoid arthritis diagnosis,"Baseline blood samples were obtained for determination of the erythrocyte sedimentation rate (ESR), the C-reactive protein (CRP) level, the presence of IgM rheumatoid factor (RF), as determined by enzyme-linked immunosorbent assay (ELISA), and the presence of antibodies to cyclic citrullinated peptide 2 (anti-CCP), as determined by ELISA (Immunoscan RA Mark 2; Euro-Diagnostica, Arnhem, The Netherlands). The cutoff level for anti-CCP positivity was 25 arbitrary units. Radiographs of the hands and feet were obtained and scored according to the Sharp/van der Heijde method (18). (Page 434 Patients and Methods)
+
+*follow-up involved",Y,Indirect,,E,Y,Indirect,,,database
+10025,Ocular Hypertension Treatment Study (OHTS) Calculator,Primary open angle glaucoma prevention.,1,10025 - primary open-angle glaucoma,"Development of reproducible visual field abnormality or reproducible optic disc deterioration attributed to primary open-angle glaucoma (Page 701 - Main Outcome Measures)
+
+*follow-up involved",Y,Direct,,E,Y,Direct,,,
+10031,REACH-B Score for Hepatocellular Carcinoma (HCC),HCC risk in hep B.,1,10031 - hepatocellular carinoma,"Histopathological confirmation; detection of a positive lesion with at least two imaging techniques (abdominal ultrasound, angiogram, or CT); or detection with one imaging technique coupled with an α-fetoprotein concentration greater than 400 μg/L. (Page 569 - Methods)
+
+*follow-up involved",Y,Indirect,,E,Y,Indirect,,,
+10035,DIRE Score for Opioid Treatment,Opioid treatment compliance.,1,10035 - opioid treatment compliance,"The main outcome measures were: global impression of compliance and efficacy as indicated in the medical record and by interview with the patient’s treating clinician; and final disposition, ie, whether or not opioids were continued or discontinued at the time of last clinical documentation. (Abstract - Page 671)
+
+*follow-up only",Y,Indirect,Indirect,E,Y,Indirect,,,
+10040,Duval/CIBMTR Score for Acute Myelogenous Leukemia (AML) Survival,AML survival.,1,10040 - acute leukemia prognosis,"3-year overall survival (OS). OS was defined as time from the date of transplantation to the date of death or last contact. (Study End Points Page 3731)
+
+*follow-up involved",Y,Indirect,,E,Y,Indirect,,,database
+10045,Kidney Failure Risk Calculator,Kidney failure risk in CKD.,1,10045 - kidney failure,"Need for dialysis or preemptive kidney transplantation
+
+*follow-up involved",Y,Indirect,database,E,,,Y,Indirect,
+10051,HOSPITAL Score for Readmissions,Readmission prediction.,1,10051 - hospital readmission,"Potentially avoidable 30-day readmissions to 3 hospitals of the Partners Health-Care network were identified using a validated computerized algorithm based on administrative data (SQLape). (Page 632 - Main Outcome Measures)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,Y,Direct,
+10052,Liver Decompensation Risk after Hepatectomy for Hepatocellular Carcinoma (HCC),Post-hepatectomy decompensation.,1,10052 - liver decompensation after resection,"Postsurgical LD was defined as previously reported by the occurrence of any of the following liver-related complications graded as DCC greater than 1 during hospitalization: 
+
+(1) refractory ascites causing a delay in the removal of surgical drains and/or requiring paracentesis (grade 2 or grade 3a complication); 
+
+(2) increase of bilirubin levels to more than 3 mg/dL (to convert to micromoles per liter, multiply by 17.104); 
+
+(3) alteration of coagulation factors requiring fresh-frozen plasma infusion with an international normalized ratio of more than 1.50 (in the absence of serum bilirubin levels >12 mg/dL); and 
+
+(4) renal impairment, defined as a serum urea nitrogen level of more than 2.00 g/L (to convert to millimoles per liter, multiply by 0.357) and/or increase of serum creatinine level to more than 2 mg/dL (to convert to micromoles per liter, multiply by 88.4) requiring dopamine hydrochloride or terlipressin therapy or dialysis. (Page 847-848 Complications and LD Assessment)
+
+*follow-up involved",Y,Direct,in-person,E,,,Y,Direct,
+10053,Binet Staging System for Chronic Lymphocytic Leukemia (CLL),CLL stage classification.,1,10053 - chronic lymphocytic leukemia staging,"Stage 0, peripheral and bone marrow lymphocytosis without lymph node enlargement or splenomegaly; 
+
+Stage I, peripheral and bone marrow lymphocytosis with lymph node enlargement but without splenomegaly; 
+
+Stage II, peripheral and bone marrow lymphocytosis without lymph node enlargement but with palpable splenomegaly; 
+
+Stage III, stage I + stage II; and 
+
+Stage IV, peripheral and bone marrow lymphocytosis combined with either fairly severe anemia (hemoglobin < 10 g/100 ml) or fairly severe thrombocytopenia (platelets < 100,000/mm3). (Page 856 - Clinical Staging)
+
+*follow-up involved",Y,Direct,in-person,E,,,Y,Direct,
+10054,Rai Staging System for Chronic Lymphocytic Leukemia (CLL),CLL stage classification.,1,10054 - chronic lymphocytic leukemia staging,"At clinical stage 0, the findings at diagnosis were lymphocytosis only, in blood as well as in bone marrow (absolute lymphocytes, 15,OOO/cu mm or more in blood, with 40% or more lymphocytes in the marrow). 
+
+At clinical stage I, the findings at diagnosis were lymphocytosis with enlarged lymph nodes. 
+
+At clinical stage II, the findings at diagnosis were lymphocytosis with enlarged spleen or liver or both. Nodes mayor may not be enlarged. 
+
+At clinical stage III, the findings at diagnosis were lymphocytosis with anemia (hemoglobin less than II g/IOO ml or hematocrit less than 33%). Nodes, spleen, or liver mayor may not be enlarged. No distinction was made with regard to the type of anemia, e.g., hemolytic or otherwise. 
+
+At clincal stage IV, the findings at diagnosis were lymphocytosis with thrombocytopenia (platelet count less than lOO,OOO/cu mm). Anemia and organomegaly mayor may not be present. All hematologic tests were performed by the prevailing standard methods. The method of platelet counting varied between the different institutions. The indirect method of calculating the platelet count from the erythrocyte count and from the number of platelets per 1000 erythrocytes in the peripheral blood smear was used most often until the late 19508. In the 1960, all institutions gradually switched to the Brecher-Cronkite phase-contrast method. (Page 220-221 Materials and Methods)
+
+*follow-up involved",Y,Indirect,database,E,,,Y,Indirect,
+10059,PEDIS Score for Diabetic Foot Ulcers,Diabetic ulcer outcomes.,1,10059 - diabetic foot ulcer,"All patients were followed for at least 6 months or until death. Outcome was categorized as healed (defined as a continuous, viable epithelial covering over the entire previously open wound), unhealed (defined as not complete re-epithelialization of the wound), amputation (included minor and major amputations) or death (whether from related causes of DFU or not). (Page 4 - Outcome)
+
+*follow-up involved",Y,Indirect,database,E,,,Y,Indirect,
+10065,Steinhart Model for Acute Heart Failure (AHF) in Undifferentiated Dyspnea,AHF diagnosis with NT-proBNP.,1,10065 - acute heart failure,"Adjudication for AHF was determined independently by 2 cardiologists by use of the Framingham Heart Score and NHANES I (National Health and Nutrition Examination Survey) Heart Failure Criteria as guides. Each cardiologist (doctor) had available all index ED medical charts, further hospital admission test results and records (e.g., echocardiogram, computed tomography thorax, pulmonary function studies; patient response to diuretic or broncholytic therapy), and results of a 60-day follow-up telephone conversation but were blinded to the NT-proBNP levels. Because AHF is a clinical diagnosis, their final diagnoses were considered the “gold standard” reference for outcome measurements. (Page 1516 - Methods)
+
+*follow-up involved",Y,Direct,telephone,E,,,Y,Direct,
+10066,DIPSS (Dynamic International Prognostic Scoring System) for Myelofibrosis,Primary myelofibrosis survival.,1,10066 - survival in primary myelofibrosis,"The end points of the study were time to acquisition of the selected risk factors and survival. Risk factors were age older than 65 years, hemoglobin level lower than 100 g/L (10 g/dL), white blood cell count greater than 25*10^9/L, peripheral blood blasts equal to or greater than 1%, and presence of constitutional symptoms (10% weight loss in 6 months, night sweats, unexplained fever higher than 37.5°C). For each patient, the date of acquisition of these risk factors during follow-up was registered. (Study Design - Page 1704)",Y,Direct,in-person,E,,,Y,Direct,
+10070,ALBI (Albumin-Bilirubin) Grade for Hepatocellular Carcinoma (HCC),HCC survival.,1,10070 - liver function,Survival was measured from the date of diagnosis (first presentation with HCC) to date of death or last follow-up. (Page 553 - Patients and Methods),Y,Indirect,database,E,,,Y,Indirect,
+10071,REVEAL Registry Risk Score 2.0 for Pulmonary Arterial Hypertension (PAH),PAH survival.,1,10071 - pulmonary arterial hypertension survival,"1-year survival (evaluated by Kaplan-Meier curves) (Page 354 - Methods)
+
+*follow-up involved",Y,Indirect,database,E,,,Y,Indirect,
+10075,ACEF II Risk Score for Cardiac Surgery,Cardiac surgery mortality.,1,10075 - cardiac surgery mortality,"Operative mortality, defined as 
+
+(i) in-hospital mortality at any time or 
+
+(ii) mortality after discharge but within 30 days from surgery (Page 2184 - Definitions)
+
+*follow-up involved (assumed but key term not explicitly listed)",N,-,,E,,,N,--,
+10078,Pediatric NEXUS II Head CT Decision Instrument for Blunt Trauma,Pediatric head trauma.,1,10078 - pediatric head trauma,"Head CT scan results (Data Analysis - Page 956)
+
+*follow-up involved",Y,Direct,database,E,,,Y,Direct,
+10082,WPSS (WHO classification-based Prognostic Scoring System) for Myelodysplastic Syndrome,MDS survival.,1,10082 - myelodysplastic syndrome (MDS) prognosis,"The actuarial probabilities of overall survival (OS) and leukemia-free survival (LFS) were estimated using the Kaplan-Meier product limit method. (Page 233a - Abstract)
+
+*follow-up involved",Y,Direct,in-person,E,,,Y,Direct,
+10084,RegiSCAR Score for Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS),RIP score.,1,10084 - recurrence risk after first-time dislocation,"Clinical and surgical notes were reviewed to determine episodes of recurrent instability and patients undergoing patellar stabilization surgery such as lateral retinacular release, medial retinacular imbrication, and MPFL repair or reconstruction. (Page 538 - Study Population and Design
+
+*follow-up involved",Y,Indirect,database,E,,,Y,Indirect,
+10087,Mehran Score for Post-PCI Contrast Nephropathy,Renal failure after cath.,1,10087 - contrast-induced nephropathy,"“Contrast-induced nephropathy” was defined as an increase of 25% or 0.5 mg/dl in pre-PCI serum creatinine at 48 h after PCI. (Page 1394 - Clinical Definitions and follow-up)
+
+*follow-up involved",N,-,,E,Y,Unclear,Y,Unclear,jed said yes - unclear
+10089,HScore for Reactive Hemophagocytic Syndrome,Hemophagocytic syndrome diagnosis.,1,10089 - hemophagocytic syndrome,"Pathologic findings (hemophagocytosis on bone marrow aspiration or biopsy) (Page 2614 - Patients and Methods)
+
+*follow-up involved",Y,Indirect,database,E,Yes,Indirect,,,
+10090,AWOL Score for Delirium,Delirium risk.,1,10090 - delirium,"All subjects were assessed for delirium daily for 6 days after enrollment or until discharge, whichever came first. Follow-up was limited to 6 days, based on the assumption that delirium occurring beyond 1 week is more likely due to events during the hospitalization as opposed to factors measurable at admission. Delirium was assessed using the short CAM, an internationally recognized and validated tool. To complete the CAM during follow-up visits, subjects and their nurses were interviewed using a written script, and an MMSE and forward digit span were performed. (Assessment of Outcomes Page 494)
+
+*follow-up involved",Y,Direct,in-person/telephone,E,Yes,Direct,,,
+10094,GALAD Model for Hepatocellular Carcinoma (HCC),HCC diagnosis.,1,10094 - hepatocellular carcinoma,"For all patients, the diagnosis was established by the histologic examination of tumor tissue (23%) or characteristic radiotherapy according to international guidelines (Materials and Methods - Page 145)
+
+*follow-up involved",Y,Indirect,database,expert panel only,Y,Indirect,,,
+10097,Preoperative Mortality Predictor (PMP) Score,Perioperative mortality.,1,10097 - mortality for general surgery,"For example, patients were categorized as surviving or dead on the basis of year of death. (Page 11 - Patient Selection and Data Collection)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10098,Danger Assessment Tool for Domestic Abuse,Death by intimate partner violence.,1,10098 - IPV victims at greatest risk of being severely assaulted,"In the RAVE study, female victims of IPV were interviewed between 2002 and 2004. A follow-up interview was conducted an average of 9 months after the baseline interview. (Page 1209 - Study Setting and Population)
+
+*follow-up involved",Y,Direct,telephone,E,Y,Direct,,,
+10099,Systemic Lupus Erythematosus Disease Activity Index 2000 (SLEDAI-2K),SLE severity.,1,10099 - systemic lupus erythematosus,"1993. A clinician who did not know the patients and was blind to their SLEDAI score evaluated each patient record and assigned a clinical activity score for each assessment according to the following scale: 0 = no activity; 1 = mild activity with no therapeutic intervention; 2 = activity, but improvement from previous visit; 3 = persistent activity/refractory to treatment; 4 = flare, defined as one of the following: the introduction of new treatment in the presence of worsening of an already active system or in response to the activation of a new system; an increase in medication dosage for the above reasons; indication of concern in the physician’s notes (arrangement for an earlier appointment for the assessment of SLE disease activity or investigation related to SLE including measurement of anti-DNA antibodies and serum complement levels, and 24 hour urine protein determination); the use of the term flare in the physician’s notes (i.e., treating physician’s impression of increased disease activity); new diagnosis of SLE. (Page 289-290 Materials and Methods)
+
+*follow-up involved",Y,Direct,database,E,Y,Direct,,,
+10100,Indian Takayasu Clinical Activity Score (ITAS2010),Takayasu arteritis disease activity.,1,10100- takayasu clinical activity,"Face value was assessed through usage by several clinicians, including cardiologists and neurologists as well as rheumatologists. The content value of the ITAS2010 was analysed by both paper and live cases in serial group workshops where case presentations covering a spectrum of disease severity and duration were prepared to provide two time points for assessment. To examine convergent validity in the absence of a gold standard in TA, the ITAS2010 was compared with the BVAS, with the PGA scored on either an ordinate 3-point scale (active, grumbling/persistent disease or inactive) or a continuous scale from 0 to 10 and with the acute phase response (ESR or CRP). (Page 1796 - Derivation)
+
+*follow-up involved",Y,Hybrid,hybrid,E,Y,Hybrid,,,
+10127,Patient Activity Scale (PAS) for RA,"RA severity, more extensive than PAS II.",1,10127 - rheumatoid arthritis severity,"The Rheumatoid Arthritis Disease Activity Index (RADAI) and a composite variable made up from the PCS and MCS were potential activity indexes that were compared against the PAS and PAS-II. We also collected data for the Regional Pain Scale (RPS), a measure of pain extent, and VAS scales for pain, fatigue, sleep disturbance and global severity. To assess quality of life (QOL) by utilities, we administered the EuroQol, utilizing the newly developed US tariffs, the SF-6D24, and a VAS based QOL scale utilizing linear transformation. In our analyses, we used the QOL scales as a gold standard by which the PAS/PAS-II and other disease activity scales could be judged.  (Page 2411 - Materials and Methods)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10128,Patient Activity Scale II (PAS II) for RA,"RA severity, less extensive than PAS.",1,10128 - rheumatoid arthritis severity,"The Rheumatoid Arthritis Disease Activity Index (RADAI) and a composite variable made up from the PCS and MCS were potential activity indexes that were compared against the PAS and PAS-II. We also collected data for the Regional Pain Scale (RPS), a measure of pain extent, and VAS scales for pain, fatigue, sleep disturbance and global severity. To assess quality of life (QOL) by utilities, we administered the EuroQol, utilizing the newly developed US tariffs, the SF-6D24, and a VAS based QOL scale utilizing linear transformation. In our analyses, we used the QOL scales as a gold standard by which the PAS/PAS-II and other disease activity scales could be judged.  (Page 2411 - Materials and Methods)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10129,Mumtaz Score for Readmission in Cirrhosis,30-day readmission in cirrhosis.,1,10129 - early readmission in decompensated cirrhosis,"A readmission was defined as any nonelective admission for any principal diagnosis within 30 days of the index admission. Patients who died during the index admission were excluded from the denominator. (Page 632 - Outcomes Studied)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10136,ABIC Score for Alcoholic Hepatitis,Alcohol hepatitis survival.,1,10136 - alcoholic hepatitis prognosis,"The mortality was evaluated at 90 days and 1 yr. (Page 2749 - Data Collection)
+
+*follow-up involved",Y,Direct,in-person,E,Y,Direct,,,
+10138,Age-Adjusted D-dimer for Venous Thromboembolism (VTE),Rules out VTE.,1,10138 - suspected venous thromboembolism,"Finally, the reference standards used to diagnose or exclude venous thromboembolism differed between the included studies. In all but one study differential verification was of concern; in these studies venous thromboembolism was excluded without confirmation by imaging in patients with a negative D-dimer test result and without recurrence of symptoms during follow-up. (Page 5 - Strengths and limitations of this review)",N,-,,meta analysis,N,-,,,meta analysis
+10147,United Kingdom Model for End-Stage Liver Disease (UKELD),Mortality for liver transplant planning (UK).,1,10147 - mortality with liver transplant,"transplant list survival within 1 year postregistration (UKELD Score and Transplant List Survival - Page 473)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10148,READMITS Score for Readmissions in Acute MI,30-day readmission risk after STEMI (not externally validated).,1,10148 - 30-day readmission risk after STEMI,"The primary outcome was all-cause 30-day hospital readmission, defined as a nonelective hospitalization within 30 days of discharge to any of 75 acute care hospitals within a 100-mile radius of Dallas, ascertained from an all-payer regional hospitalization database. (Outcomes - Page 2)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10164,Brain Metastasis Velocity (BMV) Model,Distant brain failure after SRS for brain metastasis.,1,10164 - overall survival from whole-brain radiation therapy after distant brain failure,"Following initial SRS treatment, patients were followed up with magnetic resonance imaging (MRI) of the brain and clinical examination at 4 to 8 weeks after the procedure and thereafter every 3 months. The number of new metastases on every follow-up MRI scan was recorded to generate the BMV. A new metastasis was determined on follow-up MRI to be completely outside of the prior radiosurgical treatment volume as defined by the prescription isodose line. In brief, regardless of the status of extracranial disease, if patients died with progressive neurologic decline, they were determined to have had neurologic death. In addition, patients with severe neurologic dysfunction dying of intercurrent disease were considered to have had neurologic death. (Page 132-133 Patient follow-up and endpoint definitions)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10167,Hour-Specific Risk for Neonatal Hyperbilirubinemia,Neonatal hyperbilirubinemia risk.,1,10167 - hyperbilirubinemia risk,"Subsequent TSB levels were usually obtained within 24 to 48 hours after discharge and as needed thereafter. This follow-up was offered to all parents and private pediatricians and was generally accessible by insurance coverage that allowed home nursing care. TSB samples were obtained in the hospital outpatient department or by the home care nurse and transported to the hospital laboratory for analysis. Additional follow-up either involved a repeat TSB sample or a visual inspection at physician’s discretion. Resolution of hyperbilirubinemia was confirmed at about age 10 days, usually through contact with the private pediatrician. (Page 7 - Follow-up)",Y,Indirect,database,data from database based on in-person follow-up,Y,Indirect,,,
+10169,Columbia Suicide Severity Rating Scale (C-SSRS Screener),Suicidal ideation and behavior.,1,10169 - suicidal ideation,"Participants were 124 male and female patients 12–18 years of age with a suicide attempt or interrupted attempt during the 90 days before enrollment. Scale for Suicide Ideation (study 1) or the Suicidal Ideation Questionnaire–Junior (study 2) were entered as independent variables. (Predictive and incremental validity - Page 6) Most participants (N=96, 77.4%) were assessed at week 12; 87 (70.2%) were evaluated at 8, and 83 (66.9%) at week 24. (Page 4 - Studies Used in the Analyses)
+
+*follow-up involved",Y,Direct,in-person,E,Y,Direct,,,Looks good
+10170,Morphine Milligram Equivalents (MME) Calculator,Calculates MME.,1,10170 - long-term opioid therapy,"Episodes that lasted longer than 90 days that had 120 or more total days supply or 10 or more prescriptions filled were classified as long-term opioid use. (Page 4 - Type of Episode)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10177,Recurrent Instability of the Patella (RIP) Score,Recurrent patellar instability risk prediction.,1,10177 - long-term recurrence risk of patella dislocation,"Clinical and surgical notes were reviewed to determine episodes of recurrent instability and patients undergoing patellar stabilization surgery such as lateral retinacular release, medial retinacular imbrication, and MPFL repair or reconstruction. Anteroposterior and lateral knee radiographs acquired at the time of injury were obtained and analyzed in addition to patellar views (Merchant or Sunrise). (Page 538 - Study Population and Design)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10179,European System for Cardiac Operative Risk Evaluation (EuroSCORE) II,In-hospital mortality after major cardiac surgery.,1,10179 - in-hospital mortality after major cardiac surgery,"The primary outcome was mortality at the base hospital. Secondary outcomes were mortality at 30 and 90 days. (Methods - Page 734)
+
+*follow-up involved (assumed but key term not explicitly said)",Y,Indirect,database,E,Y,Indirect,,,
+10182,Psoriasis Area and Severity Index (PASI),Psoriasis severity.,1,10182 - psoriasis severity,"none
+
+*no standard compared with PASI (uses area of psoriatic involvement and severity of lesions) but they note severity rating is subjective*
+
+*follow-up involved",Y,Direct,in-person,E,Y,Direct,,,
+10184,HINTS for Stroke in Acute Vestibular Syndrome,Stroke in AVS.,1,10184 - stroke,"The reference standard for a stroke diagnosis was confirmation of acute stroke by neuroimaging, generally MRI with DWI on the day of the index visit. The reference standard for a diagnosis of APV was absence of acute stroke in the brainstem or cerebellum by MRI with DWI, lack of neurologic signs on serial exam, and a characteristic clinical course. (Page 4 - Materials and Methods)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10188,Ottawa COPD Risk Scale,Death or serious adverse events in COPD (ED setting).,1,10188 - serious adverse events,"Defined as death, intubation, admission to a monitored unit or new visit to the emergency department requiring admission. (Page E193 - abstract)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10193,Gupta Postoperative Respiratory Failure Risk,Risk of vent >48 hrs postop or reintubated ≤30 days.,1,10193 - postoperative respiratory failure,"The primary end point was PRF through 30 days following surgery. PRF was said to have occurred if patients: 
+
+(1) had an unplanned intubation during their surgery or postoperatively, 
+
+(2) were reintubated postoperatively once extubated, or 
+
+(3) required mechanical ventilation for 48 h postoperatively. (Page 1208 - Outcome)
+
+*follow-up involved (assumed but key term not explicit)",Y,Indirect,database,E,Y,Indirect,,,
+10198,PSA Doubling Time (PSADT) Calculator,PSA survival.,1,10198 - disease progression with prostate-specific antigen level,"After surgery, men were followed up with PSA assays and digital rectal examinations every 3 months for the first year, semiannually for the second year, and annually thereafter. A detectable serum PSA level of at least 0.2 ng/mL was evidence of biochemical recurrence. Distant metastases were diagnosed by radionuclide bone scan, chest radiograph, or other body imaging, which was performed at the time of biochemical recurrence and annually thereafter. (Page 1591 - Main Outcome Measures)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10200,PLASMIC Score for TTP,TTP probability.,1,10200 - thrombotic thrombocytopenic purpura,"ADAMTS13 assay (Page e158 - Methods)
+
+*follow-up involved",Y,Indirect,database,"Data obtained retrospectively from patients in the Harvard TMA Research Collaborative registry who presented between Jan 8, 2004, and May 1, 2012, formed the derivation cohort.",Y,Indirect,,,
+10202,Nutritional Risk Index (NRI),Quantifies malnutrition.,1,10202 - malnutrition,"Patient was considered malnourished and therefore eligible for study if he was abnormal for at least two out of a set of three nutritional measures. Seven nutritional measures that either meet or potentially meet the three methodologic criteria (criteria 2, 3, and 4) listed above were identified: body weight, percent usual body weight, percent ideal body weight, triceps skinfold, midarm muscle circumference, and serum levels of albumin and prealbumin. (Page 363-364 Development of nutritional eligibility criteria)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,Looks good
+10204,PECARN Rule for Low Risk Febrile Infants 29-60 Days Old,Serious bacterial infection risk in febrile infants 29-60 days old.,1,10204 - serious bacterial infection risk,"Serious bacterial infection, defined as urinary tract infection, bacteremia, or bacterial meningitis. (Page 342 - Main Outcomes and Measures)
+
+*follow-up involved",Y,Hybrid,telephone/database,E,Y,Hybrid,,,
+10210,PREVAIL Model for Prostate Cancer Survival,Overall survival in metastatic prostate cancer.,1,10210 - survival in metastatic prostate cancer,"The primary end point used for the model was overall survival (OS), using an updated analysis after 784 deaths (46%, data cutoff 1 June 2014) (Page 2201 - Data sets)
+
+*follow-up involved (assumed but key term not listed)",Y,Indirect,database,E,Y,Indirect,,,
+10218,ATLAS Score for Clostridium Difficile Infection,C. diff therapy response.,1,10218 - C. diff infection therapy response,"Patients considered as a “cure” were then followed for an additional 28 days to evaluate them for a CDI recurrence. (Page 2 - Methods)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10225,INTERCHEST Clinical Prediction Rule for Chest Pain in Primary Care,Rules out CAD (primary care).,1,10225 - coronary artery disease,"To establish the final diagnosis, study patients were followed up for a defined period, and study physicians used the clinical course and results of tests to establish the cause of the index episode of chest pain. This delayed-type reference standard can be an acceptable and valid alternative when a single reference test is not possible. (Page 4 - Data Sources and Study Selection) 
+
+We did not do an internal validation study of the clinical diagnosis of CAD using an objective diagnostic reference standard on a randomly selected subset of patients from the pooled study populations. Such a study would be subject to concerns that the results of applying an objective diagnostic reference standard to patients referred for it would not be the same as the source population (test-referral bias). (Page 12 - Discussion)
+
+*follow-up involved",N,-,,meta-analysis,N,-,,,meta-analysis
+10226,Urticaria Activity Score (UAS),Urticaria severity.,1,10226 - disease activity of chronic urticaria,"The primary aim of the analysis was to assess several CU symptom scores using the established QoL instrument DLQI (dermatology life quality index) as a reference for cross-sectional analysis and responsiveness after 3 weeks (end of week 4 vs end of week 1). (Page 778 - Data management and statistical analyses)
+
+*follow-up involved (assumed but key term not listed)",Y,Direct,in-person,E,Y,Direct,,,
+10227,ORBIT Bleeding Risk Score for Atrial Fibrillation,Anticoagulation bleeding risk in afib.,1,10227 - bleeding risk in atrial fibrillation,Time to major bleeding over 2 years of follow-up as the outcome (Methods - Page 3259),Y,Indirect,database,E,Y,Indirect,,,
+10235,Truelove and Witts Severity Index for Ulcerative Colitis,Ulcerative colitis severity.,1,10235 - ulcerative colitis severity,"The severity of the illness at the beginning of treatment was assessed on the following criteria: 
+
+Severe.- Severe diarrhoea (six or more motions a day) with macroscopic blood in stools. Fever (mean evening temperature more than 99.50 F. (37.50 C.), or a temperature of 1000 F. (37.80 C.), or more on at least two days out of four). Tachycardia (mean pulse rate more than 90 per minute). Anaemia (haemoglobin 75% or less-allowance made for recent transfusion). E.S.R. much raised (more than 30 mm. in one hour). 
+
+Mild.- Mild diarrhoea (four or less motions a day) with no more than small amounts of macroscopic blood in stools. No fever. No tachycardia. Anaemia not severe. E.S.R. not raised above 30 mm. in one hour. 
+
+Moderately Severe.-Intermediate between severe and mild.
+
+*follow-up involved",Y,Direct,in-person,E,Y,Direct,,,
+10237,Montreal Classification for Inflammatory Bowel Disease (IBD),Crohn's and ulcerative colitis severity.,1,10237 - crohn's disease,"Age at Diagnosis was defined by the age when the diagnosis of CD was first definitively established by radiology, endoscopy, pathology, or surgery. Location was defined as the maximum extent of disease involvement at any time before the first resection. Minimum involvement for a location was the presence of any aphthous lesion or ulceration. (Page 10 - Operational Guidelines)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10240,CLIF-C ACLF (Acute-on-Chronic Liver Failure),Mortality in liver failure.,1,10240 - mortality with acute-on-chronic liver failure,"The main study outcomes included all-cause mortality at 28, 90, 180, and 365 days after enrolment. (Page 1039 - Study Outcomes)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10343,Altitude-Adjusted PERC Rule,Rules out PE (altitude-adjusted),1,10343 - pulmonary embolism,"End point variables included diagnosis of a PE after initial ED evaluation, diagnosis of any VTE during 3-month follow-up, or death due to VTE. The diagnosis of PE was made when any of the following criteria were met: 
+
+(1) high probability V/Q scan using modified Prospective Investigation of Pulmonary Embolism Diagnosis (PIOPED) criteria; 
+
+(2) contrast-enhanced CT scan of the chest diagnostic of PE; 
+
+(3) intermediate probability V/ Q scan with a high pretest clinical suspicion as determined by the treating provider; 
+
+(4) pulmonary angiogram diagnostic of PE; 
+
+(5) 3-month telephone interview follow-up in which the patient reported having been diagnosed with any VTE; or 
+
+(6) medical record review documenting diagnosis of VTE within the 3-month follow-up period. (Page 182-183 - Outcomes)",Y,Direct,telephone,E,Y,Direct,,,
+10345,Salivary Gland Cancer Model for Survival +/- Postoperative Radiotherapy (PORT),Salivary gland cancer PORT survival.,1,10345 - overall survival with and without PORT for resected major SG cancers,"The primary endpoint was OS, which was calculated from the date of diagnosis until the date of last contact or death. (Statistical methods - Page 3)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10346,Veterans Health Administration COVID-19 (VACO) Index for COVID-19 Mortality,Estimates 30d COVID-19 mortality.,1,10346 - 30-day mortality index for COVID-19,"30-day COVID-19 mortality. Date of last follow-up was August 18, 2020 to allow 30 days of follow-up after testing for all patients. (Page 3 - Introduction)",Y,Indirect,database,E,Y,Indirect,,,
+10347,RCVS<sub>2</sub> Score for Reversible Cerebral Vasoconstriction Syndrome,Reversible cerebral vasoconstriction syndrome diagnosis.,1,10347 - reversible cerebral vasoconstriction syndrome,"Final diagnosis was established based on pathology, infectious disease panels, or other laboratory tests. (Clinical and imaging data - e640)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10348,For Patients: VACO Index COVID-19 Mortality Risk,Chance of dying from COVID-19.,1,10348 - 30-day mortality index,"Deaths were determined using inpatient records and the VA death registry to capture deaths occurring outside hospitalization. (VACO Index development: Candidate predictors - Page 3)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10349,IMPROVE Risk Score for Venous Thromboembolism (VTE),3-month inpatient VTE risk.,1,10349 - VTE,"VTE was defined as DVT or PE that was observed clinically within 92 days of admission. (Page 707 - Materials and Methods)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10350,IMPROVEDD Risk Score for Venous Thromboembolism (VTE),Inpatient VTE risk.,1,"risk of symptomatic deep vein thrombosis, nonfatal pulmonary embolism, or VTE-related death","risk of symptomatic deep vein thrombosis, nonfatal pulmonary embolism, or VTE-related death
+
+All VTE events were adjudicated by an independent clinical events committee blinded to thromboprophylaxis allocation based on the documentation from the case report form, the narratives prepared by the study sites, and any other available supporting source documentation. (Page e57 - Methods)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,"Outcome is risk of symptomatic deep vein thrombosis, nonfatal pulmonary embolism, or VTE-related death. Includes your notes."
+10354,COVID Home Safely Now (CHOSEN) Risk Score for COVID-19,COVID-19 discharge suitability.,1,"hypoxia, ICU admission, and death","14-day composite that predicted the need for supplemental oxygen, need for the intensive care unit (ICU) level of care, and death. We opted for a 14-day follow-up period from time of presentation for patients who did not experience this composite endpoint.",Y,Indirect,database,E,Y,Indirect,,,
+10369,PRIEST COVID-19 Clinical Severity Score,Suspected COVID-19 prognosis.,1,COVID-19 clinical severity,"Death or organ support (respiratory, cardiovascular, or renal) by record review at 30 days. (Page 1 - Methods)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10370,4-Level Pulmonary Embolism Clinical Probability Score (4PEPS),Rules out PE.,1,pulmonary embolism,The rate of PE diagnosed during the initial workup or during follow-up and the rate of imaging testing. (Main Outcomes and Measures -Page 669),Y,Indirect,database,E,Y,Indirect,,,
+10371,COVID-19 Inpatient Risk Calculator (CIRC),Inpatient COVID mortality or severe disease progression.,1,death and a composite of severe disease or death.,"Primary outcomes were defined by using the World Health Organization (WHO) COVID-19 disease severity scale. The WHO scale is an 8-point ordinal scale ranging from ambulatory (1 = asymptomatic, 2 = mild limitation in activity) to hospitalized with mild to moderate disease (3 = room air, 4 = nasal cannula or facemask oxygen), hospitalized with severe disease (5 = high-flow nasal cannula or noninvasive positive pressure ventilation, 6 = intubation and mechanical ventilation, 7 = intubation and mechanical ventilation and other signs of organ failure [hemodialysis, vaso- pressors, extracorporeal membrane oxygenation]), and death (score of 8). We defined severe disease as a score of 5 to less than 8 and the composite outcome of severe disease or death as a score of 5 to 8 on the WHO scale. (Page 2 - Outcomes Measuresa and Definitions)
+
+*follow-up involved",Y,Indirect,database,E,Y,Indirect,,,
+10421,Canadian Transient Ischemic Attack (TIA) Score,Stroke prediction.,1,stroke,"The primary outcome was stroke within 7 days of emergency depart-ment diagnosis of TIA, termed impending stroke. Stroke was defined as a rapidly developing clinical symptom(s) of focal (or occasionally global) disturbance of cerebral function lasting >24 hours or until death with no apparent nonvascular cause. (Page 93 - Outcome Measures) 
+
+The primary outcome was assessed for all patients from a composite of sources including site hospital records for stroke occurrence, admission or mortality, autopsy report at site hospital, or patients answering yes to ≥1 of the telephone follow-up questions. (Page 93 - Outcome Assessment)",Y,Hybrid,telephone/database,E,Y,Hybrid,,,
+10461,Therapy-Disability-Neurology (TDN) Grade,Neurosurgery adverse events classification.,1,neurosurgery adverse events,"Death of any reason occurring within 30 days following surgery was considered an AE. Follow-up at institution 1 refers to the last consultation between six weeks and three months after surgery, including AE that may have occurred until then. At institution 2, data at follow-up was registered only for craniotomies, and AE were recorded within 30 days 68 of discharge. (Page 59 - Measures)",Y,Indirect,database,E,Y,Indirect,,,

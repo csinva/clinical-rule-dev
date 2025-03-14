@@ -1,0 +1,237 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "33481930"
+    ],
+    "33481930": {
+      "uid": "33481930",
+      "pubdate": "2021",
+      "epubdate": "2021 Jan 22",
+      "source": "PLoS One",
+      "authors": [
+        {
+          "name": "Goodacre S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomas B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sutton L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burnsall M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bradburn M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Loban A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Waterhouse S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simmonds R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Biggs K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marincowitz C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schutter J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Connelly S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheldon E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hall J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Young E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bentley A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Challen K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fitzsimmons C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Harris T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lecky F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maconochie I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Walter D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Walter D",
+      "title": "Derivation and validation of a clinical severity score for acutely ill adults with suspected COVID-19: The PRIEST observational cohort study.",
+      "sorttitle": "derivation and validation of a clinical severity score for acutely ill adults with suspected covid 19 the priest observational cohort study",
+      "volume": "16",
+      "issue": "1",
+      "pages": "e0245840",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101285081",
+      "issn": "",
+      "essn": "1932-6203",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33481930"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7822515"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7822515;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0245840"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-20-34978"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2020/11/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2021/01/09 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/01/22 17:14"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/01/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/02/03 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "medRxiv. 2022 Nov 07;:",
+          "reftype": "Update of",
+          "pmid": 36380752,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 19,
+      "fulljournalname": "PloS one",
+      "elocationid": "doi: 10.1371/journal.pone.0245840",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/01/22 00:00",
+      "sortfirstauthor": "Goodacre S",
+      "vernaculartitle": ""
+    }
+  }
+}

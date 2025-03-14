@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3026969"
+    ],
+    "3026969": {
+      "uid": "3026969",
+      "pubdate": "1987 Feb 15",
+      "epubdate": "",
+      "source": "Int J Cancer",
+      "authors": [
+        {
+          "name": "Cerny T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blair V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bramwell V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thatcher N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Thatcher N",
+      "title": "Pretreatment prognostic factors and scoring system in 407 small-cell lung cancer patients.",
+      "sorttitle": "pretreatment prognostic factors and scoring system in 407 small cell lung cancer patients",
+      "volume": "39",
+      "issue": "2",
+      "pages": "146-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0042124",
+      "issn": "0020-7136",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3026969"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ijc.2910390204"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1987/02/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1987/02/15 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1987/02/15 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of cancer",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1987/02/15 00:00",
+      "sortfirstauthor": "Cerny T",
+      "vernaculartitle": ""
+    }
+  }
+}

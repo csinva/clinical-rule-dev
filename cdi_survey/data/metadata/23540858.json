@@ -1,0 +1,174 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23540858"
+    ],
+    "23540858": {
+      "uid": "23540858",
+      "pubdate": "2013 Jun",
+      "epubdate": "2013 Mar 26",
+      "source": "Urology",
+      "authors": [
+        {
+          "name": "Okhunov Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Friedlander JI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "George AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duty BD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moreira DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Srinivasan AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hillelsohn J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Okeke Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Okeke Z",
+      "title": "S.T.O.N.E. nephrolithometry: novel surgical classification system for kidney calculi.",
+      "sorttitle": "s t o n e nephrolithometry novel surgical classification system for kidney calculi",
+      "volume": "81",
+      "issue": "6",
+      "pages": "1154-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0366151",
+      "issn": "0090-4295",
+      "essn": "1527-9995",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23540858"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.urology.2012.10.083"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0090-4295(13)00075-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2012/07/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2012/08/29 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2012/10/03 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/04/02 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/04/02 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/08/24 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Urology. 2013 Jun;81(6):1160",
+          "reftype": "Comment in",
+          "pmid": 23540859,
+          "note": ""
+        },
+        {
+          "refsource": "Urology. 2013 Jun;81(6):1160",
+          "reftype": "Comment in",
+          "pmid": 23540864,
+          "note": ""
+        },
+        {
+          "refsource": "Urology. 2013 Oct;82(4):979-80",
+          "reftype": "Comment in",
+          "pmid": 24074997,
+          "note": ""
+        },
+        {
+          "refsource": "Urology. 2013 Oct;82(4):979",
+          "reftype": "Comment in",
+          "pmid": 24074998,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Urology",
+      "elocationid": "doi: 10.1016/j.urology.2012.10.083",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/06/01 00:00",
+      "sortfirstauthor": "Okhunov Z",
+      "vernaculartitle": ""
+    }
+  }
+}

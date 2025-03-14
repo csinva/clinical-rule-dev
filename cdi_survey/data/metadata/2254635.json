@@ -1,0 +1,99 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2254635"
+    ],
+    "2254635": {
+      "uid": "2254635",
+      "pubdate": "1990 Sep",
+      "epubdate": "",
+      "source": "J Hepatol",
+      "authors": [
+        {
+          "name": "B\u00e9nichou C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "B\u00e9nichou C",
+      "title": "Criteria of drug-induced liver disorders. Report of an international consensus meeting.",
+      "sorttitle": "criteria of drug induced liver disorders report of an international consensus meeting",
+      "volume": "11",
+      "issue": "2",
+      "pages": "272-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8503886",
+      "issn": "0168-8278",
+      "essn": "",
+      "pubtype": [
+        "Consensus Development Conference",
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2254635"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0168-8278(90)90124-a"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0168-8278(90)90124-A"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1990/09/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1990/09/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1990/09/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of hepatology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1990/09/01 00:00",
+      "sortfirstauthor": "B\u00e9nichou C",
+      "vernaculartitle": ""
+    }
+  }
+}

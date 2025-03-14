@@ -1,0 +1,159 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19949143"
+    ],
+    "19949143": {
+      "uid": "19949143",
+      "pubdate": "2009 Dec 1",
+      "epubdate": "",
+      "source": "Ann Intern Med",
+      "authors": [
+        {
+          "name": "Bang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Edwards AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bomback AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ballantyne CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brillon D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Callahan MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Teutsch SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mushlin AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kern LM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kern LM",
+      "title": "Development and validation of a patient self-assessment score for diabetes risk.",
+      "sorttitle": "development and validation of a patient self assessment score for diabetes risk",
+      "volume": "151",
+      "issue": "11",
+      "pages": "775-83",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372351",
+      "issn": "0003-4819",
+      "essn": "1539-3704",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19949143"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS454751"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3633111"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3633111;manuscript-id: NIHMS454751;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7326/0003-4819-151-11-200912010-00005"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "151/11/775"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/12/02 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/12/02 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/12/18 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Intern Med. 2009 Dec 1;151(11):I27-I28",
+          "reftype": "Comment in",
+          "pmid": 19949138,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 48,
+      "fulljournalname": "Annals of internal medicine",
+      "elocationid": "doi: 10.7326/0003-4819-151-11-200912010-00005",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/12/01 00:00",
+      "sortfirstauthor": "Bang H",
+      "vernaculartitle": ""
+    }
+  }
+}

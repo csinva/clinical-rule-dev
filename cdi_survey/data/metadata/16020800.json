@@ -1,0 +1,142 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16020800"
+    ],
+    "16020800": {
+      "uid": "16020800",
+      "pubdate": "2005 Oct 15",
+      "epubdate": "2005 Jul 14",
+      "source": "Am J Respir Crit Care Med",
+      "authors": [
+        {
+          "name": "Aujesky D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Obrosky DS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stone RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Auble TE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perrier A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cornuz J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roy PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fine MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fine MJ",
+      "title": "Derivation and validation of a prognostic model for pulmonary embolism.",
+      "sorttitle": "derivation and validation of a prognostic model for pulmonary embolism",
+      "volume": "172",
+      "issue": "8",
+      "pages": "1041-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9421642",
+      "issn": "1073-449X",
+      "essn": "1535-4970",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16020800"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2718410"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2718410;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1164/rccm.200506-862OC"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "200506-862OC"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/07/16 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/01/07 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/07/16 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 36,
+      "fulljournalname": "American journal of respiratory and critical care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/10/15 00:00",
+      "sortfirstauthor": "Aujesky D",
+      "vernaculartitle": ""
+    }
+  }
+}

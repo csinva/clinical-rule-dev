@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "18445192",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://doi.org/10.1111/j.1398-9995.2008.01726.x"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--media.wiley.com-assets-7388-69-wiley-full-text.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Wiley",
+                "nameabbr": "Wiley",
+                "id": "3058"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

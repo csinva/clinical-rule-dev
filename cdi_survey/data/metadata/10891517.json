@@ -1,0 +1,147 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10891517"
+    ],
+    "10891517": {
+      "uid": "10891517",
+      "pubdate": "2000 Jul 13",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Haydel MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Preston CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mills TJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luber S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blaudeau E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "DeBlieux PM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "DeBlieux PM",
+      "title": "Indications for computed tomography in patients with minor head injury.",
+      "sorttitle": "indications for computed tomography in patients with minor head injury",
+      "volume": "343",
+      "issue": "2",
+      "pages": "100-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10891517"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM200007133430204"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "MJBA-430204"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/07/13 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/07/15 11:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/07/13 11:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med. 2000 Jul 13;343(2):138-40",
+          "reftype": "Comment in",
+          "pmid": 10891525,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Nov 23;343(21):1570-1",
+          "reftype": "Comment in",
+          "pmid": 11184746,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Nov 23;343(21):1570; author reply 1571",
+          "reftype": "Comment in",
+          "pmid": 11184747,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Nov 23;343(21):1571",
+          "reftype": "Comment in",
+          "pmid": 11184748,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/07/13 00:00",
+      "sortfirstauthor": "Haydel MJ",
+      "vernaculartitle": ""
+    }
+  }
+}

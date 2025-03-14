@@ -1,0 +1,18 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "8487337",
+          "objurls": [],
+          "info": "No LinkOut links available for UID: 8487337"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27616761"
+    ],
+    "27616761": {
+      "uid": "27616761",
+      "pubdate": "2016 Oct",
+      "epubdate": "",
+      "source": "Clin Nephrol",
+      "authors": [
+        {
+          "name": "Kaptein EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sreeramoju D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaptein JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaptein MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kaptein MJ",
+      "title": "A systematic literature search and review of sodium concentrations of body fluids\u2029.",
+      "sorttitle": "systematic literature search and review of sodium concentrations of body fluids",
+      "volume": "86",
+      "issue": "10",
+      "pages": "203-28",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0364441",
+      "issn": "0301-0430",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27616761"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5414/CN108721"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "14714"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "accepted",
+          "date": "2016/09/15 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/09/13 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/09/13 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/12/23 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical nephrology",
+      "elocationid": "doi: 10.5414/CN108721",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/10/01 00:00",
+      "sortfirstauthor": "Kaptein EM",
+      "vernaculartitle": ""
+    }
+  }
+}

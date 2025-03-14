@@ -1,0 +1,47 @@
+categorization___disease,frac_male
+Public Health,0.276
+Rheumatoid Arthritis,0.343
+Depression/Suicidality,0.418
+Pulmonary Embolism,0.452
+Diabetes Mellitus,0.470
+Deep Venous Thrombosis,0.472
+Delirium,0.502
+Sepsis,0.506
+Chronic Pain,0.509
+Respiratory Failure,0.510
+Anxiety,0.511
+Obesity,0.512
+Congestive Heart Failure,0.518
+Asthma,0.522
+Appendicitis,0.524
+Autoimmune Disorders,0.526
+COPD,0.528
+Heart Failure,0.539
+Endocarditis,0.541
+Stroke/TIA,0.542
+Chemotherapy,0.542
+Atrial Fibrillation,0.543
+Hypertension,0.548
+Respiratory Distress,0.551
+COVID-19,0.558
+Arrhythmia,0.569
+Dementia,0.572
+Coronary Artery Disease,0.572
+Pneumonia,0.581
+Hepatitis,0.582
+GI Bleeding,0.584
+Cirrhosis,0.585
+Hematologic Malignancy,0.589
+Bleeding/Hemorrhage,0.591
+Cancer,0.597
+Idiopathic Pulmonary Fibrosis,0.598
+Myocardial Infarction,0.606
+Acute Coronary Syndrome,0.607
+Leukemia/Lymphoma,0.615
+Alcoholism,0.623
+Anemia,0.637
+Trauma,0.644
+Renal Failure,0.659
+Drug/Alcohol Use,0.669
+Hepatocellular Carcinoma,0.705
+HIV/AIDS,0.723

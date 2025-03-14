@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "9129544",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/vol/157/pg/849"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--archinte.jamanetwork.com-images-PUBMED_IntMedicine_full.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Silverchair Information Systems",
+                "nameabbr": "silverchair",
+                "id": "7898"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

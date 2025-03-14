@@ -1,0 +1,58 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "22553077",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22553077/"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "PubMed Central",
+                "nameabbr": "PMC",
+                "id": "3494"
+              }
+            },
+            {
+              "url": {
+                "value": "https://onlinelibrary.wiley.com/doi/10.1002/art.34473"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--media.wiley.com-assets-7388-68-wiley-free-full-text.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "Wiley",
+                "nameabbr": "Wiley",
+                "id": "3058"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

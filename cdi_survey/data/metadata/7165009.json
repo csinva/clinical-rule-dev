@@ -1,0 +1,115 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7165009"
+    ],
+    "7165009": {
+      "uid": "7165009",
+      "pubdate": "1982 Dec",
+      "epubdate": "",
+      "source": "Am J Clin Oncol",
+      "authors": [
+        {
+          "name": "Oken MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Creech RH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tormey DC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Horton J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davis TE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McFadden ET",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carbone PP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Carbone PP",
+      "title": "Toxicity and response criteria of the Eastern Cooperative Oncology Group.",
+      "sorttitle": "toxicity and response criteria of the eastern cooperative oncology group",
+      "volume": "5",
+      "issue": "6",
+      "pages": "649-55",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8207754",
+      "issn": "0277-3732",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7165009"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1982/12/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1982/12/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1982/12/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of clinical oncology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1982/12/01 00:00",
+      "sortfirstauthor": "Oken MM",
+      "vernaculartitle": ""
+    }
+  }
+}

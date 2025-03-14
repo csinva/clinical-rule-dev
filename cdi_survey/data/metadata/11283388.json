@@ -1,0 +1,131 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11283388"
+    ],
+    "11283388": {
+      "uid": "11283388",
+      "pubdate": "2001 Apr",
+      "epubdate": "",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "Hemphill JC 3rd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bonovich DC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Besmertis L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Manley GT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnston SC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Johnston SC",
+      "title": "The ICH score: a simple, reliable grading scale for intracerebral hemorrhage.",
+      "sorttitle": "ich score a simple reliable grading scale for intracerebral hemorrhage",
+      "volume": "32",
+      "issue": "4",
+      "pages": "891-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "1524-4628",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11283388"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/01.str.32.4.891"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/04/03 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/05/11 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/04/03 10:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Stroke. 2002 Jun;33(6):1455-6; author reply 1455-6",
+          "reftype": "Comment in",
+          "pmid": 12052971,
+          "note": ""
+        },
+        {
+          "refsource": "Stroke. 2003 Jan;34(1):6-7; author reply 6-7",
+          "reftype": "Comment in",
+          "pmid": 12511740,
+          "note": ""
+        },
+        {
+          "refsource": "Stroke. 2003 Sep;34(9):e150-1; author reply e150-1",
+          "reftype": "Comment in",
+          "pmid": 12947164,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Stroke",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/04/01 00:00",
+      "sortfirstauthor": "Hemphill JC 3rd",
+      "vernaculartitle": ""
+    }
+  }
+}

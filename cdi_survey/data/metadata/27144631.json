@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27144631"
+    ],
+    "27144631": {
+      "uid": "27144631",
+      "pubdate": "2016 Feb 15",
+      "epubdate": "2016 Feb 15",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Benninga MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Faure C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hyman PE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "St James Roberts I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schechter NL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nurko S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nurko S",
+      "title": "Childhood Functional Gastrointestinal Disorders: Neonate/Toddler.",
+      "sorttitle": "childhood functional gastrointestinal disorders neonate toddler",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "1528-0012",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27144631"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.gastro.2016.02.016"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016-5085(16)00182-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/02/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/02/09 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/05/05 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "pii: S0016-5085(16)00182-7. doi: 10.1053/j.gastro.2016.02.016",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/02/15 00:00",
+      "sortfirstauthor": "Benninga MA",
+      "vernaculartitle": ""
+    }
+  }
+}

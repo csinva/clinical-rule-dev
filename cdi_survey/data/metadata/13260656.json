@@ -1,0 +1,105 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "13260656"
+    ],
+    "13260656": {
+      "uid": "13260656",
+      "pubdate": "1955 Oct 29",
+      "epubdate": "",
+      "source": "Br Med J",
+      "authors": [
+        {
+          "name": "TRUELOVE SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "WITTS LJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "WITTS LJ",
+      "title": "Cortisone in ulcerative colitis; final report on a therapeutic trial.",
+      "sorttitle": "cortisone in ulcerative colitis final report on a therapeutic trial",
+      "volume": "2",
+      "issue": "4947",
+      "pages": "1041-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372673",
+      "issn": "0007-1447",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "13260656"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1981500"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1981500;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmj.2.4947.1041"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1955/10/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1955/10/29 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1955/10/29 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": 1,
+      "fulljournalname": "British medical journal",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1955/10/29 00:00",
+      "sortfirstauthor": "TRUELOVE SC",
+      "vernaculartitle": ""
+    }
+  }
+}

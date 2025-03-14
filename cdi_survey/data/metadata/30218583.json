@@ -1,0 +1,152 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "30218583"
+    ],
+    "30218583": {
+      "uid": "30218583",
+      "pubdate": "2019 Aug",
+      "epubdate": "2019 Feb 19",
+      "source": "Hepatology",
+      "authors": [
+        {
+          "name": "Mumtaz K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Issak A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Porter K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kelly S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hanje J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Michaels AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Conteh LF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "El-Hinnawi A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Black SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abougergi MS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Abougergi MS",
+      "title": "Validation of Risk Score in Predicting Early Readmissions in Decompensated Cirrhotic Patients: A Model Based on the Administrative Database.",
+      "sorttitle": "validation of risk score in predicting early readmissions in decompensated cirrhotic patients a model based on the administrative database",
+      "volume": "70",
+      "issue": "2",
+      "pages": "630-639",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8302946",
+      "issn": "0270-9139",
+      "essn": "1527-3350",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30218583"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/hep.30274"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2018/04/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2018/08/20 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/09/16 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/06/19 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/09/16 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Hepatology. 2019 May;69(5):2301-2302",
+          "reftype": "Comment in",
+          "pmid": 30383299,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Hepatology (Baltimore, Md.)",
+      "elocationid": "doi: 10.1002/hep.30274",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/08/01 00:00",
+      "sortfirstauthor": "Mumtaz K",
+      "vernaculartitle": ""
+    }
+  }
+}

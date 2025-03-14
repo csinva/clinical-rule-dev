@@ -1,0 +1,141 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14566455"
+    ],
+    "14566455": {
+      "uid": "14566455",
+      "pubdate": "2004 Feb",
+      "epubdate": "2003 Oct 18",
+      "source": "Intensive Care Med",
+      "authors": [
+        {
+          "name": "Schurink CAM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nieuwenhoven CAV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacobs JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rozenberg-Arska M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Joore HCA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buskens E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoepelman AIM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bonten MJM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bonten MJM",
+      "title": "Clinical pulmonary infection score for ventilator-associated pneumonia: accuracy and inter-observer variability.",
+      "sorttitle": "clinical pulmonary infection score for ventilator associated pneumonia accuracy and inter observer variability",
+      "volume": "30",
+      "issue": "2",
+      "pages": "217-224",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7704851",
+      "issn": "0342-4642",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14566455"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00134-003-2018-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00134-003-2018-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2003/02/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2003/08/19 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/10/21 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/08/13 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/10/21 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Intensive care medicine",
+      "elocationid": "doi: 10.1007/s00134-003-2018-2",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/02/01 00:00",
+      "sortfirstauthor": "Schurink CAM",
+      "vernaculartitle": ""
+    }
+  }
+}

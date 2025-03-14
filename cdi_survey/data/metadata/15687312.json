@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15687312"
+    ],
+    "15687312": {
+      "uid": "15687312",
+      "pubdate": "2005 Feb 2",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Fonarow GC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adams KF Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abraham WT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yancy CW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boscardin WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "ADHERE Scientific Advisory Committee, Study Group, and Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Boscardin WJ",
+      "title": "Risk stratification for in-hospital mortality in acutely decompensated heart failure: classification and regression tree analysis.",
+      "sorttitle": "risk stratification for in hospital mortality in acutely decompensated heart failure classification and regression tree analysis",
+      "volume": "293",
+      "issue": "5",
+      "pages": "572-80",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "1538-3598",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15687312"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.293.5.572"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "293/5/572"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/02/03 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/02/08 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/02/03 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 2005 May 25;293(20):2467-8; author reply 2468",
+          "reftype": "Comment in",
+          "pmid": 15914743,
+          "note": ""
+        },
+        {
+          "refsource": "ACP J Club. 2005 Jul-Aug;143(1):25",
+          "reftype": "Comment in",
+          "pmid": 15989313,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/02/02 00:00",
+      "sortfirstauthor": "Fonarow GC",
+      "vernaculartitle": ""
+    }
+  }
+}

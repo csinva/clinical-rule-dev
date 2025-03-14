@@ -1,0 +1,119 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "352788"
+    ],
+    "352788": {
+      "uid": "352788",
+      "pubdate": "1978 Aug",
+      "epubdate": "",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Maddrey WC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boitnott JK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bedine MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weber FL Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mezey E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "White RI Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "White RI Jr",
+      "title": "Corticosteroid therapy of alcoholic hepatitis.",
+      "sorttitle": "corticosteroid therapy of alcoholic hepatitis",
+      "volume": "75",
+      "issue": "2",
+      "pages": "193-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "352788"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016508578001584"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1978/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/03/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1978/08/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1978/08/01 00:00",
+      "sortfirstauthor": "Maddrey WC",
+      "vernaculartitle": ""
+    }
+  }
+}

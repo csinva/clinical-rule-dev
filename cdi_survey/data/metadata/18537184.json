@@ -1,0 +1,196 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18537184"
+    ],
+    "18537184": {
+      "uid": "18537184",
+      "pubdate": "2008 Jul",
+      "epubdate": "",
+      "source": "Hepatology",
+      "authors": [
+        {
+          "name": "Hennes EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeniya M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Czaja AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Par\u00e9s A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dalekos GN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krawitt EL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bittencourt PL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Porta G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boberg KM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hofer H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bianchi FB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shibata M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schramm C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eisenmann de Torres B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Galle PR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McFarlane I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dienes HP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lohse AW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "International Autoimmune Hepatitis Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lohse AW",
+      "title": "Simplified criteria for the diagnosis of autoimmune hepatitis.",
+      "sorttitle": "simplified criteria for the diagnosis of autoimmune hepatitis",
+      "volume": "48",
+      "issue": "1",
+      "pages": "169-76",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8302946",
+      "issn": "0270-9139",
+      "essn": "1527-3350",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18537184"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/hep.22322"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/06/10 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/08/30 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/06/10 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Hepatology. 2008 Jul;48(1):10-2",
+          "reftype": "Comment in",
+          "pmid": 18571784,
+          "note": ""
+        },
+        {
+          "refsource": "Hepatology. 2009 May;49(5):1782-3; author reply 1783",
+          "reftype": "Comment in",
+          "pmid": 19402135,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Hepatology (Baltimore, Md.)",
+      "elocationid": "doi: 10.1002/hep.22322",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/07/01 00:00",
+      "sortfirstauthor": "Hennes EM",
+      "vernaculartitle": ""
+    }
+  }
+}

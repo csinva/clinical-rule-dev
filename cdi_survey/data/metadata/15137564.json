@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15137564"
+    ],
+    "15137564": {
+      "uid": "15137564",
+      "pubdate": "2004 May",
+      "epubdate": "",
+      "source": "Clin Rehabil",
+      "authors": [
+        {
+          "name": "Verheyden G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nieuwboer A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mertin J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Preger R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kiekens C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Weerdt W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "De Weerdt W",
+      "title": "The Trunk Impairment Scale: a new tool to measure motor impairment of the trunk after stroke.",
+      "sorttitle": "trunk impairment scale a new tool to measure motor impairment of the trunk after stroke",
+      "volume": "18",
+      "issue": "3",
+      "pages": "326-34",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8802181",
+      "issn": "0269-2155",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15137564"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1191/0269215504cr733oa"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/05/13 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/07/21 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/05/13 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical rehabilitation",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/05/01 00:00",
+      "sortfirstauthor": "Verheyden G",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20872595"
+    ],
+    "20872595": {
+      "uid": "20872595",
+      "pubdate": "2010 Sep",
+      "epubdate": "",
+      "source": "Arthritis Rheum",
+      "authors": [
+        {
+          "name": "Aletaha D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neogi T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silman AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Funovits J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Felson DT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bingham CO 3rd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Birnbaum NS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burmester GR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bykerk VP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cohen MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Combe B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Costenbader KH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dougados M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Emery P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferraccioli G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hazes JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hobbs K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huizinga TW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kavanaugh A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kay J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kvien TK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laing T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mease P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "M\u00e9nard HA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moreland LW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naden RL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pincus T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smolen JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stanislawska-Biernat E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Symmons D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tak PP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Upchurch KS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vencovsk\u00fd J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolfe F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hawker G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hawker G",
+      "title": "2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative.",
+      "sorttitle": "2010 rheumatoid arthritis classification criteria an american college of rheumatology european league against rheumatism collaborative initiative",
+      "volume": "62",
+      "issue": "9",
+      "pages": "2569-81",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370605",
+      "issn": "0004-3591",
+      "essn": "1529-0131",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20872595"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/art.27584"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/09/28 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/09/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/11/10 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Arthritis Rheum. 2010 Sep;62(9):2592-4",
+          "reftype": "Comment in",
+          "pmid": 20872597,
+          "note": ""
+        },
+        {
+          "refsource": "Arthritis Rheum. 2011 Feb;63(2):570; author reply 570-1",
+          "reftype": "Comment in",
+          "pmid": 21280013,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Arthritis and rheumatism",
+      "elocationid": "doi: 10.1002/art.27584",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/09/01 00:00",
+      "sortfirstauthor": "Aletaha D",
+      "vernaculartitle": ""
+    }
+  }
+}

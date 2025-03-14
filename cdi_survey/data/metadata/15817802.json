@@ -1,0 +1,119 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15817802"
+    ],
+    "15817802": {
+      "uid": "15817802",
+      "pubdate": "2005 Jul 15",
+      "epubdate": "2005 Apr 7",
+      "source": "Am J Respir Crit Care Med",
+      "authors": [
+        {
+          "name": "Trachsel D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McCrindle BW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nakagawa S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bohn D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bohn D",
+      "title": "Oxygenation index predicts outcome in children with acute hypoxemic respiratory failure.",
+      "sorttitle": "oxygenation index predicts outcome in children with acute hypoxemic respiratory failure",
+      "volume": "172",
+      "issue": "2",
+      "pages": "206-11",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9421642",
+      "issn": "1073-449X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15817802"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1164/rccm.200405-625OC"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "200405-625OC"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/04/09 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/09/08 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/04/09 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Respir Crit Care Med. 2006 Mar 15;173(6):683; author reply 683",
+          "reftype": "Comment in",
+          "pmid": 16522765,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of respiratory and critical care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/07/15 00:00",
+      "sortfirstauthor": "Trachsel D",
+      "vernaculartitle": ""
+    }
+  }
+}

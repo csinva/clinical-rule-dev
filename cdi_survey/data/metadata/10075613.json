@@ -1,0 +1,147 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10075613"
+    ],
+    "10075613": {
+      "uid": "10075613",
+      "pubdate": "1999 Mar 16",
+      "epubdate": "",
+      "source": "Ann Intern Med",
+      "authors": [
+        {
+          "name": "Levey AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bosch JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lewis JB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greene T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rogers N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roth D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Roth D",
+      "title": "A more accurate method to estimate glomerular filtration rate from serum creatinine: a new prediction equation. Modification of Diet in Renal Disease Study Group.",
+      "sorttitle": "more accurate method to estimate glomerular filtration rate from serum creatinine a new prediction equation modification of diet in renal disease study group",
+      "volume": "130",
+      "issue": "6",
+      "pages": "461-70",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372351",
+      "issn": "0003-4819",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10075613"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7326/0003-4819-130-6-199903160-00002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "199903160-00002"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/03/13 03:11"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/03/18 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/03/13 03:11"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Intern Med. 1999 Oct 19;131(8):629; author reply 630",
+          "reftype": "Comment in",
+          "pmid": 10523228,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Intern Med. 1999 Oct 19;131(8):629; author reply 630",
+          "reftype": "Comment in",
+          "pmid": 10523229,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Intern Med. 1999 Oct 19;131(8):629-30; author reply 630",
+          "reftype": "Comment in",
+          "pmid": 10523230,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Intern Med. 2004 Jun 1;140(11):934; author reply 934-5",
+          "reftype": "Comment in",
+          "pmid": 15172915,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/03/16 00:00",
+      "sortfirstauthor": "Levey AS",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10907383"
+    ],
+    "10907383": {
+      "uid": "10907383",
+      "pubdate": "2000 Jul",
+      "epubdate": "",
+      "source": "Mayo Clin Proc",
+      "authors": [
+        {
+          "name": "Kim WR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Therneau TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wiesner RH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Poterucha JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Benson JT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Malinchoc M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LaRusso NF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lindor KD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dickson ER",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dickson ER",
+      "title": "A revised natural history model for primary sclerosing cholangitis.",
+      "sorttitle": "revised natural history model for primary sclerosing cholangitis",
+      "volume": "75",
+      "issue": "7",
+      "pages": "688-94",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0405543",
+      "issn": "0025-6196",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10907383"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4065/75.7.688"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0025-6196(11)64614-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/07/25 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/08/12 11:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/07/25 11:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Mayo Clinic proceedings",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/07/01 00:00",
+      "sortfirstauthor": "Kim WR",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25234796"
+    ],
+    "25234796": {
+      "uid": "25234796",
+      "pubdate": "2014 Nov",
+      "epubdate": "2014 Aug 22",
+      "source": "Am J Emerg Med",
+      "authors": [
+        {
+          "name": "Weiss SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rogers DB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maas F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ernst AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nick TG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nick TG",
+      "title": "Evaluating community ED crowding: the Community ED Overcrowding Scale study.",
+      "sorttitle": "evaluating community ed crowding the community ed overcrowding scale study",
+      "volume": "32",
+      "issue": "11",
+      "pages": "1357-63",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309942",
+      "issn": "0735-6757",
+      "essn": "1532-8171",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25234796"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ajem.2014.08.035"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0735-6757(14)00589-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2014/06/13 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2014/08/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2014/08/14 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2014/09/20 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/09/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/01/23 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of emergency medicine",
+      "elocationid": "doi: 10.1016/j.ajem.2014.08.035",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/11/01 00:00",
+      "sortfirstauthor": "Weiss SJ",
+      "vernaculartitle": ""
+    }
+  }
+}

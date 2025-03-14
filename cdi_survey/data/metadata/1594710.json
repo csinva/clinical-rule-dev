@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1594710"
+    ],
+    "1594710": {
+      "uid": "1594710",
+      "pubdate": "1992 Mar",
+      "epubdate": "",
+      "source": "Psychiatry Res",
+      "authors": [
+        {
+          "name": "Miller MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paradis CF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Houck PR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mazumdar S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stack JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rifai AH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mulsant B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reynolds CF 3rd",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Reynolds CF 3rd",
+      "title": "Rating chronic medical illness burden in geropsychiatric practice and research: application of the Cumulative Illness Rating Scale.",
+      "sorttitle": "rating chronic medical illness burden in geropsychiatric practice and research application of the cumulative illness rating scale",
+      "volume": "41",
+      "issue": "3",
+      "pages": "237-48",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7911385",
+      "issn": "0165-1781",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1594710"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0165-1781(92)90005-n"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0165-1781(92)90005-N"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1992/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1992/03/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1992/03/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Psychiatry research",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1992/03/01 00:00",
+      "sortfirstauthor": "Miller MD",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10944139"
+    ],
+    "10944139": {
+      "uid": "10944139",
+      "pubdate": "2000 Aug",
+      "epubdate": "",
+      "source": "J Clin Oncol",
+      "authors": [
+        {
+          "name": "Klastersky J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paesmans M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rubenstein EB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boyer M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elting L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feld R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gallagher J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herrstedt J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rapoport B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rolston K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Talcott J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Talcott J",
+      "title": "The Multinational Association for Supportive Care in Cancer risk index: A multinational scoring system for identifying low-risk febrile neutropenic cancer patients.",
+      "sorttitle": "multinational association for supportive care in cancer risk index a multinational scoring system for identifying low risk febrile neutropenic cancer patients",
+      "volume": "18",
+      "issue": "16",
+      "pages": "3038-51",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309333",
+      "issn": "0732-183X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10944139"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1200/JCO.2000.18.16.3038"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/08/16 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/09/19 11:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/08/16 11:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/08/01 00:00",
+      "sortfirstauthor": "Klastersky J",
+      "vernaculartitle": ""
+    }
+  }
+}

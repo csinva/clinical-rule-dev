@@ -1,0 +1,152 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12883497"
+    ],
+    "12883497": {
+      "uid": "12883497",
+      "pubdate": "2003 Aug",
+      "epubdate": "",
+      "source": "Hepatology",
+      "authors": [
+        {
+          "name": "Wai CT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greenson JK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fontana RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kalbfleisch JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marrero JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Conjeevaram HS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lok AS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lok AS",
+      "title": "A simple noninvasive index can predict both significant fibrosis and cirrhosis in patients with chronic hepatitis C.",
+      "sorttitle": "simple noninvasive index can predict both significant fibrosis and cirrhosis in patients with chronic hepatitis c",
+      "volume": "38",
+      "issue": "2",
+      "pages": "518-26",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8302946",
+      "issn": "0270-9139",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12883497"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/jhep.2003.50346"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0270913903005822"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/07/29 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/08/30 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/07/29 05:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Hepatology. 2003 Nov;38(5):1312-3; author reply 1313",
+          "reftype": "Comment in",
+          "pmid": 14578874,
+          "note": ""
+        },
+        {
+          "refsource": "Hepatology. 2004 Mar;39(3):862-3; author reply 863",
+          "reftype": "Comment in",
+          "pmid": 14999708,
+          "note": ""
+        },
+        {
+          "refsource": "Hepatology. 2004 May;39(5):1456-7; author reply 1457-8",
+          "reftype": "Comment in",
+          "pmid": 15122779,
+          "note": ""
+        },
+        {
+          "refsource": "Hepatology. 2005 Jun;41(6):1434-5",
+          "reftype": "Comment in",
+          "pmid": 15915470,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Hepatology (Baltimore, Md.)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/08/01 00:00",
+      "sortfirstauthor": "Wai CT",
+      "vernaculartitle": ""
+    }
+  }
+}

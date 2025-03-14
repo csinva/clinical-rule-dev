@@ -1,0 +1,287 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "30776077"
+    ],
+    "30776077": {
+      "uid": "30776077",
+      "pubdate": "2019 Apr 1",
+      "epubdate": "",
+      "source": "JAMA Pediatr",
+      "authors": [
+        {
+          "name": "Kuppermann N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dayan PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levine DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vitale M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tzimenatos L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tunik MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saunders M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruddy RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roosevelt G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rogers AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Powell EC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nigrovic LE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Muenzer J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Linakis JG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grisanti K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jaffe DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoyle JD Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greenberg R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gattu R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cruz AT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Crain EF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cohen DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brayer A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borgialli D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bonsu B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Browne L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blumberg S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bennett JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Atabaki SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anders J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alpern ER",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Casper TC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dean JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ramilo O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahajan P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Febrile Infant Working Group of the Pediatric Emergency Care Applied Research Network (PECARN)",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mahajan P",
+      "title": "A Clinical Prediction Rule to Identify Febrile Infants 60 Days and Younger at Low Risk for Serious Bacterial Infections.",
+      "sorttitle": "clinical prediction rule to identify febrile infants 60 days and younger at low risk for serious bacterial infections",
+      "volume": "173",
+      "issue": "4",
+      "pages": "342-351",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101589544",
+      "issn": "2168-6203",
+      "essn": "2168-6211",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30776077"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6450281"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6450281;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamapediatrics.2018.5501"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2725042"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/02/19 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/02/23 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2019/02/19 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 70,
+      "fulljournalname": "JAMA pediatrics",
+      "elocationid": "doi: 10.1001/jamapediatrics.2018.5501",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/04/01 00:00",
+      "sortfirstauthor": "Kuppermann N",
+      "vernaculartitle": ""
+    }
+  }
+}

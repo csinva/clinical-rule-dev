@@ -1,0 +1,127 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16374287"
+    ],
+    "16374287": {
+      "uid": "16374287",
+      "pubdate": "2005 Oct",
+      "epubdate": "",
+      "source": "J Trauma",
+      "authors": [
+        {
+          "name": "Mower WR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoffman JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herbert M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolfson AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pollack CV Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zucker MI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "NEXUS II Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zucker MI",
+      "title": "Developing a decision instrument to guide computed tomographic imaging of blunt head injury patients.",
+      "sorttitle": "developing a decision instrument to guide computed tomographic imaging of blunt head injury patients",
+      "volume": "59",
+      "issue": "4",
+      "pages": "954-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376373",
+      "issn": "0022-5282",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16374287"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/01.ta.0000187813.79047.42"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00005373-200510000-00022"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/12/24 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/01/20 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/12/24 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of trauma",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/10/01 00:00",
+      "sortfirstauthor": "Mower WR",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "17211205",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://academic.oup.com/jbcr/article-lookup/doi/10.1097/BCR.0B013E31802C889F"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--academic.oup.com-images-oup_pubmed.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Silverchair Information Systems",
+                "nameabbr": "silverchair",
+                "id": "7898"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

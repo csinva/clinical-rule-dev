@@ -1,0 +1,58 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "32960645",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.acpjournals.org/doi/abs/10.7326/M20-3905?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.acpjournals.org-pb-assets-images-icons-acp-pubmed-free.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "Atypon",
+                "nameabbr": "ATYPON",
+                "id": "4487"
+              }
+            },
+            {
+              "url": {
+                "value": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32960645/"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "PubMed Central",
+                "nameabbr": "PMC",
+                "id": "3494"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

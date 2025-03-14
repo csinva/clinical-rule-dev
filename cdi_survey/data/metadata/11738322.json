@@ -1,0 +1,212 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11738322"
+    ],
+    "11738322": {
+      "uid": "11738322",
+      "pubdate": "2001 Dec",
+      "epubdate": "",
+      "source": "J Am Coll Cardiol",
+      "authors": [
+        {
+          "name": "Hunt SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baker DW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chin MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cinquegrani MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feldman AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Francis GS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ganiats TG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goldstein S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gregoratos G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jessup ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Noble RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Packer M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silver MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stevenson LW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gibbons RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Antman EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alpert JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Faxon DP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fuster V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacobs AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hiratzka LF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Russell RO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith SC Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "American College of Cardiology/American Heart Association",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Smith SC Jr",
+      "title": "ACC/AHA guidelines for the evaluation and management of chronic heart failure in the adult: executive summary. A report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee to revise the 1995 Guidelines for the Evaluation and Management of Heart Failure).",
+      "sorttitle": "acc aha guidelines for the evaluation and management of chronic heart failure in the adult executive summary a report of the american college of cardiology american heart association task force on practice guidelines committee to revise the 1995 guidelines for the evaluation and management of heart failure",
+      "volume": "38",
+      "issue": "7",
+      "pages": "2101-13",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8301365",
+      "issn": "0735-1097",
+      "essn": "",
+      "pubtype": [
+        "Guideline",
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11738322"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0735-1097(01)01683-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0735109701016837"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/12/12 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/01/05 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/12/12 10:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American College of Cardiology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/12/01 00:00",
+      "sortfirstauthor": "Hunt SA",
+      "vernaculartitle": ""
+    }
+  }
+}

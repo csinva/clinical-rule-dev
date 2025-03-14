@@ -1,0 +1,152 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8698230"
+    ],
+    "8698230": {
+      "uid": "8698230",
+      "pubdate": "1996 Jul",
+      "epubdate": "",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Armstrong D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bennett JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blum AL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dent J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Dombal FT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Galmiche JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lundell L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Margulies M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Richter JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spechler SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tytgat GN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wallin L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wallin L",
+      "title": "The endoscopic assessment of esophagitis: a progress report on observer agreement.",
+      "sorttitle": "endoscopic assessment of esophagitis a progress report on observer agreement",
+      "volume": "111",
+      "issue": "1",
+      "pages": "85-92",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8698230"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/gast.1996.v111.pm8698230"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016508596003320"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1996/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1996/07/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1996/07/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1996/07/01 00:00",
+      "sortfirstauthor": "Armstrong D",
+      "vernaculartitle": ""
+    }
+  }
+}

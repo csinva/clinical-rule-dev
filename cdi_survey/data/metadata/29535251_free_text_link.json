@@ -1,0 +1,58 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "29535251",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29535251/"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "PubMed Central",
+                "nameabbr": "PMC",
+                "id": "3494"
+              }
+            },
+            {
+              "url": {
+                "value": "https://publications.aap.org/pediatrics/article-lookup/doi/10.1542/peds.2017-2699"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--publications.aap.org-images-pubmed_aap.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Silverchair Information Systems",
+                "nameabbr": "silverchair",
+                "id": "7898"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25899242"
+    ],
+    "25899242": {
+      "uid": "25899242",
+      "pubdate": "2015 Jun",
+      "epubdate": "2015 Apr 21",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "Katz BS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McMullan JT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sucharew H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adeoye O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Broderick JP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Broderick JP",
+      "title": "Design and validation of a prehospital scale to predict stroke severity: Cincinnati Prehospital Stroke Severity Scale.",
+      "sorttitle": "design and validation of a prehospital scale to predict stroke severity cincinnati prehospital stroke severity scale",
+      "volume": "46",
+      "issue": "6",
+      "pages": "1508-12",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "1524-4628",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25899242"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS668454"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4442042"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4442042;manuscript-id: NIHMS668454;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/STROKEAHA.115.008804"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "STROKEAHA.115.008804"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2015/01/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2015/02/25 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2015/04/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/04/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/08/05 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 37,
+      "fulljournalname": "Stroke",
+      "elocationid": "doi: 10.1161/STROKEAHA.115.008804",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/06/01 00:00",
+      "sortfirstauthor": "Katz BS",
+      "vernaculartitle": ""
+    }
+  }
+}

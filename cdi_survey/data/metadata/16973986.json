@@ -1,0 +1,157 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16973986"
+    ],
+    "16973986": {
+      "uid": "16973986",
+      "pubdate": "2006 Dec 1",
+      "epubdate": "2006 Sep 14",
+      "source": "Am J Respir Crit Care Med",
+      "authors": [
+        {
+          "name": "Espa\u00f1a PP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Capelastegui A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gorordo I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Esteban C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oribe M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ortega M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bilbao A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Quintana JM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Quintana JM",
+      "title": "Development and validation of a clinical prediction rule for severe community-acquired pneumonia.",
+      "sorttitle": "development and validation of a clinical prediction rule for severe community acquired pneumonia",
+      "volume": "174",
+      "issue": "11",
+      "pages": "1249-56",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9421642",
+      "issn": "1073-449X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16973986"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1164/rccm.200602-177OC"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "200602-177OC"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/09/16 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/01/11 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/09/16 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Respir Crit Care Med. 2006 Dec 1;174(11):1169-70",
+          "reftype": "Comment in",
+          "pmid": 17110652,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Respir Crit Care Med. 2007 Feb 1;175(3):289; author reply 289-90",
+          "reftype": "Comment in",
+          "pmid": 17234911,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Respir Crit Care Med. 2007 Apr 1;175(7):743; author reply 743-4",
+          "reftype": "Comment in",
+          "pmid": 17384328,
+          "note": ""
+        },
+        {
+          "refsource": "J Fam Pract. 2007 Feb;56(2):92",
+          "reftype": "Comment in",
+          "pmid": 17607822,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of respiratory and critical care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/12/01 00:00",
+      "sortfirstauthor": "Espa\u00f1a PP",
+      "vernaculartitle": ""
+    }
+  }
+}

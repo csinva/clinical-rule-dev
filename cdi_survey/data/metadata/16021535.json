@@ -1,0 +1,120 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16021535"
+    ],
+    "16021535": {
+      "uid": "16021535",
+      "pubdate": "2005 Aug",
+      "epubdate": "2005 Jun 16",
+      "source": "Ann Surg Oncol",
+      "authors": [
+        {
+          "name": "Specht MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kattan MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gonen M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fey J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Van Zee KJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Van Zee KJ",
+      "title": "Predicting nonsentinel node status after positive sentinel lymph biopsy for breast cancer: clinicians versus nomogram.",
+      "sorttitle": "predicting nonsentinel node status after positive sentinel lymph biopsy for breast cancer clinicians versus nomogram",
+      "volume": "12",
+      "issue": "8",
+      "pages": "654-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9420840",
+      "issn": "1068-9265",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16021535"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1245/ASO.2005.06.037"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2004/06/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2005/02/15 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/07/16 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/11/03 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/07/16 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of surgical oncology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/08/01 00:00",
+      "sortfirstauthor": "Specht MC",
+      "vernaculartitle": ""
+    }
+  }
+}

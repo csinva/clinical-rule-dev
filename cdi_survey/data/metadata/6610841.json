@@ -1,0 +1,119 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6610841"
+    ],
+    "6610841": {
+      "uid": "6610841",
+      "pubdate": "1984 Jul",
+      "epubdate": "",
+      "source": "Neurology",
+      "authors": [
+        {
+          "name": "McKhann G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Drachman D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Folstein M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Katzman R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Price D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stadlan EM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Stadlan EM",
+      "title": "Clinical diagnosis of Alzheimer's disease: report of the NINCDS-ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer's Disease.",
+      "sorttitle": "clinical diagnosis of alzheimer s disease report of the nincds adrda work group under the auspices of department of health and human services task force on alzheimer s disease",
+      "volume": "34",
+      "issue": "7",
+      "pages": "939-44",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401060",
+      "issn": "0028-3878",
+      "essn": "",
+      "pubtype": [
+        "Guideline",
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6610841"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1212/wnl.34.7.939"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1984/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1984/07/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1984/07/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1984/07/01 00:00",
+      "sortfirstauthor": "McKhann G",
+      "vernaculartitle": ""
+    }
+  }
+}

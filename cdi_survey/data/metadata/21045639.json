@@ -1,0 +1,162 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21045639"
+    ],
+    "21045639": {
+      "uid": "21045639",
+      "pubdate": "2010 Dec",
+      "epubdate": "",
+      "source": "Anesthesiology",
+      "authors": [
+        {
+          "name": "Canet J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gallart L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gomar C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paluzie G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vall\u00e8s J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Castillo J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sabat\u00e9 S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mazo V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Briones Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sanchis J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "ARISCAT Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sanchis J",
+      "title": "Prediction of postoperative pulmonary complications in a population-based surgical cohort.",
+      "sorttitle": "prediction of postoperative pulmonary complications in a population based surgical cohort",
+      "volume": "113",
+      "issue": "6",
+      "pages": "1338-50",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1300217",
+      "issn": "0003-3022",
+      "essn": "1528-1175",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21045639"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/ALN.0b013e3181fc6e0a"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/11/04 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/11/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/12/24 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Eur J Anaesthesiol. 2011 Jun;28(6):401-3",
+          "reftype": "Comment in",
+          "pmid": 21540653,
+          "note": ""
+        },
+        {
+          "refsource": "Anesthesiology. 2011 Jul;115(1):210; author reply 211-2",
+          "reftype": "Comment in",
+          "pmid": 21694517,
+          "note": ""
+        },
+        {
+          "refsource": "Anesthesiology. 2011 Jul;115(1):211; author reply 211-2",
+          "reftype": "Comment in",
+          "pmid": 21694519,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Anesthesiology",
+      "elocationid": "doi: 10.1097/ALN.0b013e3181fc6e0a",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/12/01 00:00",
+      "sortfirstauthor": "Canet J",
+      "vernaculartitle": ""
+    }
+  }
+}

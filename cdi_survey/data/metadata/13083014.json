@@ -1,0 +1,85 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "13083014"
+    ],
+    "13083014": {
+      "uid": "13083014",
+      "pubdate": "1953 Jul-Aug",
+      "epubdate": "",
+      "source": "Curr Res Anesth Analg",
+      "authors": [
+        {
+          "name": "APGAR V",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "APGAR V",
+      "title": "A proposal for a new method of evaluation of the newborn infant.",
+      "sorttitle": "proposal for a new method of evaluation of the newborn infant",
+      "volume": "32",
+      "issue": "4",
+      "pages": "260-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "14940090R",
+      "issn": "0099-8125",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "13083014"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1953/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1953/07/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1953/07/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Current researches in anesthesia & analgesia",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1953/07/01 00:00",
+      "sortfirstauthor": "APGAR V",
+      "vernaculartitle": ""
+    }
+  }
+}

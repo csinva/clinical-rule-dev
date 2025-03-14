@@ -1,0 +1,95 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14600587"
+    ],
+    "14600587": {
+      "uid": "14600587",
+      "pubdate": "2003 Oct",
+      "epubdate": "",
+      "source": "Clin Orthop Relat Res",
+      "authors": [
+        {
+          "name": "Mirels H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mirels H",
+      "title": "Metastatic disease in long bones: A proposed scoring system for diagnosing impending pathologic fractures. 1989.",
+      "sorttitle": "metastatic disease in long bones a proposed scoring system for diagnosing impending pathologic fractures 1989",
+      "volume": "",
+      "issue": "415 Suppl",
+      "pages": "S4-13",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0075674",
+      "issn": "0009-921X",
+      "essn": "",
+      "pubtype": [
+        "Biography",
+        "Classical Article",
+        "Historical Article",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14600587"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/01.blo.0000093045.56370.dd"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/11/06 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/12/03 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/11/06 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical orthopaedics and related research",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/10/01 00:00",
+      "sortfirstauthor": "Mirels H",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8487337"
+    ],
+    "8487337": {
+      "uid": "8487337",
+      "pubdate": "1993 Apr",
+      "epubdate": "",
+      "source": "J Trauma",
+      "authors": [
+        {
+          "name": "Rozycki GS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ochsner MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jaffin JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Champion HR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Champion HR",
+      "title": "Prospective evaluation of surgeons' use of ultrasound in the evaluation of trauma patients.",
+      "sorttitle": "prospective evaluation of surgeons use of ultrasound in the evaluation of trauma patients",
+      "volume": "34",
+      "issue": "4",
+      "pages": "516-26; discussion 526-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376373",
+      "issn": "0022-5282",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8487337"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00005373-199304000-00008"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1993/04/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1993/04/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1993/04/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Trauma. 1993 Aug;35(2):181-2",
+          "reftype": "Comment in",
+          "pmid": 8355293,
+          "note": ""
+        },
+        {
+          "refsource": "J Trauma. 1996 Aug;41(2):368-70",
+          "reftype": "Comment in",
+          "pmid": 8760557,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of trauma",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1993/04/01 00:00",
+      "sortfirstauthor": "Rozycki GS",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24428678"
+    ],
+    "24428678": {
+      "uid": "24428678",
+      "pubdate": "2014 Feb",
+      "epubdate": "2014 Jan 15",
+      "source": "Emerg Med Australas",
+      "authors": [
+        {
+          "name": "Than M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Flaws D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sanders S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Doust J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Glasziou P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kline J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aldous S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Troughton R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reid C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Parsonage WA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Frampton C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greenslade JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deely JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hess E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sadiq AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singleton R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shopland R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vercoe L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Woolhouse-Williams M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ardagh M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bossuyt P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bannister L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cullen L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cullen L",
+      "title": "Development and validation of the Emergency Department Assessment of Chest pain Score and 2 h accelerated diagnostic protocol.",
+      "sorttitle": "development and validation of the emergency department assessment of chest pain score and 2 h accelerated diagnostic protocol",
+      "volume": "26",
+      "issue": "1",
+      "pages": "34-44",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101199824",
+      "issn": "",
+      "essn": "1742-6723",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24428678"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/1742-6723.12164"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "accepted",
+          "date": "2013/11/10 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2014/01/17 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/01/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/10/01 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Emergency medicine Australasia : EMA",
+      "elocationid": "doi: 10.1111/1742-6723.12164",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/02/01 00:00",
+      "sortfirstauthor": "Than M",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12151728"
+    ],
+    "12151728": {
+      "uid": "12151728",
+      "pubdate": "2002 Jul 27",
+      "epubdate": "",
+      "source": "Transplantation",
+      "authors": [
+        {
+          "name": "McDiarmid SV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anand R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lindblad AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Principal Investigators and Institutions of the Studies of Pediatric Liver Transplantation (SPLIT) Research Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lindblad AS",
+      "title": "Development of a pediatric end-stage liver disease score to predict poor outcome in children awaiting liver transplantation.",
+      "sorttitle": "development of a pediatric end stage liver disease score to predict poor outcome in children awaiting liver transplantation",
+      "volume": "74",
+      "issue": "2",
+      "pages": "173-81",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0132144",
+      "issn": "0041-1337",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12151728"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00007890-200207270-00006"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2002/08/02 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/08/17 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2002/08/02 10:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Transplantation",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2002/07/27 00:00",
+      "sortfirstauthor": "McDiarmid SV",
+      "vernaculartitle": ""
+    }
+  }
+}

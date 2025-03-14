@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3752165"
+    ],
+    "3752165": {
+      "uid": "3752165",
+      "pubdate": "1986 Oct",
+      "epubdate": "",
+      "source": "Am J Med Sci",
+      "authors": [
+        {
+          "name": "Goldstein MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bear R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Richardson RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marsden PA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Halperin ML",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Halperin ML",
+      "title": "The urine anion gap: a clinically useful index of ammonium excretion.",
+      "sorttitle": "urine anion gap a clinically useful index of ammonium excretion",
+      "volume": "292",
+      "issue": "4",
+      "pages": "198-202",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370506",
+      "issn": "0002-9629",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3752165"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00000441-198610000-00003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0002-9629(15)36886-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1986/10/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1986/10/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1986/10/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of the medical sciences",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1986/10/01 00:00",
+      "sortfirstauthor": "Goldstein MB",
+      "vernaculartitle": ""
+    }
+  }
+}

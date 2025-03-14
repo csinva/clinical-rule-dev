@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3899825"
+    ],
+    "3899825": {
+      "uid": "3899825",
+      "pubdate": "1985 Jul",
+      "epubdate": "",
+      "source": "Diabetologia",
+      "authors": [
+        {
+          "name": "Matthews DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hosker JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rudenski AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naylor BA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Treacher DF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Turner RC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Turner RC",
+      "title": "Homeostasis model assessment: insulin resistance and beta-cell function from fasting plasma glucose and insulin concentrations in man.",
+      "sorttitle": "homeostasis model assessment insulin resistance and beta cell function from fasting plasma glucose and insulin concentrations in man",
+      "volume": "28",
+      "issue": "7",
+      "pages": "412-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0006777",
+      "issn": "0012-186X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3899825"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/BF00280883"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1985/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1985/07/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1985/07/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Diabetes Care. 2002 Oct;25(10):1891-2",
+          "reftype": "Comment in",
+          "pmid": 12351505,
+          "note": ""
+        },
+        {
+          "refsource": "Diabetologia. 2012 Nov;55(11):2863-7",
+          "reftype": "Comment in",
+          "pmid": 22911384,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Diabetologia",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1985/07/01 00:00",
+      "sortfirstauthor": "Matthews DR",
+      "vernaculartitle": ""
+    }
+  }
+}

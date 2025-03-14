@@ -1,0 +1,362 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22553077"
+    ],
+    "22553077": {
+      "uid": "22553077",
+      "pubdate": "2012 Aug",
+      "epubdate": "",
+      "source": "Arthritis Rheum",
+      "authors": [
+        {
+          "name": "Petri M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Orbai AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alarc\u00f3n GS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gordon C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Merrill JT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fortin PR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bruce IN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Isenberg D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wallace DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nived O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sturfelt G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ramsey-Goldman R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bae SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hanly JG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "S\u00e1nchez-Guerrero J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Clarke A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aranow C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Manzi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Urowitz M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gladman D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kalunian K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Costner M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Werth VP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zoma A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernatsky S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruiz-Irastorza G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khamashta MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacobsen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buyon JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maddison P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dooley MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Vollenhoven RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ginzler E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stoll T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peschken C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jorizzo JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Callen JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lim SS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fessler BJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Inanc M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kamen DL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rahman A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Steinsson K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Franks AG Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sigler L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hameed S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pham N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brey R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weisman MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McGwin G Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Magder LS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Magder LS",
+      "title": "Derivation and validation of the Systemic Lupus International Collaborating Clinics classification criteria for systemic lupus erythematosus.",
+      "sorttitle": "derivation and validation of the systemic lupus international collaborating clinics classification criteria for systemic lupus erythematosus",
+      "volume": "64",
+      "issue": "8",
+      "pages": "2677-86",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370605",
+      "issn": "0004-3591",
+      "essn": "1529-0131",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22553077"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS365115"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3409311"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3409311;manuscript-id: NIHMS365115;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/art.34473"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/05/04 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/05/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/12/10 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 33,
+      "fulljournalname": "Arthritis and rheumatism",
+      "elocationid": "doi: 10.1002/art.34473",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/08/01 00:00",
+      "sortfirstauthor": "Petri M",
+      "vernaculartitle": ""
+    }
+  }
+}

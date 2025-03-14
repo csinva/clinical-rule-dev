@@ -1,0 +1,157 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29802146"
+    ],
+    "29802146": {
+      "uid": "29802146",
+      "pubdate": "2018 May 25",
+      "epubdate": "2018 May 25",
+      "source": "J Am Heart Assoc",
+      "authors": [
+        {
+          "name": "Fanaroff AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen AY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomas LE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pieper KS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garratt KN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peterson ED",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Newby LK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Lemos JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kosiborod MN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Amsterdam EA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang TY",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang TY",
+      "title": "Risk Score to Predict Need for Intensive Care in Initially Hemodynamically Stable Adults With Non-ST-Segment-Elevation Myocardial Infarction.",
+      "sorttitle": "risk score to predict need for intensive care in initially hemodynamically stable adults with non st segment elevation myocardial infarction",
+      "volume": "7",
+      "issue": "11",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101580524",
+      "issn": "",
+      "essn": "2047-9980",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29802146"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6015341"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6015341;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/JAHA.118.008894"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JAHA.118.008894"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2018/05/27 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/05/29 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/11/08 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 36,
+      "fulljournalname": "Journal of the American Heart Association",
+      "elocationid": "doi: 10.1161/JAHA.118.008894",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/05/25 00:00",
+      "sortfirstauthor": "Fanaroff AC",
+      "vernaculartitle": ""
+    }
+  }
+}

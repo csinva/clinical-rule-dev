@@ -1,0 +1,140 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16461960"
+    ],
+    "16461960": {
+      "uid": "16461960",
+      "pubdate": "2006 Feb 7",
+      "epubdate": "",
+      "source": "Ann Intern Med",
+      "authors": [
+        {
+          "name": "Le Gal G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Righini M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roy PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sanchez O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aujesky D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bounameaux H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perrier A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Perrier A",
+      "title": "Prediction of pulmonary embolism in the emergency department: the revised Geneva score.",
+      "sorttitle": "prediction of pulmonary embolism in the emergency department the revised geneva score",
+      "volume": "144",
+      "issue": "3",
+      "pages": "165-71",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372351",
+      "issn": "0003-4819",
+      "essn": "1539-3704",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16461960"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7326/0003-4819-144-3-200602070-00004"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "144/3/165"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/02/08 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/03/08 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/02/08 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Intern Med. 2006 Feb 7;144(3):210-2",
+          "reftype": "Comment in",
+          "pmid": 16461966,
+          "note": ""
+        },
+        {
+          "refsource": "ACP J Club. 2006 Jul-Aug;145(1):25",
+          "reftype": "Comment in",
+          "pmid": 16813373,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/02/07 00:00",
+      "sortfirstauthor": "Le Gal G",
+      "vernaculartitle": ""
+    }
+  }
+}

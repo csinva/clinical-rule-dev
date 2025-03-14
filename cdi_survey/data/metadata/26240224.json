@@ -1,0 +1,272 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "26240224"
+    ],
+    "26240224": {
+      "uid": "26240224",
+      "pubdate": "2015 Sep 10",
+      "epubdate": "2015 Aug 3",
+      "source": "J Clin Oncol",
+      "authors": [
+        {
+          "name": "Palumbo A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Avet-Loiseau H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oliva S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lokhorst HM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goldschmidt H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosinol L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Richardson P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caltagirone S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lahuerta JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Facon T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bringhen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gay F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Attal M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Passera R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spencer A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Offidani M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kumar S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Musto P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lonial S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Petrucci MT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Orlowski RZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zamagni E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morgan G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dimopoulos MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Durie BG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson KC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sonneveld P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "San Miguel J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cavo M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rajkumar SV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moreau P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Moreau P",
+      "title": "Revised International Staging System for Multiple Myeloma: A Report From International Myeloma Working Group.",
+      "sorttitle": "revised international staging system for multiple myeloma a report from international myeloma working group",
+      "volume": "33",
+      "issue": "26",
+      "pages": "2863-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309333",
+      "issn": "0732-183X",
+      "essn": "1527-7755",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26240224"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS747695"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4846284"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4846284;manuscript-id: NIHMS747695;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1200/JCO.2015.61.2267"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JCO.2015.61.2267"
+        },
+        {
+          "idtype": "version",
+          "idtypen": 8,
+          "value": "2"
+        },
+        {
+          "idtype": "version-id",
+          "idtypen": 8,
+          "value": "2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2015/08/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/08/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/12/19 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 29,
+      "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "elocationid": "doi: 10.1200/JCO.2015.61.2267",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/09/10 00:00",
+      "sortfirstauthor": "Palumbo A",
+      "vernaculartitle": ""
+    }
+  }
+}

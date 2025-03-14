@@ -1,0 +1,163 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17518367"
+    ],
+    "17518367": {
+      "uid": "17518367",
+      "pubdate": "2007 Jun",
+      "epubdate": "",
+      "source": "Hepatology",
+      "authors": [
+        {
+          "name": "Louvet A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naveau S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdelnour M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ramond MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Diaz E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fartoux L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dharancy S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Texier F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hollebecque A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Serfaty L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boleslawski E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deltenre P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Canva V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pruvot FR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mathurin P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mathurin P",
+      "title": "The Lille model: a new tool for therapeutic strategy in patients with severe alcoholic hepatitis treated with steroids.",
+      "sorttitle": "lille model a new tool for therapeutic strategy in patients with severe alcoholic hepatitis treated with steroids",
+      "volume": "45",
+      "issue": "6",
+      "pages": "1348-54",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8302946",
+      "issn": "0270-9139",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17518367"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/hep.21607"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/05/24 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/07/13 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/05/24 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Hepatology (Baltimore, Md.)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/06/01 00:00",
+      "sortfirstauthor": "Louvet A",
+      "vernaculartitle": ""
+    }
+  }
+}

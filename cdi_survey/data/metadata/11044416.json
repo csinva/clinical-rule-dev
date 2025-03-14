@@ -1,0 +1,139 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11044416"
+    ],
+    "11044416": {
+      "uid": "11044416",
+      "pubdate": "2000 Oct 24",
+      "epubdate": "",
+      "source": "Circulation",
+      "authors": [
+        {
+          "name": "Morrow DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Antman EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Charlesworth A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cairns R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Murphy SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Lemos JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giugliano RP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McCabe CH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Braunwald E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Braunwald E",
+      "title": "TIMI risk score for ST-elevation myocardial infarction: A convenient, bedside, clinical score for risk assessment at presentation: An intravenous nPA for treatment of infarcting myocardium early II trial substudy.",
+      "sorttitle": "timi risk score for st elevation myocardial infarction a convenient bedside clinical score for risk assessment at presentation an intravenous npa for treatment of infarcting myocardium early ii trial substudy",
+      "volume": "102",
+      "issue": "17",
+      "pages": "2031-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147763",
+      "issn": "0009-7322",
+      "essn": "1524-4539",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11044416"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/01.cir.102.17.2031"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/10/25 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/02/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/10/25 11:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Circulation. 2001 Jul 10;104(2):E8",
+          "reftype": "Comment in",
+          "pmid": 11447098,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Circulation",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/10/24 00:00",
+      "sortfirstauthor": "Morrow DA",
+      "vernaculartitle": ""
+    }
+  }
+}

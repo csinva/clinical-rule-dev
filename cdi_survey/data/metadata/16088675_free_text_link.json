@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "16088675",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.thieme-connect.com/DOI/DOI?10.1055/s-2001-13834"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.thieme.de-classic-images-tc-logo_tc.jpg"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Georg Thieme Verlag Stuttgart, New York",
+                "nameabbr": "Thieme",
+                "id": "3400"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

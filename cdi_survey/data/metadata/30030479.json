@@ -1,0 +1,120 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "30030479"
+    ],
+    "30030479": {
+      "uid": "30030479",
+      "pubdate": "2018 Jul 20",
+      "epubdate": "2018 Jul 20",
+      "source": "Sci Rep",
+      "authors": [
+        {
+          "name": "Woolcott OO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bergman RN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bergman RN",
+      "title": "Relative fat mass (RFM) as a new estimator of whole-body fat percentage \u2500 A cross-sectional study in American adult individuals.",
+      "sorttitle": "relative fat mass rfm as a new estimator of whole body fat percentage a cross sectional study in american adult individuals",
+      "volume": "8",
+      "issue": "1",
+      "pages": "10980",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101563288",
+      "issn": "",
+      "essn": "2045-2322",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30030479"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6054651"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6054651;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-018-29362-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-018-29362-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2018/05/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2018/07/09 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/07/22 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/07/22 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/11/19 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 51,
+      "fulljournalname": "Scientific reports",
+      "elocationid": "doi: 10.1038/s41598-018-29362-1",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/07/20 00:00",
+      "sortfirstauthor": "Woolcott OO",
+      "vernaculartitle": ""
+    }
+  }
+}

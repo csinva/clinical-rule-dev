@@ -1,0 +1,95 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17659153"
+    ],
+    "17659153": {
+      "uid": "17659153",
+      "pubdate": "2003 Jan",
+      "epubdate": "",
+      "source": "CJEM",
+      "authors": [
+        {
+          "name": "Vertesi L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Vertesi L",
+      "title": "Risk Assessment Stratification Protocol (RASP) to help patients decide on the use of postexposure prophylaxis for HIV exposure.",
+      "sorttitle": "risk assessment stratification protocol rasp to help patients decide on the use of postexposure prophylaxis for hiv exposure",
+      "volume": "5",
+      "issue": "1",
+      "pages": "46-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100893237",
+      "issn": "1481-8035",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17659153"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1017/s1481803500008113"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0867239757B441F78C265B04547245D1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/07/31 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/07/31 09:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/07/31 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "CJEM",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/01/01 00:00",
+      "sortfirstauthor": "Vertesi L",
+      "vernaculartitle": ""
+    }
+  }
+}

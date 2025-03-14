@@ -1,0 +1,172 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23645857"
+    ],
+    "23645857": {
+      "uid": "23645857",
+      "pubdate": "2013 May 3",
+      "epubdate": "2013 May 3",
+      "source": "BMJ",
+      "authors": [
+        {
+          "name": "Schouten HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Geersing GJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Koek HL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zuithoff NP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Janssen KJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Douma RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Delden JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moons KG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reitsma JB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Reitsma JB",
+      "title": "Diagnostic accuracy of conventional or age adjusted D-dimer cut-off values in older patients with suspected venous thromboembolism: systematic review and meta-analysis.",
+      "sorttitle": "diagnostic accuracy of conventional or age adjusted d dimer cut off values in older patients with suspected venous thromboembolism systematic review and meta analysis",
+      "volume": "346",
+      "issue": "",
+      "pages": "f2492",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8900488",
+      "issn": "0959-8138",
+      "essn": "1756-1833",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23645857"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3643284"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3643284;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmj.f2492"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "bmj.f2492"
+        },
+        {
+          "idtype": "version",
+          "idtypen": 8,
+          "value": "2"
+        },
+        {
+          "idtype": "version-id",
+          "idtypen": 8,
+          "value": "2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/05/07 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/05/07 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/06/25 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Dtsch Med Wochenschr. 2013 Jul;138(30):1500",
+          "reftype": "Comment in",
+          "pmid": 23860678,
+          "note": ""
+        },
+        {
+          "refsource": "J Fam Pract. 2014 Mar;63(3):155-8",
+          "reftype": "Comment in",
+          "pmid": 24701602,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 57,
+      "fulljournalname": "BMJ (Clinical research ed.)",
+      "elocationid": "doi: 10.1136/bmj.f2492",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/05/03 00:00",
+      "sortfirstauthor": "Schouten HJ",
+      "vernaculartitle": ""
+    }
+  }
+}

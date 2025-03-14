@@ -1,0 +1,171 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "30202945"
+    ],
+    "30202945": {
+      "uid": "30202945",
+      "pubdate": "2018 Nov 1",
+      "epubdate": "",
+      "source": "Ann Oncol",
+      "authors": [
+        {
+          "name": "Armstrong AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Higano CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sternberg CN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sonpavde G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tombal B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Templeton AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fizazi K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Phung D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wong EK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krivoshik A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beer TM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Beer TM",
+      "title": "Development and validation of a prognostic model for overall survival in chemotherapy-na\u00efve men with metastatic castration-resistant prostate cancer.",
+      "sorttitle": "development and validation of a prognostic model for overall survival in chemotherapy na ve men with metastatic castration resistant prostate cancer",
+      "volume": "29",
+      "issue": "11",
+      "pages": "2200-2207",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9007735",
+      "issn": "0923-7534",
+      "essn": "1569-8041",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30202945"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6888025"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6888025;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/annonc/mdy406"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0923-7534(19)31885-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/09/12 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/11/14 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/09/12 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Oncol. 2018 Nov 1;29(11):2155-2157",
+          "reftype": "Comment in",
+          "pmid": 30307525,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 32,
+      "fulljournalname": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "elocationid": "doi: 10.1093/annonc/mdy406",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/11/01 00:00",
+      "sortfirstauthor": "Armstrong AJ",
+      "vernaculartitle": ""
+    }
+  }
+}

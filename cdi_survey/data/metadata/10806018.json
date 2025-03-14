@@ -1,0 +1,115 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10806018"
+    ],
+    "10806018": {
+      "uid": "10806018",
+      "pubdate": "2000 Jun",
+      "epubdate": "",
+      "source": "Eur Heart J",
+      "authors": [
+        {
+          "name": "Ammirati F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Colivicchi F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Santini M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Santini M",
+      "title": "Diagnosing syncope in clinical practice. Implementation of a simplified diagnostic algorithm in a multicentre prospective trial - the OESIL 2 study (Osservatorio Epidemiologico della Sincope nel Lazio).",
+      "sorttitle": "diagnosing syncope in clinical practice implementation of a simplified diagnostic algorithm in a multicentre prospective trial the oesil 2 study osservatorio epidemiologico della sincope nel lazio",
+      "volume": "21",
+      "issue": "11",
+      "pages": "935-40",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8006263",
+      "issn": "0195-668X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10806018"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/euhj.1999.1910"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0195668X99919103"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/05/12 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/07/15 11:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/05/12 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Eur Heart J. 2000 Jun;21(11):877-80",
+          "reftype": "Comment in",
+          "pmid": 10806009,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European heart journal",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/06/01 00:00",
+      "sortfirstauthor": "Ammirati F",
+      "vernaculartitle": ""
+    }
+  }
+}

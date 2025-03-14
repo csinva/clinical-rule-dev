@@ -1,0 +1,97 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12610029"
+    ],
+    "12610029": {
+      "uid": "12610029",
+      "pubdate": "2003 Mar",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "Lindstr\u00f6m J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tuomilehto J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tuomilehto J",
+      "title": "The diabetes risk score: a practical tool to predict type 2 diabetes risk.",
+      "sorttitle": "diabetes risk score a practical tool to predict type 2 diabetes risk",
+      "volume": "26",
+      "issue": "3",
+      "pages": "725-31",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12610029"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/diacare.26.3.725"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/03/01 04:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/09/13 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/03/01 04:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Diabetes care",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/03/01 00:00",
+      "sortfirstauthor": "Lindstr\u00f6m J",
+      "vernaculartitle": ""
+    }
+  }
+}

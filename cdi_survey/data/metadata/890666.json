@@ -1,0 +1,140 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "890666"
+    ],
+    "890666": {
+      "uid": "890666",
+      "pubdate": "1977 Aug",
+      "epubdate": "",
+      "source": "Cancer",
+      "authors": [
+        {
+          "name": "Binet JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leporrier M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dighiero G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Charron D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "D'Athis P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vaugier G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beral HM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Natali JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Raphael M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nizet B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Follezou JY",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Follezou JY",
+      "title": "A clinical staging system for chronic lymphocytic leukemia: prognostic significance.",
+      "sorttitle": "clinical staging system for chronic lymphocytic leukemia prognostic significance",
+      "volume": "40",
+      "issue": "2",
+      "pages": "855-64",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374236",
+      "issn": "0008-543X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "890666"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/1097-0142(197708)40:2<855::aid-cncr2820400239>3.0.co;2-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1977/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1977/08/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1977/08/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Cancer",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1977/08/01 00:00",
+      "sortfirstauthor": "Binet JL",
+      "vernaculartitle": ""
+    }
+  }
+}

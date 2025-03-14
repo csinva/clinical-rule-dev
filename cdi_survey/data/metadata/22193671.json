@@ -1,0 +1,177 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22193671"
+    ],
+    "22193671": {
+      "uid": "22193671",
+      "pubdate": "2011 Dec",
+      "epubdate": "",
+      "source": "Am J Psychiatry",
+      "authors": [
+        {
+          "name": "Posner K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brown GK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stanley B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brent DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yershova KV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oquendo MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Currier GW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Melvin GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greenhill L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mann JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mann JJ",
+      "title": "The Columbia-Suicide Severity Rating Scale: initial validity and internal consistency findings from three multisite studies with adolescents and adults.",
+      "sorttitle": "columbia suicide severity rating scale initial validity and internal consistency findings from three multisite studies with adolescents and adults",
+      "volume": "168",
+      "issue": "12",
+      "pages": "1266-77",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370512",
+      "issn": "0002-953X",
+      "essn": "1535-7228",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22193671"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS511139"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3893686"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3893686;manuscript-id: NIHMS511139;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1176/appi.ajp.2011.10111704"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/12/24 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/12/24 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/02/10 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Psychiatry. 2011 Dec;168(12):1233-4",
+          "reftype": "Comment in",
+          "pmid": 22193664,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Psychiatry. 2012 Jun;169(6):662; author reply 663",
+          "reftype": "Comment in",
+          "pmid": 22684596,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Psychiatry. 2012 Jun;169(6):662-3; author reply 663",
+          "reftype": "Comment in",
+          "pmid": 22684597,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 46,
+      "fulljournalname": "The American journal of psychiatry",
+      "elocationid": "doi: 10.1176/appi.ajp.2011.10111704",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/12/01 00:00",
+      "sortfirstauthor": "Posner K",
+      "vernaculartitle": ""
+    }
+  }
+}

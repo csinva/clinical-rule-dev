@@ -1,0 +1,140 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23742753"
+    ],
+    "23742753": {
+      "uid": "23742753",
+      "pubdate": "2013 Jun 6",
+      "epubdate": "2013 Jun 6",
+      "source": "BMC Infect Dis",
+      "authors": [
+        {
+          "name": "Shorr AF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Myers DE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang DB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nathanson BH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Emons MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kollef MH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kollef MH",
+      "title": "A risk score for identifying methicillin-resistant Staphylococcus aureus in patients presenting to the hospital with pneumonia.",
+      "sorttitle": "risk score for identifying methicillin resistant staphylococcus aureus in patients presenting to the hospital with pneumonia",
+      "volume": "13",
+      "issue": "",
+      "pages": "268",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100968551",
+      "issn": "",
+      "essn": "1471-2334",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23742753"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3681572"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3681572;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/1471-2334-13-268"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1471-2334-13-268"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2012/08/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2013/05/31 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/06/08 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/06/08 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/11/14 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 17,
+      "fulljournalname": "BMC infectious diseases",
+      "elocationid": "doi: 10.1186/1471-2334-13-268",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/06/06 00:00",
+      "sortfirstauthor": "Shorr AF",
+      "vernaculartitle": ""
+    }
+  }
+}

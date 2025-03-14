@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19786679"
+    ],
+    "19786679": {
+      "uid": "19786679",
+      "pubdate": "2009 Sep 28",
+      "epubdate": "",
+      "source": "Arch Intern Med",
+      "authors": [
+        {
+          "name": "Tabak YP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johannes RS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gupta V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shorr AF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shorr AF",
+      "title": "Mortality and need for mechanical ventilation in acute exacerbations of chronic obstructive pulmonary disease: development and validation of a simple risk score.",
+      "sorttitle": "mortality and need for mechanical ventilation in acute exacerbations of chronic obstructive pulmonary disease development and validation of a simple risk score",
+      "volume": "169",
+      "issue": "17",
+      "pages": "1595-602",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372440",
+      "issn": "0003-9926",
+      "essn": "1538-3679",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19786679"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/archinternmed.2009.270"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "169/17/1595"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/09/30 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/09/30 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/10/16 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of internal medicine",
+      "elocationid": "doi: 10.1001/archinternmed.2009.270",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/09/28 00:00",
+      "sortfirstauthor": "Tabak YP",
+      "vernaculartitle": ""
+    }
+  }
+}

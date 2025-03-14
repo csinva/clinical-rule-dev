@@ -1,0 +1,131 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19762550"
+    ],
+    "19762550": {
+      "uid": "19762550",
+      "pubdate": "2010 Feb",
+      "epubdate": "2009 Sep 17",
+      "source": "Chest",
+      "authors": [
+        {
+          "name": "Lip GY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nieuwlaat R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pisters R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lane DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Crijns HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Crijns HJ",
+      "title": "Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the euro heart survey on atrial fibrillation.",
+      "sorttitle": "refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor based approach the euro heart survey on atrial fibrillation",
+      "volume": "137",
+      "issue": "2",
+      "pages": "263-72",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0231335",
+      "issn": "0012-3692",
+      "essn": "1931-3543",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19762550"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1378/chest.09-1584"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0012-3692(10)60067-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/09/19 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/09/19 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/03/12 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Chest. 2010 Jul;138(1):239; author reply 239-40",
+          "reftype": "Comment in",
+          "pmid": 20605835,
+          "note": ""
+        },
+        {
+          "refsource": "Chest. 2010 Oct;138(4):1020; author reply 1020-1",
+          "reftype": "Comment in",
+          "pmid": 20923808,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Chest",
+      "elocationid": "doi: 10.1378/chest.09-1584",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/02/01 00:00",
+      "sortfirstauthor": "Lip GY",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2023603"
+    ],
+    "2023603": {
+      "uid": "2023603",
+      "pubdate": "1991 May 23",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Yang KL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tobin MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tobin MJ",
+      "title": "A prospective study of indexes predicting the outcome of trials of weaning from mechanical ventilation.",
+      "sorttitle": "prospective study of indexes predicting the outcome of trials of weaning from mechanical ventilation",
+      "volume": "324",
+      "issue": "21",
+      "pages": "1445-50",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2023603"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM199105233242101"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1991/05/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1991/05/23 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1991/05/23 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med. 1991 Nov 14;325(20):1442-4",
+          "reftype": "Comment in",
+          "pmid": 1922258,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 1991 May 23;324(21):1496-8",
+          "reftype": "Comment in",
+          "pmid": 2023609,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1991/05/23 00:00",
+      "sortfirstauthor": "Yang KL",
+      "vernaculartitle": ""
+    }
+  }
+}

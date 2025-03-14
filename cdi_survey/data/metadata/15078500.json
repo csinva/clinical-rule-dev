@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15078500"
+    ],
+    "15078500": {
+      "uid": "15078500",
+      "pubdate": "2004 May",
+      "epubdate": "",
+      "source": "J Intern Med",
+      "authors": [
+        {
+          "name": "Olsson T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Terent A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lind L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lind L",
+      "title": "Rapid Emergency Medicine score: a new prognostic tool for in-hospital mortality in nonsurgical emergency department patients.",
+      "sorttitle": "rapid emergency medicine score a new prognostic tool for in hospital mortality in nonsurgical emergency department patients",
+      "volume": "255",
+      "issue": "5",
+      "pages": "579-87",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8904841",
+      "issn": "0954-6820",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15078500"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1365-2796.2004.01321.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JIM1321"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/04/14 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/05/20 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/04/14 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/05/01 00:00",
+      "sortfirstauthor": "Olsson T",
+      "vernaculartitle": ""
+    }
+  }
+}

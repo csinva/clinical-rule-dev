@@ -1,0 +1,212 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29908990"
+    ],
+    "29908990": {
+      "uid": "29908990",
+      "pubdate": "2018 Jul",
+      "epubdate": "2018 Jun 13",
+      "source": "Lancet Oncol",
+      "authors": [
+        {
+          "name": "Psallidas I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kanellakis NI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gerry S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Th\u00e9z\u00e9nas ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Charles PD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Samsonova A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schiller HB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fischer R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Asciak R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hallifax RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mercer R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dobson M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dong T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pavord ID",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Collins GS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kessler BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pass HI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maskell N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stathopoulos GT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rahman NM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rahman NM",
+      "title": "Development and validation of response markers to predict survival and pleurodesis success in patients with malignant pleural effusion (PROMISE): a multicohort analysis.",
+      "sorttitle": "development and validation of response markers to predict survival and pleurodesis success in patients with malignant pleural effusion promise a multicohort analysis",
+      "volume": "19",
+      "issue": "7",
+      "pages": "930-939",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100957246",
+      "issn": "1470-2045",
+      "essn": "1474-5488",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29908990"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1470-2045(18)30294-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1470-2045(18)30294-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2018/02/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2018/04/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2018/04/11 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/06/18 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/04/09 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/06/18 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet Oncol. 2018 Jul;19(7):853-855",
+          "reftype": "Comment in",
+          "pmid": 29908988,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Oncology",
+      "elocationid": "doi: 10.1016/S1470-2045(18)30294-8",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/07/01 00:00",
+      "sortfirstauthor": "Psallidas I",
+      "vernaculartitle": ""
+    }
+  }
+}

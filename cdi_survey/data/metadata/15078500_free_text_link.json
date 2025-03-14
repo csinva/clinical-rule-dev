@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "15078500",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://onlinelibrary.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0954-6820&date=2004&volume=255&issue=5&spage=579"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--media.wiley.com-assets-7388-68-wiley-free-full-text.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "Wiley",
+                "nameabbr": "Wiley",
+                "id": "3058"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1678008"
+    ],
+    "1678008": {
+      "uid": "1678008",
+      "pubdate": "1991 May",
+      "epubdate": "",
+      "source": "J Pediatr Gastroenterol Nutr",
+      "authors": [
+        {
+          "name": "Hyams JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferry GD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mandel FS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gryboski JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kibort PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kirschner BS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Griffiths AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Katz AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grand RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boyle JT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Boyle JT",
+      "title": "Development and validation of a pediatric Crohn's disease activity index.",
+      "sorttitle": "development and validation of a pediatric crohn s disease activity index",
+      "volume": "12",
+      "issue": "4",
+      "pages": "439-47",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8211545",
+      "issn": "0277-2116",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1678008"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1991/05/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1991/05/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1991/05/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Author List Incomplete"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pediatric gastroenterology and nutrition",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1991/05/01 00:00",
+      "sortfirstauthor": "Hyams JS",
+      "vernaculartitle": ""
+    }
+  }
+}

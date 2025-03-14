@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "13260656",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/13260656/"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "PubMed Central",
+                "nameabbr": "PMC",
+                "id": "3494"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

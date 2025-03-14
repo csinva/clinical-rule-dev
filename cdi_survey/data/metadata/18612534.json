@@ -1,0 +1,141 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18612534"
+    ],
+    "18612534": {
+      "uid": "18612534",
+      "pubdate": "2008 Jul",
+      "epubdate": "",
+      "source": "Thromb Haemost",
+      "authors": [
+        {
+          "name": "Ru\u00edz-Gim\u00e9nez N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Su\u00e1rez C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gonz\u00e1lez R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nieto JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Todol\u00ed JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Samperiz AL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Monreal M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "RIETE Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Monreal M",
+      "title": "Predictive variables for major bleeding events in patients presenting with documented acute venous thromboembolism. Findings from the RIETE Registry.",
+      "sorttitle": "predictive variables for major bleeding events in patients presenting with documented acute venous thromboembolism findings from the riete registry",
+      "volume": "100",
+      "issue": "1",
+      "pages": "26-31",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7608063",
+      "issn": "0340-6245",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18612534"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1160/TH08-03-0193"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "08070026"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/07/10 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/08/30 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/07/10 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Thromb Haemost. 2008 Jul;100(1):5-6",
+          "reftype": "Comment in",
+          "pmid": 18612527,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Thrombosis and haemostasis",
+      "elocationid": "doi: 10.1160/TH08-03-0193",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/07/01 00:00",
+      "sortfirstauthor": "Ru\u00edz-Gim\u00e9nez N",
+      "vernaculartitle": ""
+    }
+  }
+}

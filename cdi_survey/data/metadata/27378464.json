@@ -1,0 +1,166 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27378464"
+    ],
+    "27378464": {
+      "uid": "27378464",
+      "pubdate": "2016 Sep 6",
+      "epubdate": "2016 Jul 4",
+      "source": "CMAJ",
+      "authors": [
+        {
+          "name": "Thiruganasambandamoorthy V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kwong K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sivilotti MLA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mukarram M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rowe BH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lang E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perry JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheldon R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stiell IG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taljaard M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Taljaard M",
+      "title": "Development of the Canadian Syncope Risk Score to predict serious adverse events after emergency department assessment of syncope.",
+      "sorttitle": "development of the canadian syncope risk score to predict serious adverse events after emergency department assessment of syncope",
+      "volume": "188",
+      "issue": "12",
+      "pages": "E289-E298",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9711805",
+      "issn": "0820-3946",
+      "essn": "1488-2329",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27378464"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5008955"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5008955;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1503/cmaj.151469"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cmaj.151469"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/07/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/03/16 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/07/06 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/07/06 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/04/04 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 32,
+      "fulljournalname": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+      "elocationid": "doi: 10.1503/cmaj.151469",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/09/06 00:00",
+      "sortfirstauthor": "Thiruganasambandamoorthy V",
+      "vernaculartitle": ""
+    }
+  }
+}

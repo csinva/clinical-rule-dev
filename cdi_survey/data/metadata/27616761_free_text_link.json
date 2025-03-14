@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "27616761",
+          "objurls": [
+            {
+              "url": {
+                "value": "http://www.dustri.com/nc/journals-in-english?artId=14714"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--www.dustri.com-fileadmin-images-dustri_linkout_logo_en.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Dustri-Verlag Dr. Karl Feistle GmbH & Co. KG",
+                "nameabbr": "dustri",
+                "id": "6406"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

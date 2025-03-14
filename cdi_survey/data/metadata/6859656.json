@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6859656"
+    ],
+    "6859656": {
+      "uid": "6859656",
+      "pubdate": "1983 Jun",
+      "epubdate": "",
+      "source": "Am Rev Respir Dis",
+      "authors": [
+        {
+          "name": "Knudson RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lebowitz MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holberg CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burrows B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Burrows B",
+      "title": "Changes in the normal maximal expiratory flow-volume curve with growth and aging.",
+      "sorttitle": "changes in the normal maximal expiratory flow volume curve with growth and aging",
+      "volume": "127",
+      "issue": "6",
+      "pages": "725-34",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370523",
+      "issn": "0003-0805",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6859656"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1164/arrd.1983.127.6.725"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1983/06/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1983/06/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1983/06/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American review of respiratory disease",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1983/06/01 00:00",
+      "sortfirstauthor": "Knudson RJ",
+      "vernaculartitle": ""
+    }
+  }
+}

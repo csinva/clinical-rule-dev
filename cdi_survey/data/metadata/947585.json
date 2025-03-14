@@ -1,0 +1,85 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "947585"
+    ],
+    "947585": {
+      "uid": "947585",
+      "pubdate": "1976 Sep",
+      "epubdate": "",
+      "source": "Circulation",
+      "authors": [
+        {
+          "name": "Campeau L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Campeau L",
+      "title": "Letter: Grading of angina pectoris.",
+      "sorttitle": "letter grading of angina pectoris",
+      "volume": "54",
+      "issue": "3",
+      "pages": "522-3",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147763",
+      "issn": "0009-7322",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "947585"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1976/09/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1976/09/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1976/09/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Circulation",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1976/09/01 00:00",
+      "sortfirstauthor": "Campeau L",
+      "vernaculartitle": ""
+    }
+  }
+}

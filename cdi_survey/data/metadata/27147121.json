@@ -1,0 +1,98 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27147121"
+    ],
+    "27147121": {
+      "uid": "27147121",
+      "pubdate": "2016 May",
+      "epubdate": "",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Drossman DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hasler WL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hasler WL",
+      "title": "Rome IV-Functional GI Disorders: Disorders of Gut-Brain Interaction.",
+      "sorttitle": "rome iv functional gi disorders disorders of gut brain interaction",
+      "volume": "150",
+      "issue": "6",
+      "pages": "1257-61",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "1528-0012",
+      "pubtype": [],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27147121"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.gastro.2016.03.035"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016-5085(16)30048-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2016/05/06 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/05/06 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/08/14 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "doi: 10.1053/j.gastro.2016.03.035",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/05/01 00:00",
+      "sortfirstauthor": "Drossman DA",
+      "vernaculartitle": ""
+    }
+  }
+}

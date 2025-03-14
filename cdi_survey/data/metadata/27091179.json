@@ -1,0 +1,192 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27091179"
+    ],
+    "27091179": {
+      "uid": "27091179",
+      "pubdate": "2016 Apr 18",
+      "epubdate": "2016 Apr 18",
+      "source": "J Am Heart Assoc",
+      "authors": [
+        {
+          "name": "Park LP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chu VH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peterson G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Skoutelis A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lejko-Zupa T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bouza E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tattevin P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Habib G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gonzalez J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Altclas J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Edathodu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fortes CQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Siciliano RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pachirat O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kanj S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "International Collaboration on Endocarditis (ICE) Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang A",
+      "title": "Validated Risk Score for Predicting 6-Month Mortality in Infective Endocarditis.",
+      "sorttitle": "validated risk score for predicting 6 month mortality in infective endocarditis",
+      "volume": "5",
+      "issue": "4",
+      "pages": "e003016",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101580524",
+      "issn": "",
+      "essn": "2047-9980",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27091179"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4859286"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4859286;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/JAHA.115.003016"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JAHA.115.003016"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2016/04/20 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/04/20 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/12/23 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 19,
+      "fulljournalname": "Journal of the American Heart Association",
+      "elocationid": "doi: 10.1161/JAHA.115.003016",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/04/18 00:00",
+      "sortfirstauthor": "Park LP",
+      "vernaculartitle": ""
+    }
+  }
+}

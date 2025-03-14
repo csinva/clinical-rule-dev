@@ -1,0 +1,147 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24922479"
+    ],
+    "24922479": {
+      "uid": "24922479",
+      "pubdate": "2014 Jun 1",
+      "epubdate": "",
+      "source": "AIDS",
+      "authors": [
+        {
+          "name": "Scherzer R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gandhi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Estrella MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tien PC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deeks SG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grunfeld C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peralta CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shlipak MG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shlipak MG",
+      "title": "A chronic kidney disease risk score to determine tenofovir safety in a prospective cohort of HIV-positive male veterans.",
+      "sorttitle": "chronic kidney disease risk score to determine tenofovir safety in a prospective cohort of hiv positive male veterans",
+      "volume": "28",
+      "issue": "9",
+      "pages": "1289-95",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8710219",
+      "issn": "0269-9370",
+      "essn": "1473-5571",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24922479"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS632119"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4188545"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4188545;manuscript-id: NIHMS632119;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/QAD.0000000000000258"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00002030-201406010-00006"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/06/13 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/06/13 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/01/27 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 30,
+      "fulljournalname": "AIDS (London, England)",
+      "elocationid": "doi: 10.1097/QAD.0000000000000258",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/06/01 00:00",
+      "sortfirstauthor": "Scherzer R",
+      "vernaculartitle": ""
+    }
+  }
+}

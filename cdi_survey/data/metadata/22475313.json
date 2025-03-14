@@ -1,0 +1,159 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22475313"
+    ],
+    "22475313": {
+      "uid": "22475313",
+      "pubdate": "2012 May",
+      "epubdate": "2012 Apr 3",
+      "source": "Thromb Res",
+      "authors": [
+        {
+          "name": "Kline JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roy PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Than MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hernandez J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Courtney DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jones AE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Penaloza A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pollack CV Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pollack CV Jr",
+      "title": "Derivation and validation of a multivariate model to predict mortality from pulmonary embolism with cancer: The POMPE-C tool.",
+      "sorttitle": "derivation and validation of a multivariate model to predict mortality from pulmonary embolism with cancer the pompe c tool",
+      "volume": "129",
+      "issue": "5",
+      "pages": "e194-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0326377",
+      "issn": "0049-3848",
+      "essn": "1879-2472",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22475313"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS368935"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3350789"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3350789;manuscript-id: NIHMS368935;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.thromres.2012.03.015"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0049-3848(12)00142-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2012/01/13 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2012/03/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2012/03/13 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2012/04/06 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/04/06 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/11/14 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 34,
+      "fulljournalname": "Thrombosis research",
+      "elocationid": "doi: 10.1016/j.thromres.2012.03.015",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/05/01 00:00",
+      "sortfirstauthor": "Kline JA",
+      "vernaculartitle": ""
+    }
+  }
+}

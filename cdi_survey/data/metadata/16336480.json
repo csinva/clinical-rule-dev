@@ -1,0 +1,109 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16336480"
+    ],
+    "16336480": {
+      "uid": "16336480",
+      "pubdate": "2005 Nov-Dec",
+      "epubdate": "",
+      "source": "Pain Med",
+      "authors": [
+        {
+          "name": "Webster LR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Webster RM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Webster RM",
+      "title": "Predicting aberrant behaviors in opioid-treated patients: preliminary validation of the Opioid Risk Tool.",
+      "sorttitle": "predicting aberrant behaviors in opioid treated patients preliminary validation of the opioid risk tool",
+      "volume": "6",
+      "issue": "6",
+      "pages": "432-42",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100894201",
+      "issn": "1526-2375",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16336480"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1526-4637.2005.00072.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PME72"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/12/13 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/04/19 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/12/13 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Pain Med. 2018 Jul 1;19(7):1302-1303",
+          "reftype": "Comment in",
+          "pmid": 29415168,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pain medicine (Malden, Mass.)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/11/01 00:00",
+      "sortfirstauthor": "Webster LR",
+      "vernaculartitle": ""
+    }
+  }
+}

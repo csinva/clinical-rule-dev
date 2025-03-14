@@ -1,0 +1,158 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20170456"
+    ],
+    "20170456": {
+      "uid": "20170456",
+      "pubdate": "2010 Feb 15",
+      "epubdate": "",
+      "source": "Med J Aust",
+      "authors": [
+        {
+          "name": "Chen L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Magliano DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Balkau B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Colagiuri S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zimmet PZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tonkin AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mitchell P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Phillips PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shaw JE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shaw JE",
+      "title": "AUSDRISK: an Australian Type 2 Diabetes Risk Assessment Tool based on demographic, lifestyle and simple anthropometric measures.",
+      "sorttitle": "ausdrisk an australian type 2 diabetes risk assessment tool based on demographic lifestyle and simple anthropometric measures",
+      "volume": "192",
+      "issue": "4",
+      "pages": "197-202",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0400714",
+      "issn": "0025-729X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20170456"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5694/j.1326-5377.2010.tb03507.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "che10062_fm"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2009/01/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2009/09/09 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2010/02/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/02/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/03/31 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Med J Aust. 2010 Mar 1;192(5):274",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "Med J Aust. 2010 Sep 20;193(6):374",
+          "reftype": "Comment in",
+          "pmid": 20854246,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Medical journal of Australia",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/02/15 00:00",
+      "sortfirstauthor": "Chen L",
+      "vernaculartitle": ""
+    }
+  }
+}

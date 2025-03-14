@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12816400"
+    ],
+    "12816400": {
+      "uid": "12816400",
+      "pubdate": "2003 Apr",
+      "epubdate": "",
+      "source": "Violence Vict",
+      "authors": [
+        {
+          "name": "Weiss SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ernst AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cham E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nick TG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nick TG",
+      "title": "Development of a screen for ongoing intimate partner violence.",
+      "sorttitle": "development of a screen for ongoing intimate partner violence",
+      "volume": "18",
+      "issue": "2",
+      "pages": "131-41",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8916436",
+      "issn": "0886-6708",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12816400"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1891/vivi.2003.18.2.131"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/06/21 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/10/22 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/06/21 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Violence and victims",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/04/01 00:00",
+      "sortfirstauthor": "Weiss SJ",
+      "vernaculartitle": ""
+    }
+  }
+}

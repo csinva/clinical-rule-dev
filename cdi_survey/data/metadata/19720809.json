@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19720809"
+    ],
+    "19720809": {
+      "uid": "19720809",
+      "pubdate": "2009 Sep",
+      "epubdate": "",
+      "source": "Eur Respir J",
+      "authors": [
+        {
+          "name": "Jones PW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Harding G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berry P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wiklund I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen WH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kline Leidy N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kline Leidy N",
+      "title": "Development and first validation of the COPD Assessment Test.",
+      "sorttitle": "development and first validation of the copd assessment test",
+      "volume": "34",
+      "issue": "3",
+      "pages": "648-54",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8803460",
+      "issn": "0903-1936",
+      "essn": "1399-3003",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19720809"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1183/09031936.00102509"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "34/3/648"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/09/02 09:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/09/02 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/01/28 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The European respiratory journal",
+      "elocationid": "doi: 10.1183/09031936.00102509",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/09/01 00:00",
+      "sortfirstauthor": "Jones PW",
+      "vernaculartitle": ""
+    }
+  }
+}

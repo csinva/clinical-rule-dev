@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7355965"
+    ],
+    "7355965": {
+      "uid": "7355965",
+      "pubdate": "1980 Mar 15",
+      "epubdate": "",
+      "source": "Am J Obstet Gynecol",
+      "authors": [
+        {
+          "name": "Manning FA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Platt LD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sipos L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sipos L",
+      "title": "Antepartum fetal evaluation: development of a fetal biophysical profile.",
+      "sorttitle": "antepartum fetal evaluation development of a fetal biophysical profile",
+      "volume": "136",
+      "issue": "6",
+      "pages": "787-95",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370476",
+      "issn": "0002-9378",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7355965"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0002-9378(80)90457-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0002-9378(80)90457-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1980/03/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1980/03/15 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1980/03/15 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of obstetrics and gynecology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1980/03/15 00:00",
+      "sortfirstauthor": "Manning FA",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "12688626",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://onlinelibrary.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0905-6157&date=2002&volume=13&issue=s15&spage=55"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--media.wiley.com-assets-7388-69-wiley-full-text.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Wiley",
+                "nameabbr": "Wiley",
+                "id": "3058"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11838846"
+    ],
+    "11838846": {
+      "uid": "11838846",
+      "pubdate": "2002 Feb",
+      "epubdate": "",
+      "source": "J Rheumatol",
+      "authors": [
+        {
+          "name": "Gladman DD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iba\u00f1ez D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Urowitz MB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Urowitz MB",
+      "title": "Systemic lupus erythematosus disease activity index 2000.",
+      "sorttitle": "systemic lupus erythematosus disease activity index 2000",
+      "volume": "29",
+      "issue": "2",
+      "pages": "288-91",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501984",
+      "issn": "0315-162X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11838846"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2002/02/13 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/07/18 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2002/02/13 10:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of rheumatology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2002/02/01 00:00",
+      "sortfirstauthor": "Gladman DD",
+      "vernaculartitle": ""
+    }
+  }
+}

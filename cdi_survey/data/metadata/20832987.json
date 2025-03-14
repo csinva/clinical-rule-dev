@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20832987"
+    ],
+    "20832987": {
+      "uid": "20832987",
+      "pubdate": "2011 Feb",
+      "epubdate": "2010 Sep 15",
+      "source": "J Pain Symptom Manage",
+      "authors": [
+        {
+          "name": "Watanabe SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nekolaichuk C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beaumont C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Myers J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Strasser F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Strasser F",
+      "title": "A multicenter study comparing two numerical versions of the Edmonton Symptom Assessment System in palliative care patients.",
+      "sorttitle": "multicenter study comparing two numerical versions of the edmonton symptom assessment system in palliative care patients",
+      "volume": "41",
+      "issue": "2",
+      "pages": "456-68",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8605836",
+      "issn": "0885-3924",
+      "essn": "1873-6513",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20832987"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jpainsymman.2010.04.020"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0885-3924(10)00534-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2010/02/09 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2010/04/17 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2010/04/20 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2010/09/14 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/09/14 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/07/06 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pain and symptom management",
+      "elocationid": "doi: 10.1016/j.jpainsymman.2010.04.020",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/02/01 00:00",
+      "sortfirstauthor": "Watanabe SM",
+      "vernaculartitle": ""
+    }
+  }
+}

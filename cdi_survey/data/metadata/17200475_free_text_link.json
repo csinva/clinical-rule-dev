@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "17200475",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.297.1.52"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--jama.jamanetwork.com-images-PUBMED_JAMA_full.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Silverchair Information Systems",
+                "nameabbr": "silverchair",
+                "id": "7898"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14966439"
+    ],
+    "14966439": {
+      "uid": "14966439",
+      "pubdate": "2004 Jan",
+      "epubdate": "",
+      "source": "Int J Palliat Nurs",
+      "authors": [
+        {
+          "name": "Abbey J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Piller N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Bellis A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Esterman A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Parker D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giles L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lowcay B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lowcay B",
+      "title": "The Abbey pain scale: a 1-minute numerical indicator for people with end-stage dementia.",
+      "sorttitle": "abbey pain scale a 1 minute numerical indicator for people with end stage dementia",
+      "volume": "10",
+      "issue": "1",
+      "pages": "6-13",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9506762",
+      "issn": "1357-6321",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14966439"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.12968/ijpn.2004.10.1.12013"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/02/18 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/03/16 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/02/18 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of palliative nursing",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/01/01 00:00",
+      "sortfirstauthor": "Abbey J",
+      "vernaculartitle": ""
+    }
+  }
+}

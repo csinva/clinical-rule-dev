@@ -1,0 +1,260 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29442540"
+    ],
+    "29442540": {
+      "uid": "29442540",
+      "pubdate": "2018 Jun 10",
+      "epubdate": "2018 Feb 14",
+      "source": "J Clin Oncol",
+      "authors": [
+        {
+          "name": "Brahmer JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lacchetti C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schneider BJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Atkins MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brassil KJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caterino JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chau I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ernstoff MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gardner JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ginex P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hallmeyer S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holter Chakrabarty J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leighl NB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mammen JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McDermott DF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naing A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nastoupil LJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Phillips T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Porter LD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Puzanov I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reichner CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Santomasso BD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Seigel C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spira A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Suarez-Almazor ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weber JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolchok JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thompson JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "National Comprehensive Cancer Network",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Thompson JA",
+      "title": "Management of Immune-Related Adverse Events in Patients Treated With Immune Checkpoint Inhibitor Therapy: American Society of Clinical Oncology Clinical Practice Guideline.",
+      "sorttitle": "management of immune related adverse events in patients treated with immune checkpoint inhibitor therapy american society of clinical oncology clinical practice guideline",
+      "volume": "36",
+      "issue": "17",
+      "pages": "1714-1768",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309333",
+      "issn": "0732-183X",
+      "essn": "1527-7755",
+      "pubtype": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29442540"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1008808"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6481621"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6481621;manuscript-id: NIHMS1008808;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1200/JCO.2017.77.6385"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/02/15 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/08/06 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/02/15 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Strahlenther Onkol. 2019 Apr;195(4):365-366",
+          "reftype": "Comment in",
+          "pmid": 30770936,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 166,
+      "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "elocationid": "doi: 10.1200/JCO.2017.77.6385",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/06/10 00:00",
+      "sortfirstauthor": "Brahmer JR",
+      "vernaculartitle": ""
+    }
+  }
+}

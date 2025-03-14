@@ -1,0 +1,131 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18390575"
+    ],
+    "18390575": {
+      "uid": "18390575",
+      "pubdate": "2008 Oct",
+      "epubdate": "2008 Apr 4",
+      "source": "Gut",
+      "authors": [
+        {
+          "name": "Harrison SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oliver D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arnold HL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gogia S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neuschwander-Tetri BA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Neuschwander-Tetri BA",
+      "title": "Development and validation of a simple NAFLD clinical scoring system for identifying patients without advanced disease.",
+      "sorttitle": "development and validation of a simple nafld clinical scoring system for identifying patients without advanced disease",
+      "volume": "57",
+      "issue": "10",
+      "pages": "1441-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985108R",
+      "issn": "0017-5749",
+      "essn": "1468-3288",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18390575"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/gut.2007.146019"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "gut.2007.146019"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/04/09 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/10/17 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/04/09 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Gut. 2008 Oct;57(10):1351-3",
+          "reftype": "Comment in",
+          "pmid": 18791116,
+          "note": ""
+        },
+        {
+          "refsource": "Gut. 2009 Nov;58(11):1566-7; author reply 1567",
+          "reftype": "Comment in",
+          "pmid": 19834122,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gut",
+      "elocationid": "doi: 10.1136/gut.2007.146019",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/10/01 00:00",
+      "sortfirstauthor": "Harrison SA",
+      "vernaculartitle": ""
+    }
+  }
+}

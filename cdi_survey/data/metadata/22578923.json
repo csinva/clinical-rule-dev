@@ -1,0 +1,219 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22578923"
+    ],
+    "22578923": {
+      "uid": "22578923",
+      "pubdate": "2012 Jun 5",
+      "epubdate": "2012 May 9",
+      "source": "J Am Coll Cardiol",
+      "authors": [
+        {
+          "name": "Than M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cullen L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aldous S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Parsonage WA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reid CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greenslade J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Flaws D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hammett CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beam DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ardagh MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Troughton R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brown AF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "George P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Florkowski CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kline JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peacock WF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maisel AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lim SH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lamanna A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Richards AM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Richards AM",
+      "title": "2-Hour accelerated diagnostic protocol to assess patients with chest pain symptoms using contemporary troponins as the only biomarker: the ADAPT trial.",
+      "sorttitle": "2 hour accelerated diagnostic protocol to assess patients with chest pain symptoms using contemporary troponins as the only biomarker the adapt trial",
+      "volume": "59",
+      "issue": "23",
+      "pages": "2091-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8301365",
+      "issn": "0735-1097",
+      "essn": "1558-3597",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22578923"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jacc.2012.02.035"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0735-1097(12)01069-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2011/12/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2012/02/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2012/02/14 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2012/05/15 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/05/15 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/08/18 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Am Coll Cardiol. 2012 Jun 5;59(23):2099-100",
+          "reftype": "Comment in",
+          "pmid": 22651866,
+          "note": ""
+        },
+        {
+          "refsource": "CJEM. 2015 Jul;17(4):447-50",
+          "reftype": "Comment in",
+          "pmid": 26013480,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American College of Cardiology",
+      "elocationid": "doi: 10.1016/j.jacc.2012.02.035",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/06/05 00:00",
+      "sortfirstauthor": "Than M",
+      "vernaculartitle": ""
+    }
+  }
+}

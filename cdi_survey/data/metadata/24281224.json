@@ -1,0 +1,157 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24281224"
+    ],
+    "24281224": {
+      "uid": "24281224",
+      "pubdate": "2014 Jan",
+      "epubdate": "2013 Nov 26",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "P\u00e9rez de la Ossa N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carrera D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gorchs M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Querol M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mill\u00e1n M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gomis M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dorado L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "L\u00f3pez-Cancio E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hern\u00e1ndez-P\u00e9rez M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chicharro V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Escalada X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jim\u00e9nez X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "D\u00e1valos A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "D\u00e1valos A",
+      "title": "Design and validation of a prehospital stroke scale to predict large arterial occlusion: the rapid arterial occlusion evaluation scale.",
+      "sorttitle": "design and validation of a prehospital stroke scale to predict large arterial occlusion the rapid arterial occlusion evaluation scale",
+      "volume": "45",
+      "issue": "1",
+      "pages": "87-91",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "1524-4628",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24281224"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/STROKEAHA.113.003071"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "STROKEAHA.113.003071"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/11/28 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/11/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/02/22 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Stroke",
+      "elocationid": "doi: 10.1161/STROKEAHA.113.003071",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/01/01 00:00",
+      "sortfirstauthor": "P\u00e9rez de la Ossa N",
+      "vernaculartitle": ""
+    }
+  }
+}

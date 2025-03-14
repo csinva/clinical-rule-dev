@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20223889"
+    ],
+    "20223889": {
+      "uid": "20223889",
+      "pubdate": "2010 Aug",
+      "epubdate": "2010 Mar 11",
+      "source": "AJNR Am J Neuroradiol",
+      "authors": [
+        {
+          "name": "Flint AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cullen SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Faigeles BS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rao VA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rao VA",
+      "title": "Predicting long-term outcome after endovascular stroke treatment: the totaled health risks in vascular events score.",
+      "sorttitle": "predicting long term outcome after endovascular stroke treatment the totaled health risks in vascular events score",
+      "volume": "31",
+      "issue": "7",
+      "pages": "1192-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8003708",
+      "issn": "0195-6108",
+      "essn": "1936-959X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20223889"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7965456"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7965456;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3174/ajnr.A2050"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ajnr.A2050"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/03/13 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/03/13 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/12/14 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 14,
+      "fulljournalname": "AJNR. American journal of neuroradiology",
+      "elocationid": "doi: 10.3174/ajnr.A2050",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/08/01 00:00",
+      "sortfirstauthor": "Flint AC",
+      "vernaculartitle": ""
+    }
+  }
+}

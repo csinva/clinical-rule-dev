@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "7355965",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://linkinghub.elsevier.com/retrieve/pii/0002-9378(80)90457-3"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--linkinghub.elsevier.com-ihub-images-PubMedLink.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Elsevier Science",
+                "nameabbr": "ES",
+                "id": "3048"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

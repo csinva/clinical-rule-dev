@@ -1,0 +1,149 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23716032"
+    ],
+    "23716032": {
+      "uid": "23716032",
+      "pubdate": "2013 Jul",
+      "epubdate": "2013 May 28",
+      "source": "Circ Cardiovasc Qual Outcomes",
+      "authors": [
+        {
+          "name": "Tisdale JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jaynes HA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kingery JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mourad NA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Trujillo TN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Overholser BR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kovacs RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kovacs RJ",
+      "title": "Development and validation of a risk score to predict QT interval prolongation in hospitalized patients.",
+      "sorttitle": "development and validation of a risk score to predict qt interval prolongation in hospitalized patients",
+      "volume": "6",
+      "issue": "4",
+      "pages": "479-87",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101489148",
+      "issn": "1941-7713",
+      "essn": "1941-7705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23716032"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS490533"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3788679"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3788679;manuscript-id: NIHMS490533;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/CIRCOUTCOMES.113.000152"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CIRCOUTCOMES.113.000152"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/05/30 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/05/30 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/03/13 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Circ Cardiovasc Qual Outcomes. 2013 Nov;6(6):e57",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 25,
+      "fulljournalname": "Circulation. Cardiovascular quality and outcomes",
+      "elocationid": "doi: 10.1161/CIRCOUTCOMES.113.000152",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/07/01 00:00",
+      "sortfirstauthor": "Tisdale JE",
+      "vernaculartitle": ""
+    }
+  }
+}

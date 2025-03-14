@@ -1,0 +1,163 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "26440607"
+    ],
+    "26440607": {
+      "uid": "26440607",
+      "pubdate": "2015 Oct",
+      "epubdate": "2015 Oct 6",
+      "source": "PLoS Med",
+      "authors": [
+        {
+          "name": "Rodriguez RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Langdorf MI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nishijima D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baumann BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hendey GW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Medak AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Raja AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Allen IE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mower WR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mower WR",
+      "title": "Derivation and validation of two decision instruments for selective chest CT in blunt trauma: a multicenter prospective observational study (NEXUS Chest CT).",
+      "sorttitle": "derivation and validation of two decision instruments for selective chest ct in blunt trauma a multicenter prospective observational study nexus chest ct",
+      "volume": "12",
+      "issue": "10",
+      "pages": "e1001883",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101231360",
+      "issn": "1549-1277",
+      "essn": "1549-1676",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26440607"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4595216"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4595216;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pmed.1001883"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PMEDICINE-D-15-00609"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2015/02/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2015/08/25 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2015/10/07 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/10/07 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/04/05 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "BMJ. 2015;351:h5381",
+          "reftype": "Comment in",
+          "pmid": 26449731,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 42,
+      "fulljournalname": "PLoS medicine",
+      "elocationid": "doi: 10.1371/journal.pmed.1001883",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/10/06 00:00",
+      "sortfirstauthor": "Rodriguez RM",
+      "vernaculartitle": ""
+    }
+  }
+}

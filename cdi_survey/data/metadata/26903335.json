@@ -1,0 +1,233 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "26903335"
+    ],
+    "26903335": {
+      "uid": "26903335",
+      "pubdate": "2016 Feb 23",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Seymour CW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu VX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iwashyna TJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brunkhorst FM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rea TD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scherag A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rubenfeld G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kahn JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shankar-Hari M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singer M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deutschman CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Escobar GJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Angus DC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Angus DC",
+      "title": "Assessment of Clinical Criteria for Sepsis: For the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3).",
+      "sorttitle": "assessment of clinical criteria for sepsis for the third international consensus definitions for sepsis and septic shock sepsis 3",
+      "volume": "315",
+      "issue": "8",
+      "pages": "762-74",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "1538-3598",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26903335"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS795100"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5433435"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5433435;manuscript-id: NIHMS795100;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.2016.0288"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2492875"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2016/02/24 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/02/24 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/03/02 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 2016 May 24-31;315(20):2237",
+          "reftype": "Erratum in",
+          "pmid": 27218643,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2016 Jul 26;316(4):453",
+          "reftype": "Comment in",
+          "pmid": 27458952,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2016 Jul 26;316(4):453-4",
+          "reftype": "Comment in",
+          "pmid": 27458953,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2016 Jul 26;316(4):454",
+          "reftype": "Comment in",
+          "pmid": 27458955,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2016 Aug 2;316(5):533-4",
+          "reftype": "Comment in",
+          "pmid": 27483067,
+          "note": ""
+        },
+        {
+          "refsource": "J Thorac Dis. 2016 Aug;8(8):E816-8",
+          "reftype": "Comment in",
+          "pmid": 27618927,
+          "note": ""
+        },
+        {
+          "refsource": "J Thorac Dis. 2016 Sep;8(9):E996-E998",
+          "reftype": "Comment in",
+          "pmid": 27747044,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2017 Jan 17;317(3):267-268",
+          "reftype": "Comment in",
+          "pmid": 28114531,
+          "note": ""
+        },
+        {
+          "refsource": "Anaesthesist. 2017 Sep;66(9):690-713",
+          "reftype": "Comment in",
+          "pmid": 28667421,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Intern Med. 2018 Feb 20;168(4):293-295",
+          "reftype": "Comment in",
+          "pmid": 29404580,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 37,
+      "fulljournalname": "JAMA",
+      "elocationid": "doi: 10.1001/jama.2016.0288",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/02/23 00:00",
+      "sortfirstauthor": "Seymour CW",
+      "vernaculartitle": ""
+    }
+  }
+}

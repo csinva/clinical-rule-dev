@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17265478"
+    ],
+    "17265478": {
+      "uid": "17265478",
+      "pubdate": "2007 Feb",
+      "epubdate": "",
+      "source": "Arthritis Rheum",
+      "authors": [
+        {
+          "name": "van der Helm-van Mil AH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "le Cessie S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Dongen H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Breedveld FC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Toes RE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huizinga TW",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Huizinga TW",
+      "title": "A prediction rule for disease outcome in patients with recent-onset undifferentiated arthritis: how to guide individual treatment decisions.",
+      "sorttitle": "prediction rule for disease outcome in patients with recent onset undifferentiated arthritis how to guide individual treatment decisions",
+      "volume": "56",
+      "issue": "2",
+      "pages": "433-40",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370605",
+      "issn": "0004-3591",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17265478"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/art.22380"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/02/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/03/10 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/02/01 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Evid Based Med. 2007 Oct;12(5):154",
+          "reftype": "Comment in",
+          "pmid": 17909245,
+          "note": ""
+        },
+        {
+          "refsource": "Arthritis Rheum. 2009 Jul;60(7):2208-9; author reply 2209-10",
+          "reftype": "Comment in",
+          "pmid": 19565508,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Arthritis and rheumatism",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/02/01 00:00",
+      "sortfirstauthor": "van der Helm-van Mil AH",
+      "vernaculartitle": ""
+    }
+  }
+}

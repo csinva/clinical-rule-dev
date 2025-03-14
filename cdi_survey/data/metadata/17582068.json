@@ -1,0 +1,177 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17582068"
+    ],
+    "17582068": {
+      "uid": "17582068",
+      "pubdate": "2007 Jun 21",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Kyle RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Remstein ED",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Therneau TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dispenzieri A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kurtin PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hodnefield JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Larson DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Plevak MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jelinek DF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fonseca R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Melton LJ 3rd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rajkumar SV",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rajkumar SV",
+      "title": "Clinical course and prognosis of smoldering (asymptomatic) multiple myeloma.",
+      "sorttitle": "clinical course and prognosis of smoldering asymptomatic multiple myeloma",
+      "volume": "356",
+      "issue": "25",
+      "pages": "2582-90",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "1533-4406",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17582068"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa070389"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "356/25/2582"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/06/22 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/06/30 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/06/22 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med. 2007 Sep 6;357(10):1048; author reply 1049-50",
+          "reftype": "Comment in",
+          "pmid": 17804853,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2007 Sep 6;357(10):1048; author reply 1049-50",
+          "reftype": "Comment in",
+          "pmid": 17823991,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2007 Sep 6;357(10):1048-9; author reply 1049-50",
+          "reftype": "Comment in",
+          "pmid": 17823992,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2011 Aug 4;365(5):474-5",
+          "reftype": "Comment in",
+          "pmid": 21812699,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/06/21 00:00",
+      "sortfirstauthor": "Kyle RA",
+      "vernaculartitle": ""
+    }
+  }
+}

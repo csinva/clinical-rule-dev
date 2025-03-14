@@ -1,0 +1,126 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25638631"
+    ],
+    "25638631": {
+      "uid": "25638631",
+      "pubdate": "2015 Feb",
+      "epubdate": "2014 Oct 1",
+      "source": "J Pediatr Surg",
+      "authors": [
+        {
+          "name": "Acker SN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ross JT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Partrick DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tong S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bensard DD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bensard DD",
+      "title": "Pediatric specific shock index accurately identifies severely injured children.",
+      "sorttitle": "pediatric specific shock index accurately identifies severely injured children",
+      "volume": "50",
+      "issue": "2",
+      "pages": "331-4",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0052631",
+      "issn": "0022-3468",
+      "essn": "1531-5037",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25638631"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jpedsurg.2014.08.009"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-3468(14)00492-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2014/08/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2014/08/13 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2015/02/02 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/02/02 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/01/13 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pediatric surgery",
+      "elocationid": "doi: 10.1016/j.jpedsurg.2014.08.009",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/02/01 00:00",
+      "sortfirstauthor": "Acker SN",
+      "vernaculartitle": ""
+    }
+  }
+}

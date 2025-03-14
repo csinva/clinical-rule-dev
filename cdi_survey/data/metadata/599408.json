@@ -1,0 +1,105 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "599408"
+    ],
+    "599408": {
+      "uid": "599408",
+      "pubdate": "1977 Dec",
+      "epubdate": "",
+      "source": "J Pharmacokinet Biopharm",
+      "authors": [
+        {
+          "name": "Martin E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tozer TN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheiner LB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Riegelman S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Riegelman S",
+      "title": "The clinical pharmacokinetics of phenytoin.",
+      "sorttitle": "clinical pharmacokinetics of phenytoin",
+      "volume": "5",
+      "issue": "6",
+      "pages": "579-96",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0357115",
+      "issn": "0090-466X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "599408"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/BF01059685"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1977/12/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1977/12/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1977/12/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pharmacokinetics and biopharmaceutics",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1977/12/01 00:00",
+      "sortfirstauthor": "Martin E",
+      "vernaculartitle": ""
+    }
+  }
+}

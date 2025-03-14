@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24555813"
+    ],
+    "24555813": {
+      "uid": "24555813",
+      "pubdate": "2014 Mar",
+      "epubdate": "2014 Feb 20",
+      "source": "Am J Drug Alcohol Abuse",
+      "authors": [
+        {
+          "name": "Hack JB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goldlust EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gibbs F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zink B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zink B",
+      "title": "The H-Impairment Index (HII): a standardized assessment of alcohol-induced impairment in the Emergency Department.",
+      "sorttitle": "h impairment index hii a standardized assessment of alcohol induced impairment in the emergency department",
+      "volume": "40",
+      "issue": "2",
+      "pages": "111-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7502510",
+      "issn": "0095-2990",
+      "essn": "1097-9891",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24555813"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/00952990.2013.865034"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/02/22 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/02/22 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/10/30 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of drug and alcohol abuse",
+      "elocationid": "doi: 10.3109/00952990.2013.865034",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/03/01 00:00",
+      "sortfirstauthor": "Hack JB",
+      "vernaculartitle": ""
+    }
+  }
+}

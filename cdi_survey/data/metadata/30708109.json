@@ -1,0 +1,149 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "30708109"
+    ],
+    "30708109": {
+      "uid": "30708109",
+      "pubdate": "2019 Aug",
+      "epubdate": "2019 Jan 29",
+      "source": "Clin Gastroenterol Hepatol",
+      "authors": [
+        {
+          "name": "Dong TS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kalani A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aby ES",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Le L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luu K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hauer M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kamath R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lindor KD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tabibian JH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tabibian JH",
+      "title": "Machine Learning-based Development and Validation of a Scoring System for Screening High-Risk Esophageal Varices.",
+      "sorttitle": "machine learning based development and validation of a scoring system for screening high risk esophageal varices",
+      "volume": "17",
+      "issue": "9",
+      "pages": "1894-1901.e1",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101160775",
+      "issn": "1542-3565",
+      "essn": "1542-7714",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30708109"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cgh.2019.01.025"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1542-3565(19)30072-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2018/10/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2019/01/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2019/01/12 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/02/02 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/10/28 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2019/02/02 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+      "elocationid": "doi: 10.1016/j.cgh.2019.01.025",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/08/01 00:00",
+      "sortfirstauthor": "Dong TS",
+      "vernaculartitle": ""
+    }
+  }
+}

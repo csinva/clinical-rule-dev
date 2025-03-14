@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22210063"
+    ],
+    "22210063": {
+      "uid": "22210063",
+      "pubdate": "2012 Jul-Aug",
+      "epubdate": "",
+      "source": "J Burn Care Res",
+      "authors": [
+        {
+          "name": "Oh JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chung KK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Allen A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Batchinsky AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huzar T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "King BT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolf SE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sjulin T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cancio LC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cancio LC",
+      "title": "Admission chest CT complements fiberoptic bronchoscopy in prediction of adverse outcomes in thermally injured patients.",
+      "sorttitle": "admission chest ct complements fiberoptic bronchoscopy in prediction of adverse outcomes in thermally injured patients",
+      "volume": "33",
+      "issue": "4",
+      "pages": "532-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101262774",
+      "issn": "1559-047X",
+      "essn": "1559-0488",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22210063"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/BCR.0b013e318237455f"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/01/03 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/01/03 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/12/20 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of burn care & research : official publication of the American Burn Association",
+      "elocationid": "doi: 10.1097/BCR.0b013e318237455f",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/07/01 00:00",
+      "sortfirstauthor": "Oh JS",
+      "vernaculartitle": ""
+    }
+  }
+}

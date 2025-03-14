@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19114916"
+    ],
+    "19114916": {
+      "uid": "19114916",
+      "pubdate": "2009 Feb",
+      "epubdate": "",
+      "source": "Crit Care Med",
+      "authors": [
+        {
+          "name": "Rello J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rodriguez A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lisboa T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gallego M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lujan M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wunderink R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wunderink R",
+      "title": "PIRO score for community-acquired pneumonia: a new prediction rule for assessment of severity in intensive care unit patients with community-acquired pneumonia.",
+      "sorttitle": "piro score for community acquired pneumonia a new prediction rule for assessment of severity in intensive care unit patients with community acquired pneumonia",
+      "volume": "37",
+      "issue": "2",
+      "pages": "456-62",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0355501",
+      "issn": "0090-3493",
+      "essn": "1530-0293",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19114916"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/CCM.0b013e318194b021"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2008/12/31 09:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/12/31 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/05/07 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Crit Care Med. 2009 Feb;37(2):744-5",
+          "reftype": "Comment in",
+          "pmid": 19325365,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2010 Apr;38(4):1236; author reply 1236-7",
+          "reftype": "Comment in",
+          "pmid": 20335730,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Critical care medicine",
+      "elocationid": "doi: 10.1097/CCM.0b013e318194b021",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/02/01 00:00",
+      "sortfirstauthor": "Rello J",
+      "vernaculartitle": ""
+    }
+  }
+}

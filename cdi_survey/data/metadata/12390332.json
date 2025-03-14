@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12390332"
+    ],
+    "12390332": {
+      "uid": "12390332",
+      "pubdate": "2002 Nov",
+      "epubdate": "",
+      "source": "Clin Endocrinol (Oxf)",
+      "authors": [
+        {
+          "name": "Efstathiou SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tsiakou AG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tsioulos DI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zacharos ID",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mitromaras AG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mastorantonakis SE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Panagiotou TN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mountokalakis TD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mountokalakis TD",
+      "title": "A mortality prediction model in diabetic ketoacidosis.",
+      "sorttitle": "mortality prediction model in diabetic ketoacidosis",
+      "volume": "57",
+      "issue": "5",
+      "pages": "595-601",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0346653",
+      "issn": "0300-0664",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12390332"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1046/j.1365-2265.2002.01636.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1636"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2002/10/23 04:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/12/27 04:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2002/10/23 04:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical endocrinology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2002/11/01 00:00",
+      "sortfirstauthor": "Efstathiou SP",
+      "vernaculartitle": ""
+    }
+  }
+}

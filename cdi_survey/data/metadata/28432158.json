@@ -1,0 +1,239 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28432158"
+    ],
+    "28432158": {
+      "uid": "28432158",
+      "pubdate": "2017 Sep",
+      "epubdate": "2017 Apr 21",
+      "source": "Heart",
+      "authors": [
+        {
+          "name": "Olmos C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vilacosta I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Habib G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maroto L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fern\u00e1ndez C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "L\u00f3pez J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sarri\u00e1 C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Salaun E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Di Stefano S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carnero M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hubert S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferrera C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tirado G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Freitas-Ferraz A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "S\u00e1ez C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cobiella J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bustamante-Munguira J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "S\u00e1nchez-Enrique C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garc\u00eda-Granja PE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lavoute C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Obadia B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vivas D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guti\u00e9rrez \u00c1",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "San Rom\u00e1n JA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "San Rom\u00e1n JA",
+      "title": "Risk score for cardiac surgery in active left-sided infective endocarditis.",
+      "sorttitle": "risk score for cardiac surgery in active left sided infective endocarditis",
+      "volume": "103",
+      "issue": "18",
+      "pages": "1435-1442",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9602087",
+      "issn": "1355-6037",
+      "essn": "1468-201X",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28432158"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/heartjnl-2016-311093"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "heartjnl-2016-311093"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/12/21 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2017/03/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2017/03/08 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/04/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/09/02 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/04/23 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Heart. 2017 Sep;103(18):1396-1397",
+          "reftype": "Comment in",
+          "pmid": 28483984,
+          "note": ""
+        },
+        {
+          "refsource": "Heart. 2017 Dec;103(23 ):1923",
+          "reftype": "Comment in",
+          "pmid": 29142001,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Heart (British Cardiac Society)",
+      "elocationid": "doi: 10.1136/heartjnl-2016-311093",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/09/01 00:00",
+      "sortfirstauthor": "Olmos C",
+      "vernaculartitle": ""
+    }
+  }
+}

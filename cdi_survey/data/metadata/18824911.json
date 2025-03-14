@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18824911"
+    ],
+    "18824911": {
+      "uid": "18824911",
+      "pubdate": "2008 Nov",
+      "epubdate": "",
+      "source": "Crit Care Med",
+      "authors": [
+        {
+          "name": "Lapostolle F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borron SW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Verdier C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taboulet P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guerrier G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adnet F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Clemessy JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bismuth C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baud FJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Baud FJ",
+      "title": "Digoxin-specific Fab fragments as single first-line therapy in digitalis poisoning.",
+      "sorttitle": "digoxin specific fab fragments as single first line therapy in digitalis poisoning",
+      "volume": "36",
+      "issue": "11",
+      "pages": "3014-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0355501",
+      "issn": "0090-3493",
+      "essn": "1530-0293",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18824911"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/CCM.0b013e31818b341c"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/10/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/11/18 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/10/01 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Critical care medicine",
+      "elocationid": "doi: 10.1097/CCM.0b013e31818b341c",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/11/01 00:00",
+      "sortfirstauthor": "Lapostolle F",
+      "vernaculartitle": ""
+    }
+  }
+}

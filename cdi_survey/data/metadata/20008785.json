@@ -1,0 +1,162 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20008785"
+    ],
+    "20008785": {
+      "uid": "20008785",
+      "pubdate": "2010 Mar 4",
+      "epubdate": "2009 Dec 14",
+      "source": "Blood",
+      "authors": [
+        {
+          "name": "Passamonti F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cervantes F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vannucchi AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morra E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rumi E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pereira A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guglielmelli P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pungolino E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caramella M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maffioli M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pascutto C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lazzarino M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cazzola M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tefferi A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tefferi A",
+      "title": "A dynamic prognostic model to predict survival in primary myelofibrosis: a study by the IWG-MRT (International Working Group for Myeloproliferative Neoplasms Research and Treatment).",
+      "sorttitle": "dynamic prognostic model to predict survival in primary myelofibrosis a study by the iwg mrt international working group for myeloproliferative neoplasms research and treatment",
+      "volume": "115",
+      "issue": "9",
+      "pages": "1703-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7603509",
+      "issn": "0006-4971",
+      "essn": "1528-0020",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20008785"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2009-09-245837"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)56694-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/12/17 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/12/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/04/03 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Blood",
+      "elocationid": "doi: 10.1182/blood-2009-09-245837",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/03/04 00:00",
+      "sortfirstauthor": "Passamonti F",
+      "vernaculartitle": ""
+    }
+  }
+}

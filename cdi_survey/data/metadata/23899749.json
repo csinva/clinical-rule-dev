@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23899749"
+    ],
+    "23899749": {
+      "uid": "23899749",
+      "pubdate": "2013",
+      "epubdate": "2013 Jul 30",
+      "source": "Cerebrovasc Dis",
+      "authors": [
+        {
+          "name": "Amarenco P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bogousslavsky J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caplan LR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Donnan GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolf ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hennerici MG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hennerici MG",
+      "title": "The ASCOD phenotyping of ischemic stroke (Updated ASCO Phenotyping).",
+      "sorttitle": "ascod phenotyping of ischemic stroke updated asco phenotyping",
+      "volume": "36",
+      "issue": "1",
+      "pages": "1-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9100851",
+      "issn": "1015-9770",
+      "essn": "1421-9786",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23899749"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000352050"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "000352050"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2013/03/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2013/04/30 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/08/01 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/08/01 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/04/17 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Cerebrovascular diseases (Basel, Switzerland)",
+      "elocationid": "doi: 10.1159/000352050",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/01/01 00:00",
+      "sortfirstauthor": "Amarenco P",
+      "vernaculartitle": ""
+    }
+  }
+}

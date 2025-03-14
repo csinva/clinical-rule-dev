@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1754886"
+    ],
+    "1754886": {
+      "uid": "1754886",
+      "pubdate": "1991",
+      "epubdate": "",
+      "source": "Semin Thromb Hemost",
+      "authors": [
+        {
+          "name": "Caprini JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arcelus JI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hasty JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tamhane AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fabrega F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fabrega F",
+      "title": "Clinical assessment of venous thromboembolic risk in surgical patients.",
+      "sorttitle": "clinical assessment of venous thromboembolic risk in surgical patients",
+      "volume": "17 Suppl 3",
+      "issue": "",
+      "pages": "304-12",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0431155",
+      "issn": "0094-6176",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1754886"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1991/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1991/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1991/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Seminars in thrombosis and hemostasis",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1991/01/01 00:00",
+      "sortfirstauthor": "Caprini JA",
+      "vernaculartitle": ""
+    }
+  }
+}

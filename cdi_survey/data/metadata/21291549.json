@@ -1,0 +1,177 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21291549"
+    ],
+    "21291549": {
+      "uid": "21291549",
+      "pubdate": "2011 Feb 3",
+      "epubdate": "2011 Feb 3",
+      "source": "BMC Emerg Med",
+      "authors": [
+        {
+          "name": "Lavonas EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruha AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Banner W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bebarta V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernstein JN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bush SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kerns WP 2nd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Richardson WH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Seifert SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tanen DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Curry SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dart RC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rocky Mountain Poison and Drug Center, Denver Health and Hospital Authority",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dart RC",
+      "title": "Unified treatment algorithm for the management of crotaline snakebite in the United States: results of an evidence-informed consensus workshop.",
+      "sorttitle": "unified treatment algorithm for the management of crotaline snakebite in the united states results of an evidence informed consensus workshop",
+      "volume": "11",
+      "issue": "",
+      "pages": "2",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100968543",
+      "issn": "",
+      "essn": "1471-227X",
+      "pubtype": [
+        "Consensus Development Conference",
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21291549"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3042971"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3042971;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/1471-227X-11-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1471-227X-11-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2010/08/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2011/02/03 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2011/02/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/02/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/06/07 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 93,
+      "fulljournalname": "BMC emergency medicine",
+      "elocationid": "doi: 10.1186/1471-227X-11-2",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/02/03 00:00",
+      "sortfirstauthor": "Lavonas EJ",
+      "vernaculartitle": ""
+    }
+  }
+}

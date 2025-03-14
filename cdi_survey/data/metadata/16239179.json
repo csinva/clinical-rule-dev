@@ -1,0 +1,139 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16239179"
+    ],
+    "16239179": {
+      "uid": "16239179",
+      "pubdate": "2005 Nov",
+      "epubdate": "",
+      "source": "Lancet Neurol",
+      "authors": [
+        {
+          "name": "Nor AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davis J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sen B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shipsey D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Louw SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dyker AG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davis M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ford GA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ford GA",
+      "title": "The Recognition of Stroke in the Emergency Room (ROSIER) scale: development and validation of a stroke recognition instrument.",
+      "sorttitle": "recognition of stroke in the emergency room rosier scale development and validation of a stroke recognition instrument",
+      "volume": "4",
+      "issue": "11",
+      "pages": "727-34",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101139309",
+      "issn": "1474-4422",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16239179"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1474-4422(05)70201-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1474-4422(05)70201-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/10/22 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/11/16 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/10/22 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet Neurol. 2005 Nov;4(11):691-3",
+          "reftype": "Comment in",
+          "pmid": 16239173,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Neurology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/11/01 00:00",
+      "sortfirstauthor": "Nor AM",
+      "vernaculartitle": ""
+    }
+  }
+}

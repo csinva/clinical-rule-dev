@@ -1,0 +1,133 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29666065"
+    ],
+    "29666065": {
+      "uid": "29666065",
+      "pubdate": "2018 Apr 17",
+      "epubdate": "2018 Apr 17",
+      "source": "J Am Heart Assoc",
+      "authors": [
+        {
+          "name": "Nguyen OK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Makam AN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Clark C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Das SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Halm EA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Halm EA",
+      "title": "Predicting 30-Day Hospital Readmissions in Acute Myocardial Infarction: The AMI \"READMITS\" (Renal Function, Elevated Brain Natriuretic Peptide, Age, Diabetes Mellitus, Nonmale Sex, Intervention with Timely Percutaneous Coronary Intervention, and Low Systolic Blood Pressure) Score.",
+      "sorttitle": "predicting 30 day hospital readmissions in acute myocardial infarction the ami readmits renal function elevated brain natriuretic peptide age diabetes mellitus nonmale sex intervention with timely percutaneous coronary intervention and low systolic blood pressure score",
+      "volume": "7",
+      "issue": "8",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101580524",
+      "issn": "",
+      "essn": "2047-9980",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29666065"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6015397"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6015397;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/JAHA.118.008882"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JAHA.118.008882"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2018/04/19 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/04/19 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/10/29 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 39,
+      "fulljournalname": "Journal of the American Heart Association",
+      "elocationid": "doi: 10.1161/JAHA.118.008882",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/04/17 00:00",
+      "sortfirstauthor": "Nguyen OK",
+      "vernaculartitle": ""
+    }
+  }
+}

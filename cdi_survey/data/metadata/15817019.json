@@ -1,0 +1,139 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15817019"
+    ],
+    "15817019": {
+      "uid": "15817019",
+      "pubdate": "2005 Apr",
+      "epubdate": "",
+      "source": "J Am Geriatr Soc",
+      "authors": [
+        {
+          "name": "Nasreddine ZS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Phillips NA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "B\u00e9dirian V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Charbonneau S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Whitehead V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Collin I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cummings JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chertkow H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chertkow H",
+      "title": "The Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive impairment.",
+      "sorttitle": "montreal cognitive assessment moca a brief screening tool for mild cognitive impairment",
+      "volume": "53",
+      "issue": "4",
+      "pages": "695-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7503062",
+      "issn": "0002-8614",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15817019"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1532-5415.2005.53221.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JGS53221"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/04/09 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/05/28 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/04/09 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Am Geriatr Soc. 2019 Sep;67(9):1991",
+          "reftype": "Erratum in",
+          "pmid": 31493356,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American Geriatrics Society",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/04/01 00:00",
+      "sortfirstauthor": "Nasreddine ZS",
+      "vernaculartitle": ""
+    }
+  }
+}

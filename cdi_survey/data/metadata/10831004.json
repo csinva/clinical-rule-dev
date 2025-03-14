@@ -1,0 +1,134 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10831004"
+    ],
+    "10831004": {
+      "uid": "10831004",
+      "pubdate": "2000 May",
+      "epubdate": "",
+      "source": "Ann Allergy Asthma Immunol",
+      "authors": [
+        {
+          "name": "Kelly CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Andersen CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pestian JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wenger AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Finch AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Strope GL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luckstead EF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Luckstead EF",
+      "title": "Improved outcomes for hospitalized asthmatic children using a clinical pathway.",
+      "sorttitle": "improved outcomes for hospitalized asthmatic children using a clinical pathway",
+      "volume": "84",
+      "issue": "5",
+      "pages": "509-16",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9503580",
+      "issn": "1081-1206",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10831004"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1081-1206(10)62514-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1081-1206(10)62514-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/06/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/06/24 11:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/06/01 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Allergy Asthma Immunol. 2000 May;84(5):473-4",
+          "reftype": "Comment in",
+          "pmid": 10830998,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/05/01 00:00",
+      "sortfirstauthor": "Kelly CS",
+      "vernaculartitle": ""
+    }
+  }
+}

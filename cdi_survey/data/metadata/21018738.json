@@ -1,0 +1,95 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21018738"
+    ],
+    "21018738": {
+      "uid": "21018738",
+      "pubdate": "1946 Mar",
+      "epubdate": "",
+      "source": "Am Heart J",
+      "authors": [
+        {
+          "name": "SCHLAMOWITZ I",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "SCHLAMOWITZ I",
+      "title": "An analysis of the time relationships within the cardiac cycle in electrocardiograms of normal men. The duration of the Q-T interval and its relationship to the cycle length (R-R interval).",
+      "sorttitle": "analysis of the time relationships within the cardiac cycle in electrocardiograms of normal men the duration of the q t interval and its relationship to the cycle length r r interval",
+      "volume": "31",
+      "issue": "",
+      "pages": "329-42",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370465",
+      "issn": "0002-8703",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21018738"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0002-8703(46)90314-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0002-8703(46)90314-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/10/29 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "1946/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/08/13 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "American heart journal",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1946/03/01 00:00",
+      "sortfirstauthor": "SCHLAMOWITZ I",
+      "vernaculartitle": ""
+    }
+  }
+}

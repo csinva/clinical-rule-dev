@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20053241"
+    ],
+    "20053241": {
+      "uid": "20053241",
+      "pubdate": "2009 Nov",
+      "epubdate": "",
+      "source": "Acad Emerg Med",
+      "authors": [
+        {
+          "name": "Snider C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Webster D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "O'Sullivan CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Campbell J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Campbell J",
+      "title": "Intimate partner violence: development of a brief risk assessment for the emergency department.",
+      "sorttitle": "intimate partner violence development of a brief risk assessment for the emergency department",
+      "volume": "16",
+      "issue": "11",
+      "pages": "1208-16",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9418450",
+      "issn": "1069-6563",
+      "essn": "1553-2712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20053241"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1553-2712.2009.00457.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ACEM457"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/01/08 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/01/08 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/03/31 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Academic emergency medicine : official journal of the Society for Academic Emergency Medicine",
+      "elocationid": "doi: 10.1111/j.1553-2712.2009.00457.x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/11/01 00:00",
+      "sortfirstauthor": "Snider C",
+      "vernaculartitle": ""
+    }
+  }
+}

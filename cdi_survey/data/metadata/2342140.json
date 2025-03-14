@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2342140"
+    ],
+    "2342140": {
+      "uid": "2342140",
+      "pubdate": "1990 May",
+      "epubdate": "",
+      "source": "J Trauma",
+      "authors": [
+        {
+          "name": "Johansen K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Daines M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Howey T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Helfet D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hansen ST Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hansen ST Jr",
+      "title": "Objective criteria accurately predict amputation following lower extremity trauma.",
+      "sorttitle": "objective criteria accurately predict amputation following lower extremity trauma",
+      "volume": "30",
+      "issue": "5",
+      "pages": "568-72; discussion 572-3",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376373",
+      "issn": "0022-5282",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2342140"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00005373-199005000-00007"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1990/05/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/03/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1990/05/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of trauma",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1990/05/01 00:00",
+      "sortfirstauthor": "Johansen K",
+      "vernaculartitle": ""
+    }
+  }
+}

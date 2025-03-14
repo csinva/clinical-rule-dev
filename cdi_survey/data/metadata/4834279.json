@@ -1,0 +1,110 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4834279"
+    ],
+    "4834279": {
+      "uid": "4834279",
+      "pubdate": "1974 Jul",
+      "epubdate": "",
+      "source": "Surg Gynecol Obstet",
+      "authors": [
+        {
+          "name": "Ranson JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rifkind KM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roses DF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fink SD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eng K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spencer FC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Spencer FC",
+      "title": "Prognostic signs and the role of operative management in acute pancreatitis.",
+      "sorttitle": "prognostic signs and the role of operative management in acute pancreatitis",
+      "volume": "139",
+      "issue": "1",
+      "pages": "69-81",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0101370",
+      "issn": "0039-6087",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4834279"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1974/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1974/07/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1974/07/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Surgery, gynecology & obstetrics",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1974/07/01 00:00",
+      "sortfirstauthor": "Ranson JH",
+      "vernaculartitle": ""
+    }
+  }
+}

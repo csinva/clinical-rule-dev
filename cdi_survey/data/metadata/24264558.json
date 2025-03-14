@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24264558"
+    ],
+    "24264558": {
+      "uid": "24264558",
+      "pubdate": "2014 Apr",
+      "epubdate": "",
+      "source": "Chest",
+      "authors": [
+        {
+          "name": "Rahman NM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kahan BC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gleeson FV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nunn AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maskell NA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Maskell NA",
+      "title": "A clinical score (RAPID) to identify those at risk for poor outcome at presentation in patients with pleural infection.",
+      "sorttitle": "clinical score rapid to identify those at risk for poor outcome at presentation in patients with pleural infection",
+      "volume": "145",
+      "issue": "4",
+      "pages": "848-855",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0231335",
+      "issn": "0012-3692",
+      "essn": "1931-3543",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24264558"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1378/chest.13-1558"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0012-3692(15)35956-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/11/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/11/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/06/03 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Chest",
+      "elocationid": "doi: 10.1378/chest.13-1558",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/04/01 00:00",
+      "sortfirstauthor": "Rahman NM",
+      "vernaculartitle": ""
+    }
+  }
+}

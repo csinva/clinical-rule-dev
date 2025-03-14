@@ -1,0 +1,103 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8895225"
+    ],
+    "8895225": {
+      "uid": "8895225",
+      "pubdate": "1996 Sep",
+      "epubdate": "",
+      "source": "Pain",
+      "authors": [],
+      "lastauthor": "",
+      "title": "New perspectives on the definition of pain.",
+      "sorttitle": "new perspectives on the definition of pain",
+      "volume": "67",
+      "issue": "1",
+      "pages": "3-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7508686",
+      "issn": "0304-3959",
+      "essn": "",
+      "pubtype": [
+        "Editorial",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8895225"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0304-3959(96)03135-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00006396-199609000-00002"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1996/09/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1996/09/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1996/09/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Pain. 1997 Apr;70(2-3):293",
+          "reftype": "Comment in",
+          "pmid": 9150309,
+          "note": ""
+        },
+        {
+          "refsource": "Pain. 1998 Jan;74(1):102-6",
+          "reftype": "Comment in",
+          "pmid": 9514567,
+          "note": ""
+        }
+      ],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Pain",
+      "elocationid": "doi: 10.1016/0304-3959(96)03135-1",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1996/09/01 00:00",
+      "sortfirstauthor": "",
+      "vernaculartitle": ""
+    }
+  }
+}

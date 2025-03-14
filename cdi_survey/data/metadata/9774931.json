@@ -1,0 +1,121 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9774931"
+    ],
+    "9774931": {
+      "uid": "9774931",
+      "pubdate": "1998 Oct",
+      "epubdate": "",
+      "source": "Ann Emerg Med",
+      "authors": [
+        {
+          "name": "Hoffman JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolfson AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Todd K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mower WR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mower WR",
+      "title": "Selective cervical spine radiography in blunt trauma: methodology of the National Emergency X-Radiography Utilization Study (NEXUS).",
+      "sorttitle": "selective cervical spine radiography in blunt trauma methodology of the national emergency x radiography utilization study nexus",
+      "volume": "32",
+      "issue": "4",
+      "pages": "461-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8002646",
+      "issn": "0196-0644",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9774931"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0196-0644(98)70176-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0196064498003448"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1998/10/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1998/10/17 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1998/10/17 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Emerg Med. 2001 Feb;37(2):237-8",
+          "reftype": "Comment in",
+          "pmid": 11174248,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of emergency medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1998/10/01 00:00",
+      "sortfirstauthor": "Hoffman JR",
+      "vernaculartitle": ""
+    }
+  }
+}

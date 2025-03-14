@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "16698860",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://linkinghub.elsevier.com/retrieve/pii/S0007-0912(17)35180-2"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--linkinghub.elsevier.com-ihub-images-elsevieroa.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "Elsevier Science",
+                "nameabbr": "ES",
+                "id": "3048"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

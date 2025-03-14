@@ -1,0 +1,146 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18519550"
+    ],
+    "18519550": {
+      "uid": "18519550",
+      "pubdate": "2008 Dec",
+      "epubdate": "2008 Jun 2",
+      "source": "Heart",
+      "authors": [
+        {
+          "name": "Del Rosso A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ungar A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maggi R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giada F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Petix NR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Santo T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Menozzi C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brignole M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Brignole M",
+      "title": "Clinical predictors of cardiac syncope at initial evaluation in patients referred urgently to a general hospital: the EGSYS score.",
+      "sorttitle": "clinical predictors of cardiac syncope at initial evaluation in patients referred urgently to a general hospital the egsys score",
+      "volume": "94",
+      "issue": "12",
+      "pages": "1620-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9602087",
+      "issn": "1355-6037",
+      "essn": "1468-201X",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18519550"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/hrt.2008.143123"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "hrt.2008.143123"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/06/04 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/01/28 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/06/04 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Heart. 2008 Dec;94(12):1528-9",
+          "reftype": "Comment in",
+          "pmid": 18708418,
+          "note": ""
+        },
+        {
+          "refsource": "Evid Based Med. 2009 Jun;14(3):91",
+          "reftype": "Comment in",
+          "pmid": 19483040,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Heart (British Cardiac Society)",
+      "elocationid": "doi: 10.1136/hrt.2008.143123",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/12/01 00:00",
+      "sortfirstauthor": "Del Rosso A",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6763125"
+    ],
+    "6763125": {
+      "uid": "6763125",
+      "pubdate": "1981",
+      "epubdate": "",
+      "source": "Med Decis Making",
+      "authors": [
+        {
+          "name": "Centor RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Witherspoon JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dalton HP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brody CE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Link K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Link K",
+      "title": "The diagnosis of strep throat in adults in the emergency room.",
+      "sorttitle": "diagnosis of strep throat in adults in the emergency room",
+      "volume": "1",
+      "issue": "3",
+      "pages": "239-46",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8109073",
+      "issn": "0272-989X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6763125"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/0272989X8100100304"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1981/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1981/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1981/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Medical decision making : an international journal of the Society for Medical Decision Making",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1981/01/01 00:00",
+      "sortfirstauthor": "Centor RM",
+      "vernaculartitle": ""
+    }
+  }
+}

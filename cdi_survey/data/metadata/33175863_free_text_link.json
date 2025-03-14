@@ -1,0 +1,58 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "33175863",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://dx.plos.org/10.1371/journal.pone.0241825"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--journals.plos.org-resource-img-external-pone_120x30.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "Public Library of Science",
+                "nameabbr": "PLoS",
+                "id": "4656"
+              }
+            },
+            {
+              "url": {
+                "value": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33175863/"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "PubMed Central",
+                "nameabbr": "PMC",
+                "id": "3494"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

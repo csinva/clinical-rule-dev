@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16088675"
+    ],
+    "16088675": {
+      "uid": "16088675",
+      "pubdate": "2001",
+      "epubdate": "",
+      "source": "Semin Respir Crit Care Med",
+      "authors": [
+        {
+          "name": "Sessler CN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grap MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brophy GM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Brophy GM",
+      "title": "Multidisciplinary management of sedation and analgesia in critical care.",
+      "sorttitle": "multidisciplinary management of sedation and analgesia in critical care",
+      "volume": "22",
+      "issue": "2",
+      "pages": "211-26",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9431858",
+      "issn": "1069-3424",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16088675"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1055/s-2001-13834"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/08/10 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/08/10 09:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/08/10 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Seminars in respiratory and critical care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/01/01 00:00",
+      "sortfirstauthor": "Sessler CN",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22613453"
+    ],
+    "22613453": {
+      "uid": "22613453",
+      "pubdate": "2014 Sep",
+      "epubdate": "2012 May 20",
+      "source": "Injury",
+      "authors": [
+        {
+          "name": "Jacobs N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rourke K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rutherford J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hicks A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Templeton P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adams SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jansen JO",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jansen JO",
+      "title": "Lower limb injuries caused by improvised explosive devices: proposed 'Bastion classification' and prospective validation.",
+      "sorttitle": "lower limb injuries caused by improvised explosive devices proposed bastion classification and prospective validation",
+      "volume": "45",
+      "issue": "9",
+      "pages": "1422-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0226040",
+      "issn": "0020-1383",
+      "essn": "1879-0267",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22613453"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.injury.2012.05.001"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0020-1383(12)00169-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2011/10/04 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2012/04/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2012/05/01 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2012/05/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/05/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/05/15 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Injury. 2013 Nov;44(11):1671-2",
+          "reftype": "Comment in",
+          "pmid": 22910814,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Injury",
+      "elocationid": "doi: 10.1016/j.injury.2012.05.001",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/09/01 00:00",
+      "sortfirstauthor": "Jacobs N",
+      "vernaculartitle": ""
+    }
+  }
+}

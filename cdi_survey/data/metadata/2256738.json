@@ -1,0 +1,137 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2256738"
+    ],
+    "2256738": {
+      "uid": "2256738",
+      "pubdate": "1990 Nov",
+      "epubdate": "",
+      "source": "Ann Rheum Dis",
+      "authors": [
+        {
+          "name": "van der Heijde DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van 't Hof MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Riel PL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Theunisse LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lubberts EW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Leeuwen MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Rijswijk MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van de Putte LB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "van de Putte LB",
+      "title": "Judging disease activity in clinical practice in rheumatoid arthritis: first step in the development of a disease activity score.",
+      "sorttitle": "judging disease activity in clinical practice in rheumatoid arthritis first step in the development of a disease activity score",
+      "volume": "49",
+      "issue": "11",
+      "pages": "916-20",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372355",
+      "issn": "0003-4967",
+      "essn": "1468-2060",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2256738"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1004262"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1004262;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/ard.49.11.916"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1990/11/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1990/11/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1990/11/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 7,
+      "fulljournalname": "Annals of the rheumatic diseases",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1990/11/01 00:00",
+      "sortfirstauthor": "van der Heijde DM",
+      "vernaculartitle": ""
+    }
+  }
+}

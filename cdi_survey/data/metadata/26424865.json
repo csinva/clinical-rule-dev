@@ -1,0 +1,190 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "26424865"
+    ],
+    "26424865": {
+      "uid": "26424865",
+      "pubdate": "2015 Dec 7",
+      "epubdate": "2015 Sep 29",
+      "source": "Eur Heart J",
+      "authors": [
+        {
+          "name": "O'Brien EC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simon DN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomas LE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hylek EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gersh BJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ansell JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kowey PR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahaffey KW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fonarow GC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pencina MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Piccini JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peterson ED",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Peterson ED",
+      "title": "The ORBIT bleeding score: a simple bedside score to assess bleeding risk in atrial fibrillation.",
+      "sorttitle": "orbit bleeding score a simple bedside score to assess bleeding risk in atrial fibrillation",
+      "volume": "36",
+      "issue": "46",
+      "pages": "3258-64",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8006263",
+      "issn": "0195-668X",
+      "essn": "1522-9645",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26424865"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4670965"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4670965;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/eurheartj/ehv476"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ehv476"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2015/03/17 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2015/08/24 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2015/10/02 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/10/02 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/09/20 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Eur Heart J. 2015 Dec 7;36(46):3265-7",
+          "reftype": "Comment in",
+          "pmid": 26351397,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Intern Med. 2016 Jan 19;164(2):JC11",
+          "reftype": "Comment in",
+          "pmid": 26784491,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 30,
+      "fulljournalname": "European heart journal",
+      "elocationid": "doi: 10.1093/eurheartj/ehv476",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/12/07 00:00",
+      "sortfirstauthor": "O'Brien EC",
+      "vernaculartitle": ""
+    }
+  }
+}

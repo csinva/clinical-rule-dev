@@ -1,0 +1,141 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20170806"
+    ],
+    "20170806": {
+      "uid": "20170806",
+      "pubdate": "2010 Feb 23",
+      "epubdate": "",
+      "source": "J Am Coll Cardiol",
+      "authors": [
+        {
+          "name": "Reed MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Newby DE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coull AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Prescott RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacques KG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gray AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gray AJ",
+      "title": "The ROSE (risk stratification of syncope in the emergency department) study.",
+      "sorttitle": "rose risk stratification of syncope in the emergency department study",
+      "volume": "55",
+      "issue": "8",
+      "pages": "713-21",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8301365",
+      "issn": "0735-1097",
+      "essn": "1558-3597",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20170806"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jacc.2009.09.049"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0735-1097(09)03985-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2009/06/08 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2009/09/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2009/09/22 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2010/02/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/02/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/03/31 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Am Coll Cardiol. 2010 Feb 23;55(8):722-4",
+          "reftype": "Comment in",
+          "pmid": 20170807,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American College of Cardiology",
+      "elocationid": "doi: 10.1016/j.jacc.2009.09.049",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/02/23 00:00",
+      "sortfirstauthor": "Reed MJ",
+      "vernaculartitle": ""
+    }
+  }
+}

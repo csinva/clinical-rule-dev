@@ -1,0 +1,157 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21536864"
+    ],
+    "21536864": {
+      "uid": "21536864",
+      "pubdate": "2011 Jul 21",
+      "epubdate": "2011 May 2",
+      "source": "Blood",
+      "authors": [
+        {
+          "name": "Hasford J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baccarani M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoffmann V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guilhot J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saussele S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosti G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guilhot F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Porkka K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ossenkoppele G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lindoerfer D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simonsson B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pfirrmann M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hehlmann R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hehlmann R",
+      "title": "Predicting complete cytogenetic response and subsequent progression-free survival in 2060 patients with CML on imatinib treatment: the EUTOS score.",
+      "sorttitle": "predicting complete cytogenetic response and subsequent progression free survival in 2060 patients with cml on imatinib treatment the eutos score",
+      "volume": "118",
+      "issue": "3",
+      "pages": "686-92",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7603509",
+      "issn": "0006-4971",
+      "essn": "1528-0020",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21536864"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2010-12-319038"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)44750-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/05/04 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/05/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/10/08 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Blood",
+      "elocationid": "doi: 10.1182/blood-2010-12-319038",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/07/21 00:00",
+      "sortfirstauthor": "Hasford J",
+      "vernaculartitle": ""
+    }
+  }
+}

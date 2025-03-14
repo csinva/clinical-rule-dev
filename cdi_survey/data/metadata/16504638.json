@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16504638"
+    ],
+    "16504638": {
+      "uid": "16504638",
+      "pubdate": "2006 Mar",
+      "epubdate": "",
+      "source": "Am Heart J",
+      "authors": [
+        {
+          "name": "Gage BF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Milligan PE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Waterman AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Culverhouse R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rich MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Radford MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Radford MJ",
+      "title": "Clinical classification schemes for predicting hemorrhage: results from the National Registry of Atrial Fibrillation (NRAF).",
+      "sorttitle": "clinical classification schemes for predicting hemorrhage results from the national registry of atrial fibrillation nraf",
+      "volume": "151",
+      "issue": "3",
+      "pages": "713-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370465",
+      "issn": "0002-8703",
+      "essn": "1097-6744",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16504638"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ahj.2005.04.017"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0002-8703(05)00436-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2004/10/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2005/04/28 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/03/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/03/22 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/03/01 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American heart journal",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/03/01 00:00",
+      "sortfirstauthor": "Gage BF",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16009691"
+    ],
+    "16009691": {
+      "uid": "16009691",
+      "pubdate": "2005 Aug",
+      "epubdate": "",
+      "source": "Gut",
+      "authors": [
+        {
+          "name": "Forrest EH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Evans CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stewart S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Phillips M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oo YH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McAvoy NC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fisher NC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singhal S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brind A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haydon G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "O'Grady J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Day CP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hayes PC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Murray LS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morris AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Morris AJ",
+      "title": "Analysis of factors predictive of mortality in alcoholic hepatitis and derivation and validation of the Glasgow alcoholic hepatitis score.",
+      "sorttitle": "analysis of factors predictive of mortality in alcoholic hepatitis and derivation and validation of the glasgow alcoholic hepatitis score",
+      "volume": "54",
+      "issue": "8",
+      "pages": "1174-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985108R",
+      "issn": "0017-5749",
+      "essn": "1458-3288",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16009691"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1774903"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1774903;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/gut.2004.050781"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "54/8/1174"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/07/13 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/08/10 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/07/13 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Gut. 2005 Aug;54(8):1057-9",
+          "reftype": "Comment in",
+          "pmid": 16009678,
+          "note": ""
+        },
+        {
+          "refsource": "Gut. 2006 Jan;55(1):135-6",
+          "reftype": "Comment in",
+          "pmid": 16344584,
+          "note": ""
+        },
+        {
+          "refsource": "Nat Clin Pract Gastroenterol Hepatol. 2006 Jan;3(1):14-5",
+          "reftype": "Comment in",
+          "pmid": 16397604,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 15,
+      "fulljournalname": "Gut",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/08/01 00:00",
+      "sortfirstauthor": "Forrest EH",
+      "vernaculartitle": ""
+    }
+  }
+}

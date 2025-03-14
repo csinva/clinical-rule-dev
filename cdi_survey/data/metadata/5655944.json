@@ -1,0 +1,85 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "5655944"
+    ],
+    "5655944": {
+      "uid": "5655944",
+      "pubdate": "1968 Mar",
+      "epubdate": "",
+      "source": "Mod Treat",
+      "authors": [
+        {
+          "name": "Webster DD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Webster DD",
+      "title": "Critical analysis of the disability in Parkinson's disease.",
+      "sorttitle": "critical analysis of the disability in parkinson s disease",
+      "volume": "5",
+      "issue": "2",
+      "pages": "257-82",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7511504",
+      "issn": "0026-8526",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "5655944"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1968/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1968/03/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1968/03/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Modern treatment",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1968/03/01 00:00",
+      "sortfirstauthor": "Webster DD",
+      "vernaculartitle": ""
+    }
+  }
+}

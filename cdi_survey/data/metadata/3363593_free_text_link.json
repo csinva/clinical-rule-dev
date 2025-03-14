@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "3363593",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.ahajournals.org/doi/10.1161/01.str.19.5.604?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.ahajournals.org-pb-assets-pubmed-images-CSA-str.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Atypon",
+                "nameabbr": "ATYPON",
+                "id": "4487"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

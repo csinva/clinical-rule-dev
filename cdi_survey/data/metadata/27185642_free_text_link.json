@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "27185642",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://linkinghub.elsevier.com/retrieve/pii/S1470-2045(16)30029-8"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--linkinghub.elsevier.com-ihub-images-14702045-ONC.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Elsevier Science",
+                "nameabbr": "ES",
+                "id": "3048"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

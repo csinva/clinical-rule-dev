@@ -1,0 +1,98 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24736333"
+    ],
+    "24736333": {
+      "uid": "24736333",
+      "pubdate": "2014 May",
+      "epubdate": "",
+      "source": "Crit Care Med",
+      "authors": [
+        {
+          "name": "Magder SA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Magder SA",
+      "title": "The highs and lows of blood pressure: toward meaningful clinical targets in patients with shock.",
+      "sorttitle": "highs and lows of blood pressure toward meaningful clinical targets in patients with shock",
+      "volume": "42",
+      "issue": "5",
+      "pages": "1241-51",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0355501",
+      "issn": "0090-3493",
+      "essn": "1530-0293",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24736333"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/CCM.0000000000000324"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00003246-201405000-00026"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/04/17 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/04/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/06/12 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Critical care medicine",
+      "elocationid": "doi: 10.1097/CCM.0000000000000324",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/05/01 00:00",
+      "sortfirstauthor": "Magder SA",
+      "vernaculartitle": ""
+    }
+  }
+}

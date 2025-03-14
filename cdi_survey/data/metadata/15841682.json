@@ -1,0 +1,154 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15841682"
+    ],
+    "15841682": {
+      "uid": "15841682",
+      "pubdate": "2005 Feb",
+      "epubdate": "",
+      "source": "Psychol Med",
+      "authors": [
+        {
+          "name": "Kessler RC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adler L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ames M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Demler O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Faraone S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hiripi E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Howes MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jin R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Secnik K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spencer T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ustun TB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Walters EE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Walters EE",
+      "title": "The World Health Organization Adult ADHD Self-Report Scale (ASRS): a short screening scale for use in the general population.",
+      "sorttitle": "world health organization adult adhd self report scale asrs a short screening scale for use in the general population",
+      "volume": "35",
+      "issue": "2",
+      "pages": "245-56",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254142",
+      "issn": "0033-2917",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15841682"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1017/s0033291704002892"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/04/22 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/05/11 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/04/22 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Evid Based Ment Health. 2006 May;9(2):38",
+          "reftype": "Comment in",
+          "pmid": 16638887,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Psychological medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/02/01 00:00",
+      "sortfirstauthor": "Kessler RC",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7354892"
+    ],
+    "7354892": {
+      "uid": "7354892",
+      "pubdate": "1980 Jan",
+      "epubdate": "",
+      "source": "Neurosurgery",
+      "authors": [
+        {
+          "name": "Fisher CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kistler JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davis JM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Davis JM",
+      "title": "Relation of cerebral vasospasm to subarachnoid hemorrhage visualized by computerized tomographic scanning.",
+      "sorttitle": "relation of cerebral vasospasm to subarachnoid hemorrhage visualized by computerized tomographic scanning",
+      "volume": "6",
+      "issue": "1",
+      "pages": "1-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7802914",
+      "issn": "0148-396X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7354892"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1227/00006123-198001000-00001"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1980/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1980/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1980/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurosurgery",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1980/01/01 00:00",
+      "sortfirstauthor": "Fisher CM",
+      "vernaculartitle": ""
+    }
+  }
+}

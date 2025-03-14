@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25875097"
+    ],
+    "25875097": {
+      "uid": "25875097",
+      "pubdate": "2015",
+      "epubdate": "2015 Apr 13",
+      "source": "PLoS One",
+      "authors": [
+        {
+          "name": "Chuan F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "He X",
+      "title": "Reliability and validity of the perfusion, extent, depth, infection and sensation (PEDIS) classification system and score in patients with diabetic foot ulcer.",
+      "sorttitle": "reliability and validity of the perfusion extent depth infection and sensation pedis classification system and score in patients with diabetic foot ulcer",
+      "volume": "10",
+      "issue": "4",
+      "pages": "e0124739",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101285081",
+      "issn": "",
+      "essn": "1932-6203",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25875097"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4395335"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4395335;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0124739"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-14-58098"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2015/01/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2015/03/05 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2015/04/16 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/04/16 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/04/27 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 24,
+      "fulljournalname": "PloS one",
+      "elocationid": "doi: 10.1371/journal.pone.0124739",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/04/13 00:00",
+      "sortfirstauthor": "Chuan F",
+      "vernaculartitle": ""
+    }
+  }
+}

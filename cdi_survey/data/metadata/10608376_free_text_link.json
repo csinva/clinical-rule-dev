@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "10608376",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://doi.org/10.2106/00004623-199912000-00002"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--tools.ovid.com-images-wklogo.jpg"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Wolters Kluwer",
+                "nameabbr": "wolterskluwer",
+                "id": "3159"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

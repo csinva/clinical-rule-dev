@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "19616235",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.auajournals.org/doi/10.1016/j.juro.2009.05.035"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--tools.ovid.com-images-wklogo.jpg"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Wolters Kluwer",
+                "nameabbr": "wolterskluwer",
+                "id": "3159"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

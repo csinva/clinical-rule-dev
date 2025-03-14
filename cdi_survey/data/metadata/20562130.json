@@ -1,0 +1,142 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20562130"
+    ],
+    "20562130": {
+      "uid": "20562130",
+      "pubdate": "2011 Mar",
+      "epubdate": "2010 Jun 18",
+      "source": "Eur Respir J",
+      "authors": [
+        {
+          "name": "Trillo-Alvarez C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cartin-Ceba R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kor DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kojicic M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kashyap R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thakur S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thakur L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herasevich V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Malinchoc M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gajic O",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gajic O",
+      "title": "Acute lung injury prediction score: derivation and validation in a population-based sample.",
+      "sorttitle": "acute lung injury prediction score derivation and validation in a population based sample",
+      "volume": "37",
+      "issue": "3",
+      "pages": "604-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8803460",
+      "issn": "0903-1936",
+      "essn": "1399-3003",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20562130"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1183/09031936.00036810"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "09031936.00036810"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/06/22 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/06/22 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/06/22 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The European respiratory journal",
+      "elocationid": "doi: 10.1183/09031936.00036810",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/03/01 00:00",
+      "sortfirstauthor": "Trillo-Alvarez C",
+      "vernaculartitle": ""
+    }
+  }
+}

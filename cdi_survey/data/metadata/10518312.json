@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10518312"
+    ],
+    "10518312": {
+      "uid": "10518312",
+      "pubdate": "1999",
+      "epubdate": "",
+      "source": "Semin Liver Dis",
+      "authors": [
+        {
+          "name": "Llovet JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Br\u00fa C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bruix J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bruix J",
+      "title": "Prognosis of hepatocellular carcinoma: the BCLC staging classification.",
+      "sorttitle": "prognosis of hepatocellular carcinoma the bclc staging classification",
+      "volume": "19",
+      "issue": "3",
+      "pages": "329-38",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8110297",
+      "issn": "0272-8087",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10518312"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1055/s-2007-1007122"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/10/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/10/13 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/10/13 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Seminars in liver disease",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/01/01 00:00",
+      "sortfirstauthor": "Llovet JM",
+      "vernaculartitle": ""
+    }
+  }
+}

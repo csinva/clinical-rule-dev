@@ -1,0 +1,113 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14639117"
+    ],
+    "14639117": {
+      "uid": "14639117",
+      "pubdate": "2003 Nov-Dec",
+      "epubdate": "",
+      "source": "Dimens Crit Care Nurs",
+      "authors": [
+        {
+          "name": "Odhner M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wegman D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Freeland N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Steinmetz A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ingersoll GL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ingersoll GL",
+      "title": "Assessing pain control in nonverbal critically ill adults.",
+      "sorttitle": "assessing pain control in nonverbal critically ill adults",
+      "volume": "22",
+      "issue": "6",
+      "pages": "260-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8211489",
+      "issn": "0730-4625",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14639117"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00003465-200311000-00010"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/11/26 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/02/27 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/11/26 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Dimensions of critical care nursing : DCCN",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/11/01 00:00",
+      "sortfirstauthor": "Odhner M",
+      "vernaculartitle": ""
+    }
+  }
+}

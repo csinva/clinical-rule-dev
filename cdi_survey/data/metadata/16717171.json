@@ -1,0 +1,120 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16717171"
+    ],
+    "16717171": {
+      "uid": "16717171",
+      "pubdate": "2006 May 22",
+      "epubdate": "",
+      "source": "Arch Intern Med",
+      "authors": [
+        {
+          "name": "Spitzer RL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kroenke K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Williams JB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "L\u00f6we B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "L\u00f6we B",
+      "title": "A brief measure for assessing generalized anxiety disorder: the GAD-7.",
+      "sorttitle": "brief measure for assessing generalized anxiety disorder the gad 7",
+      "volume": "166",
+      "issue": "10",
+      "pages": "1092-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372440",
+      "issn": "0003-9926",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16717171"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/archinte.166.10.1092"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "166/10/1092"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/05/24 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/06/16 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/05/24 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Evid Based Med. 2006 Dec;11(6):184",
+          "reftype": "Comment in",
+          "pmid": 17213178,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/05/22 00:00",
+      "sortfirstauthor": "Spitzer RL",
+      "vernaculartitle": ""
+    }
+  }
+}

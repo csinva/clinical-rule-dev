@@ -1,0 +1,123 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27185642"
+    ],
+    "27185642": {
+      "uid": "27185642",
+      "pubdate": "2016 Jun",
+      "epubdate": "2016 May 13",
+      "source": "Lancet Oncol",
+      "authors": [
+        {
+          "name": "International CLL-IPI working group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "International CLL-IPI working group",
+      "title": "An international prognostic index for patients with chronic lymphocytic leukaemia (CLL-IPI): a meta-analysis of individual patient data.",
+      "sorttitle": "international prognostic index for patients with chronic lymphocytic leukaemia cll ipi a meta analysis of individual patient data",
+      "volume": "17",
+      "issue": "6",
+      "pages": "779-790",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100957246",
+      "issn": "1470-2045",
+      "essn": "1474-5488",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27185642"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1470-2045(16)30029-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1470-2045(16)30029-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/01/27 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2016/03/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/03/18 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/05/18 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/05/18 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/06/06 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet Oncol. 2016 Jun;17 (6):691-692",
+          "reftype": "Comment in",
+          "pmid": 27185641,
+          "note": ""
+        },
+        {
+          "refsource": "Blood. 2016 Oct 27;128(17 ):2181-2183",
+          "reftype": "Comment in",
+          "pmid": 27605511,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Oncology",
+      "elocationid": "doi: 10.1016/S1470-2045(16)30029-8",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/06/01 00:00",
+      "sortfirstauthor": "International CLL-IPI working group",
+      "vernaculartitle": ""
+    }
+  }
+}

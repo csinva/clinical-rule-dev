@@ -1,0 +1,125 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8675081"
+    ],
+    "8675081": {
+      "uid": "8675081",
+      "pubdate": "1996 Mar",
+      "epubdate": "",
+      "source": "Gut",
+      "authors": [
+        {
+          "name": "Rockall TA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Logan RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Devlin HB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Northfield TC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Northfield TC",
+      "title": "Risk assessment after acute upper gastrointestinal haemorrhage.",
+      "sorttitle": "risk assessment after acute upper gastrointestinal haemorrhage",
+      "volume": "38",
+      "issue": "3",
+      "pages": "316-21",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985108R",
+      "issn": "0017-5749",
+      "essn": "1458-3288",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8675081"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1383057"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1383057;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/gut.38.3.316"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1996/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1996/03/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1996/03/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "ACP J Club. 1996 Sep-Oct;125(2):49",
+          "reftype": "Comment in",
+          "pmid": "",
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 16,
+      "fulljournalname": "Gut",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1996/03/01 00:00",
+      "sortfirstauthor": "Rockall TA",
+      "vernaculartitle": ""
+    }
+  }
+}

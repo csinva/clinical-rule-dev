@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11816725"
+    ],
+    "11816725": {
+      "uid": "11816725",
+      "pubdate": "2001 Nov",
+      "epubdate": "",
+      "source": "Thromb Haemost",
+      "authors": [
+        {
+          "name": "Taylor FB Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Toh CH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoots WK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wada H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scientific Subcommittee on Disseminated Intravascular Coagulation (DIC) of the International Society on Thrombosis and Haemostasis (ISTH)",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Levi M",
+      "title": "Towards definition, clinical and laboratory criteria, and a scoring system for disseminated intravascular coagulation.",
+      "sorttitle": "towards definition clinical and laboratory criteria and a scoring system for disseminated intravascular coagulation",
+      "volume": "86",
+      "issue": "5",
+      "pages": "1327-30",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7608063",
+      "issn": "0340-6245",
+      "essn": "",
+      "pubtype": [
+        "Guideline",
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11816725"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01111327"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2002/01/31 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/04/05 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2002/01/31 10:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Thrombosis and haemostasis",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/11/01 00:00",
+      "sortfirstauthor": "Taylor FB Jr",
+      "vernaculartitle": ""
+    }
+  }
+}

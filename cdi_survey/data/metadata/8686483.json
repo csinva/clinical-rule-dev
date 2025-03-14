@@ -1,0 +1,119 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8686483"
+    ],
+    "8686483": {
+      "uid": "8686483",
+      "pubdate": "1996 Feb",
+      "epubdate": "",
+      "source": "Acta Psychiatr Scand",
+      "authors": [
+        {
+          "name": "Bush G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fink M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Petrides G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dowling F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Francis A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Francis A",
+      "title": "Catatonia. I. Rating scale and standardized examination.",
+      "sorttitle": "catatonia i rating scale and standardized examination",
+      "volume": "93",
+      "issue": "2",
+      "pages": "129-36",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370364",
+      "issn": "0001-690X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8686483"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1600-0447.1996.tb09814.x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1996/02/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1996/02/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1996/02/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Acta Psychiatr Scand. 1997 Apr;95(4):357-9",
+          "reftype": "Comment in",
+          "pmid": 9150832,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Acta psychiatrica Scandinavica",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1996/02/01 00:00",
+      "sortfirstauthor": "Bush G",
+      "vernaculartitle": ""
+    }
+  }
+}

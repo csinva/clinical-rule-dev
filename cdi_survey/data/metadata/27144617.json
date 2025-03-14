@@ -1,0 +1,105 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27144617"
+    ],
+    "27144617": {
+      "uid": "27144617",
+      "pubdate": "2016 Feb 19",
+      "epubdate": "2016 Feb 19",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Drossman DA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Drossman DA",
+      "title": "Functional Gastrointestinal Disorders: History, Pathophysiology, Clinical Features and Rome IV.",
+      "sorttitle": "functional gastrointestinal disorders history pathophysiology clinical features and rome iv",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "1528-0012",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27144617"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.gastro.2016.02.032"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016-5085(16)00223-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/02/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/02/11 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/05/05 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "pii: S0016-5085(16)00223-7. doi: 10.1053/j.gastro.2016.02.032",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/02/19 00:00",
+      "sortfirstauthor": "Drossman DA",
+      "vernaculartitle": ""
+    }
+  }
+}

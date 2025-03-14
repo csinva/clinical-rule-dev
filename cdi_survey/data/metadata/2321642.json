@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2321642"
+    ],
+    "2321642": {
+      "uid": "2321642",
+      "pubdate": "1990 Apr",
+      "epubdate": "",
+      "source": "Am J Kidney Dis",
+      "authors": [
+        {
+          "name": "Ethier JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kamel KS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Magner PO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lemann J Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Halperin ML",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Halperin ML",
+      "title": "The transtubular potassium concentration in patients with hypokalemia and hyperkalemia.",
+      "sorttitle": "transtubular potassium concentration in patients with hypokalemia and hyperkalemia",
+      "volume": "15",
+      "issue": "4",
+      "pages": "309-15",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8110075",
+      "issn": "0272-6386",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2321642"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0272-6386(12)80076-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0272638690000464"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1990/04/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/03/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1990/04/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1990/04/01 00:00",
+      "sortfirstauthor": "Ethier JH",
+      "vernaculartitle": ""
+    }
+  }
+}

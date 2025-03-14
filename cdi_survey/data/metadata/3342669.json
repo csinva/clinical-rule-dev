@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3342669"
+    ],
+    "3342669": {
+      "uid": "3342669",
+      "pubdate": "1988 Mar",
+      "epubdate": "",
+      "source": "Chest",
+      "authors": [
+        {
+          "name": "Mahler DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells CK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wells CK",
+      "title": "Evaluation of clinical methods for rating dyspnea.",
+      "sorttitle": "evaluation of clinical methods for rating dyspnea",
+      "volume": "93",
+      "issue": "3",
+      "pages": "580-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0231335",
+      "issn": "0012-3692",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3342669"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1378/chest.93.3.580"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0012-3692(16)30335-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1988/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1988/03/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1988/03/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Chest",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1988/03/01 00:00",
+      "sortfirstauthor": "Mahler DA",
+      "vernaculartitle": ""
+    }
+  }
+}

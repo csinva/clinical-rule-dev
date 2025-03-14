@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "698649"
+    ],
+    "698649": {
+      "uid": "698649",
+      "pubdate": "1978 Sep 2",
+      "epubdate": "",
+      "source": "Br Med J",
+      "authors": [
+        {
+          "name": "Manning AP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thompson WG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heaton KW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morris AF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Morris AF",
+      "title": "Towards positive diagnosis of the irritable bowel.",
+      "sorttitle": "towards positive diagnosis of the irritable bowel",
+      "volume": "2",
+      "issue": "6138",
+      "pages": "653-4",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372673",
+      "issn": "0007-1447",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "698649"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1607467"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1607467;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmj.2.6138.653"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1978/09/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1978/09/02 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1978/09/02 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 3,
+      "fulljournalname": "British medical journal",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1978/09/02 00:00",
+      "sortfirstauthor": "Manning AP",
+      "vernaculartitle": ""
+    }
+  }
+}

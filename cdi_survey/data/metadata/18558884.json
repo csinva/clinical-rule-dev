@@ -1,0 +1,195 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18558884"
+    ],
+    "18558884": {
+      "uid": "18558884",
+      "pubdate": "2008 Aug 1",
+      "epubdate": "",
+      "source": "Clin Infect Dis",
+      "authors": [
+        {
+          "name": "Charles PG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolfe R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Whitby M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fine MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fuller AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stirling R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wright AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ramirez JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Christiansen KJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Waterer GW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pierce RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Armstrong JG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Korman TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holmes P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Obrosky DS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peyrani P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hooy M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Australian Community-Acquired Pneumonia Study Collaboration",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        },
+        {
+          "name": "Grayson ML",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Grayson ML",
+      "title": "SMART-COP: a tool for predicting the need for intensive respiratory or vasopressor support in community-acquired pneumonia.",
+      "sorttitle": "smart cop a tool for predicting the need for intensive respiratory or vasopressor support in community acquired pneumonia",
+      "volume": "47",
+      "issue": "3",
+      "pages": "375-84",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9203213",
+      "issn": "1058-4838",
+      "essn": "1537-6591",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18558884"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1086/589754"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/06/19 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/08/12 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/06/19 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Clin Infect Dis. 2008 Nov 15;47(10):1363; author reply 1364",
+          "reftype": "Comment in",
+          "pmid": 18922077,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "elocationid": "doi: 10.1086/589754",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/08/01 00:00",
+      "sortfirstauthor": "Charles PG",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10793162"
+    ],
+    "10793162": {
+      "uid": "10793162",
+      "pubdate": "2000 May 4",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Acute Respiratory Distress Syndrome Network",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        },
+        {
+          "name": "Brower RG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matthay MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morris A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schoenfeld D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thompson BT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wheeler A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wheeler A",
+      "title": "Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome.",
+      "sorttitle": "ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome",
+      "volume": "342",
+      "issue": "18",
+      "pages": "1301-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10793162"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM200005043421801"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/05/04 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/05/09 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/05/04 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "ACP J Club. 2001 Jan-Feb;134(1):16",
+          "reftype": "Comment in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 May 4;342(18):1360-1",
+          "reftype": "Comment in",
+          "pmid": 10793169,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Sep 14;343(11):812; author reply 813-4",
+          "reftype": "Comment in",
+          "pmid": 10991704,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Sep 14;343(11):812-3; author reply 813-4",
+          "reftype": "Comment in",
+          "pmid": 10991705,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Sep 14;343(11):813; author reply 813-4",
+          "reftype": "Comment in",
+          "pmid": 10991706,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/05/04 00:00",
+      "sortfirstauthor": "Brower RG",
+      "vernaculartitle": ""
+    }
+  }
+}

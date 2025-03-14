@@ -1,0 +1,103 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10378838"
+    ],
+    "10378838": {
+      "uid": "10378838",
+      "pubdate": "1999 Jun",
+      "epubdate": "",
+      "source": "Transfusion",
+      "authors": [
+        {
+          "name": "Davis KB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Slichter SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Corash L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Corash L",
+      "title": "Corrected count increment and percent platelet recovery as measures of posttransfusion platelet response: problems and a solution.",
+      "sorttitle": "corrected count increment and percent platelet recovery as measures of posttransfusion platelet response problems and a solution",
+      "volume": "39",
+      "issue": "6",
+      "pages": "586-92",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0417360",
+      "issn": "0041-1132",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10378838"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1046/j.1537-2995.1999.39060586.x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/06/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/06/23 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/06/23 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Transfusion",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/06/01 00:00",
+      "sortfirstauthor": "Davis KB",
+      "vernaculartitle": ""
+    }
+  }
+}

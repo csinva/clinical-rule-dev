@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10493478"
+    ],
+    "10493478": {
+      "uid": "10493478",
+      "pubdate": "1999 Sep",
+      "epubdate": "",
+      "source": "Ann Surg",
+      "authors": [
+        {
+          "name": "Fong Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fortner J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun RL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brennan MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blumgart LH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Blumgart LH",
+      "title": "Clinical score for predicting recurrence after hepatic resection for metastatic colorectal cancer: analysis of 1001 consecutive cases.",
+      "sorttitle": "clinical score for predicting recurrence after hepatic resection for metastatic colorectal cancer analysis of 1001 consecutive cases",
+      "volume": "230",
+      "issue": "3",
+      "pages": "309-18; discussion 318-21",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372354",
+      "issn": "0003-4932",
+      "essn": "1528-1140",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10493478"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1420876"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1420876;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00000658-199909000-00004"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/09/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/09/24 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/09/24 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 45,
+      "fulljournalname": "Annals of surgery",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/09/01 00:00",
+      "sortfirstauthor": "Fong Y",
+      "vernaculartitle": ""
+    }
+  }
+}

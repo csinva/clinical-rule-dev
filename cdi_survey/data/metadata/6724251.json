@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6724251"
+    ],
+    "6724251": {
+      "uid": "6724251",
+      "pubdate": "1984 Jul",
+      "epubdate": "",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Kruis W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thieme C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weinzierl M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sch\u00fcssler P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holl J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paulus W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Paulus W",
+      "title": "A diagnostic score for the irritable bowel syndrome. Its value in the exclusion of organic disease.",
+      "sorttitle": "diagnostic score for the irritable bowel syndrome its value in the exclusion of organic disease",
+      "volume": "87",
+      "issue": "1",
+      "pages": "1-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6724251"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016508584001566"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1984/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1984/07/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1984/07/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1984/07/01 00:00",
+      "sortfirstauthor": "Kruis W",
+      "vernaculartitle": ""
+    }
+  }
+}

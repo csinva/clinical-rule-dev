@@ -1,0 +1,169 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18721242"
+    ],
+    "18721242": {
+      "uid": "18721242",
+      "pubdate": "2008 Nov",
+      "epubdate": "2008 Aug 21",
+      "source": "Am J Gastroenterol",
+      "authors": [
+        {
+          "name": "Dominguez M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rinc\u00f3n D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abraldes JG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miquel R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Colmenero J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bellot P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garc\u00eda-Pag\u00e1n JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fern\u00e1ndez R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moreno M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ba\u00f1ares R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arroyo V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caballer\u00eda J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gin\u00e8s P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bataller R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bataller R",
+      "title": "A new scoring system for prognostic stratification of patients with alcoholic hepatitis.",
+      "sorttitle": "new scoring system for prognostic stratification of patients with alcoholic hepatitis",
+      "volume": "103",
+      "issue": "11",
+      "pages": "2747-56",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0421030",
+      "issn": "0002-9270",
+      "essn": "1572-0241",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18721242"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1572-0241.2008.02104.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AJG2104"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/08/30 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/01/01 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/08/30 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Gastroenterol. 2010 Mar;105(3):701-2",
+          "reftype": "Comment in",
+          "pmid": 20203652,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of gastroenterology",
+      "elocationid": "doi: 10.1111/j.1572-0241.2008.02104.x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/11/01 00:00",
+      "sortfirstauthor": "Dominguez M",
+      "vernaculartitle": ""
+    }
+  }
+}

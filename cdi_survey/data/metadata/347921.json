@@ -1,0 +1,104 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "347921"
+    ],
+    "347921": {
+      "uid": "347921",
+      "pubdate": "1978 May",
+      "epubdate": "",
+      "source": "Am J Dis Child",
+      "authors": [
+        {
+          "name": "Westley CR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cotton EK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brooks JG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Brooks JG",
+      "title": "Nebulized racemic epinephrine by IPPB for the treatment of croup: a double-blind study.",
+      "sorttitle": "nebulized racemic epinephrine by ippb for the treatment of croup a double blind study",
+      "volume": "132",
+      "issue": "5",
+      "pages": "484-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370471",
+      "issn": "0002-922X",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "347921"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/archpedi.1978.02120300044008"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1978/05/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1978/05/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1978/05/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of diseases of children (1960)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1978/05/01 00:00",
+      "sortfirstauthor": "Westley CR",
+      "vernaculartitle": ""
+    }
+  }
+}

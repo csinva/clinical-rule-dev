@@ -1,0 +1,114 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29631516"
+    ],
+    "29631516": {
+      "uid": "29631516",
+      "pubdate": "2018 Jun",
+      "epubdate": "2018 Apr 10",
+      "source": "J Neurosurg",
+      "authors": [
+        {
+          "name": "Brennan PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Murray GD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Teasdale GM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Teasdale GM",
+      "title": "Simplifying the use of prognostic information in traumatic brain injury. Part 1: The GCS-Pupils score: an extended index of clinical severity.",
+      "sorttitle": "simplifying the use of prognostic information in traumatic brain injury part 1 the gcs pupils score an extended index of clinical severity",
+      "volume": "128",
+      "issue": "6",
+      "pages": "1612-1620",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0253357",
+      "issn": "0022-3085",
+      "essn": "1933-0693",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29631516"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3171/2017.12.JNS172780"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2017.12.JNS172780"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/04/11 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/09/14 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/04/11 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Neurosurg. 2018 Sep;129(3):847-849",
+          "reftype": "Comment in",
+          "pmid": 30074463,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of neurosurgery",
+      "elocationid": "doi: 10.3171/2017.12.JNS172780",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/06/01 00:00",
+      "sortfirstauthor": "Brennan PM",
+      "vernaculartitle": ""
+    }
+  }
+}

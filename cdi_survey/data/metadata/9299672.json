@@ -1,0 +1,99 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9299672"
+    ],
+    "9299672": {
+      "uid": "9299672",
+      "pubdate": "1997 Sep",
+      "epubdate": "",
+      "source": "Scand J Gastroenterol",
+      "authors": [
+        {
+          "name": "Lewis SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heaton KW",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Heaton KW",
+      "title": "Stool form scale as a useful guide to intestinal transit time.",
+      "sorttitle": "stool form scale as a useful guide to intestinal transit time",
+      "volume": "32",
+      "issue": "9",
+      "pages": "920-4",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0060105",
+      "issn": "0036-5521",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9299672"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/00365529709011203"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1997/09/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1997/09/23 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1997/09/23 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Scandinavian journal of gastroenterology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1997/09/01 00:00",
+      "sortfirstauthor": "Lewis SJ",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "22826567",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://publications.aap.org/pediatrics/article-lookup/doi/10.1542/peds.2011-3798"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--publications.aap.org-images-pubmed_aap.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Silverchair Information Systems",
+                "nameabbr": "silverchair",
+                "id": "7898"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

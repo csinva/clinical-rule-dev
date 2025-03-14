@@ -1,0 +1,90 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "13638508"
+    ],
+    "13638508": {
+      "uid": "13638508",
+      "pubdate": "1959",
+      "epubdate": "",
+      "source": "Br J Med Psychol",
+      "authors": [
+        {
+          "name": "HAMILTON M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "HAMILTON M",
+      "title": "The assessment of anxiety states by rating.",
+      "sorttitle": "assessment of anxiety states by rating",
+      "volume": "32",
+      "issue": "1",
+      "pages": "50-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370640",
+      "issn": "0007-1129",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "13638508"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.2044-8341.1959.tb00467.x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1959/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1959/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1959/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "The British journal of medical psychology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1959/01/01 00:00",
+      "sortfirstauthor": "HAMILTON M",
+      "vernaculartitle": ""
+    }
+  }
+}

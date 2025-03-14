@@ -1,0 +1,109 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1634072"
+    ],
+    "1634072": {
+      "uid": "1634072",
+      "pubdate": "1992 Aug",
+      "epubdate": "",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Eherer AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fordtran JS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fordtran JS",
+      "title": "Fecal osmotic gap and pH in experimental diarrhea of various causes.",
+      "sorttitle": "fecal osmotic gap and ph in experimental diarrhea of various causes",
+      "volume": "103",
+      "issue": "2",
+      "pages": "545-51",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1634072"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0016-5085(92)90845-p"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0016-5085(92)90845-P"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1992/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1992/08/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1992/08/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Gastroenterology. 1992 Aug;103(2):702-4",
+          "reftype": "Comment in",
+          "pmid": 1634087,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1992/08/01 00:00",
+      "sortfirstauthor": "Eherer AJ",
+      "vernaculartitle": ""
+    }
+  }
+}

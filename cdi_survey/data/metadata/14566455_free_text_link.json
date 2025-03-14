@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "14566455",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://dx.doi.org/10.1007/s00134-003-2018-2"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--production.springer.de-OnlineResources-Logos-springerlink.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Springer",
+                "nameabbr": "Springer",
+                "id": "3055"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

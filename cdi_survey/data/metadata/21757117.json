@@ -1,0 +1,179 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21757117"
+    ],
+    "21757117": {
+      "uid": "21757117",
+      "pubdate": "2011 Jul 19",
+      "epubdate": "",
+      "source": "J Am Coll Cardiol",
+      "authors": [
+        {
+          "name": "Fang MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Go AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borowsky LH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pomernacki NK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Udaltsova N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singer DE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Singer DE",
+      "title": "A new risk scheme to predict warfarin-associated hemorrhage: The ATRIA (Anticoagulation and Risk Factors in Atrial Fibrillation) Study.",
+      "sorttitle": "new risk scheme to predict warfarin associated hemorrhage the atria anticoagulation and risk factors in atrial fibrillation study",
+      "volume": "58",
+      "issue": "4",
+      "pages": "395-401",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8301365",
+      "issn": "0735-1097",
+      "essn": "1558-3597",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21757117"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS321217"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3175766"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3175766;manuscript-id: NIHMS321217;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jacc.2011.03.031"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0735-1097(11)01571-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2010/09/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2011/03/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2011/03/29 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2011/07/16 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/07/16 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/10/01 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Nat Rev Cardiol. 2011 Sep;8(9):481",
+          "reftype": "Comment in",
+          "pmid": 21808272,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Intern Med. 2011 Nov 15;155(10):JC5-13",
+          "reftype": "Comment in",
+          "pmid": 22084360,
+          "note": ""
+        },
+        {
+          "refsource": "Praxis (Bern 1994). 2011 Nov 30;100(24):1503-4",
+          "reftype": "Comment in",
+          "pmid": 22124963,
+          "note": ""
+        },
+        {
+          "refsource": "J Am Coll Cardiol. 2012 Jan 10;59(2):194-5; author reply 195",
+          "reftype": "Comment in",
+          "pmid": 22222085,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 18,
+      "fulljournalname": "Journal of the American College of Cardiology",
+      "elocationid": "doi: 10.1016/j.jacc.2011.03.031",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/07/19 00:00",
+      "sortfirstauthor": "Fang MC",
+      "vernaculartitle": ""
+    }
+  }
+}

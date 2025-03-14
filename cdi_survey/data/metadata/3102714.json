@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3102714"
+    ],
+    "3102714": {
+      "uid": "3102714",
+      "pubdate": "1987 Jan",
+      "epubdate": "",
+      "source": "J Pediatr Surg",
+      "authors": [
+        {
+          "name": "Tepas JJ 3rd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mollitt DL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Talbert JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bryant M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bryant M",
+      "title": "The pediatric trauma score as a predictor of injury severity in the injured child.",
+      "sorttitle": "pediatric trauma score as a predictor of injury severity in the injured child",
+      "volume": "22",
+      "issue": "1",
+      "pages": "14-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0052631",
+      "issn": "0022-3468",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3102714"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0022-3468(87)80006-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022346887000010"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1987/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1987/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1987/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pediatric surgery",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1987/01/01 00:00",
+      "sortfirstauthor": "Tepas JJ 3rd",
+      "vernaculartitle": ""
+    }
+  }
+}

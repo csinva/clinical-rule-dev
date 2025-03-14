@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16823296"
+    ],
+    "16823296": {
+      "uid": "16823296",
+      "pubdate": "2006 Jul",
+      "epubdate": "",
+      "source": "Neurosurgery",
+      "authors": [
+        {
+          "name": "Frontera JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Claassen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schmidt JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wartenberg KE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Temes R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Connolly ES Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "MacDonald RL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mayer SA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mayer SA",
+      "title": "Prediction of symptomatic vasospasm after subarachnoid hemorrhage: the modified fisher scale.",
+      "sorttitle": "prediction of symptomatic vasospasm after subarachnoid hemorrhage the modified fisher scale",
+      "volume": "59",
+      "issue": "1",
+      "pages": "21-7; discussion 21-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7802914",
+      "issn": "0148-396X",
+      "essn": "1524-4040",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16823296"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1227/01.neu.0000243277.86222.6c"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00006123-200607000-00003"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/07/11 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/08/02 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/07/11 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurosurgery",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/07/01 00:00",
+      "sortfirstauthor": "Frontera JA",
+      "vernaculartitle": ""
+    }
+  }
+}

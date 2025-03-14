@@ -1,0 +1,196 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29030346"
+    ],
+    "29030346": {
+      "uid": "29030346",
+      "pubdate": "2018 Jan 16",
+      "epubdate": "2017 Oct 13",
+      "source": "Circulation",
+      "authors": [
+        {
+          "name": "Nazerian P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mueller C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Soeiro AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leidel BA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Salvadeo SAT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giachino F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vanni S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grimm K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oliveira MT Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pivetta E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lupia E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grifoni S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morello F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "ADvISED Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Morello F",
+      "title": "Diagnostic Accuracy of the Aortic Dissection Detection Risk Score Plus D-Dimer for Acute Aortic Syndromes: The ADvISED Prospective Multicenter Study.",
+      "sorttitle": "diagnostic accuracy of the aortic dissection detection risk score plus d dimer for acute aortic syndromes the advised prospective multicenter study",
+      "volume": "137",
+      "issue": "3",
+      "pages": "250-258",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147763",
+      "issn": "0009-7322",
+      "essn": "1524-4539",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29030346"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/CIRCULATIONAHA.117.029457"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CIRCULATIONAHA.117.029457"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2017/05/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2017/09/29 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/10/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/04/10 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/10/15 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Circulation. 2018 Jan 16;137(3):270-272",
+          "reftype": "Comment in",
+          "pmid": 29335286,
+          "note": ""
+        },
+        {
+          "refsource": "Circulation. 2018 Jul 24;138(4):447",
+          "reftype": "Comment in",
+          "pmid": 30571365,
+          "note": ""
+        },
+        {
+          "refsource": "Circulation. 2018 Jul 24;138(4):448-449",
+          "reftype": "Comment in",
+          "pmid": 30571366,
+          "note": ""
+        },
+        {
+          "refsource": "Circulation. 2018 Jul 24;138(4):445-446",
+          "reftype": "Comment in",
+          "pmid": 30571369,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Circulation",
+      "elocationid": "doi: 10.1161/CIRCULATIONAHA.117.029457",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/01/16 00:00",
+      "sortfirstauthor": "Nazerian P",
+      "vernaculartitle": ""
+    }
+  }
+}

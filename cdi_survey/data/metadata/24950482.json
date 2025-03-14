@@ -1,0 +1,249 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24950482"
+    ],
+    "24950482": {
+      "uid": "24950482",
+      "pubdate": "2014 Nov",
+      "epubdate": "2014 Jun 17",
+      "source": "J Hepatol",
+      "authors": [
+        {
+          "name": "Jalan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saliba F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pavesi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Amoros A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moreau R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gin\u00e8s P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levesque E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Durand F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Angeli P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caraceni P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hopf C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alessandria C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rodriguez E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Solis-Mu\u00f1oz P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laleman W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Trebicka J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeuzem S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gustot T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mookerjee R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elkrief L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Soriano G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cordoba J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morando F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gerbes A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Agarwal B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Samuel D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernardi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arroyo V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "CANONIC study investigators of the EASL-CLIF Consortium",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Arroyo V",
+      "title": "Development and validation of a prognostic score to predict mortality in patients with acute-on-chronic liver failure.",
+      "sorttitle": "development and validation of a prognostic score to predict mortality in patients with acute on chronic liver failure",
+      "volume": "61",
+      "issue": "5",
+      "pages": "1038-47",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8503886",
+      "issn": "0168-8278",
+      "essn": "1600-0641",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24950482"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jhep.2014.06.012"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0168-8278(14)00408-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2014/01/21 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2014/06/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2014/06/11 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2014/06/21 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/06/21 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/06/27 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of hepatology",
+      "elocationid": "doi: 10.1016/j.jhep.2014.06.012",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/11/01 00:00",
+      "sortfirstauthor": "Jalan R",
+      "vernaculartitle": ""
+    }
+  }
+}

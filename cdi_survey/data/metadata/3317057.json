@@ -1,0 +1,104 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3317057"
+    ],
+    "3317057": {
+      "uid": "3317057",
+      "pubdate": "1987 Dec 24",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Schroeder KW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tremaine WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ilstrup DM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ilstrup DM",
+      "title": "Coated oral 5-aminosalicylic acid therapy for mildly to moderately active ulcerative colitis. A randomized study.",
+      "sorttitle": "coated oral 5 aminosalicylic acid therapy for mildly to moderately active ulcerative colitis a randomized study",
+      "volume": "317",
+      "issue": "26",
+      "pages": "1625-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3317057"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM198712243172603"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1987/12/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1987/12/24 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1987/12/24 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1987/12/24 00:00",
+      "sortfirstauthor": "Schroeder KW",
+      "vernaculartitle": ""
+    }
+  }
+}

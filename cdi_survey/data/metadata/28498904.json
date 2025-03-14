@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28498904"
+    ],
+    "28498904": {
+      "uid": "28498904",
+      "pubdate": "2018 Jun 14",
+      "epubdate": "",
+      "source": "Eur Heart J",
+      "authors": [
+        {
+          "name": "Ranucci M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pistuddi V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scolletta S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Vincentiis C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Menicanti L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Menicanti L",
+      "title": "The ACEF II Risk Score for cardiac surgery: updated but still parsimonious.",
+      "sorttitle": "acef ii risk score for cardiac surgery updated but still parsimonious",
+      "volume": "39",
+      "issue": "23",
+      "pages": "2183-2189",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8006263",
+      "issn": "0195-668X",
+      "essn": "1522-9645",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28498904"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/eurheartj/ehx228"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "3820892"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2017/01/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2017/04/13 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/05/13 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/12/04 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/05/13 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Eur Heart J. 2018 Jun 14;39(23):2190-2191",
+          "reftype": "Comment in",
+          "pmid": 29020398,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European heart journal",
+      "elocationid": "doi: 10.1093/eurheartj/ehx228",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/06/14 00:00",
+      "sortfirstauthor": "Ranucci M",
+      "vernaculartitle": ""
+    }
+  }
+}

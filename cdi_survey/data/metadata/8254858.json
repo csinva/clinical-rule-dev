@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8254858"
+    ],
+    "8254858": {
+      "uid": "8254858",
+      "pubdate": "1993 Dec 22-29",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Le Gall JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lemeshow S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saulnier F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Saulnier F",
+      "title": "A new Simplified Acute Physiology Score (SAPS II) based on a European/North American multicenter study.",
+      "sorttitle": "new simplified acute physiology score saps ii based on a european north american multicenter study",
+      "volume": "270",
+      "issue": "24",
+      "pages": "2957-63",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8254858"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.270.24.2957"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1993/12/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1993/12/22 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1993/12/22 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA 1994 May 4;271(17):1321",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1993/12/22 00:00",
+      "sortfirstauthor": "Le Gall JR",
+      "vernaculartitle": ""
+    }
+  }
+}

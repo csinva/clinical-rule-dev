@@ -1,0 +1,166 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15464318"
+    ],
+    "15464318": {
+      "uid": "15464318",
+      "pubdate": "2004 Oct 6",
+      "epubdate": "",
+      "source": "J Am Coll Cardiol",
+      "authors": [
+        {
+          "name": "Mehran R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aymong ED",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nikolsky E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lasic Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iakovou I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fahy M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mintz GS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lansky AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moses JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stone GW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leon MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dangas G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dangas G",
+      "title": "A simple risk score for prediction of contrast-induced nephropathy after percutaneous coronary intervention: development and initial validation.",
+      "sorttitle": "simple risk score for prediction of contrast induced nephropathy after percutaneous coronary intervention development and initial validation",
+      "volume": "44",
+      "issue": "7",
+      "pages": "1393-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8301365",
+      "issn": "0735-1097",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15464318"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jacc.2004.06.068"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0735-1097(04)01445-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2004/02/04 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2004/06/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2004/06/22 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/10/07 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/10/28 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/10/07 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American College of Cardiology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/10/06 00:00",
+      "sortfirstauthor": "Mehran R",
+      "vernaculartitle": ""
+    }
+  }
+}

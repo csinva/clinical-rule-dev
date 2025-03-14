@@ -1,0 +1,181 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18725614"
+    ],
+    "18725614": {
+      "uid": "18725614",
+      "pubdate": "2008 Aug 26",
+      "epubdate": "",
+      "source": "CMAJ",
+      "authors": [
+        {
+          "name": "Rodger MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kahn SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chagnon I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Le Gal G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Solymoss S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Crowther M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perrier A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "White R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vickars L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ramsay T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Betancourt MT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kovacs MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kovacs MJ",
+      "title": "Identifying unprovoked thromboembolism patients at low risk for recurrence who can discontinue anticoagulant therapy.",
+      "sorttitle": "identifying unprovoked thromboembolism patients at low risk for recurrence who can discontinue anticoagulant therapy",
+      "volume": "179",
+      "issue": "5",
+      "pages": "417-26",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9711805",
+      "issn": "0820-3946",
+      "essn": "1488-2329",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18725614"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2518177"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2518177;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1503/cmaj.080493"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "179/5/417"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/08/30 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/09/10 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/08/30 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "CMAJ. 2008 Aug 26;179(5):401-2",
+          "reftype": "Comment in",
+          "pmid": 18725604,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 34,
+      "fulljournalname": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+      "elocationid": "doi: 10.1503/cmaj.080493",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/08/26 00:00",
+      "sortfirstauthor": "Rodger MA",
+      "vernaculartitle": ""
+    }
+  }
+}

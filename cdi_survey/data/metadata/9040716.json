@@ -1,0 +1,97 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9040716"
+    ],
+    "9040716": {
+      "uid": "9040716",
+      "pubdate": "1997 Feb",
+      "epubdate": "",
+      "source": "Neurology",
+      "authors": [
+        {
+          "name": "Galer BS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jensen MP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jensen MP",
+      "title": "Development and preliminary validation of a pain measure specific to neuropathic pain: the Neuropathic Pain Scale.",
+      "sorttitle": "development and preliminary validation of a pain measure specific to neuropathic pain the neuropathic pain scale",
+      "volume": "48",
+      "issue": "2",
+      "pages": "332-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401060",
+      "issn": "0028-3878",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9040716"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1212/wnl.48.2.332"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1997/02/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1997/02/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1997/02/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1997/02/01 00:00",
+      "sortfirstauthor": "Galer BS",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8791071"
+    ],
+    "8791071": {
+      "uid": "8791071",
+      "pubdate": "1996 Jun",
+      "epubdate": "",
+      "source": "Fam Med",
+      "authors": [
+        {
+          "name": "Brown JB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lent B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brett PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sas G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pederson LL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pederson LL",
+      "title": "Development of the Woman Abuse Screening Tool for use in family practice.",
+      "sorttitle": "development of the woman abuse screening tool for use in family practice",
+      "volume": "28",
+      "issue": "6",
+      "pages": "422-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8306464",
+      "issn": "0742-3225",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8791071"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1996/06/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1996/06/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1996/06/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Family medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1996/06/01 00:00",
+      "sortfirstauthor": "Brown JB",
+      "vernaculartitle": ""
+    }
+  }
+}

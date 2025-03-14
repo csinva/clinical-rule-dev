@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "6829965",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://pubs.asahq.org/anesthesiology/article-lookup/doi/10.1097/00000542-198303000-00016"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--pubs.asahq.org-Images-asa_pubmed.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "Silverchair Information Systems",
+                "nameabbr": "silverchair",
+                "id": "7898"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

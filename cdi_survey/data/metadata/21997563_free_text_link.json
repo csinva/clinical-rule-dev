@@ -1,0 +1,58 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "21997563",
+          "objurls": [
+            {
+              "url": {
+                "value": "http://gut.bmj.com/lookup/pmidlookup?view=long&pmid=21997563"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--highwire.stanford.edu-icons-externalservices-pubmed-custom-bmjjournals_open_access.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "HighWire",
+                "nameabbr": "HighWire",
+                "id": "3051"
+              }
+            },
+            {
+              "url": {
+                "value": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21997563/"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.ncbi.nlm.nih.gov-corehtml-pmc-pmcgifs-pubmed-pmc.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "PubMed Central",
+                "nameabbr": "PMC",
+                "id": "3494"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

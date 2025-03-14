@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12454113"
+    ],
+    "12454113": {
+      "uid": "12454113",
+      "pubdate": "2002 Dec 1",
+      "epubdate": "",
+      "source": "J Clin Oncol",
+      "authors": [
+        {
+          "name": "Zisman A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pantuck AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wieder J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chao DH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dorey F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Said JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "deKernion JB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Figlin RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Belldegrun AS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Belldegrun AS",
+      "title": "Risk group assessment and clinical outcome algorithm to predict the natural history of patients with surgically resected renal cell carcinoma.",
+      "sorttitle": "risk group assessment and clinical outcome algorithm to predict the natural history of patients with surgically resected renal cell carcinoma",
+      "volume": "20",
+      "issue": "23",
+      "pages": "4559-66",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309333",
+      "issn": "0732-183X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12454113"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1200/JCO.2002.05.111"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2002/11/28 04:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/12/28 04:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2002/11/28 04:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2002/12/01 00:00",
+      "sortfirstauthor": "Zisman A",
+      "vernaculartitle": ""
+    }
+  }
+}

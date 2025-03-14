@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18519429"
+    ],
+    "18519429": {
+      "uid": "18519429",
+      "pubdate": "2008 Dec",
+      "epubdate": "2008 Jun 2",
+      "source": "Gut",
+      "authors": [
+        {
+          "name": "Wu BU",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johannes RS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tabak Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Conwell DL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Banks PA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Banks PA",
+      "title": "The early prediction of mortality in acute pancreatitis: a large population-based study.",
+      "sorttitle": "early prediction of mortality in acute pancreatitis a large population based study",
+      "volume": "57",
+      "issue": "12",
+      "pages": "1698-703",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985108R",
+      "issn": "0017-5749",
+      "essn": "1468-3288",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18519429"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/gut.2008.152702"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "gut.2008.152702"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/06/04 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/02/06 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/06/04 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Gut. 2008 Dec;57(12):1645-6",
+          "reftype": "Comment in",
+          "pmid": 19022922,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gut",
+      "elocationid": "doi: 10.1136/gut.2008.152702",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/12/01 00:00",
+      "sortfirstauthor": "Wu BU",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "14966439",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.magonlinelibrary.com/doi/10.12968/ijpn.2004.10.1.12013?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.magonlinelibrary.com-templates-jsp-_style2-_mag-images-PubMed-icon.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Atypon",
+                "nameabbr": "ATYPON",
+                "id": "4487"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "error": "Invalid uid ?dopt=Abstract at position= 7",
+  "result": {
+    "uids": [
+      "2593165"
+    ],
+    "2593165": {
+      "uid": "2593165",
+      "pubdate": "1989 Dec 20",
+      "epubdate": "",
+      "source": "J Natl Cancer Inst",
+      "authors": [
+        {
+          "name": "Gail MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brinton LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Byar DP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Corle DK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Green SB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schairer C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mulvihill JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mulvihill JJ",
+      "title": "Projecting individualized probabilities of developing breast cancer for white females who are being examined annually.",
+      "sorttitle": "projecting individualized probabilities of developing breast cancer for white females who are being examined annually",
+      "volume": "81",
+      "issue": "24",
+      "pages": "1879-86",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7503089",
+      "issn": "0027-8874",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2593165"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/jnci/81.24.1879"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1989/12/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1989/12/20 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1989/12/20 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Natl Cancer Inst. 1990 May 16;82(10):879-82",
+          "reftype": "Comment in",
+          "pmid": 2332905,
+          "note": ""
+        },
+        {
+          "refsource": "J Natl Cancer Inst. 1989 Dec 20;81(24):1854-5",
+          "reftype": "Comment in",
+          "pmid": 2593160,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the National Cancer Institute",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1989/12/20 00:00",
+      "sortfirstauthor": "Gail MH",
+      "vernaculartitle": ""
+    }
+  }
+}

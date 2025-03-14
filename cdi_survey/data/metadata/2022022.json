@@ -1,0 +1,125 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2022022"
+    ],
+    "2022022": {
+      "uid": "2022022",
+      "pubdate": "1991 May",
+      "epubdate": "",
+      "source": "Circulation",
+      "authors": [
+        {
+          "name": "Brugada P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brugada J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mont L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smeets J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Andries EW",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Andries EW",
+      "title": "A new approach to the differential diagnosis of a regular tachycardia with a wide QRS complex.",
+      "sorttitle": "new approach to the differential diagnosis of a regular tachycardia with a wide qrs complex",
+      "volume": "83",
+      "issue": "5",
+      "pages": "1649-59",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147763",
+      "issn": "0009-7322",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2022022"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/01.cir.83.5.1649"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1991/05/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1991/05/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1991/05/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Circulation. 1992 May;85(5):1955-6",
+          "reftype": "Comment in",
+          "pmid": 1572055,
+          "note": ""
+        },
+        {
+          "refsource": "Circulation. 2001 May 29;103(21):E109-9",
+          "reftype": "Comment in",
+          "pmid": 11382741,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Circulation",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1991/05/01 00:00",
+      "sortfirstauthor": "Brugada P",
+      "vernaculartitle": ""
+    }
+  }
+}

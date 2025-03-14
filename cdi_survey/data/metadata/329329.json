@@ -1,0 +1,101 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "329329"
+    ],
+    "329329": {
+      "uid": "329329",
+      "pubdate": "1977 Jul",
+      "epubdate": "",
+      "source": "Psychopharmacol Bull",
+      "authors": [
+        {
+          "name": "Chien CP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jung K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ross-Townsend A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stearns B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Stearns B",
+      "title": "The measurement of persistent dyskinesia by piezoelectric recording and clinical rating scales.",
+      "sorttitle": "measurement of persistent dyskinesia by piezoelectric recording and clinical rating scales",
+      "volume": "13",
+      "issue": "3",
+      "pages": "34-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0101123",
+      "issn": "0048-5764",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "329329"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1977/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1977/07/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1977/07/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Psychopharmacology bulletin",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1977/07/01 00:00",
+      "sortfirstauthor": "Chien CP",
+      "vernaculartitle": ""
+    }
+  }
+}

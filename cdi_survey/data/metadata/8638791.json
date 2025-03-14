@@ -1,0 +1,125 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8638791"
+    ],
+    "8638791": {
+      "uid": "8638791",
+      "pubdate": "1996 Jun",
+      "epubdate": "",
+      "source": "Anesth Analg",
+      "authors": [
+        {
+          "name": "el-Ganzouri AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McCarthy RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tuman KJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tanck EN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ivankovich AD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ivankovich AD",
+      "title": "Preoperative airway assessment: predictive value of a multivariate risk index.",
+      "sorttitle": "preoperative airway assessment predictive value of a multivariate risk index",
+      "volume": "82",
+      "issue": "6",
+      "pages": "1197-204",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1310650",
+      "issn": "0003-2999",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8638791"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00000539-199606000-00017"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1996/06/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1996/06/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1996/06/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Anesth Analg. 2000 Aug;91(2):495",
+          "reftype": "Comment in",
+          "pmid": 10910879,
+          "note": ""
+        },
+        {
+          "refsource": "Br J Anaesth. 2016 Jul;117(1):1-3",
+          "reftype": "Comment in",
+          "pmid": 27317701,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Anesthesia and analgesia",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1996/06/01 00:00",
+      "sortfirstauthor": "el-Ganzouri AR",
+      "vernaculartitle": ""
+    }
+  }
+}

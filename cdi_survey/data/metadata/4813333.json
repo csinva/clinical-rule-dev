@@ -1,0 +1,100 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4813333"
+    ],
+    "4813333": {
+      "uid": "4813333",
+      "pubdate": "1974 Mar",
+      "epubdate": "",
+      "source": "Arch Surg",
+      "authors": [
+        {
+          "name": "Horovitz JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carrico CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shires GT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shires GT",
+      "title": "Pulmonary response to major injury.",
+      "sorttitle": "pulmonary response to major injury",
+      "volume": "108",
+      "issue": "3",
+      "pages": "349-55",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9716528",
+      "issn": "0004-0010",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4813333"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/archsurg.1974.01350270079014"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1974/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1974/03/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1974/03/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of surgery (Chicago, Ill. : 1960)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1974/03/01 00:00",
+      "sortfirstauthor": "Horovitz JH",
+      "vernaculartitle": ""
+    }
+  }
+}

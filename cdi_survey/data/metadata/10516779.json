@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10516779"
+    ],
+    "10516779": {
+      "uid": "10516779",
+      "pubdate": "1999 Oct",
+      "epubdate": "",
+      "source": "Mult Scler",
+      "authors": [
+        {
+          "name": "Hohol MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Orav EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weiner HL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Weiner HL",
+      "title": "Disease steps in multiple sclerosis: a longitudinal study comparing disease steps and EDSS to evaluate disease progression.",
+      "sorttitle": "disease steps in multiple sclerosis a longitudinal study comparing disease steps and edss to evaluate disease progression",
+      "volume": "5",
+      "issue": "5",
+      "pages": "349-54",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9509185",
+      "issn": "1352-4585",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10516779"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/135245859900500508"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/10/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/10/12 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/10/12 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/10/01 00:00",
+      "sortfirstauthor": "Hohol MJ",
+      "vernaculartitle": ""
+    }
+  }
+}

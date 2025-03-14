@@ -1,0 +1,139 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "30635475"
+    ],
+    "30635475": {
+      "uid": "30635475",
+      "pubdate": "2019 Feb 12",
+      "epubdate": "2019 Jan 11",
+      "source": "Neurology",
+      "authors": [
+        {
+          "name": "Rocha EA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Topcuoglu MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silva GS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singhal AB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Singhal AB",
+      "title": "RCVS(2) score and diagnostic approach for reversible cerebral vasoconstriction syndrome.",
+      "sorttitle": "rcvs 2 score and diagnostic approach for reversible cerebral vasoconstriction syndrome",
+      "volume": "92",
+      "issue": "7",
+      "pages": "e639-e647",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401060",
+      "issn": "0028-3878",
+      "essn": "1526-632X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30635475"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1212/WNL.0000000000006917"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "WNL.0000000000006917"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2018/05/31 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2018/12/14 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/01/13 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/11/23 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2019/01/13 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Neurology. 2019 Feb 12;92(7):309-310",
+          "reftype": "Comment in",
+          "pmid": 30635492,
+          "note": ""
+        },
+        {
+          "refsource": "Neurology. 2020 May 26;94(21):945-946",
+          "reftype": "Comment in",
+          "pmid": 32451340,
+          "note": ""
+        },
+        {
+          "refsource": "Neurology. 2020 May 26;94(21):946",
+          "reftype": "Comment in",
+          "pmid": 32451341,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurology",
+      "elocationid": "doi: 10.1212/WNL.0000000000006917",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/02/12 00:00",
+      "sortfirstauthor": "Rocha EA",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17876254"
+    ],
+    "17876254": {
+      "uid": "17876254",
+      "pubdate": "2007 Sep",
+      "epubdate": "",
+      "source": "Pediatr Emerg Care",
+      "authors": [
+        {
+          "name": "Weiss SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ernst AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sills MR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Quinn BJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nick TG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nick TG",
+      "title": "Development of a novel measure of overcrowding in a pediatric emergency department.",
+      "sorttitle": "development of a novel measure of overcrowding in a pediatric emergency department",
+      "volume": "23",
+      "issue": "9",
+      "pages": "641-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8507560",
+      "issn": "0749-5161",
+      "essn": "1535-1815",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17876254"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/PEC.0b013e31814a69e2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00006565-200709000-00007"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/09/19 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/10/19 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/09/19 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatric emergency care",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/09/01 00:00",
+      "sortfirstauthor": "Weiss SJ",
+      "vernaculartitle": ""
+    }
+  }
+}

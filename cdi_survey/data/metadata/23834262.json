@@ -1,0 +1,141 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23834262"
+    ],
+    "23834262": {
+      "uid": "23834262",
+      "pubdate": "2014 Apr",
+      "epubdate": "2013 Jul 9",
+      "source": "Int J Stroke",
+      "authors": [
+        {
+          "name": "Myint PK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Clark AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kwok CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davis J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Durairaj R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dixit AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sharma AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ford GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Potter JF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Potter JF",
+      "title": "The SOAR (Stroke subtype, Oxford Community Stroke Project classification, Age, prestroke modified Rankin) score strongly predicts early outcomes in acute stroke.",
+      "sorttitle": "soar stroke subtype oxford community stroke project classification age prestroke modified rankin score strongly predicts early outcomes in acute stroke",
+      "volume": "9",
+      "issue": "3",
+      "pages": "278-83",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101274068",
+      "issn": "1747-4930",
+      "essn": "1747-4949",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23834262"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ijs.12088"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2012/07/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2012/11/06 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/07/10 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/07/10 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/11/05 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of stroke : official journal of the International Stroke Society",
+      "elocationid": "doi: 10.1111/ijs.12088",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/04/01 00:00",
+      "sortfirstauthor": "Myint PK",
+      "vernaculartitle": ""
+    }
+  }
+}

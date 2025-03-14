@@ -1,0 +1,134 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15681528"
+    ],
+    "15681528": {
+      "uid": "15681528",
+      "pubdate": "2005 Feb 1",
+      "epubdate": "",
+      "source": "J Clin Oncol",
+      "authors": [
+        {
+          "name": "Mekhail TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abou-Jawde RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boumerhi G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Malhi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wood L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elson P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bukowski R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bukowski R",
+      "title": "Validation and extension of the Memorial Sloan-Kettering prognostic factors model for survival in patients with previously untreated metastatic renal cell carcinoma.",
+      "sorttitle": "validation and extension of the memorial sloan kettering prognostic factors model for survival in patients with previously untreated metastatic renal cell carcinoma",
+      "volume": "23",
+      "issue": "4",
+      "pages": "832-41",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309333",
+      "issn": "0732-183X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15681528"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1200/JCO.2005.05.179"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "23/4/832"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/02/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/03/04 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/02/01 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Nat Clin Pract Oncol. 2005 Jun;2(6):292-3",
+          "reftype": "Comment in",
+          "pmid": 16264984,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/02/01 00:00",
+      "sortfirstauthor": "Mekhail TM",
+      "vernaculartitle": ""
+    }
+  }
+}

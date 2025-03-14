@@ -1,0 +1,118 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14966818"
+    ],
+    "14966818": {
+      "uid": "14966818",
+      "pubdate": "2004 Mar",
+      "epubdate": "",
+      "source": "Pediatr Pulmonol",
+      "authors": [
+        {
+          "name": "Liu LL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gallaher MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davis RL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rutter CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lewis TC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marcuse EK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Marcuse EK",
+      "title": "Use of a respiratory clinical score among different providers.",
+      "sorttitle": "use of a respiratory clinical score among different providers",
+      "volume": "37",
+      "issue": "3",
+      "pages": "243-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8510590",
+      "issn": "8755-6863",
+      "essn": "1099-0496",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14966818"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ppul.10425"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/02/18 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/06/02 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/02/18 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatric pulmonology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/03/01 00:00",
+      "sortfirstauthor": "Liu LL",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11113831"
+    ],
+    "11113831": {
+      "uid": "11113831",
+      "pubdate": "2000 Dec",
+      "epubdate": "",
+      "source": "J Pediatr",
+      "authors": [
+        {
+          "name": "Chalut DS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ducharme FM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davis GM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Davis GM",
+      "title": "The Preschool Respiratory Assessment Measure (PRAM): a responsive index of acute asthma severity.",
+      "sorttitle": "preschool respiratory assessment measure pram a responsive index of acute asthma severity",
+      "volume": "137",
+      "issue": "6",
+      "pages": "762-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375410",
+      "issn": "0022-3476",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11113831"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1067/mpd.2000.110121"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-3476(00)29510-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/12/13 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/02/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/12/13 11:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Pediatr. 2000 Dec;137(6):744-6",
+          "reftype": "Comment in",
+          "pmid": 11113827,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of pediatrics",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/12/01 00:00",
+      "sortfirstauthor": "Chalut DS",
+      "vernaculartitle": ""
+    }
+  }
+}

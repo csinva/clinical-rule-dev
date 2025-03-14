@@ -1,0 +1,126 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16942953"
+    ],
+    "16942953": {
+      "uid": "16942953",
+      "pubdate": "2006 Sep",
+      "epubdate": "",
+      "source": "J Pain",
+      "authors": [
+        {
+          "name": "Belgrade MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schamber CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lindgren BR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lindgren BR",
+      "title": "The DIRE score: predicting outcomes of opioid prescribing for chronic pain.",
+      "sorttitle": "dire score predicting outcomes of opioid prescribing for chronic pain",
+      "volume": "7",
+      "issue": "9",
+      "pages": "671-81",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100898657",
+      "issn": "1526-5900",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16942953"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jpain.2006.03.001"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1526-5900(06)00626-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2005/12/11 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2006/02/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2006/03/03 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/09/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/11/04 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/09/01 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Pain. 2007 Feb;8(2):185; author reply 186",
+          "reftype": "Comment in",
+          "pmid": 17280938,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The journal of pain",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/09/01 00:00",
+      "sortfirstauthor": "Belgrade MJ",
+      "vernaculartitle": ""
+    }
+  }
+}

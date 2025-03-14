@@ -1,0 +1,136 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16634744"
+    ],
+    "16634744": {
+      "uid": "16634744",
+      "pubdate": "2006 Apr",
+      "epubdate": "",
+      "source": "J Thromb Haemost",
+      "authors": [
+        {
+          "name": "Lo GK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Juhl D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Warkentin TE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sigouin CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eichler P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greinacher A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Greinacher A",
+      "title": "Evaluation of pretest clinical score (4 T's) for the diagnosis of heparin-induced thrombocytopenia in two clinical settings.",
+      "sorttitle": "evaluation of pretest clinical score 4 t s for the diagnosis of heparin induced thrombocytopenia in two clinical settings",
+      "volume": "4",
+      "issue": "4",
+      "pages": "759-65",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101170508",
+      "issn": "1538-7933",
+      "essn": "1538-7836",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16634744"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1538-7836.2006.01787.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JTH1787"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/04/26 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/07/15 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/04/26 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Thromb Haemost. 2006 Apr;4(4):757-8",
+          "reftype": "Comment in",
+          "pmid": 16634743,
+          "note": ""
+        },
+        {
+          "refsource": "J Thromb Haemost. 2011 Dec;9(12):2501-3",
+          "reftype": "Comment in",
+          "pmid": 21883881,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of thrombosis and haemostasis : JTH",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/04/01 00:00",
+      "sortfirstauthor": "Lo GK",
+      "vernaculartitle": ""
+    }
+  }
+}

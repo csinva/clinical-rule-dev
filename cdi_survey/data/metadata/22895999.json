@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22895999"
+    ],
+    "22895999": {
+      "uid": "22895999",
+      "pubdate": "2012 Nov",
+      "epubdate": "2012 Aug 15",
+      "source": "Thorax",
+      "authors": [
+        {
+          "name": "Steer J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gibson J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bourke SC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bourke SC",
+      "title": "The DECAF Score: predicting hospital mortality in exacerbations of chronic obstructive pulmonary disease.",
+      "sorttitle": "decaf score predicting hospital mortality in exacerbations of chronic obstructive pulmonary disease",
+      "volume": "67",
+      "issue": "11",
+      "pages": "970-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0417353",
+      "issn": "0040-6376",
+      "essn": "1468-3296",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22895999"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/thoraxjnl-2012-202103"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "thoraxjnl-2012-202103"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/08/17 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/08/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/01/10 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Thorax",
+      "elocationid": "doi: 10.1136/thoraxjnl-2012-202103",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/11/01 00:00",
+      "sortfirstauthor": "Steer J",
+      "vernaculartitle": ""
+    }
+  }
+}

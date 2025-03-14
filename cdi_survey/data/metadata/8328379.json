@@ -1,0 +1,127 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8328379"
+    ],
+    "8328379": {
+      "uid": "8328379",
+      "pubdate": "1993 Jul 15",
+      "epubdate": "",
+      "source": "Am J Cardiol",
+      "authors": [
+        {
+          "name": "Williams RR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hunt SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schumacher MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hegele RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leppert MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ludwig EH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hopkins PN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hopkins PN",
+      "title": "Diagnosing heterozygous familial hypercholesterolemia using new practical criteria validated by molecular genetics.",
+      "sorttitle": "diagnosing heterozygous familial hypercholesterolemia using new practical criteria validated by molecular genetics",
+      "volume": "72",
+      "issue": "2",
+      "pages": "171-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0207277",
+      "issn": "0002-9149",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8328379"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0002-9149(93)90155-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0002-9149(93)90155-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1993/07/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1993/07/15 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1993/07/15 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of cardiology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1993/07/15 00:00",
+      "sortfirstauthor": "Williams RR",
+      "vernaculartitle": ""
+    }
+  }
+}

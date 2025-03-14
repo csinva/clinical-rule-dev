@@ -1,0 +1,137 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15994282"
+    ],
+    "15994282": {
+      "uid": "15994282",
+      "pubdate": "2005 Oct 15",
+      "epubdate": "2005 Jun 30",
+      "source": "Blood",
+      "authors": [
+        {
+          "name": "Sorror ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maris MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Storb R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baron F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sandmaier BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maloney DG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Storer B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Storer B",
+      "title": "Hematopoietic cell transplantation (HCT)-specific comorbidity index: a new tool for risk assessment before allogeneic HCT.",
+      "sorttitle": "hematopoietic cell transplantation hct specific comorbidity index a new tool for risk assessment before allogeneic hct",
+      "volume": "106",
+      "issue": "8",
+      "pages": "2912-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7603509",
+      "issn": "0006-4971",
+      "essn": "1528-0020",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15994282"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1895304"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1895304;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2005-05-2004"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)69139-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/07/05 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/11/08 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/07/05 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 56,
+      "fulljournalname": "Blood",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/10/15 00:00",
+      "sortfirstauthor": "Sorror ML",
+      "vernaculartitle": ""
+    }
+  }
+}

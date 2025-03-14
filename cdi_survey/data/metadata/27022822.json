@@ -1,0 +1,219 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27022822"
+    ],
+    "27022822": {
+      "uid": "27022822",
+      "pubdate": "2016 Apr 26",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Yeh RW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Secemsky EA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kereiakes DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Normand SL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gershlick AH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cohen DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spertus JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Steg PG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cutlip DE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rinaldi MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Camenzind E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wijns W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Apruzzese PK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Massaro JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mauri L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "DAPT Study Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mauri L",
+      "title": "Development and Validation of a Prediction Rule for Benefit and Harm of Dual Antiplatelet Therapy Beyond 1 Year After Percutaneous Coronary Intervention.",
+      "sorttitle": "development and validation of a prediction rule for benefit and harm of dual antiplatelet therapy beyond 1 year after percutaneous coronary intervention",
+      "volume": "315",
+      "issue": "16",
+      "pages": "1735-49",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "1538-3598",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27022822"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS858354"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5408574"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5408574;manuscript-id: NIHMS858354;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.2016.3775"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2508253"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2016/03/30 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/03/30 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/05/10 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 2016 Apr 26;315(16):1713-4",
+          "reftype": "Comment in",
+          "pmid": 27115375,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2016 Jul 19;316(3):350",
+          "reftype": "Erratum in",
+          "pmid": 27434457,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2016 Jul 19;316(3):350",
+          "reftype": "Erratum in",
+          "pmid": 27434460,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA Cardiol. 2016 Sep 1;1(6):731-2",
+          "reftype": "Comment in",
+          "pmid": 27548841,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 32,
+      "fulljournalname": "JAMA",
+      "elocationid": "doi: 10.1001/jama.2016.3775",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/04/26 00:00",
+      "sortfirstauthor": "Yeh RW",
+      "vernaculartitle": ""
+    }
+  }
+}

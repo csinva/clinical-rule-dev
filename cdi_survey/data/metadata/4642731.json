@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4642731"
+    ],
+    "4642731": {
+      "uid": "4642731",
+      "pubdate": "1972 Oct",
+      "epubdate": "",
+      "source": "Ann Intern Med",
+      "authors": [
+        {
+          "name": "Light RW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Macgregor MI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luchsinger PC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ball WC Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ball WC Jr",
+      "title": "Pleural effusions: the diagnostic separation of transudates and exudates.",
+      "sorttitle": "pleural effusions the diagnostic separation of transudates and exudates",
+      "volume": "77",
+      "issue": "4",
+      "pages": "507-13",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372351",
+      "issn": "0003-4819",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4642731"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7326/0003-4819-77-4-507"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1972/10/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/03/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1972/10/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Chest. 2002 Nov;122(5):1505-6",
+          "reftype": "Comment in",
+          "pmid": 12426240,
+          "note": ""
+        }
+      ],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1972/10/01 00:00",
+      "sortfirstauthor": "Light RW",
+      "vernaculartitle": ""
+    }
+  }
+}

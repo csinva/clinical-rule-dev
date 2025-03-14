@@ -1,0 +1,171 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27565197"
+    ],
+    "27565197": {
+      "uid": "27565197",
+      "pubdate": "2017 Jun",
+      "epubdate": "2016 Aug 26",
+      "source": "Emerg Med J",
+      "authors": [
+        {
+          "name": "Body R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carlton E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sperrin M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lewis PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burrows G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carley S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McDowell G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buchan I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greaves K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mackway-Jones K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mackway-Jones K",
+      "title": "Troponin-only Manchester Acute Coronary Syndromes (T-MACS) decision aid: single biomarker re-derivation and external validation in three cohorts.",
+      "sorttitle": "troponin only manchester acute coronary syndromes t macs decision aid single biomarker re derivation and external validation in three cohorts",
+      "volume": "34",
+      "issue": "6",
+      "pages": "349-356",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100963089",
+      "issn": "1472-0205",
+      "essn": "1472-0213",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27565197"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5502241"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5502241;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/emermed-2016-205983"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "emermed-2016-205983"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/04/19 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2016/06/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/07/05 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/08/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/11/29 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/08/28 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "doi: 10.1136/emermed-2017-206735",
+          "reftype": "Comment in",
+          "pmid": "",
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 24,
+      "fulljournalname": "Emergency medicine journal : EMJ",
+      "elocationid": "doi: 10.1136/emermed-2016-205983",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/06/01 00:00",
+      "sortfirstauthor": "Body R",
+      "vernaculartitle": ""
+    }
+  }
+}

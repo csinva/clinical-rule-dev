@@ -1,0 +1,178 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9749478"
+    ],
+    "9749478": {
+      "uid": "9749478",
+      "pubdate": "1998 Sep 16",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "D'Amico AV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Whittington R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Malkowicz SB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schultz D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blank K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Broderick GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tomaszewski JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Renshaw AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaplan I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beard CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wein A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wein A",
+      "title": "Biochemical outcome after radical prostatectomy, external beam radiation therapy, or interstitial radiation therapy for clinically localized prostate cancer.",
+      "sorttitle": "biochemical outcome after radical prostatectomy external beam radiation therapy or interstitial radiation therapy for clinically localized prostate cancer",
+      "volume": "280",
+      "issue": "11",
+      "pages": "969-74",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9749478"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.280.11.969"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "joc80111"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1998/09/28 15:36"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/08/14 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1998/09/28 15:36"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 1998 Sep 16;280(11):1008-10",
+          "reftype": "Comment in",
+          "pmid": 9749485,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 1999 May 5;281(17):1583; author reply 1585-6",
+          "reftype": "Comment in",
+          "pmid": 10235143,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 1999 May 5;281(17):1583-4; author reply 1585-6",
+          "reftype": "Comment in",
+          "pmid": 10235144,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 1999 May 5;281(17):1584; author reply 1585-6",
+          "reftype": "Comment in",
+          "pmid": 10235145,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 1999 May 5;281(17):1584-6",
+          "reftype": "Comment in",
+          "pmid": 10235146,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1998/09/16 00:00",
+      "sortfirstauthor": "D'Amico AV",
+      "vernaculartitle": ""
+    }
+  }
+}

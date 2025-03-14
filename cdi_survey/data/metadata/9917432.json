@@ -1,0 +1,115 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9917432"
+    ],
+    "9917432": {
+      "uid": "9917432",
+      "pubdate": "1999 Jan",
+      "epubdate": "",
+      "source": "Pediatrics",
+      "authors": [
+        {
+          "name": "Bhutani VK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sivieri EM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sivieri EM",
+      "title": "Predictive ability of a predischarge hour-specific serum bilirubin for subsequent significant hyperbilirubinemia in healthy term and near-term newborns.",
+      "sorttitle": "predictive ability of a predischarge hour specific serum bilirubin for subsequent significant hyperbilirubinemia in healthy term and near term newborns",
+      "volume": "103",
+      "issue": "1",
+      "pages": "6-14",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376422",
+      "issn": "0031-4005",
+      "essn": "1098-4275",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9917432"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1542/peds.103.1.6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/01/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/01/26 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/01/26 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Pediatrics. 1999 Feb;103(2):493-5",
+          "reftype": "Comment in",
+          "pmid": 9925847,
+          "note": ""
+        },
+        {
+          "refsource": "Pediatrics. 2005 Mar;115(3):824-5",
+          "reftype": "Comment in",
+          "pmid": 15741399,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatrics",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/01/01 00:00",
+      "sortfirstauthor": "Bhutani VK",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27248425"
+    ],
+    "27248425": {
+      "uid": "27248425",
+      "pubdate": "2016 Sep 1",
+      "epubdate": "",
+      "source": "JAMA Surg",
+      "authors": [
+        {
+          "name": "Citterio D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Facciorusso A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sposito C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rota R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bhoori S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mazzaferro V",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mazzaferro V",
+      "title": "Hierarchic Interaction of Factors Associated With Liver Decompensation After Resection for Hepatocellular Carcinoma.",
+      "sorttitle": "hierarchic interaction of factors associated with liver decompensation after resection for hepatocellular carcinoma",
+      "volume": "151",
+      "issue": "9",
+      "pages": "846-53",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101589553",
+      "issn": "2168-6254",
+      "essn": "2168-6262",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27248425"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamasurg.2016.1121"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2526245"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2016/06/02 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/06/02 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/06/29 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA Surg. 2016 Sep 1;151(9):853-4",
+          "reftype": "Comment in",
+          "pmid": 27249783,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA surgery",
+      "elocationid": "doi: 10.1001/jamasurg.2016.1121",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/09/01 00:00",
+      "sortfirstauthor": "Citterio D",
+      "vernaculartitle": ""
+    }
+  }
+}

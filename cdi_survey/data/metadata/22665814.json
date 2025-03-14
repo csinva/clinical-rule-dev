@@ -1,0 +1,138 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22665814"
+    ],
+    "22665814": {
+      "uid": "22665814",
+      "pubdate": "2012 Jun 5",
+      "epubdate": "",
+      "source": "Ann Intern Med",
+      "authors": [
+        {
+          "name": "Lee DS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stitt A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Austin PC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stukel TA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schull MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chong A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Newton GE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tu JV",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tu JV",
+      "title": "Prediction of heart failure mortality in emergent care: a cohort study.",
+      "sorttitle": "prediction of heart failure mortality in emergent care a cohort study",
+      "volume": "156",
+      "issue": "11",
+      "pages": "767-75, W-261, W-262",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372351",
+      "issn": "0003-4819",
+      "essn": "1539-3704",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22665814"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7326/0003-4819-156-11-201206050-00003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "156/11/767"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/06/06 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/06/06 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/08/14 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of internal medicine",
+      "elocationid": "doi: 10.7326/0003-4819-156-11-201206050-00003",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/06/05 00:00",
+      "sortfirstauthor": "Lee DS",
+      "vernaculartitle": ""
+    }
+  }
+}

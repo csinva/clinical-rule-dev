@@ -1,0 +1,129 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22649218"
+    ],
+    "22649218": {
+      "uid": "22649218",
+      "pubdate": "2012 Jun 12",
+      "epubdate": "2012 May 30",
+      "source": "Neurology",
+      "authors": [
+        {
+          "name": "Ntaios G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Faouzi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferrari J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vemmos K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Michel P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Michel P",
+      "title": "An integer-based score to predict functional outcome in acute ischemic stroke: the ASTRAL score.",
+      "sorttitle": "integer based score to predict functional outcome in acute ischemic stroke the astral score",
+      "volume": "78",
+      "issue": "24",
+      "pages": "1916-22",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401060",
+      "issn": "0028-3878",
+      "essn": "1526-632X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22649218"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1212/WNL.0b013e318259e221"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "WNL.0b013e318259e221"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/06/01 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/06/01 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/08/21 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Neurology. 2012 Dec 4;79(23):2293; author reply 2293-4",
+          "reftype": "Comment in",
+          "pmid": 23212191,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurology",
+      "elocationid": "doi: 10.1212/WNL.0b013e318259e221",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/06/12 00:00",
+      "sortfirstauthor": "Ntaios G",
+      "vernaculartitle": ""
+    }
+  }
+}

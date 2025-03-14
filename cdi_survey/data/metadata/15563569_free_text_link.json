@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "15563569",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://doi.org/10.1681/ASN.2004040331"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--journals.lww.com-JASN-PublishingImages-JASN-30x120.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Wolters Kluwer",
+                "nameabbr": "wolterskluwer",
+                "id": "3159"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

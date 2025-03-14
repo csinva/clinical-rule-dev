@@ -1,0 +1,105 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "5122894"
+    ],
+    "5122894": {
+      "uid": "5122894",
+      "pubdate": "1971 Dec 23",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "McKee PA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Castelli WP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McNamara PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kannel WB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kannel WB",
+      "title": "The natural history of congestive heart failure: the Framingham study.",
+      "sorttitle": "natural history of congestive heart failure the framingham study",
+      "volume": "285",
+      "issue": "26",
+      "pages": "1441-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "5122894"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM197112232852601"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1971/12/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1971/12/23 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1971/12/23 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1971/12/23 00:00",
+      "sortfirstauthor": "McKee PA",
+      "vernaculartitle": ""
+    }
+  }
+}

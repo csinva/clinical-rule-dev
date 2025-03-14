@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "29631516",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://thejns.org/doi/10.3171/2017.12.JNS172780"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--thejns.org-fileasset-pubmed-button.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Sheridan PubFactory",
+                "nameabbr": "shpubfactory",
+                "id": "8203"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

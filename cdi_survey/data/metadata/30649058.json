@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "30649058"
+    ],
+    "30649058": {
+      "uid": "30649058",
+      "pubdate": "2019 Apr 1",
+      "epubdate": "",
+      "source": "AIDS",
+      "authors": [
+        {
+          "name": "Tate JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sterne JAC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Justice AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Veterans Aging Cohort Study (VACS) and the Antiretroviral Therapy Cohort Collaboration (ART-CC)",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Justice AC",
+      "title": "Albumin, white blood cell count, and body mass index improve discrimination of mortality in HIV-positive individuals.",
+      "sorttitle": "albumin white blood cell count and body mass index improve discrimination of mortality in hiv positive individuals",
+      "volume": "33",
+      "issue": "5",
+      "pages": "903-912",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8710219",
+      "issn": "0269-9370",
+      "essn": "1473-5571",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30649058"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1518638"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6749990"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6749990;manuscript-id: NIHMS1518638;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/QAD.0000000000002140"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/01/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/05/19 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2019/01/17 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 50,
+      "fulljournalname": "AIDS (London, England)",
+      "elocationid": "doi: 10.1097/QAD.0000000000002140",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/04/01 00:00",
+      "sortfirstauthor": "Tate JP",
+      "vernaculartitle": ""
+    }
+  }
+}

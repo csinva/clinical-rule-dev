@@ -1,0 +1,169 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22797452"
+    ],
+    "22797452": {
+      "uid": "22797452",
+      "pubdate": "2012 Jun 20",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "ARDS Definition Task Force",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        },
+        {
+          "name": "Ranieri VM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rubenfeld GD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thompson BT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferguson ND",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caldwell E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fan E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Camporota L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Slutsky AS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Slutsky AS",
+      "title": "Acute respiratory distress syndrome: the Berlin Definition.",
+      "sorttitle": "acute respiratory distress syndrome the berlin definition",
+      "volume": "307",
+      "issue": "23",
+      "pages": "2526-33",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "1538-3598",
+      "pubtype": [
+        "Consensus Development Conference",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22797452"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.2012.5669"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1160659"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/07/17 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/07/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/07/20 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 2012 Jun 20;307(23):2542-4",
+          "reftype": "Comment in",
+          "pmid": 22797455,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2012 Oct 3;308(13):1321; author reply 1322",
+          "reftype": "Comment in",
+          "pmid": 23032539,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2012 Oct 3;308(13):1321-2; author reply 1322",
+          "reftype": "Comment in",
+          "pmid": 23032540,
+          "note": ""
+        },
+        {
+          "refsource": "Air Med J. 2016 Mar-Apr;35(2):59-62",
+          "reftype": "Comment in",
+          "pmid": 27021667,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care. 2020 Apr 16;24(1):155",
+          "reftype": "Comment in",
+          "pmid": 32299479,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "doi: 10.1001/jama.2012.5669",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/06/20 00:00",
+      "sortfirstauthor": "Ranieri VM",
+      "vernaculartitle": ""
+    }
+  }
+}

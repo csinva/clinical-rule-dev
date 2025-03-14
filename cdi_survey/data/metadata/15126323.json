@@ -1,0 +1,274 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15126323"
+    ],
+    "15126323": {
+      "uid": "15126323",
+      "pubdate": "2004 Sep 1",
+      "epubdate": "2004 May 4",
+      "source": "Blood",
+      "authors": [
+        {
+          "name": "Solal-C\u00e9ligny P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roy P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Colombat P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "White J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Armitage JO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arranz-Saez R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Au WY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bellei M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brice P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caballero D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coiffier B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Conde-Garcia E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Doyen C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Federico M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fisher RI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garcia-Conde JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guglielmi C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hagenbeek A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ha\u00efoun C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LeBlanc M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lister AT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lopez-Guillermo A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McLaughlin P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Milpied N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morel P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mounier N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Proctor SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rohatiner A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Soubeyran P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tilly H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vitolo U",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zinzani PL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zucca E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Montserrat E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Montserrat E",
+      "title": "Follicular lymphoma international prognostic index.",
+      "sorttitle": "follicular lymphoma international prognostic index",
+      "volume": "104",
+      "issue": "5",
+      "pages": "1258-65",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7603509",
+      "issn": "0006-4971",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15126323"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2003-12-4434"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)43461-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/05/06 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/10/05 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/05/06 05:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Blood. 2005 Jun 15;105(12):4892; author reply 4892-3",
+          "reftype": "Comment in",
+          "pmid": 15933062,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Blood",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/09/01 00:00",
+      "sortfirstauthor": "Solal-C\u00e9ligny P",
+      "vernaculartitle": ""
+    }
+  }
+}

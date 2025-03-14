@@ -1,0 +1,92 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6685237"
+    ],
+    "6685237": {
+      "uid": "6685237",
+      "pubdate": "1983 Nov",
+      "epubdate": "",
+      "source": "Neurology",
+      "authors": [
+        {
+          "name": "Kurtzke JF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kurtzke JF",
+      "title": "Rating neurologic impairment in multiple sclerosis: an expanded disability status scale (EDSS).",
+      "sorttitle": "rating neurologic impairment in multiple sclerosis an expanded disability status scale edss",
+      "volume": "33",
+      "issue": "11",
+      "pages": "1444-52",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401060",
+      "issn": "0028-3878",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6685237"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1212/wnl.33.11.1444"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1983/11/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1983/11/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1983/11/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1983/11/01 00:00",
+      "sortfirstauthor": "Kurtzke JF",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "23834262",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://journals.sagepub.com/doi/10.1111/ijs.12088?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--journals.sagepub.com-pb-assets-sage-pubmed-sage.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Atypon",
+                "nameabbr": "ATYPON",
+                "id": "4487"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

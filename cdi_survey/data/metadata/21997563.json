@@ -1,0 +1,194 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21997563"
+    ],
+    "21997563": {
+      "uid": "21997563",
+      "pubdate": "2012 Apr",
+      "epubdate": "2011 Oct 13",
+      "source": "Gut",
+      "authors": [
+        {
+          "name": "Travis SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schnell D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krzeski P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abreu MT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Altman DG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Colombel JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feagan BG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hanauer SB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "L\u00e9mann M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lichtenstein GR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marteau PR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reinisch W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sands BE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yacyshyn BR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernhardt CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mary JY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sandborn WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sandborn WJ",
+      "title": "Developing an instrument to assess the endoscopic severity of ulcerative colitis: the Ulcerative Colitis Endoscopic Index of Severity (UCEIS).",
+      "sorttitle": "developing an instrument to assess the endoscopic severity of ulcerative colitis the ulcerative colitis endoscopic index of severity uceis",
+      "volume": "61",
+      "issue": "4",
+      "pages": "535-42",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985108R",
+      "issn": "0017-5749",
+      "essn": "1468-3288",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21997563"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3292713"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3292713;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/gutjnl-2011-300486"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "gutjnl-2011-300486"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/10/15 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/10/15 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/05/02 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Endoscopy. 2013;45(4):289-91",
+          "reftype": "Comment in",
+          "pmid": 23468192,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 18,
+      "fulljournalname": "Gut",
+      "elocationid": "doi: 10.1136/gutjnl-2011-300486",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/04/01 00:00",
+      "sortfirstauthor": "Travis SP",
+      "vernaculartitle": ""
+    }
+  }
+}

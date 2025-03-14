@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "27471209",
+          "objurls": [
+            {
+              "url": {
+                "value": "http://erj.ersjournals.com/cgi/pmidlookup?view=long&pmid=27471209"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--highwire.stanford.edu-icons-externalservices-pubmed-erj_free.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "free resource"
+              ],
+              "provider": {
+                "name": "HighWire",
+                "nameabbr": "HighWire",
+                "id": "3051"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

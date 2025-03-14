@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18445192"
+    ],
+    "18445192": {
+      "uid": "18445192",
+      "pubdate": "2008 Jun",
+      "epubdate": "",
+      "source": "Allergy",
+      "authors": [
+        {
+          "name": "M\u0142ynek A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zalewska-Janowska A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Martus P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Staubach P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zuberbier T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maurer M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Maurer M",
+      "title": "How to assess disease activity in patients with chronic urticaria?",
+      "sorttitle": "how to assess disease activity in patients with chronic urticaria",
+      "volume": "63",
+      "issue": "6",
+      "pages": "777-80",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7804028",
+      "issn": "0105-4538",
+      "essn": "1398-9995",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18445192"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1398-9995.2008.01726.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ALL1726"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/05/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/07/23 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/05/01 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Allergy",
+      "elocationid": "doi: 10.1111/j.1398-9995.2008.01726.x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/06/01 00:00",
+      "sortfirstauthor": "M\u0142ynek A",
+      "vernaculartitle": ""
+    }
+  }
+}

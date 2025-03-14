@@ -1,0 +1,175 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27773828"
+    ],
+    "27773828": {
+      "uid": "27773828",
+      "pubdate": "2017 Jan",
+      "epubdate": "2016 Oct 20",
+      "source": "J Clin Epidemiol",
+      "authors": [
+        {
+          "name": "International Working Group on Chest Pain in Primary Care (INTERCHEST)",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        },
+        {
+          "name": "Aerts M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Minalu G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "B\u00f6sner S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buntinx F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burnand B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haasenritter J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herzig L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Knottnerus JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nilsson S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Renier W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sox C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sox H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Donner-Banzhoff N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Donner-Banzhoff N",
+      "title": "Pooled individual patient data from five countries were used to derive a clinical prediction rule for coronary artery disease in primary care.",
+      "sorttitle": "pooled individual patient data from five countries were used to derive a clinical prediction rule for coronary artery disease in primary care",
+      "volume": "81",
+      "issue": "",
+      "pages": "120-128",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8801383",
+      "issn": "0895-4356",
+      "essn": "1878-5921",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27773828"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jclinepi.2016.09.011"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0895-4356(16)30484-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2015/09/11 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2016/08/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/09/01 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/10/25 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/07/20 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/10/25 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of clinical epidemiology",
+      "elocationid": "doi: 10.1016/j.jclinepi.2016.09.011",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/01/01 00:00",
+      "sortfirstauthor": "Aerts M",
+      "vernaculartitle": ""
+    }
+  }
+}

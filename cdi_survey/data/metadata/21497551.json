@@ -1,0 +1,160 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21497551"
+    ],
+    "21497551": {
+      "uid": "21497551",
+      "pubdate": "2011 Jun",
+      "epubdate": "2011 Apr 14",
+      "source": "Lancet Oncol",
+      "authors": [
+        {
+          "name": "Yang HI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yuen MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chan HL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han KH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim DY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahn SH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wong VW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Seto WK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "REACH-B Working Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Seto WK",
+      "title": "Risk estimation for hepatocellular carcinoma in chronic hepatitis B (REACH-B): development and validation of a predictive score.",
+      "sorttitle": "risk estimation for hepatocellular carcinoma in chronic hepatitis b reach b development and validation of a predictive score",
+      "volume": "12",
+      "issue": "6",
+      "pages": "568-74",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100957246",
+      "issn": "1470-2045",
+      "essn": "1474-5488",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21497551"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1470-2045(11)70077-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1470-2045(11)70077-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/04/19 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/04/19 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/08/05 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet Oncol. 2011 Jun;12(6):517-8; discussion 518-9",
+          "reftype": "Comment in",
+          "pmid": 21497552,
+          "note": ""
+        },
+        {
+          "refsource": "Gastroenterology. 2012 Apr;142(4):1038-40",
+          "reftype": "Comment in",
+          "pmid": 22361059,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Oncology",
+      "elocationid": "doi: 10.1016/S1470-2045(11)70077-8",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/06/01 00:00",
+      "sortfirstauthor": "Yang HI",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24182703"
+    ],
+    "24182703": {
+      "uid": "24182703",
+      "pubdate": "2013 Nov",
+      "epubdate": "",
+      "source": "Mayo Clin Proc",
+      "authors": [
+        {
+          "name": "Gupta H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gupta PK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schuller D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Modrykamien A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wichman TO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morrow LE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Morrow LE",
+      "title": "Development and validation of a risk calculator for predicting postoperative pneumonia.",
+      "sorttitle": "development and validation of a risk calculator for predicting postoperative pneumonia",
+      "volume": "88",
+      "issue": "11",
+      "pages": "1241-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0405543",
+      "issn": "0025-6196",
+      "essn": "1942-5546",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24182703"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.mayocp.2013.06.027"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0025-6196(13)00729-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2013/02/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2013/05/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2013/06/03 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/11/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/11/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/01/10 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Mayo Clinic proceedings",
+      "elocationid": "doi: 10.1016/j.mayocp.2013.06.027",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/11/01 00:00",
+      "sortfirstauthor": "Gupta H",
+      "vernaculartitle": ""
+    }
+  }
+}

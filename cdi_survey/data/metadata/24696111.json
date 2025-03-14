@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24696111"
+    ],
+    "24696111": {
+      "uid": "24696111",
+      "pubdate": "2014 Sep",
+      "epubdate": "2014 Apr 2",
+      "source": "Eur Respir J",
+      "authors": [
+        {
+          "name": "Bova C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sanchez O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Prandoni P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lankeit M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Konstantinides S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vanni S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jim\u00e9nez D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jim\u00e9nez D",
+      "title": "Identification of intermediate-risk patients with acute symptomatic pulmonary embolism.",
+      "sorttitle": "identification of intermediate risk patients with acute symptomatic pulmonary embolism",
+      "volume": "44",
+      "issue": "3",
+      "pages": "694-703",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8803460",
+      "issn": "0903-1936",
+      "essn": "1399-3003",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24696111"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1183/09031936.00006114"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "09031936.00006114"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/04/04 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/04/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/06/18 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Eur Respir J. 2014 Sep;44(3):565-7",
+          "reftype": "Comment in",
+          "pmid": 25176948,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The European respiratory journal",
+      "elocationid": "doi: 10.1183/09031936.00006114",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/09/01 00:00",
+      "sortfirstauthor": "Bova C",
+      "vernaculartitle": ""
+    }
+  }
+}

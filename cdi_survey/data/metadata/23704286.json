@@ -1,0 +1,97 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23704286"
+    ],
+    "23704286": {
+      "uid": "23704286",
+      "pubdate": "2013 May",
+      "epubdate": "2013 May 23",
+      "source": "J Am Soc Nephrol",
+      "authors": [
+        {
+          "name": "Chen S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chen S",
+      "title": "Retooling the creatinine clearance equation to estimate kinetic GFR when the plasma creatinine is changing acutely.",
+      "sorttitle": "retooling the creatinine clearance equation to estimate kinetic gfr when the plasma creatinine is changing acutely",
+      "volume": "24",
+      "issue": "6",
+      "pages": "877-88",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9013836",
+      "issn": "1046-6673",
+      "essn": "1533-3450",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23704286"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1681/ASN.2012070653"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ASN.2012070653"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/05/25 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/05/25 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/08/09 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American Society of Nephrology : JASN",
+      "elocationid": "doi: 10.1681/ASN.2012070653",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/05/01 00:00",
+      "sortfirstauthor": "Chen S",
+      "vernaculartitle": ""
+    }
+  }
+}

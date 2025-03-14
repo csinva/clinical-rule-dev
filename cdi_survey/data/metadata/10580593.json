@@ -1,0 +1,226 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10580593"
+    ],
+    "10580593": {
+      "uid": "10580593",
+      "pubdate": "1999 Nov",
+      "epubdate": "",
+      "source": "J Hepatol",
+      "authors": [
+        {
+          "name": "Alvarez F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berg PA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bianchi FB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bianchi L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burroughs AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cancado EL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chapman RW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cooksley WG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Czaja AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Desmet VJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Donaldson PT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eddleston AL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fainboim L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heathcote J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Homberg JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoofnagle JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kakumu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krawitt EL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mackay IR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "MacSween RN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maddrey WC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Manns MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McFarlane IG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Meyer zum B\u00fcschenfelde KH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeniya M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zeniya M",
+      "title": "International Autoimmune Hepatitis Group Report: review of criteria for diagnosis of autoimmune hepatitis.",
+      "sorttitle": "international autoimmune hepatitis group report review of criteria for diagnosis of autoimmune hepatitis",
+      "volume": "31",
+      "issue": "5",
+      "pages": "929-38",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8503886",
+      "issn": "0168-8278",
+      "essn": "",
+      "pubtype": [
+        "Guideline",
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10580593"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0168-8278(99)80297-9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0168827899802979"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/12/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/12/02 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/12/02 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Hepatol. 2011 Oct;55(4):747-9",
+          "reftype": "Comment in",
+          "pmid": 21396413,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Author List Incomplete"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of hepatology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/11/01 00:00",
+      "sortfirstauthor": "Alvarez F",
+      "vernaculartitle": ""
+    }
+  }
+}

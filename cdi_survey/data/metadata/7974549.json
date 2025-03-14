@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7974549"
+    ],
+    "7974549": {
+      "uid": "7974549",
+      "pubdate": "1994 Nov",
+      "epubdate": "",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "Lyden P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brott T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tilley B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Welch KM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mascha EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levine S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haley EC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grotta J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marler J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Marler J",
+      "title": "Improved reliability of the NIH Stroke Scale using video training. NINDS TPA Stroke Study Group.",
+      "sorttitle": "improved reliability of the nih stroke scale using video training ninds tpa stroke study group",
+      "volume": "25",
+      "issue": "11",
+      "pages": "2220-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7974549"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/01.str.25.11.2220"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1994/11/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1994/11/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1994/11/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Stroke",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1994/11/01 00:00",
+      "sortfirstauthor": "Lyden P",
+      "vernaculartitle": ""
+    }
+  }
+}

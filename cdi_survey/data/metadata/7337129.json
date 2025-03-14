@@ -1,0 +1,87 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7337129"
+    ],
+    "7337129": {
+      "uid": "7337129",
+      "pubdate": "1981 Nov",
+      "epubdate": "",
+      "source": "Am J Gastroenterol",
+      "authors": [
+        {
+          "name": "Hoefs JC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hoefs JC",
+      "title": "The mechanism of ascitic fluid protein concentration increase during diuresis in patients with chronic liver disease.",
+      "sorttitle": "mechanism of ascitic fluid protein concentration increase during diuresis in patients with chronic liver disease",
+      "volume": "76",
+      "issue": "5",
+      "pages": "423-31",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0421030",
+      "issn": "0002-9270",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7337129"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1981/11/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1981/11/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1981/11/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of gastroenterology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1981/11/01 00:00",
+      "sortfirstauthor": "Hoefs JC",
+      "vernaculartitle": ""
+    }
+  }
+}

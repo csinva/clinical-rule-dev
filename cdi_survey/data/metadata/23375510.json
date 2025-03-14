@@ -1,0 +1,276 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23375510"
+    ],
+    "23375510": {
+      "uid": "23375510",
+      "pubdate": "2013 Aug",
+      "epubdate": "2013 Feb 1",
+      "source": "Ann Emerg Med",
+      "authors": [
+        {
+          "name": "Holmes JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lillis K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Monroe D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borgialli D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kerrey BT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahajan P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adelgais K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ellison AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yen K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Atabaki S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Menaker J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bonsu B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Quayle KS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garcia M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rogers A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blumberg S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tunik M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kooistra J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kwok M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cook LJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dean JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sokolove PE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wisner DH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ehrlich P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cooper A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dayan PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wootton-Gorges S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kuppermann N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pediatric Emergency Care Applied Research Network (PECARN)",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kuppermann N",
+      "title": "Identifying children at very low risk of clinically important blunt abdominal injuries.",
+      "sorttitle": "identifying children at very low risk of clinically important blunt abdominal injuries",
+      "volume": "62",
+      "issue": "2",
+      "pages": "107-116.e2",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8002646",
+      "issn": "0196-0644",
+      "essn": "1097-6760",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Comment"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23375510"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.annemergmed.2012.11.009"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0196-0644(12)01743-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2012/06/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2012/11/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2012/11/13 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/02/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/02/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/04/14 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Emerg Med. 2013 Aug;62(2):132-5",
+          "reftype": "Comment on",
+          "pmid": 23548403,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Emerg Med. 2013 Sep;62(3):276-7",
+          "reftype": "Comment in",
+          "pmid": 23969129,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Emerg Med. 2013 Sep;62(3):277-8",
+          "reftype": "Comment in",
+          "pmid": 23969130,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of emergency medicine",
+      "elocationid": "doi: 10.1016/j.annemergmed.2012.11.009",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/08/01 00:00",
+      "sortfirstauthor": "Holmes JF",
+      "vernaculartitle": ""
+    }
+  }
+}

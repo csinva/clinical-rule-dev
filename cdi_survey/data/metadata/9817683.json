@@ -1,0 +1,110 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9817683"
+    ],
+    "9817683": {
+      "uid": "9817683",
+      "pubdate": "1998 Nov",
+      "epubdate": "",
+      "source": "Am J Respir Crit Care Med",
+      "authors": [
+        {
+          "name": "Enright PL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sherrill DL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sherrill DL",
+      "title": "Reference equations for the six-minute walk in healthy adults.",
+      "sorttitle": "reference equations for the six minute walk in healthy adults",
+      "volume": "158",
+      "issue": "5 Pt 1",
+      "pages": "1384-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9421642",
+      "issn": "1073-449X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9817683"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1164/ajrccm.158.5.9710086"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1998/11/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1998/11/17 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1998/11/17 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Respir Crit Care Med. 2000 Apr;161(4 Pt 1):1396",
+          "reftype": "Comment in",
+          "pmid": 10764338,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Respir Crit Care Med. 2020 Feb 1;201(3):393",
+          "reftype": "Erratum in",
+          "pmid": 32003594,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of respiratory and critical care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1998/11/01 00:00",
+      "sortfirstauthor": "Enright PL",
+      "vernaculartitle": ""
+    }
+  }
+}

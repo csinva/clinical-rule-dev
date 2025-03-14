@@ -1,0 +1,119 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16574730"
+    ],
+    "16574730": {
+      "uid": "16574730",
+      "pubdate": "2006 Aug",
+      "epubdate": "2006 Mar 30",
+      "source": "J Neurol Neurosurg Psychiatry",
+      "authors": [
+        {
+          "name": "Graham RC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hughes RA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hughes RA",
+      "title": "A modified peripheral neuropathy scale: the Overall Neuropathy Limitations Scale.",
+      "sorttitle": "modified peripheral neuropathy scale the overall neuropathy limitations scale",
+      "volume": "77",
+      "issue": "8",
+      "pages": "973-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985191R",
+      "issn": "0022-3050",
+      "essn": "1468-330X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16574730"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2077620"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2077620;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/jnnp.2005.081547"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jnnp.2005.081547"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/04/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/07/27 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/04/01 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Neurol Neurosurg Psychiatry. 2006 Aug;77(8):899-900",
+          "reftype": "Comment in",
+          "pmid": 16709581,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 11,
+      "fulljournalname": "Journal of neurology, neurosurgery, and psychiatry",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/08/01 00:00",
+      "sortfirstauthor": "Graham RC",
+      "vernaculartitle": ""
+    }
+  }
+}

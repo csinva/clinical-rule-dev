@@ -1,0 +1,143 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29340820"
+    ],
+    "29340820": {
+      "uid": "29340820",
+      "pubdate": "2018 Jul",
+      "epubdate": "2018 Jan 16",
+      "source": "Surg Endosc",
+      "authors": [
+        {
+          "name": "Bharamgoudar R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sonsale A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hodson J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Griffiths E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "CholeS Study Group, West Midlands Research Collaborative",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Griffiths E",
+      "title": "The development and validation of a scoring tool to predict the operative duration of elective laparoscopic cholecystectomy.",
+      "sorttitle": "development and validation of a scoring tool to predict the operative duration of elective laparoscopic cholecystectomy",
+      "volume": "32",
+      "issue": "7",
+      "pages": "3149-3157",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8806653",
+      "issn": "0930-2794",
+      "essn": "1432-2218",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29340820"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5988776"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5988776;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00464-018-6030-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00464-018-6030-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2017/09/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2018/01/03 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/01/18 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/10/29 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/01/18 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Surg Endosc. 2023 Mar;37(3):2415",
+          "reftype": "Erratum in",
+          "pmid": 36764937,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 23,
+      "fulljournalname": "Surgical endoscopy",
+      "elocationid": "doi: 10.1007/s00464-018-6030-6",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/07/01 00:00",
+      "sortfirstauthor": "Bharamgoudar R",
+      "vernaculartitle": ""
+    }
+  }
+}

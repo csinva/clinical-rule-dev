@@ -1,0 +1,159 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14709427"
+    ],
+    "14709427": {
+      "uid": "14709427",
+      "pubdate": "2004 Jan",
+      "epubdate": "",
+      "source": "Acad Emerg Med",
+      "authors": [
+        {
+          "name": "Weiss SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Derlet R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arndahl J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ernst AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Richards J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fern\u00e1ndez-Frackelton M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schwab R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stair TO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vicellio P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levy D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brautigan M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nick TG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nick TG",
+      "title": "Estimating the degree of emergency department overcrowding in academic medical centers: results of the National ED Overcrowding Study (NEDOCS).",
+      "sorttitle": "estimating the degree of emergency department overcrowding in academic medical centers results of the national ed overcrowding study nedocs",
+      "volume": "11",
+      "issue": "1",
+      "pages": "38-50",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9418450",
+      "issn": "1069-6563",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14709427"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1197/j.aem.2003.07.017"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/01/08 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/04/22 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/01/08 05:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Acad Emerg Med. 2004 Apr;11(4):408",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": "Fern\u00e1ndez-Frankelton M [corrected to Fern\u00e1ndez-Frackelton M]"
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Academic emergency medicine : official journal of the Society for Academic Emergency Medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/01/01 00:00",
+      "sortfirstauthor": "Weiss SJ",
+      "vernaculartitle": ""
+    }
+  }
+}

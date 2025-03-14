@@ -1,0 +1,143 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27147122"
+    ],
+    "27147122": {
+      "uid": "27147122",
+      "pubdate": "2016 May",
+      "epubdate": "",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Stanghellini V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chan FK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hasler WL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Malagelada JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Suzuki H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tack J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Talley NJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Talley NJ",
+      "title": "Gastroduodenal Disorders.",
+      "sorttitle": "gastroduodenal disorders",
+      "volume": "150",
+      "issue": "6",
+      "pages": "1380-92",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "1528-0012",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27147122"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.gastro.2016.02.011"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016-5085(16)00177-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/02/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/02/09 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/05/06 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/05/06 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/05/04 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Nat Rev Gastroenterol Hepatol. 2016 Sep;13(9):501-2",
+          "reftype": "Comment in",
+          "pmid": 27407043,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "doi: 10.1053/j.gastro.2016.02.011",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/05/01 00:00",
+      "sortfirstauthor": "Stanghellini V",
+      "vernaculartitle": ""
+    }
+  }
+}

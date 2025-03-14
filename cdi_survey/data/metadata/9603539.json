@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9603539"
+    ],
+    "9603539": {
+      "uid": "9603539",
+      "pubdate": "1998 May 12",
+      "epubdate": "",
+      "source": "Circulation",
+      "authors": [
+        {
+          "name": "Wilson PW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "D'Agostino RB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levy D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Belanger AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silbershatz H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kannel WB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kannel WB",
+      "title": "Prediction of coronary heart disease using risk factor categories.",
+      "sorttitle": "prediction of coronary heart disease using risk factor categories",
+      "volume": "97",
+      "issue": "18",
+      "pages": "1837-47",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147763",
+      "issn": "0009-7322",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9603539"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/01.cir.97.18.1837"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1998/05/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1998/05/29 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1998/05/29 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Circulation. 1998 May 12;97(18):1761-2",
+          "reftype": "Comment in",
+          "pmid": 9603527,
+          "note": ""
+        },
+        {
+          "refsource": "Circulation. 1999 Apr 27;99(16):2219",
+          "reftype": "Comment in",
+          "pmid": 10217664,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Circulation",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1998/05/12 00:00",
+      "sortfirstauthor": "Wilson PW",
+      "vernaculartitle": ""
+    }
+  }
+}

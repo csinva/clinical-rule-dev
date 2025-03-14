@@ -1,0 +1,250 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19058754"
+    ],
+    "19058754": {
+      "uid": "19058754",
+      "pubdate": "2009 Jan",
+      "epubdate": "2008 Dec 4",
+      "source": "Lancet Oncol",
+      "authors": [
+        {
+          "name": "Mazzaferro V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Llovet JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miceli R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bhoori S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schiavo M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mariani L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Camerini T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roayaie S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schwartz ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grazi GL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adam R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neuhaus P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Salizzoni M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bruix J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Forner A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Carlis L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cillo U",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burroughs AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Troisi R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rossi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gerunda GE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lerut J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Belghiti J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boin I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gugenheim J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rochling F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Van Hoek B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Majno P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Metroticket Investigator Study Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Majno P",
+      "title": "Predicting survival after liver transplantation in patients with hepatocellular carcinoma beyond the Milan criteria: a retrospective, exploratory analysis.",
+      "sorttitle": "predicting survival after liver transplantation in patients with hepatocellular carcinoma beyond the milan criteria a retrospective exploratory analysis",
+      "volume": "10",
+      "issue": "1",
+      "pages": "35-43",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100957246",
+      "issn": "1470-2045",
+      "essn": "1474-5488",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19058754"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1470-2045(08)70284-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1470-2045(08)70284-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/12/09 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/01/14 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/12/09 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet Oncol. 2009 Jan;10(1):5-7",
+          "reftype": "Comment in",
+          "pmid": 19111239,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Oncol. 2009 Mar;10(3):207-8; author reply 208-9",
+          "reftype": "Comment in",
+          "pmid": 19261253,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Oncology",
+      "elocationid": "doi: 10.1016/S1470-2045(08)70284-5",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/01/01 00:00",
+      "sortfirstauthor": "Mazzaferro V",
+      "vernaculartitle": ""
+    }
+  }
+}

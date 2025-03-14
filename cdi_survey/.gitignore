@@ -1,0 +1,16 @@
+**.ipynb_checkpoints
+**cache*
+**.DS_Store
+**.idea
+**Icon*
+**.pyc
+data/pages
+**.code-workspace
+papers/*.pdf
+papers/*.txt
+results/*.png
+results/**.pkl
+results/**.json
+results/*/*.pkl
+results/*/*.json
+results/classification

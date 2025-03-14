@@ -1,0 +1,119 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11578668"
+    ],
+    "11578668": {
+      "uid": "11578668",
+      "pubdate": "2001 Oct",
+      "epubdate": "",
+      "source": "J Affect Disord",
+      "authors": [
+        {
+          "name": "Bech P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rasmussen NA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Olsen LR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Noerholm V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abildgaard W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Abildgaard W",
+      "title": "The sensitivity and specificity of the Major Depression Inventory, using the Present State Examination as the index of diagnostic validity.",
+      "sorttitle": "sensitivity and specificity of the major depression inventory using the present state examination as the index of diagnostic validity",
+      "volume": "66",
+      "issue": "2-3",
+      "pages": "159-64",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7906073",
+      "issn": "0165-0327",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11578668"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0165-0327(00)00309-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0165032700003098"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/10/02 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/01/05 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/10/02 10:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of affective disorders",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/10/01 00:00",
+      "sortfirstauthor": "Bech P",
+      "vernaculartitle": ""
+    }
+  }
+}

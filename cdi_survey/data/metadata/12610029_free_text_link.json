@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "12610029",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://diabetesjournals.org/care/article-lookup/doi/10.2337/diacare.26.3.725"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--diabetesjournals.org-images-pubmed_ada.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Silverchair Information Systems",
+                "nameabbr": "silverchair",
+                "id": "7898"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

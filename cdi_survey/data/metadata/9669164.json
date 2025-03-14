@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9669164"
+    ],
+    "9669164": {
+      "uid": "9669164",
+      "pubdate": "1998 Jul-Aug",
+      "epubdate": "",
+      "source": "Fam Med",
+      "authors": [
+        {
+          "name": "Sherin KM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sinacore JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li XQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zitter RE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shakil A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shakil A",
+      "title": "HITS: a short domestic violence screening tool for use in a family practice setting.",
+      "sorttitle": "hits a short domestic violence screening tool for use in a family practice setting",
+      "volume": "30",
+      "issue": "7",
+      "pages": "508-12",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8306464",
+      "issn": "0742-3225",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9669164"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1998/07/21 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1998/07/21 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1998/07/21 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Family medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1998/07/01 00:00",
+      "sortfirstauthor": "Sherin KM",
+      "vernaculartitle": ""
+    }
+  }
+}

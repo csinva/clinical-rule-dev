@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16205345"
+    ],
+    "16205345": {
+      "uid": "16205345",
+      "pubdate": "2005 Oct 1",
+      "epubdate": "",
+      "source": "Spine (Phila Pa 1976)",
+      "authors": [
+        {
+          "name": "Tokuhashi Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matsuzaki H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oda H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oshima M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ryu J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ryu J",
+      "title": "A revised scoring system for preoperative evaluation of metastatic spine tumor prognosis.",
+      "sorttitle": "revised scoring system for preoperative evaluation of metastatic spine tumor prognosis",
+      "volume": "30",
+      "issue": "19",
+      "pages": "2186-91",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7610646",
+      "issn": "0362-2436",
+      "essn": "1528-1159",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16205345"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/01.brs.0000180401.06919.a5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00007632-200510010-00011"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/10/06 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/03/24 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/10/06 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Spine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/10/01 00:00",
+      "sortfirstauthor": "Tokuhashi Y",
+      "vernaculartitle": ""
+    }
+  }
+}

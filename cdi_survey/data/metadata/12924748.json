@@ -1,0 +1,98 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12924748"
+    ],
+    "12924748": {
+      "uid": "12924748",
+      "pubdate": "2003 Apr-Jun",
+      "epubdate": "",
+      "source": "J Psychoactive Drugs",
+      "authors": [
+        {
+          "name": "Wesson DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ling W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ling W",
+      "title": "The Clinical Opiate Withdrawal Scale (COWS).",
+      "sorttitle": "clinical opiate withdrawal scale cows",
+      "volume": "35",
+      "issue": "2",
+      "pages": "253-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8113536",
+      "issn": "0279-1072",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12924748"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/02791072.2003.10400007"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/08/20 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/09/18 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/08/20 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of psychoactive drugs",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/04/01 00:00",
+      "sortfirstauthor": "Wesson DR",
+      "vernaculartitle": ""
+    }
+  }
+}

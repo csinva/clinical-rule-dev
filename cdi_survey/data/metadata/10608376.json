@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10608376"
+    ],
+    "10608376": {
+      "uid": "10608376",
+      "pubdate": "1999 Dec",
+      "epubdate": "",
+      "source": "J Bone Joint Surg Am",
+      "authors": [
+        {
+          "name": "Kocher MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zurakowski D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kasser JR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kasser JR",
+      "title": "Differentiating between septic arthritis and transient synovitis of the hip in children: an evidence-based clinical prediction algorithm.",
+      "sorttitle": "differentiating between septic arthritis and transient synovitis of the hip in children an evidence based clinical prediction algorithm",
+      "volume": "81",
+      "issue": "12",
+      "pages": "1662-70",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0014030",
+      "issn": "0021-9355",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10608376"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2106/00004623-199912000-00002"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/12/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/12/23 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/12/23 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of bone and joint surgery. American volume",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/12/01 00:00",
+      "sortfirstauthor": "Kocher MS",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27144628"
+    ],
+    "27144628": {
+      "uid": "27144628",
+      "pubdate": "2016 Feb 19",
+      "epubdate": "2016 Feb 19",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Keefer L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Drossman DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guthrie E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simr\u00e9n M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tillisch K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Olden K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Whorwell PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Whorwell PJ",
+      "title": "Centrally Mediated Disorders of Gastrointestinal Pain.",
+      "sorttitle": "centrally mediated disorders of gastrointestinal pain",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "1528-0012",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27144628"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.gastro.2016.02.034"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016-5085(16)00225-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/02/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/02/11 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/05/05 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "pii: S0016-5085(16)00225-0. doi: 10.1053/j.gastro.2016.02.034",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/02/19 00:00",
+      "sortfirstauthor": "Keefer L",
+      "vernaculartitle": ""
+    }
+  }
+}

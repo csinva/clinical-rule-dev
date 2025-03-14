@@ -1,0 +1,104 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3963537"
+    ],
+    "3963537": {
+      "uid": "3963537",
+      "pubdate": "1986 May",
+      "epubdate": "",
+      "source": "Ann Emerg Med",
+      "authors": [
+        {
+          "name": "Alvarado A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Alvarado A",
+      "title": "A practical score for the early diagnosis of acute appendicitis.",
+      "sorttitle": "practical score for the early diagnosis of acute appendicitis",
+      "volume": "15",
+      "issue": "5",
+      "pages": "557-64",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8002646",
+      "issn": "0196-0644",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3963537"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0196-0644(86)80993-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0196-0644(86)80993-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1986/05/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1986/05/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1986/05/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Emerg Med. 1991 Sep;20(9):1048-9",
+          "reftype": "Comment in",
+          "pmid": 1844349,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of emergency medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1986/05/01 00:00",
+      "sortfirstauthor": "Alvarado A",
+      "vernaculartitle": ""
+    }
+  }
+}

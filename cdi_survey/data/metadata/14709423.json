@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14709423"
+    ],
+    "14709423": {
+      "uid": "14709423",
+      "pubdate": "2004 Jan",
+      "epubdate": "",
+      "source": "Acad Emerg Med",
+      "authors": [
+        {
+          "name": "Gorelick MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stevens MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schultz TR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scribano PV",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Scribano PV",
+      "title": "Performance of a novel clinical score, the Pediatric Asthma Severity Score (PASS), in the evaluation of acute asthma.",
+      "sorttitle": "performance of a novel clinical score the pediatric asthma severity score pass in the evaluation of acute asthma",
+      "volume": "11",
+      "issue": "1",
+      "pages": "10-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9418450",
+      "issn": "1069-6563",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14709423"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1197/j.aem.2003.07.015"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/01/08 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/04/22 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/01/08 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Academic emergency medicine : official journal of the Society for Academic Emergency Medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/01/01 00:00",
+      "sortfirstauthor": "Gorelick MH",
+      "vernaculartitle": ""
+    }
+  }
+}

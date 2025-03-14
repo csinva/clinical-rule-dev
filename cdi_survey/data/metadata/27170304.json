@@ -1,0 +1,169 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27170304"
+    ],
+    "27170304": {
+      "uid": "27170304",
+      "pubdate": "2016 Oct",
+      "epubdate": "2016 May 11",
+      "source": "J Gen Intern Med",
+      "authors": [
+        {
+          "name": "Prins A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bovin MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smolenski DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marx BP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kimerling R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jenkins-Guarnieri MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaloupek DG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schnurr PP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaiser AP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leyva YE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tiet QQ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tiet QQ",
+      "title": "The Primary Care PTSD Screen for DSM-5 (PC-PTSD-5): Development and Evaluation Within a Veteran Primary Care Sample.",
+      "sorttitle": "primary care ptsd screen for dsm 5 pc ptsd 5 development and evaluation within a veteran primary care sample",
+      "volume": "31",
+      "issue": "10",
+      "pages": "1206-11",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8605834",
+      "issn": "0884-8734",
+      "essn": "1525-1497",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27170304"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5023594"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5023594;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s11606-016-3703-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s11606-016-3703-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2015/11/17 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/03/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2016/03/18 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/05/13 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/05/14 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/12/19 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 43,
+      "fulljournalname": "Journal of general internal medicine",
+      "elocationid": "doi: 10.1007/s11606-016-3703-5",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/10/01 00:00",
+      "sortfirstauthor": "Prins A",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1279218"
+    ],
+    "1279218": {
+      "uid": "1279218",
+      "pubdate": "1992 Nov",
+      "epubdate": "",
+      "source": "J Urol",
+      "authors": [
+        {
+          "name": "Barry MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fowler FJ Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "O'Leary MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bruskewitz RC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holtgrewe HL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mebust WK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cockett AT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cockett AT",
+      "title": "The American Urological Association symptom index for benign prostatic hyperplasia. The Measurement Committee of the American Urological Association.",
+      "sorttitle": "american urological association symptom index for benign prostatic hyperplasia the measurement committee of the american urological association",
+      "volume": "148",
+      "issue": "5",
+      "pages": "1549-57; discussion 1564",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376374",
+      "issn": "0022-5347",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1279218"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0022-5347(17)36966-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-5347(17)36966-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1992/11/11 19:15"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/03/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1992/11/11 19:15"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Urol. 2017 Feb;197(2S):S198-S199",
+          "reftype": "Comment in",
+          "pmid": 28010967,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of urology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1992/11/01 00:00",
+      "sortfirstauthor": "Barry MJ",
+      "vernaculartitle": ""
+    }
+  }
+}

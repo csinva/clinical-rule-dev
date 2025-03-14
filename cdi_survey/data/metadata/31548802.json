@@ -1,0 +1,138 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "31548802"
+    ],
+    "31548802": {
+      "uid": "31548802",
+      "pubdate": "2019 Aug",
+      "epubdate": "2019 Aug 1",
+      "source": "Curr Oncol",
+      "authors": [
+        {
+          "name": "Mariano C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jamal R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bains P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hejazi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wan J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ho J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ho J",
+      "title": "Utility of a chemotherapy toxicity prediction tool for older patients in a community setting.",
+      "sorttitle": "utility of a chemotherapy toxicity prediction tool for older patients in a community setting",
+      "volume": "26",
+      "issue": "4",
+      "pages": "234-239",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9502503",
+      "issn": "1198-0052",
+      "essn": "1718-7729",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31548802"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6726281"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6726281;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3747/co.26.4869"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "conc-26-234"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2019/09/25 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/09/25 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/05/15 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 37,
+      "fulljournalname": "Current oncology (Toronto, Ont.)",
+      "elocationid": "doi: 10.3747/co.26.4869",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/08/01 00:00",
+      "sortfirstauthor": "Mariano C",
+      "vernaculartitle": ""
+    }
+  }
+}

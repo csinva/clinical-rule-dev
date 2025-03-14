@@ -1,0 +1,150 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23530807"
+    ],
+    "23530807": {
+      "uid": "23530807",
+      "pubdate": "2013 Mar 25",
+      "epubdate": "2013 Mar 25",
+      "source": "BMC Infect Dis",
+      "authors": [
+        {
+          "name": "Miller MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Louie T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mullane K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weiss K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lentnek A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Golan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kean Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sears P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sears P",
+      "title": "Derivation and validation of a simple clinical bedside score (ATLAS) for Clostridium difficile infection which predicts response to therapy.",
+      "sorttitle": "derivation and validation of a simple clinical bedside score atlas for clostridium difficile infection which predicts response to therapy",
+      "volume": "13",
+      "issue": "",
+      "pages": "148",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100968551",
+      "issn": "",
+      "essn": "1471-2334",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23530807"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3618004"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3618004;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/1471-2334-13-148"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1471-2334-13-148"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2012/05/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2013/02/06 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/03/28 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/03/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/09/12 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 23,
+      "fulljournalname": "BMC infectious diseases",
+      "elocationid": "doi: 10.1186/1471-2334-13-148",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/03/25 00:00",
+      "sortfirstauthor": "Miller MA",
+      "vernaculartitle": ""
+    }
+  }
+}

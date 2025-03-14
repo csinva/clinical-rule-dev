@@ -1,0 +1,164 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "32537518"
+    ],
+    "32537518": {
+      "uid": "32537518",
+      "pubdate": "2020",
+      "epubdate": "2020 May 28",
+      "source": "Trauma Surg Acute Care Open",
+      "authors": [
+        {
+          "name": "Khan AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elseth AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brosius JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moskowitz E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liebscher SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anstadt MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dunn JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McVicker JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schroeppel T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gonzalez RP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gonzalez RP",
+      "title": "Multicenter assessment of the Brain Injury Guidelines and a proposal of guideline modifications.",
+      "sorttitle": "multicenter assessment of the brain injury guidelines and a proposal of guideline modifications",
+      "volume": "5",
+      "issue": "1",
+      "pages": "e000483",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101698646",
+      "issn": "",
+      "essn": "2397-5776",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32537518"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7264829"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7264829;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/tsaco-2020-000483"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "tsaco-2020-000483"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2020/04/01 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2020/04/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2020/04/24 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2020/06/16 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/06/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/06/17 06:01"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 29,
+      "fulljournalname": "Trauma surgery & acute care open",
+      "elocationid": "doi: 10.1136/tsaco-2020-000483",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2020/05/28 00:00",
+      "sortfirstauthor": "Khan AD",
+      "vernaculartitle": ""
+    }
+  }
+}

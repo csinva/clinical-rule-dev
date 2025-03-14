@@ -1,0 +1,169 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28586952"
+    ],
+    "28586952": {
+      "uid": "28586952",
+      "pubdate": "2017 May 1",
+      "epubdate": "2017 Jan 26",
+      "source": "Int J Radiat Oncol Biol Phys",
+      "authors": [
+        {
+          "name": "Farris M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McTyre ER",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cramer CK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hughes R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Randolph DM 2nd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ayala-Peacock DN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bourland JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruiz J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Watabe K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laxton AW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tatter SB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chan MD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chan MD",
+      "title": "Brain Metastasis Velocity: A Novel Prognostic Metric Predictive of Overall Survival and Freedom From Whole-Brain Radiation Therapy After Distant Brain Failure Following Upfront Radiosurgery Alone.",
+      "sorttitle": "brain metastasis velocity a novel prognostic metric predictive of overall survival and freedom from whole brain radiation therapy after distant brain failure following upfront radiosurgery alone",
+      "volume": "98",
+      "issue": "1",
+      "pages": "131-141",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7603616",
+      "issn": "0360-3016",
+      "essn": "1879-355X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28586952"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijrobp.2017.01.201"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0360-3016(17)30238-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/09/09 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2017/01/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2017/01/17 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/06/08 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/06/08 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/07/22 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of radiation oncology, biology, physics",
+      "elocationid": "doi: 10.1016/j.ijrobp.2017.01.201",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/05/01 00:00",
+      "sortfirstauthor": "Farris M",
+      "vernaculartitle": ""
+    }
+  }
+}

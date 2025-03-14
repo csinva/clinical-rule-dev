@@ -1,0 +1,179 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19332461"
+    ],
+    "19332461": {
+      "uid": "19332461",
+      "pubdate": "2009 Apr 14",
+      "epubdate": "2009 Mar 30",
+      "source": "Circulation",
+      "authors": [
+        {
+          "name": "Subherwal S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bach RG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen AY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gage BF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rao SV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Newby LK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang TY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gibler WB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ohman EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roe MT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pollack CV Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peterson ED",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alexander KP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Alexander KP",
+      "title": "Baseline risk of major bleeding in non-ST-segment-elevation myocardial infarction: the CRUSADE (Can Rapid risk stratification of Unstable angina patients Suppress ADverse outcomes with Early implementation of the ACC/AHA Guidelines) Bleeding Score.",
+      "sorttitle": "baseline risk of major bleeding in non st segment elevation myocardial infarction the crusade can rapid risk stratification of unstable angina patients suppress adverse outcomes with early implementation of the acc aha guidelines bleeding score",
+      "volume": "119",
+      "issue": "14",
+      "pages": "1873-82",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147763",
+      "issn": "0009-7322",
+      "essn": "1524-4539",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19332461"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS126394"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3767035"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3767035;manuscript-id: NIHMS126394;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/CIRCULATIONAHA.108.828541"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CIRCULATIONAHA.108.828541"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/04/01 09:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/04/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/05/15 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Circulation. 2009 Apr 14;119(14):1846-9",
+          "reftype": "Comment in",
+          "pmid": 19364986,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 33,
+      "fulljournalname": "Circulation",
+      "elocationid": "doi: 10.1161/CIRCULATIONAHA.108.828541",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/04/14 00:00",
+      "sortfirstauthor": "Subherwal S",
+      "vernaculartitle": ""
+    }
+  }
+}

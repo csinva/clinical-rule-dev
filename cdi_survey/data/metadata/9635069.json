@@ -1,0 +1,181 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9635069"
+    ],
+    "9635069": {
+      "uid": "9635069",
+      "pubdate": "1998 May",
+      "epubdate": "",
+      "source": "Am J Prev Med",
+      "authors": [
+        {
+          "name": "Felitti VJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anda RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nordenberg D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Williamson DF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spitz AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Edwards V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Koss MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marks JS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Marks JS",
+      "title": "Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. The Adverse Childhood Experiences (ACE) Study.",
+      "sorttitle": "relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults the adverse childhood experiences ace study",
+      "volume": "14",
+      "issue": "4",
+      "pages": "245-58",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8704773",
+      "issn": "0749-3797",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9635069"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0749-3797(98)00017-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0749379798000178"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1998/06/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1998/06/23 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1998/06/23 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Prev Med. 1998 May;14(4):354-5",
+          "reftype": "Comment in",
+          "pmid": 9635083,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Prev Med. 1998 May;14(4):356-60",
+          "reftype": "Comment in",
+          "pmid": 9635084,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Prev Med. 1998 May;14(4):361-4",
+          "reftype": "Comment in",
+          "pmid": 9635085,
+          "note": ""
+        },
+        {
+          "refsource": "N C Med J. 2018 Mar-Apr;79(2):99-103",
+          "reftype": "Comment in",
+          "pmid": 29563303,
+          "note": ""
+        },
+        {
+          "refsource": "N C Med J. 2018 Mar-Apr;79(2):108-112",
+          "reftype": "Comment in",
+          "pmid": 29563305,
+          "note": ""
+        },
+        {
+          "refsource": "N C Med J. 2018 Mar-Apr;79(2):115-118",
+          "reftype": "Comment in",
+          "pmid": 29563308,
+          "note": ""
+        },
+        {
+          "refsource": "N C Med J. 2018 May-Jun;79(3):166-169",
+          "reftype": "Comment in",
+          "pmid": 29735620,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Prev Med. 2019 Jun;56(6):774-786",
+          "reftype": "Republished in",
+          "pmid": 31104722,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of preventive medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1998/05/01 00:00",
+      "sortfirstauthor": "Felitti VJ",
+      "vernaculartitle": ""
+    }
+  }
+}

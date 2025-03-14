@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "11588210",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://academic.oup.com/qjmed/article-lookup/doi/10.1093/qjmed/94.10.521"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--academic.oup.com-images-oup_pubmed.png"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Silverchair Information Systems",
+                "nameabbr": "silverchair",
+                "id": "7898"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

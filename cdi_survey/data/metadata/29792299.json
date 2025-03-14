@@ -1,0 +1,157 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29792299"
+    ],
+    "29792299": {
+      "uid": "29792299",
+      "pubdate": "2018 Aug 28",
+      "epubdate": "",
+      "source": "Circulation",
+      "authors": [
+        {
+          "name": "Reddy YNV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carter RE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Obokata M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Redfield MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borlaug BA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Borlaug BA",
+      "title": "A Simple, Evidence-Based Approach to Help Guide Diagnosis of Heart Failure With Preserved Ejection Fraction.",
+      "sorttitle": "simple evidence based approach to help guide diagnosis of heart failure with preserved ejection fraction",
+      "volume": "138",
+      "issue": "9",
+      "pages": "861-870",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147763",
+      "issn": "0009-7322",
+      "essn": "1524-4539",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29792299"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS970899"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6202181"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6202181;manuscript-id: NIHMS970899;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/CIRCULATIONAHA.118.034646"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CIRCULATIONAHA.118.034646"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/05/25 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/09/26 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/05/25 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Circulation. 2018 Aug 28;138(9):871-873",
+          "reftype": "Comment in",
+          "pmid": 30354456,
+          "note": ""
+        },
+        {
+          "refsource": "Circulation. 2019 Feb 12;139(7):992-993",
+          "reftype": "Comment in",
+          "pmid": 30742532,
+          "note": ""
+        },
+        {
+          "refsource": "Circulation. 2019 Feb 12;139(7):989",
+          "reftype": "Comment in",
+          "pmid": 30742535,
+          "note": ""
+        },
+        {
+          "refsource": "Circulation. 2019 Feb 12;139(7):990-991",
+          "reftype": "Comment in",
+          "pmid": 30742537,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 25,
+      "fulljournalname": "Circulation",
+      "elocationid": "doi: 10.1161/CIRCULATIONAHA.118.034646",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/08/28 00:00",
+      "sortfirstauthor": "Reddy YNV",
+      "vernaculartitle": ""
+    }
+  }
+}

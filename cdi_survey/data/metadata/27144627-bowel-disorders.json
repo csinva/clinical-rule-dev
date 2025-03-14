@@ -1,0 +1,143 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "error": "Invalid uid -bowel-disorders at position= 8",
+  "result": {
+    "uids": [
+      "27144627"
+    ],
+    "27144627": {
+      "uid": "27144627",
+      "pubdate": "2016 Feb 18",
+      "epubdate": "2016 Feb 18",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Mearin F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lacy BE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chey WD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lembo AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simren M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spiller R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Spiller R",
+      "title": "Bowel Disorders.",
+      "sorttitle": "bowel disorders",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "1528-0012",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27144627"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.gastro.2016.02.031"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016-5085(16)00222-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/02/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/02/09 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/05/05 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Nat Rev Gastroenterol Hepatol. 2016 Sep;13(9):501-2",
+          "reftype": "Comment in",
+          "pmid": 27407043,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "pii: S0016-5085(16)00222-5. doi: 10.1053/j.gastro.2016.02.031",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/02/18 00:00",
+      "sortfirstauthor": "Mearin F",
+      "vernaculartitle": ""
+    }
+  }
+}

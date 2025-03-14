@@ -1,0 +1,163 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18540046"
+    ],
+    "18540046": {
+      "uid": "18540046",
+      "pubdate": "2008 Aug",
+      "epubdate": "2008 Jun 7",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "Nathan DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kuenen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borg R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zheng H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schoenfeld D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heine RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "A1c-Derived Average Glucose Study Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Heine RJ",
+      "title": "Translating the A1C assay into estimated average glucose values.",
+      "sorttitle": "translating the a1c assay into estimated average glucose values",
+      "volume": "31",
+      "issue": "8",
+      "pages": "1473-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18540046"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2742903"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2742903;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc08-0545"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "dc08-0545"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/06/10 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/08/21 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/06/10 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Diabetes Care. 2009 Jan;32(1):207",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "Diabetes Care. 2008 Aug;31(8):1704-7",
+          "reftype": "Comment in",
+          "pmid": 18540045,
+          "note": ""
+        },
+        {
+          "refsource": "Diabetes Care. 2009 Jan;32(1):e10; author reply e12",
+          "reftype": "Comment in",
+          "pmid": 19114619,
+          "note": ""
+        },
+        {
+          "refsource": "Diabetes Care. 2009 Jan;32(1):e11; author reply e12",
+          "reftype": "Comment in",
+          "pmid": 19114620,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 27,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc08-0545",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/08/01 00:00",
+      "sortfirstauthor": "Nathan DM",
+      "vernaculartitle": ""
+    }
+  }
+}

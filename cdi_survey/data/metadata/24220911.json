@@ -1,0 +1,162 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24220911"
+    ],
+    "24220911": {
+      "uid": "24220911",
+      "pubdate": "2014 Jan",
+      "epubdate": "2013 Nov 12",
+      "source": "Cancer Epidemiol Biomarkers Prev",
+      "authors": [
+        {
+          "name": "Johnson PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pirrie SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cox TF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berhane S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Teng M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Palmer D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morse J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hull D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Patman G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kagebayashi C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hussain S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Graham J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reeves H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Satomura S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Satomura S",
+      "title": "The detection of hepatocellular carcinoma using a prospectively developed and validated model based on serological biomarkers.",
+      "sorttitle": "detection of hepatocellular carcinoma using a prospectively developed and validated model based on serological biomarkers",
+      "volume": "23",
+      "issue": "1",
+      "pages": "144-53",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9200608",
+      "issn": "1055-9965",
+      "essn": "1538-7755",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24220911"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1158/1055-9965.EPI-13-0870"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1055-9965.EPI-13-0870"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/11/14 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/11/14 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/11/08 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",
+      "elocationid": "doi: 10.1158/1055-9965.EPI-13-0870",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/01/01 00:00",
+      "sortfirstauthor": "Johnson PJ",
+      "vernaculartitle": ""
+    }
+  }
+}

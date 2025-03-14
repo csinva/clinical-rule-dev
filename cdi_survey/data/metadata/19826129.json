@@ -1,0 +1,193 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19826129"
+    ],
+    "19826129": {
+      "uid": "19826129",
+      "pubdate": "2009 Dec 1",
+      "epubdate": "2009 Oct 13",
+      "source": "J Clin Oncol",
+      "authors": [
+        {
+          "name": "Heng DY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xie W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Regan MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Warren MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Golshayan AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sahi C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eigl BJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruether JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "North S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Venner P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Knox JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chi KN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kollmannsberger C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McDermott DF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oh WK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Atkins MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bukowski RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rini BI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Choueiri TK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Choueiri TK",
+      "title": "Prognostic factors for overall survival in patients with metastatic renal cell carcinoma treated with vascular endothelial growth factor-targeted agents: results from a large, multicenter study.",
+      "sorttitle": "prognostic factors for overall survival in patients with metastatic renal cell carcinoma treated with vascular endothelial growth factor targeted agents results from a large multicenter study",
+      "volume": "27",
+      "issue": "34",
+      "pages": "5794-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309333",
+      "issn": "0732-183X",
+      "essn": "1527-7755",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19826129"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1200/JCO.2008.21.4809"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JCO.2008.21.4809"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/10/15 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/10/15 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/12/24 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "elocationid": "doi: 10.1200/JCO.2008.21.4809",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/12/01 00:00",
+      "sortfirstauthor": "Heng DY",
+      "vernaculartitle": ""
+    }
+  }
+}

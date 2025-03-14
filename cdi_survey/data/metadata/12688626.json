@@ -1,0 +1,144 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12688626"
+    ],
+    "12688626": {
+      "uid": "12688626",
+      "pubdate": "2002",
+      "epubdate": "",
+      "source": "Pediatr Allergy Immunol",
+      "authors": [
+        {
+          "name": "Brunekreef B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smit J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Jongste J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neijens H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gerritsen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Postma D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aalberse R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Koopman L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kerkhof M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wilga A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Strien R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "van Strien R",
+      "title": "The prevention and incidence of asthma and mite allergy (PIAMA) birth cohort study: design and first results.",
+      "sorttitle": "prevention and incidence of asthma and mite allergy piama birth cohort study design and first results",
+      "volume": "13",
+      "issue": "s15",
+      "pages": "55-60",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9106718",
+      "issn": "0905-6157",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12688626"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1034/j.1399-3038.13.s.15.1.x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/04/12 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/05/16 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/04/12 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2002/01/01 00:00",
+      "sortfirstauthor": "Brunekreef B",
+      "vernaculartitle": ""
+    }
+  }
+}

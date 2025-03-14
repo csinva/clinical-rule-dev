@@ -1,0 +1,209 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25512453"
+    ],
+    "25512453": {
+      "uid": "25512453",
+      "pubdate": "2015 Feb 20",
+      "epubdate": "2014 Dec 15",
+      "source": "J Clin Oncol",
+      "authors": [
+        {
+          "name": "Johnson PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berhane S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kagebayashi C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Satomura S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Teng M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reeves HL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "O'Beirne J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fox R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Skowronska A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Palmer D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yeo W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mo F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lai P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "I\u00f1arrairaegui M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chan SL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sangro B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miksad R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tada T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kumada T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Toyoda H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Toyoda H",
+      "title": "Assessment of liver function in patients with hepatocellular carcinoma: a new evidence-based approach-the ALBI grade.",
+      "sorttitle": "assessment of liver function in patients with hepatocellular carcinoma a new evidence based approach the albi grade",
+      "volume": "33",
+      "issue": "6",
+      "pages": "550-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309333",
+      "issn": "0732-183X",
+      "essn": "1527-7755",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25512453"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4322258"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4322258;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1200/JCO.2014.57.9151"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JCO.2014.57.9151"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/12/17 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/12/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/04/15 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Clin Oncol. 2015 Feb 20;33(6):529-31",
+          "reftype": "Comment in",
+          "pmid": 25512460,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 30,
+      "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "elocationid": "doi: 10.1200/JCO.2014.57.9151",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/02/20 00:00",
+      "sortfirstauthor": "Johnson PJ",
+      "vernaculartitle": ""
+    }
+  }
+}

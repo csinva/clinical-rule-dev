@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21695773"
+    ],
+    "21695773": {
+      "uid": "21695773",
+      "pubdate": "2011 Oct",
+      "epubdate": "",
+      "source": "Liver Transpl",
+      "authors": [
+        {
+          "name": "Mazzaferro V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bhoori S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sposito C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bongini M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Langer M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miceli R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mariani L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mariani L",
+      "title": "Milan criteria in liver transplantation for hepatocellular carcinoma: an evidence-based analysis of 15 years of experience.",
+      "sorttitle": "milan criteria in liver transplantation for hepatocellular carcinoma an evidence based analysis of 15 years of experience",
+      "volume": "17 Suppl 2",
+      "issue": "",
+      "pages": "S44-57",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100909185",
+      "issn": "1527-6465",
+      "essn": "1527-6473",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21695773"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/lt.22365"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/06/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/06/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/02/03 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+      "elocationid": "doi: 10.1002/lt.22365",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/10/01 00:00",
+      "sortfirstauthor": "Mazzaferro V",
+      "vernaculartitle": ""
+    }
+  }
+}

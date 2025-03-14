@@ -1,0 +1,147 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19815122"
+    ],
+    "19815122": {
+      "uid": "19815122",
+      "pubdate": "2009 Oct 13",
+      "epubdate": "",
+      "source": "J Am Coll Cardiol",
+      "authors": [
+        {
+          "name": "Steinhart B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thorpe KE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bayoumi AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moe G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Januzzi JL Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mazer CD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mazer CD",
+      "title": "Improving the diagnosis of acute heart failure using a validated prediction model.",
+      "sorttitle": "improving the diagnosis of acute heart failure using a validated prediction model",
+      "volume": "54",
+      "issue": "16",
+      "pages": "1515-21",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8301365",
+      "issn": "0735-1097",
+      "essn": "1558-3597",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19815122"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jacc.2009.05.065"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0735-1097(09)02427-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2008/12/10 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2009/03/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2009/05/06 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2009/10/10 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/10/10 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/10/29 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Am Coll Cardiol. 2009 Oct 13;54(16):1522-3",
+          "reftype": "Comment in",
+          "pmid": 19815123,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Intern Med. 2010 Jan 19;152(2):JC1-13",
+          "reftype": "Comment in",
+          "pmid": 20083816,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American College of Cardiology",
+      "elocationid": "doi: 10.1016/j.jacc.2009.05.065",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/10/13 00:00",
+      "sortfirstauthor": "Steinhart B",
+      "vernaculartitle": ""
+    }
+  }
+}

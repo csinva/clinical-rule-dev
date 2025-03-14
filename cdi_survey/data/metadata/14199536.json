@@ -1,0 +1,85 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14199536"
+    ],
+    "14199536": {
+      "uid": "14199536",
+      "pubdate": "1964 Aug",
+      "epubdate": "",
+      "source": "Obstet Gynecol",
+      "authors": [
+        {
+          "name": "BISHOP EH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "BISHOP EH",
+      "title": "PELVIC SCORING FOR ELECTIVE INDUCTION.",
+      "sorttitle": "pelvic scoring for elective induction",
+      "volume": "24",
+      "issue": "",
+      "pages": "266-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401101",
+      "issn": "0029-7844",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14199536"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1964/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1964/08/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1964/08/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Obstetrics and gynecology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1964/08/01 00:00",
+      "sortfirstauthor": "BISHOP EH",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4027773"
+    ],
+    "4027773": {
+      "uid": "4027773",
+      "pubdate": "1985 Jul",
+      "epubdate": "",
+      "source": "Can Anaesth Soc J",
+      "authors": [
+        {
+          "name": "Mallampati SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gatt SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gugino LD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Desai SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Waraksa B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Freiberger D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu PL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Liu PL",
+      "title": "A clinical sign to predict difficult tracheal intubation: a prospective study.",
+      "sorttitle": "clinical sign to predict difficult tracheal intubation a prospective study",
+      "volume": "32",
+      "issue": "4",
+      "pages": "429-34",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0371163",
+      "issn": "0008-2856",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4027773"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/BF03011357"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1985/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1985/07/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1985/07/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Can J Anaesth. 2008 Apr;55(4):250-1",
+          "reftype": "Comment in",
+          "pmid": 18378973,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Canadian Anaesthetists' Society journal",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1985/07/01 00:00",
+      "sortfirstauthor": "Mallampati SR",
+      "vernaculartitle": ""
+    }
+  }
+}

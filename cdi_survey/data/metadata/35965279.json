@@ -1,0 +1,187 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "35965279"
+    ],
+    "35965279": {
+      "uid": "35965279",
+      "pubdate": "2022 Sep 1",
+      "epubdate": "",
+      "source": "Hosp Pediatr",
+      "authors": [
+        {
+          "name": "Nama N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hall M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neuman M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sullivan E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bochner R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Laroche A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hadvani T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jain S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Katsogridakis Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mittal M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Payson A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Prusakowski M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shastri N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stephans A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Westphal K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wilkins V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tieder J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brief Resolved Unexplained Event Research and Quality Improvement Network",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tieder J",
+      "title": "Risk Prediction After a Brief Resolved Unexplained Event.",
+      "sorttitle": "risk prediction after a brief resolved unexplained event",
+      "volume": "12",
+      "issue": "9",
+      "pages": "772-785",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101585349",
+      "issn": "",
+      "essn": "2154-1671",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35965279"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1542/hpeds.2022-006637"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "188769"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2022/08/15 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/09/09 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2022/08/14 23:15"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Hospital pediatrics",
+      "elocationid": "doi: 10.1542/hpeds.2022-006637",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2022/09/01 00:00",
+      "sortfirstauthor": "Nama N",
+      "vernaculartitle": ""
+    }
+  }
+}

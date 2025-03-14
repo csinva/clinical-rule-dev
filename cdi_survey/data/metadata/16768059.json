@@ -1,0 +1,87 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16768059"
+    ],
+    "16768059": {
+      "uid": "16768059",
+      "pubdate": "2006 Feb",
+      "epubdate": "",
+      "source": "Conn Med",
+      "authors": [
+        {
+          "name": "Gadzik J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gadzik J",
+      "title": "\"How much should I weigh?\"--Quetelet's equation, upper weight limits, and BMI prime.",
+      "sorttitle": "how much should i weigh quetelet s equation upper weight limits and bmi prime",
+      "volume": "70",
+      "issue": "2",
+      "pages": "81-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372745",
+      "issn": "0010-6178",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16768059"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/06/14 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/07/14 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/06/14 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Connecticut medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/02/01 00:00",
+      "sortfirstauthor": "Gadzik J",
+      "vernaculartitle": ""
+    }
+  }
+}

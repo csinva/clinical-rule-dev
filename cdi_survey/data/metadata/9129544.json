@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9129544"
+    ],
+    "9129544": {
+      "uid": "9129544",
+      "pubdate": "1997 Apr 28",
+      "epubdate": "",
+      "source": "Arch Intern Med",
+      "authors": [
+        {
+          "name": "Swensen SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silverstein MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ilstrup DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schleck CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Edell ES",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Edell ES",
+      "title": "The probability of malignancy in solitary pulmonary nodules. Application to small radiologically indeterminate nodules.",
+      "sorttitle": "probability of malignancy in solitary pulmonary nodules application to small radiologically indeterminate nodules",
+      "volume": "157",
+      "issue": "8",
+      "pages": "849-55",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372440",
+      "issn": "0003-9926",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9129544"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1997/04/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1997/04/28 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1997/04/28 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1997/04/28 00:00",
+      "sortfirstauthor": "Swensen SJ",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "5413918"
+    ],
+    "5413918": {
+      "uid": "5413918",
+      "pubdate": "1970 Feb 14",
+      "epubdate": "",
+      "source": "Schweiz Med Wochenschr",
+      "authors": [
+        {
+          "name": "Ganzoni AM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ganzoni AM",
+      "title": "[Intravenous iron-dextran: therapeutic and experimental possibilities].",
+      "sorttitle": "intravenous iron dextran therapeutic and experimental possibilities",
+      "volume": "100",
+      "issue": "7",
+      "pages": "301-3",
+      "lang": [
+        "ger"
+      ],
+      "nlmuniqueid": "0404401",
+      "issn": "0036-7672",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "5413918"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1970/02/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1970/02/14 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1970/02/14 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Schweizerische medizinische Wochenschrift",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1970/02/14 00:00",
+      "sortfirstauthor": "Ganzoni AM",
+      "vernaculartitle": "Eisen-Dextran intraven\u00f6s: therapeutische und experimentelle M\u00f6glichkeiten."
+    }
+  }
+}

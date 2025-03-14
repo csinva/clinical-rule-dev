@@ -1,0 +1,170 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24145848"
+    ],
+    "24145848": {
+      "uid": "24145848",
+      "pubdate": "2014 Mar",
+      "epubdate": "",
+      "source": "Crit Care Med",
+      "authors": [
+        {
+          "name": "Traube C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silver G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kearney J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Patel A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Atkinson TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yoon MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Halpert S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Augenstein J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sickles LE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greenwald B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Greenwald B",
+      "title": "Cornell Assessment of Pediatric Delirium: a valid, rapid, observational tool for screening delirium in the PICU*.",
+      "sorttitle": "cornell assessment of pediatric delirium a valid rapid observational tool for screening delirium in the picu",
+      "volume": "42",
+      "issue": "3",
+      "pages": "656-63",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0355501",
+      "issn": "0090-3493",
+      "essn": "1530-0293",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24145848"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS882424"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5527829"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5527829;manuscript-id: NIHMS882424;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/CCM.0b013e3182a66b76"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/10/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/10/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/04/23 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Crit Care Med. 2014 Mar;42(3):751-2",
+          "reftype": "Comment in",
+          "pmid": 24534972,
+          "note": ""
+        },
+        {
+          "refsource": "J Pediatr. 2014 Sep;165(3):643",
+          "reftype": "Comment in",
+          "pmid": 25152157,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 42,
+      "fulljournalname": "Critical care medicine",
+      "elocationid": "doi: 10.1097/CCM.0b013e3182a66b76",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/03/01 00:00",
+      "sortfirstauthor": "Traube C",
+      "vernaculartitle": ""
+    }
+  }
+}

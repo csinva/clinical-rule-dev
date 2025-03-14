@@ -1,0 +1,149 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20738765"
+    ],
+    "20738765": {
+      "uid": "20738765",
+      "pubdate": "2010 Nov",
+      "epubdate": "",
+      "source": "J Thromb Haemost",
+      "authors": [
+        {
+          "name": "Barbar S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Noventa F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rossetto V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferrari A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brandolin B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perlati M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Bon E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tormene D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pagnan A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Prandoni P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Prandoni P",
+      "title": "A risk assessment model for the identification of hospitalized medical patients at risk for venous thromboembolism: the Padua Prediction Score.",
+      "sorttitle": "risk assessment model for the identification of hospitalized medical patients at risk for venous thromboembolism the padua prediction score",
+      "volume": "8",
+      "issue": "11",
+      "pages": "2450-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101170508",
+      "issn": "",
+      "essn": "1538-7836",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20738765"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1538-7836.2010.04044.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JTH4044"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/08/27 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/08/27 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/05/24 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Thromb Haemost. 2011 Jul;9(7):1437-8",
+          "reftype": "Comment in",
+          "pmid": 21501378,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of thrombosis and haemostasis : JTH",
+      "elocationid": "doi: 10.1111/j.1538-7836.2010.04044.x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/11/01 00:00",
+      "sortfirstauthor": "Barbar S",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3124597"
+    ],
+    "3124597": {
+      "uid": "3124597",
+      "pubdate": "1988 Feb",
+      "epubdate": "",
+      "source": "Am J Clin Nutr",
+      "authors": [
+        {
+          "name": "Buzby GP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Williford WO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peterson OL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Crosby LO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Page CP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reinhardt GF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mullen JL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mullen JL",
+      "title": "A randomized clinical trial of total parenteral nutrition in malnourished surgical patients: the rationale and impact of previous clinical trials and pilot study on protocol design.",
+      "sorttitle": "randomized clinical trial of total parenteral nutrition in malnourished surgical patients the rationale and impact of previous clinical trials and pilot study on protocol design",
+      "volume": "47",
+      "issue": "2 Suppl",
+      "pages": "357-65",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376027",
+      "issn": "0002-9165",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3124597"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/ajcn/47.2.357"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1988/02/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1988/02/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1988/02/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of clinical nutrition",
+      "elocationid": "doi: 10.1093/ajcn/47.2.357",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1988/02/01 00:00",
+      "sortfirstauthor": "Buzby GP",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19204506"
+    ],
+    "19204506": {
+      "uid": "19204506",
+      "pubdate": "2009 Feb",
+      "epubdate": "",
+      "source": "J Trauma",
+      "authors": [
+        {
+          "name": "Nunez TC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Voskresensky IV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dossett LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shinall R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dutton WD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cotton BA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cotton BA",
+      "title": "Early prediction of massive transfusion in trauma: simple as ABC (assessment of blood consumption)?",
+      "sorttitle": "early prediction of massive transfusion in trauma simple as abc assessment of blood consumption",
+      "volume": "66",
+      "issue": "2",
+      "pages": "346-52",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376373",
+      "issn": "0022-5282",
+      "essn": "1529-8809",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19204506"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/TA.0b013e3181961c35"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00005373-200902000-00008"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/02/11 09:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/02/11 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/04/29 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of trauma",
+      "elocationid": "doi: 10.1097/TA.0b013e3181961c35",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/02/01 00:00",
+      "sortfirstauthor": "Nunez TC",
+      "vernaculartitle": ""
+    }
+  }
+}

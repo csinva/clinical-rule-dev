@@ -1,0 +1,100 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4814394"
+    ],
+    "4814394": {
+      "uid": "4814394",
+      "pubdate": "1974 Mar",
+      "epubdate": "",
+      "source": "J Trauma",
+      "authors": [
+        {
+          "name": "Baker SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "O'Neill B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haddon W Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Long WB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Long WB",
+      "title": "The injury severity score: a method for describing patients with multiple injuries and evaluating emergency care.",
+      "sorttitle": "injury severity score a method for describing patients with multiple injuries and evaluating emergency care",
+      "volume": "14",
+      "issue": "3",
+      "pages": "187-96",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376373",
+      "issn": "0022-5282",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4814394"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1974/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/03/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1974/03/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of trauma",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1974/03/01 00:00",
+      "sortfirstauthor": "Baker SP",
+      "vernaculartitle": ""
+    }
+  }
+}

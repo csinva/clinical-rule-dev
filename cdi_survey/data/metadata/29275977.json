@@ -1,0 +1,298 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29275977"
+    ],
+    "29275977": {
+      "uid": "29275977",
+      "pubdate": "2018 Feb",
+      "epubdate": "2017 Dec 21",
+      "source": "Lancet Neurol",
+      "authors": [
+        {
+          "name": "Thompson AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Banwell BL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Barkhof F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carroll WM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coetzee T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Comi G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Correale J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fazekas F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Filippi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Freedman MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fujihara K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Galetta SL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hartung HP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kappos L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lublin FD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marrie RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller AE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller DH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Montalban X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mowry EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sorensen PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tintor\u00e9 M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Traboulsee AL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Trojano M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uitdehaag BMJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vukusic S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Waubant E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weinshenker BG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reingold SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cohen JA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cohen JA",
+      "title": "Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria.",
+      "sorttitle": "diagnosis of multiple sclerosis 2017 revisions of the mcdonald criteria",
+      "volume": "17",
+      "issue": "2",
+      "pages": "162-173",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101139309",
+      "issn": "1474-4422",
+      "essn": "1474-4465",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29275977"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1474-4422(17)30470-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1474-4422(17)30470-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2017/08/17 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2017/11/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2017/11/16 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/12/26 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/01/25 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/12/26 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet Neurol. 2018 Feb;17(2):109-111",
+          "reftype": "Comment in",
+          "pmid": 29275980,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2018 Jun;17(6):496-497",
+          "reftype": "Comment in",
+          "pmid": 29778355,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2018 Jun;17(6):497",
+          "reftype": "Comment in",
+          "pmid": 29778356,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2018 Jun;17(6):497-498",
+          "reftype": "Comment in",
+          "pmid": 29778357,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2018 Jun;17(6):498",
+          "reftype": "Comment in",
+          "pmid": 29778358,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2018 Jun;17(6):498-499",
+          "reftype": "Comment in",
+          "pmid": 29778359,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2018 Jun;17(6):499-500",
+          "reftype": "Comment in",
+          "pmid": 29778360,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Neurology",
+      "elocationid": "doi: 10.1016/S1474-4422(17)30470-2",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/02/01 00:00",
+      "sortfirstauthor": "Thompson AJ",
+      "vernaculartitle": ""
+    }
+  }
+}

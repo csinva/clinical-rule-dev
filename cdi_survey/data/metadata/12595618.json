@@ -1,0 +1,127 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12595618"
+    ],
+    "12595618": {
+      "uid": "12595618",
+      "pubdate": "2003 Feb",
+      "epubdate": "",
+      "source": "Rheumatology (Oxford)",
+      "authors": [
+        {
+          "name": "Smolen JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Breedveld FC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schiff MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kalden JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Emery P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eberl G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Riel PL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tugwell P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tugwell P",
+      "title": "A simplified disease activity index for rheumatoid arthritis for use in clinical practice.",
+      "sorttitle": "simplified disease activity index for rheumatoid arthritis for use in clinical practice",
+      "volume": "42",
+      "issue": "2",
+      "pages": "244-57",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100883501",
+      "issn": "1462-0324",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12595618"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/rheumatology/keg072"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/02/22 04:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/05/13 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/02/22 04:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Rheumatology (Oxford, England)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/02/01 00:00",
+      "sortfirstauthor": "Smolen JS",
+      "vernaculartitle": ""
+    }
+  }
+}

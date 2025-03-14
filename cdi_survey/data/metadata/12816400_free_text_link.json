@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "12816400",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://doi.org/10.1891/vivi.2003.18.2.131"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--highwire.stanford.edu-icons-externalservices-pubmed-springer_logo.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "HighWire",
+                "nameabbr": "HighWire",
+                "id": "3051"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

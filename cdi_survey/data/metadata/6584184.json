@@ -1,0 +1,138 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6584184"
+    ],
+    "6584184": {
+      "uid": "6584184",
+      "pubdate": "1984 Apr",
+      "epubdate": "",
+      "source": "Blood",
+      "authors": [
+        {
+          "name": "Sokal JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cox EB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baccarani M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tura S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gomez GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Robertson JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tso CY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Braun TJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Clarkson BD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cervantes F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cervantes F",
+      "title": "Prognostic discrimination in \"good-risk\" chronic granulocytic leukemia.",
+      "sorttitle": "prognostic discrimination in good risk chronic granulocytic leukemia",
+      "volume": "63",
+      "issue": "4",
+      "pages": "789-99",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7603509",
+      "issn": "0006-4971",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6584184"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)85541-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1984/04/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1984/04/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1984/04/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Author List Incomplete"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Blood",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1984/04/01 00:00",
+      "sortfirstauthor": "Sokal JE",
+      "vernaculartitle": ""
+    }
+  }
+}

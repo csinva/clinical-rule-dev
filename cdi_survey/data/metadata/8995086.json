@@ -1,0 +1,151 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8995086"
+    ],
+    "8995086": {
+      "uid": "8995086",
+      "pubdate": "1997 Jan 23",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Fine MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Auble TE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yealy DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hanusa BH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weissfeld LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singer DE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coley CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marrie TJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kapoor WN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kapoor WN",
+      "title": "A prediction rule to identify low-risk patients with community-acquired pneumonia.",
+      "sorttitle": "prediction rule to identify low risk patients with community acquired pneumonia",
+      "volume": "336",
+      "issue": "4",
+      "pages": "243-50",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8995086"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM199701233360402"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1997/01/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1997/01/23 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1997/01/23 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med. 1997 Jan 23;336(4):288-9",
+          "reftype": "Comment in",
+          "pmid": 8995094,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 1997 Jun 26;336(26):1913-4; author reply 1914-5",
+          "reftype": "Comment in",
+          "pmid": 9198755,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 1997 Jun 26;336(26):1914; author reply 1914-5",
+          "reftype": "Comment in",
+          "pmid": 9198756,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1997/01/23 00:00",
+      "sortfirstauthor": "Fine MJ",
+      "vernaculartitle": ""
+    }
+  }
+}

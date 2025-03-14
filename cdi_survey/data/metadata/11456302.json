@@ -1,0 +1,175 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11456302"
+    ],
+    "11456302": {
+      "uid": "11456302",
+      "pubdate": "2001 Jul",
+      "epubdate": "",
+      "source": "Ann Neurol",
+      "authors": [
+        {
+          "name": "McDonald WI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Compston A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Edan G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goodkin D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hartung HP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lublin FD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McFarland HF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paty DW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Polman CH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reingold SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sandberg-Wollheim M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sibley W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thompson A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van den Noort S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weinshenker BY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolinsky JS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wolinsky JS",
+      "title": "Recommended diagnostic criteria for multiple sclerosis: guidelines from the International Panel on the diagnosis of multiple sclerosis.",
+      "sorttitle": "recommended diagnostic criteria for multiple sclerosis guidelines from the international panel on the diagnosis of multiple sclerosis",
+      "volume": "50",
+      "issue": "1",
+      "pages": "121-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7707449",
+      "issn": "0364-5134",
+      "essn": "",
+      "pubtype": [
+        "Guideline",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11456302"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ana.1032"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/07/18 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/01/05 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/07/18 10:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Neurol. 2006 May;59(5):871",
+          "reftype": "Comment in",
+          "pmid": 16634009,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of neurology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/07/01 00:00",
+      "sortfirstauthor": "McDonald WI",
+      "vernaculartitle": ""
+    }
+  }
+}

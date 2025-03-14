@@ -1,0 +1,181 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27244835"
+    ],
+    "27244835": {
+      "uid": "27244835",
+      "pubdate": "2016 May",
+      "epubdate": "2016 Apr 25",
+      "source": "Pediatrics",
+      "authors": [
+        {
+          "name": "Tieder JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bonkowsky JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Etzel RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Franklin WH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gremse DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herman B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Katz ES",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krilov LR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Merritt JL 2nd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Norlin C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Percelay J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sapi\u00e9n RE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shiffman RN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "SUBCOMMITTEE ON APPARENT LIFE THREATENING EVENTS",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Smith MB",
+      "title": "Brief Resolved Unexplained Events (Formerly Apparent Life-Threatening Events) and Evaluation of Lower-Risk Infants.",
+      "sorttitle": "brief resolved unexplained events formerly apparent life threatening events and evaluation of lower risk infants",
+      "volume": "137",
+      "issue": "5",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376422",
+      "issn": "0031-4005",
+      "essn": "1098-4275",
+      "pubtype": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27244835"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1542/peds.2016-0590"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "peds.2016-0590"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2016/06/01 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/06/01 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/06/15 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Pediatrics. 2016 Aug;138(2):",
+          "reftype": "Erratum in",
+          "pmid": 27474014,
+          "note": ""
+        },
+        {
+          "refsource": "Arch Dis Child Educ Pract Ed. 2018 Apr;103(2):95-98",
+          "reftype": "Comment in",
+          "pmid": 28923986,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatrics",
+      "elocationid": "pii: e20160590. doi: 10.1542/peds.2016-0590",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/05/01 00:00",
+      "sortfirstauthor": "Tieder JS",
+      "vernaculartitle": ""
+    }
+  }
+}

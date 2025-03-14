@@ -1,0 +1,165 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28828479"
+    ],
+    "28828479": {
+      "uid": "28828479",
+      "pubdate": "2017 Oct 1",
+      "epubdate": "",
+      "source": "JAMA Intern Med",
+      "authors": [
+        {
+          "name": "Karter AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Warton EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lipska KJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ralston JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moffet HH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jackson GG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang ES",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller DR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Miller DR",
+      "title": "Development and Validation of a Tool to Identify Patients With Type 2 Diabetes at High Risk of Hypoglycemia-Related Emergency Department or Hospital Use.",
+      "sorttitle": "development and validation of a tool to identify patients with type 2 diabetes at high risk of hypoglycemia related emergency department or hospital use",
+      "volume": "177",
+      "issue": "10",
+      "pages": "1461-1470",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101589534",
+      "issn": "2168-6106",
+      "essn": "2168-6114",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28828479"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS902579"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5624849"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5624849;manuscript-id: NIHMS902579;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamainternmed.2017.3844"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2649265"
+        },
+        {
+          "idtype": "version",
+          "idtypen": 8,
+          "value": "2"
+        },
+        {
+          "idtype": "version-id",
+          "idtypen": 8,
+          "value": "2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/08/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/10/13 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/08/23 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Nat Rev Endocrinol. 2017 Dec;13(12):692-693",
+          "reftype": "Comment in",
+          "pmid": 29052593,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 62,
+      "fulljournalname": "JAMA internal medicine",
+      "elocationid": "doi: 10.1001/jamainternmed.2017.3844",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/10/01 00:00",
+      "sortfirstauthor": "Karter AJ",
+      "vernaculartitle": ""
+    }
+  }
+}

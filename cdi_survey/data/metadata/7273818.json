@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7273818"
+    ],
+    "7273818": {
+      "uid": "7273818",
+      "pubdate": "1981 Sep",
+      "epubdate": "",
+      "source": "Crit Care Med",
+      "authors": [
+        {
+          "name": "Champion HR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sacco WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carnazzo AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Copes W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fouty WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fouty WJ",
+      "title": "Trauma score.",
+      "sorttitle": "trauma score",
+      "volume": "9",
+      "issue": "9",
+      "pages": "672-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0355501",
+      "issn": "0090-3493",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7273818"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00003246-198109000-00015"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1981/09/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1981/09/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1981/09/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Critical care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1981/09/01 00:00",
+      "sortfirstauthor": "Champion HR",
+      "vernaculartitle": ""
+    }
+  }
+}

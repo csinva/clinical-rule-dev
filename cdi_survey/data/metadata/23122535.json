@@ -1,0 +1,129 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23122535"
+    ],
+    "23122535": {
+      "uid": "23122535",
+      "pubdate": "2013 Jan",
+      "epubdate": "2012 Nov 2",
+      "source": "J Am Coll Surg",
+      "authors": [
+        {
+          "name": "Callery MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pratt WB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kent TS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chaikof EL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vollmer CM Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Vollmer CM Jr",
+      "title": "A prospectively validated clinical risk score accurately predicts pancreatic fistula after pancreatoduodenectomy.",
+      "sorttitle": "prospectively validated clinical risk score accurately predicts pancreatic fistula after pancreatoduodenectomy",
+      "volume": "216",
+      "issue": "1",
+      "pages": "1-14",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9431305",
+      "issn": "1072-7515",
+      "essn": "1879-1190",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23122535"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jamcollsurg.2012.09.002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1072-7515(12)01135-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2012/07/16 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2012/09/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2012/09/05 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2012/11/06 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/11/06 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/02/22 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American College of Surgeons",
+      "elocationid": "doi: 10.1016/j.jamcollsurg.2012.09.002",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/01/01 00:00",
+      "sortfirstauthor": "Callery MP",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25275721"
+    ],
+    "25275721": {
+      "uid": "25275721",
+      "pubdate": "2014 Dec",
+      "epubdate": "",
+      "source": "JAMA Ophthalmol",
+      "authors": [
+        {
+          "name": "Melles RB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marmor MF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Marmor MF",
+      "title": "The risk of toxic retinopathy in patients on long-term hydroxychloroquine therapy.",
+      "sorttitle": "risk of toxic retinopathy in patients on long term hydroxychloroquine therapy",
+      "volume": "132",
+      "issue": "12",
+      "pages": "1453-60",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101589539",
+      "issn": "2168-6165",
+      "essn": "2168-6173",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25275721"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamaophthalmol.2014.3459"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1913588"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/10/03 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/10/03 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/03/05 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA Ophthalmol. 2014 Dec;132(12):1493",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "JAMA Ophthalmol. 2014 Dec;132(12):1460-1",
+          "reftype": "Comment in",
+          "pmid": 25275367,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA ophthalmology",
+      "elocationid": "doi: 10.1001/jamaophthalmol.2014.3459",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/12/01 00:00",
+      "sortfirstauthor": "Melles RB",
+      "vernaculartitle": ""
+    }
+  }
+}

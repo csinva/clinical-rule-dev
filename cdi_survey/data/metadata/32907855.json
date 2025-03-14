@@ -1,0 +1,299 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "32907855"
+    ],
+    "32907855": {
+      "uid": "32907855",
+      "pubdate": "2020 Sep 9",
+      "epubdate": "2020 Sep 9",
+      "source": "BMJ",
+      "authors": [
+        {
+          "name": "Knight SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ho A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pius R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buchan I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carson G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Drake TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dunning J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fairfield CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gamble C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Green CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gupta R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Halpin S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hardwick HE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holden KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Horby PW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jackson C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mclean KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Merson L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nguyen-Van-Tam JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Norman L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Noursadeghi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Olliaro PL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pritchard MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Russell CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shaw CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheikh A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Solomon T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sudlow C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Swann OV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Turtle LC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Openshaw PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baillie JK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Semple MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Docherty AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Harrison EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "ISARIC4C investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Harrison EM",
+      "title": "Risk stratification of patients admitted to hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: development and validation of the 4C Mortality Score.",
+      "sorttitle": "risk stratification of patients admitted to hospital with covid 19 using the isaric who clinical characterisation protocol development and validation of the 4c mortality score",
+      "volume": "370",
+      "issue": "",
+      "pages": "m3339",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8900488",
+      "issn": "0959-8138",
+      "essn": "1756-1833",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32907855"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "EMS104583"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7116472"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7116472;manuscript-id: EMS104583;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmj.m3339"
+        },
+        {
+          "idtype": "version",
+          "idtypen": 8,
+          "value": "2"
+        },
+        {
+          "idtype": "version-id",
+          "idtypen": 8,
+          "value": "2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2020/09/10 05:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/09/11 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/09/17 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "BMJ. 2020 Nov 13;371:m4334",
+          "reftype": "Erratum in",
+          "pmid": 33187971,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 49,
+      "fulljournalname": "BMJ (Clinical research ed.)",
+      "elocationid": "doi: 10.1136/bmj.m3339",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2020/09/09 00:00",
+      "sortfirstauthor": "Knight SR",
+      "vernaculartitle": ""
+    }
+  }
+}

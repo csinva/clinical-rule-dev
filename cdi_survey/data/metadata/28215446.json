@@ -1,0 +1,149 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28215446"
+    ],
+    "28215446": {
+      "uid": "28215446",
+      "pubdate": "2017 Apr",
+      "epubdate": "2017 Feb 16",
+      "source": "J Am Acad Dermatol",
+      "authors": [
+        {
+          "name": "Raff AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weng QY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cohen JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gunasekera N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Okhovat JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vedak P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Joyce C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kroshinsky D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mostaghimi A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mostaghimi A",
+      "title": "A predictive model for diagnosis of lower extremity cellulitis: A cross-sectional study.",
+      "sorttitle": "predictive model for diagnosis of lower extremity cellulitis a cross sectional study",
+      "volume": "76",
+      "issue": "4",
+      "pages": "618-625.e2",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7907132",
+      "issn": "0190-9622",
+      "essn": "1097-6787",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28215446"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jaad.2016.12.044"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0190-9622(17)30018-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/10/21 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2016/11/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/12/23 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/02/22 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/04/26 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/02/21 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American Academy of Dermatology",
+      "elocationid": "doi: 10.1016/j.jaad.2016.12.044",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/04/01 00:00",
+      "sortfirstauthor": "Raff AB",
+      "vernaculartitle": ""
+    }
+  }
+}

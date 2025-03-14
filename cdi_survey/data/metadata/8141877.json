@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8141877"
+    ],
+    "8141877": {
+      "uid": "8141877",
+      "pubdate": "1993 Sep 30",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "International Non-Hodgkin's Lymphoma Prognostic Factors Project",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "International Non-Hodgkin's Lymphoma Prognostic Factors Project",
+      "title": "A predictive model for aggressive non-Hodgkin's lymphoma.",
+      "sorttitle": "predictive model for aggressive non hodgkin s lymphoma",
+      "volume": "329",
+      "issue": "14",
+      "pages": "987-94",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8141877"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM199309303291402"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1993/09/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1993/09/30 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1993/09/30 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med. 1994 Feb 24;330(8):574; author reply 574-5",
+          "reftype": "Comment in",
+          "pmid": 8302331,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 1994 Feb 24;330(8):574; author reply 574-5",
+          "reftype": "Comment in",
+          "pmid": 8302332,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1993/09/30 00:00",
+      "sortfirstauthor": "International Non-Hodgkin's Lymphoma Prognostic Factors Project",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23211183"
+    ],
+    "23211183": {
+      "uid": "23211183",
+      "pubdate": "2012 Nov",
+      "epubdate": "",
+      "source": "Br J Gen Pract",
+      "authors": [
+        {
+          "name": "Little P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hobbs FD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mant D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McNulty CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mullee M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "PRISM investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mullee M",
+      "title": "Incidence and clinical variables associated with streptococcal throat infections: a prospective diagnostic cohort study.",
+      "sorttitle": "incidence and clinical variables associated with streptococcal throat infections a prospective diagnostic cohort study",
+      "volume": "62",
+      "issue": "604",
+      "pages": "e787-94",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9005323",
+      "issn": "0960-1643",
+      "essn": "1478-5242",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23211183"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3481520"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3481520;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3399/bjgp12X658322"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/12/06 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/12/06 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/01/01 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Evid Based Med. 2013 Dec;18(6):234",
+          "reftype": "Comment in",
+          "pmid": 23585183,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 31,
+      "fulljournalname": "The British journal of general practice : the journal of the Royal College of General Practitioners",
+      "elocationid": "doi: 10.3399/bjgp12X658322",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/11/01 00:00",
+      "sortfirstauthor": "Little P",
+      "vernaculartitle": ""
+    }
+  }
+}

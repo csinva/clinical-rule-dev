@@ -1,0 +1,136 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24018585"
+    ],
+    "24018585": {
+      "uid": "24018585",
+      "pubdate": "2013 Nov 11",
+      "epubdate": "",
+      "source": "JAMA Intern Med",
+      "authors": [
+        {
+          "name": "Ebell MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Geocadin RG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Get With the Guidelines\u2013Resuscitation Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Geocadin RG",
+      "title": "Development and validation of the Good Outcome Following Attempted Resuscitation (GO-FAR) score to predict neurologically intact survival after in-hospital cardiopulmonary resuscitation.",
+      "sorttitle": "development and validation of the good outcome following attempted resuscitation go far score to predict neurologically intact survival after in hospital cardiopulmonary resuscitation",
+      "volume": "173",
+      "issue": "20",
+      "pages": "1872-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101589534",
+      "issn": "2168-6106",
+      "essn": "2168-6114",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24018585"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamainternmed.2013.10037"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1735894"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/09/11 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/09/11 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/01/08 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Intern Med. 2013 Dec 17;159(12):JC13",
+          "reftype": "Comment in",
+          "pmid": 24343406,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA Intern Med. 2015 Jul;175(7):1247-8",
+          "reftype": "Erratum in",
+          "pmid": 26146925,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA Intern Med. 2021 Oct 1;181(10):1421",
+          "reftype": "Comment in",
+          "pmid": 34398186,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA internal medicine",
+      "elocationid": "doi: 10.1001/jamainternmed.2013.10037",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/11/11 00:00",
+      "sortfirstauthor": "Ebell MH",
+      "vernaculartitle": ""
+    }
+  }
+}

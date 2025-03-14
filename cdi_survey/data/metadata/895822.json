@@ -1,0 +1,95 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "895822"
+    ],
+    "895822": {
+      "uid": "895822",
+      "pubdate": "1977 Oct 13",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Oh MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carroll HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Carroll HJ",
+      "title": "The anion gap.",
+      "sorttitle": "anion gap",
+      "volume": "297",
+      "issue": "15",
+      "pages": "814-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "895822"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM197710132971507"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1977/10/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1977/10/13 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1977/10/13 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1977/10/13 00:00",
+      "sortfirstauthor": "Oh MS",
+      "vernaculartitle": ""
+    }
+  }
+}

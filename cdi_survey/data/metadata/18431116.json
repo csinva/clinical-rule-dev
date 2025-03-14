@@ -1,0 +1,139 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18431116"
+    ],
+    "18431116": {
+      "uid": "18431116",
+      "pubdate": "2008 May",
+      "epubdate": "",
+      "source": "Anesthesiology",
+      "authors": [
+        {
+          "name": "Chung F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yegneswaran B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liao P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chung SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vairavanathan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Islam S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khajehdehi A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shapiro CM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shapiro CM",
+      "title": "STOP questionnaire: a tool to screen patients for obstructive sleep apnea.",
+      "sorttitle": "stop questionnaire a tool to screen patients for obstructive sleep apnea",
+      "volume": "108",
+      "issue": "5",
+      "pages": "812-21",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1300217",
+      "issn": "0003-3022",
+      "essn": "1528-1175",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18431116"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/ALN.0b013e31816d83e4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00000542-200805000-00008"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/04/24 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/05/29 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/04/24 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Anesthesiology. 2009 Jan;110(1):193; author reply 193-4",
+          "reftype": "Comment in",
+          "pmid": 19104189,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Anesthesiology",
+      "elocationid": "doi: 10.1097/ALN.0b013e31816d83e4",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/05/01 00:00",
+      "sortfirstauthor": "Chung F",
+      "vernaculartitle": ""
+    }
+  }
+}

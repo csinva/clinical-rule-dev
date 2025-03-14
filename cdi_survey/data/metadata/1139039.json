@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1139039"
+    ],
+    "1139039": {
+      "uid": "1139039",
+      "pubdate": "1975 Aug",
+      "epubdate": "",
+      "source": "Blood",
+      "authors": [
+        {
+          "name": "Rai KR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sawitsky A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cronkite EP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chanana AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levy RN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pasternack BS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pasternack BS",
+      "title": "Clinical staging of chronic lymphocytic leukemia.",
+      "sorttitle": "clinical staging of chronic lymphocytic leukemia",
+      "volume": "46",
+      "issue": "2",
+      "pages": "219-34",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7603509",
+      "issn": "0006-4971",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1139039"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)70964-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1975/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1975/08/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1975/08/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Blood",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1975/08/01 00:00",
+      "sortfirstauthor": "Rai KR",
+      "vernaculartitle": ""
+    }
+  }
+}

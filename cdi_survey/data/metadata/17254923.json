@@ -1,0 +1,137 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17254923"
+    ],
+    "17254923": {
+      "uid": "17254923",
+      "pubdate": "2007 Feb",
+      "epubdate": "2006 Dec 27",
+      "source": "J Am Coll Surg",
+      "authors": [
+        {
+          "name": "Gawande AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kwaan MR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Regenbogen SE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lipsitz SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zinner MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zinner MJ",
+      "title": "An Apgar score for surgery.",
+      "sorttitle": "apgar score for surgery",
+      "volume": "204",
+      "issue": "2",
+      "pages": "201-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9431305",
+      "issn": "1072-7515",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17254923"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jamcollsurg.2006.11.011"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1072-7515(06)01709-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2006/07/07 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2006/11/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2006/11/15 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/01/27 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/04/04 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/01/27 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Am Coll Surg. 2007 Nov;205(5):e3-4; author reply e4-5",
+          "reftype": "Comment in",
+          "pmid": 17964430,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American College of Surgeons",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/02/01 00:00",
+      "sortfirstauthor": "Gawande AA",
+      "vernaculartitle": ""
+    }
+  }
+}

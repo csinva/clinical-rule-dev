@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21422095"
+    ],
+    "21422095": {
+      "uid": "21422095",
+      "pubdate": "2011 Apr",
+      "epubdate": "2011 Mar 21",
+      "source": "Pediatrics",
+      "authors": [
+        {
+          "name": "Borgman MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maegele M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wade CE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blackbourne LH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spinella PC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Spinella PC",
+      "title": "Pediatric trauma BIG score: predicting mortality in children after military and civilian trauma.",
+      "sorttitle": "pediatric trauma big score predicting mortality in children after military and civilian trauma",
+      "volume": "127",
+      "issue": "4",
+      "pages": "e892-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376422",
+      "issn": "0031-4005",
+      "essn": "1098-4275",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21422095"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1542/peds.2010-2439"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "peds.2010-2439"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/03/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/03/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/06/01 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatrics",
+      "elocationid": "doi: 10.1542/peds.2010-2439",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/04/01 00:00",
+      "sortfirstauthor": "Borgman MA",
+      "vernaculartitle": ""
+    }
+  }
+}

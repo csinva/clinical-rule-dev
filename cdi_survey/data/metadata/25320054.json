@@ -1,0 +1,155 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25320054"
+    ],
+    "25320054": {
+      "uid": "25320054",
+      "pubdate": "2015 Nov",
+      "epubdate": "2014 Oct 15",
+      "source": "J Neurointerv Surg",
+      "authors": [
+        {
+          "name": "Rangaraju S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aghaebrahim A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Streib C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun CH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ribo M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Muchada M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nogueira R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Frankel M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gupta R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jadhav A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jovin TG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jovin TG",
+      "title": "Pittsburgh Response to Endovascular therapy (PRE) score: optimizing patient selection for endovascular therapy for large vessel occlusion strokes.",
+      "sorttitle": "pittsburgh response to endovascular therapy pre score optimizing patient selection for endovascular therapy for large vessel occlusion strokes",
+      "volume": "7",
+      "issue": "11",
+      "pages": "783-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101517079",
+      "issn": "1759-8478",
+      "essn": "1759-8486",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25320054"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/neurintsurg-2014-011351"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "neurintsurg-2014-011351"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2014/06/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2014/09/04 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2014/10/17 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/10/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/08/10 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of neurointerventional surgery",
+      "elocationid": "doi: 10.1136/neurintsurg-2014-011351",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/11/01 00:00",
+      "sortfirstauthor": "Rangaraju S",
+      "vernaculartitle": ""
+    }
+  }
+}

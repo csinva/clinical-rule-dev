@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10485781"
+    ],
+    "10485781": {
+      "uid": "10485781",
+      "pubdate": "1999 Sep",
+      "epubdate": "",
+      "source": "Anesthesiology",
+      "authors": [
+        {
+          "name": "Apfel CC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "L\u00e4\u00e4r\u00e4 E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Koivuranta M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greim CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roewer N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Roewer N",
+      "title": "A simplified risk score for predicting postoperative nausea and vomiting: conclusions from cross-validations between two centers.",
+      "sorttitle": "simplified risk score for predicting postoperative nausea and vomiting conclusions from cross validations between two centers",
+      "volume": "91",
+      "issue": "3",
+      "pages": "693-700",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1300217",
+      "issn": "0003-3022",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10485781"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00000542-199909000-00022"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1999/09/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1999/09/15 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1999/09/15 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Anesthesiology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1999/09/01 00:00",
+      "sortfirstauthor": "Apfel CC",
+      "vernaculartitle": ""
+    }
+  }
+}

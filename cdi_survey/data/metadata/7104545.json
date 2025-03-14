@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7104545"
+    ],
+    "7104545": {
+      "uid": "7104545",
+      "pubdate": "1982 Jun",
+      "epubdate": "",
+      "source": "Br J Psychiatry",
+      "authors": [
+        {
+          "name": "Hughes CP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berg L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Danziger WL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coben LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Martin RL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Martin RL",
+      "title": "A new clinical scale for the staging of dementia.",
+      "sorttitle": "new clinical scale for the staging of dementia",
+      "volume": "140",
+      "issue": "",
+      "pages": "566-72",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0342367",
+      "issn": "0007-1250",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7104545"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1192/bjp.140.6.566"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0007125000112085"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1982/06/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1982/06/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1982/06/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The British journal of psychiatry : the journal of mental science",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1982/06/01 00:00",
+      "sortfirstauthor": "Hughes CP",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6700642"
+    ],
+    "6700642": {
+      "uid": "6700642",
+      "pubdate": "1984 Mar 15",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Paradise JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bluestone CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bachman RZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Colborn DK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernard BS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taylor FH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rogers KD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schwarzbach RH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stool SE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Friday GA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Friday GA",
+      "title": "Efficacy of tonsillectomy for recurrent throat infection in severely affected children. Results of parallel randomized and nonrandomized clinical trials.",
+      "sorttitle": "efficacy of tonsillectomy for recurrent throat infection in severely affected children results of parallel randomized and nonrandomized clinical trials",
+      "volume": "310",
+      "issue": "11",
+      "pages": "674-83",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6700642"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM198403153101102"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1984/03/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1984/03/15 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1984/03/15 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Author List Incomplete"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1984/03/15 00:00",
+      "sortfirstauthor": "Paradise JL",
+      "vernaculartitle": ""
+    }
+  }
+}

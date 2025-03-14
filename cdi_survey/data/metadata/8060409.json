@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8060409"
+    ],
+    "8060409": {
+      "uid": "8060409",
+      "pubdate": "1994 Sep",
+      "epubdate": "",
+      "source": "Am J Emerg Med",
+      "authors": [
+        {
+          "name": "Seaberg DC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jackson R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jackson R",
+      "title": "Clinical decision rule for knee radiographs.",
+      "sorttitle": "clinical decision rule for knee radiographs",
+      "volume": "12",
+      "issue": "5",
+      "pages": "541-3",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309942",
+      "issn": "0735-6757",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8060409"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0735-6757(94)90274-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0735-6757(94)90274-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1994/09/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1994/09/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1994/09/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of emergency medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1994/09/01 00:00",
+      "sortfirstauthor": "Seaberg DC",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11073021"
+    ],
+    "11073021": {
+      "uid": "11073021",
+      "pubdate": "2000 Oct 14",
+      "epubdate": "",
+      "source": "Lancet",
+      "authors": [
+        {
+          "name": "Blatchford O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Murray WR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blatchford M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Blatchford M",
+      "title": "A risk score to predict need for treatment for upper-gastrointestinal haemorrhage.",
+      "sorttitle": "risk score to predict need for treatment for upper gastrointestinal haemorrhage",
+      "volume": "356",
+      "issue": "9238",
+      "pages": "1318-21",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985213R",
+      "issn": "0140-6736",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11073021"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(00)02816-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(00)02816-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/11/10 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/02/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/11/10 11:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet. 2000 Oct 14;356(9238):1289-90",
+          "reftype": "Comment in",
+          "pmid": 11073012,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet. 2000 Dec 16;356(9247):2101",
+          "reftype": "Comment in",
+          "pmid": 11145521,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet. 2001 Feb 17;357(9255):560",
+          "reftype": "Comment in",
+          "pmid": 11229701,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Lancet (London, England)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/10/14 00:00",
+      "sortfirstauthor": "Blatchford O",
+      "vernaculartitle": ""
+    }
+  }
+}

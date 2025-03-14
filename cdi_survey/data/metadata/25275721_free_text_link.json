@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "25275721",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/10.1001/jamaophthalmol.2014.3459"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--archopht.jamanetwork.com-images-PUBMED_Ophthalmology_full.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Silverchair Information Systems",
+                "nameabbr": "silverchair",
+                "id": "7898"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

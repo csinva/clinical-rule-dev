@@ -1,0 +1,176 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "32176248"
+    ],
+    "32176248": {
+      "uid": "32176248",
+      "pubdate": "2020 May 1",
+      "epubdate": "",
+      "source": "JAMA Intern Med",
+      "authors": [
+        {
+          "name": "Trubiano JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vogrin S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chua KYL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bourke J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yun J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Douglas A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stone CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Groenendijk L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holmes NE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Phillips EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Phillips EJ",
+      "title": "Development and Validation of a Penicillin Allergy Clinical Decision Rule.",
+      "sorttitle": "development and validation of a penicillin allergy clinical decision rule",
+      "volume": "180",
+      "issue": "5",
+      "pages": "745-752",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101589534",
+      "issn": "2168-6106",
+      "essn": "2168-6114",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32176248"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7076536"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7076536;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamainternmed.2020.0403"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2762878"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/03/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/01/21 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2020/03/17 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Urol. 2020 Oct;204(4):869",
+          "reftype": "Comment in",
+          "pmid": 32701374,
+          "note": ""
+        },
+        {
+          "refsource": "MMW Fortschr Med. 2020 Aug;162(14):26",
+          "reftype": "Comment in",
+          "pmid": 32780392,
+          "note": ""
+        },
+        {
+          "refsource": "J Allergy Clin Immunol Pract. 2022 Jul;10(7):1919-1921.e1",
+          "reftype": "Comment in",
+          "pmid": 35398550,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 32,
+      "fulljournalname": "JAMA internal medicine",
+      "elocationid": "doi: 10.1001/jamainternmed.2020.0403",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2020/05/01 00:00",
+      "sortfirstauthor": "Trubiano JA",
+      "vernaculartitle": ""
+    }
+  }
+}

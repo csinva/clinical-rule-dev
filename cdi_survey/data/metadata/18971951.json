@@ -1,0 +1,125 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18971951"
+    ],
+    "18971951": {
+      "uid": "18971951",
+      "pubdate": "2009 Jan",
+      "epubdate": "2008 Oct 30",
+      "source": "Leukemia",
+      "authors": [
+        {
+          "name": "Kyle RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rajkumar SV",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rajkumar SV",
+      "title": "Criteria for diagnosis, staging, risk stratification and response assessment of multiple myeloma.",
+      "sorttitle": "criteria for diagnosis staging risk stratification and response assessment of multiple myeloma",
+      "volume": "23",
+      "issue": "1",
+      "pages": "3-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8704895",
+      "issn": "0887-6924",
+      "essn": "1476-5551",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18971951"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS80531"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2627786"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2627786;manuscript-id: NIHMS80531;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/leu.2008.291"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "leu2008291"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/10/31 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/02/07 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/10/31 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Leukemia. 2014 Apr;28(4):980",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 30,
+      "fulljournalname": "Leukemia",
+      "elocationid": "doi: 10.1038/leu.2008.291",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/01/01 00:00",
+      "sortfirstauthor": "Kyle RA",
+      "vernaculartitle": ""
+    }
+  }
+}

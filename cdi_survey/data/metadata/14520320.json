@@ -1,0 +1,155 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14520320"
+    ],
+    "14520320": {
+      "uid": "14520320",
+      "pubdate": "2003 Oct",
+      "epubdate": "",
+      "source": "Ann Emerg Med",
+      "authors": [
+        {
+          "name": "Palchak MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holmes JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vance CW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gelber RE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schauer BA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Harrison MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Willis-Shore J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wootton-Gorges SL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Derlet RW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kuppermann N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kuppermann N",
+      "title": "A decision rule for identifying children at low risk for brain injuries after blunt head trauma.",
+      "sorttitle": "decision rule for identifying children at low risk for brain injuries after blunt head trauma",
+      "volume": "42",
+      "issue": "4",
+      "pages": "492-506",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8002646",
+      "issn": "0196-0644",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14520320"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1067/s0196-0644(03)00425-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0196064403004256"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/10/02 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/10/30 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/10/02 05:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Emerg Med. 2003 Oct;42(4):515-8",
+          "reftype": "Comment in",
+          "pmid": 14520322,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Emerg Med. 2004 Jul;44(1):90-1; author reply 91-2",
+          "reftype": "Comment in",
+          "pmid": 15259171,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of emergency medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/10/01 00:00",
+      "sortfirstauthor": "Palchak MJ",
+      "vernaculartitle": ""
+    }
+  }
+}

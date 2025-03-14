@@ -1,0 +1,92 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "947239"
+    ],
+    "947239": {
+      "uid": "947239",
+      "pubdate": "1976 Aug 9",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Espinel CH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Espinel CH",
+      "title": "The FENa test. Use in the differential diagnosis of acute renal failure.",
+      "sorttitle": "fena test use in the differential diagnosis of acute renal failure",
+      "volume": "236",
+      "issue": "6",
+      "pages": "579-81",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "947239"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.236.6.579"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1976/08/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1976/08/09 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1976/08/09 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1976/08/09 00:00",
+      "sortfirstauthor": "Espinel CH",
+      "vernaculartitle": ""
+    }
+  }
+}

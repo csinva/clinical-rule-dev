@@ -1,0 +1,111 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18553045"
+    ],
+    "18553045": {
+      "uid": "18553045",
+      "pubdate": "2008 Aug",
+      "epubdate": "",
+      "source": "World J Surg",
+      "authors": [
+        {
+          "name": "Andersson M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Andersson RE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Andersson RE",
+      "title": "The appendicitis inflammatory response score: a tool for the diagnosis of acute appendicitis that outperforms the Alvarado score.",
+      "sorttitle": "appendicitis inflammatory response score a tool for the diagnosis of acute appendicitis that outperforms the alvarado score",
+      "volume": "32",
+      "issue": "8",
+      "pages": "1843-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7704052",
+      "issn": "0364-2313",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18553045"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00268-008-9649-y"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/06/17 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/01/10 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/06/17 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "World J Surg. 2012 Sep;36(9):2269-70",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "World J Surg. 2008 Aug;32(8):1850",
+          "reftype": "Comment in",
+          "pmid": 18560932,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "World journal of surgery",
+      "elocationid": "doi: 10.1007/s00268-008-9649-y",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/08/01 00:00",
+      "sortfirstauthor": "Andersson M",
+      "vernaculartitle": ""
+    }
+  }
+}

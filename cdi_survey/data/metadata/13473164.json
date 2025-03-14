@@ -1,0 +1,85 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "13473164"
+    ],
+    "13473164": {
+      "uid": "13473164",
+      "pubdate": "1957 Aug",
+      "epubdate": "",
+      "source": "Clin Sci",
+      "authors": [
+        {
+          "name": "MARSHALL R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "MARSHALL R",
+      "title": "The physical properties of the lungs in relation to the subdivisions of lung volume.",
+      "sorttitle": "physical properties of the lungs in relation to the subdivisions of lung volume",
+      "volume": "16",
+      "issue": "3",
+      "pages": "507-15",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0367732",
+      "issn": "0009-9287",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "13473164"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1957/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1957/08/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1957/08/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical science",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1957/08/01 00:00",
+      "sortfirstauthor": "MARSHALL R",
+      "vernaculartitle": ""
+    }
+  }
+}

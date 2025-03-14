@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2782256"
+    ],
+    "2782256": {
+      "uid": "2782256",
+      "pubdate": "1989 Sep 15",
+      "epubdate": "",
+      "source": "Am J Cardiol",
+      "authors": [
+        {
+          "name": "Hlatky MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boineau RE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Higginbotham MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee KL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mark DB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Califf RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cobb FR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pryor DB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pryor DB",
+      "title": "A brief self-administered questionnaire to determine functional capacity (the Duke Activity Status Index).",
+      "sorttitle": "brief self administered questionnaire to determine functional capacity the duke activity status index",
+      "volume": "64",
+      "issue": "10",
+      "pages": "651-4",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0207277",
+      "issn": "0002-9149",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2782256"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0002-9149(89)90496-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0002-9149(89)90496-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1989/09/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1989/09/15 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1989/09/15 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of cardiology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1989/09/15 00:00",
+      "sortfirstauthor": "Hlatky MA",
+      "vernaculartitle": ""
+    }
+  }
+}

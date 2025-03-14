@@ -1,0 +1,95 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6067254"
+    ],
+    "6067254": {
+      "uid": "6067254",
+      "pubdate": "1967 May",
+      "epubdate": "",
+      "source": "Neurology",
+      "authors": [
+        {
+          "name": "Hoehn MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yahr MD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yahr MD",
+      "title": "Parkinsonism: onset, progression and mortality.",
+      "sorttitle": "parkinsonism onset progression and mortality",
+      "volume": "17",
+      "issue": "5",
+      "pages": "427-42",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401060",
+      "issn": "0028-3878",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6067254"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1212/wnl.17.5.427"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1967/05/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1967/05/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1967/05/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1967/05/01 00:00",
+      "sortfirstauthor": "Hoehn MM",
+      "vernaculartitle": ""
+    }
+  }
+}

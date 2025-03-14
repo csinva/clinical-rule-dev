@@ -1,0 +1,98 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9360037"
+    ],
+    "9360037": {
+      "uid": "9360037",
+      "pubdate": "1997 Aug",
+      "epubdate": "",
+      "source": "Clin Rehabil",
+      "authors": [
+        {
+          "name": "Swain DG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nightingale PG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nightingale PG",
+      "title": "Evaluation of a shortened version of the Abbreviated Mental Test in a series of elderly patients.",
+      "sorttitle": "evaluation of a shortened version of the abbreviated mental test in a series of elderly patients",
+      "volume": "11",
+      "issue": "3",
+      "pages": "243-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8802181",
+      "issn": "0269-2155",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9360037"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/026921559701100308"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1997/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1997/11/14 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1997/08/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical rehabilitation",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1997/08/01 00:00",
+      "sortfirstauthor": "Swain DG",
+      "vernaculartitle": ""
+    }
+  }
+}

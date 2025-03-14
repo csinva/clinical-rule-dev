@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1248701"
+    ],
+    "1248701": {
+      "uid": "1248701",
+      "pubdate": "1976 Mar",
+      "epubdate": "",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Best WR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Becktel JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singleton JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kern F Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kern F Jr",
+      "title": "Development of a Crohn's disease activity index. National Cooperative Crohn's Disease Study.",
+      "sorttitle": "development of a crohn s disease activity index national cooperative crohn s disease study",
+      "volume": "70",
+      "issue": "3",
+      "pages": "439-44",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1248701"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016508576000504"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1976/03/11 19:15"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/03/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1976/03/11 19:15"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1976/03/01 00:00",
+      "sortfirstauthor": "Best WR",
+      "vernaculartitle": ""
+    }
+  }
+}

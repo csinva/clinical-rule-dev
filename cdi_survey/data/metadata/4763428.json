@@ -1,0 +1,90 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4763428"
+    ],
+    "4763428": {
+      "uid": "4763428",
+      "pubdate": "1973 Oct 18",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Katz MA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Katz MA",
+      "title": "Hyperglycemia-induced hyponatremia--calculation of expected serum sodium depression.",
+      "sorttitle": "hyperglycemia induced hyponatremia calculation of expected serum sodium depression",
+      "volume": "289",
+      "issue": "16",
+      "pages": "843-4",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4763428"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM197310182891607"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1973/10/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1973/10/18 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1973/10/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1973/10/18 00:00",
+      "sortfirstauthor": "Katz MA",
+      "vernaculartitle": ""
+    }
+  }
+}

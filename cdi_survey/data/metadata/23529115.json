@@ -1,0 +1,119 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23529115"
+    ],
+    "23529115": {
+      "uid": "23529115",
+      "pubdate": "2013 Apr 22",
+      "epubdate": "",
+      "source": "JAMA Intern Med",
+      "authors": [
+        {
+          "name": "Donz\u00e9 J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aujesky D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Williams D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schnipper JL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Schnipper JL",
+      "title": "Potentially avoidable 30-day hospital readmissions in medical patients: derivation and validation of a prediction model.",
+      "sorttitle": "potentially avoidable 30 day hospital readmissions in medical patients derivation and validation of a prediction model",
+      "volume": "173",
+      "issue": "8",
+      "pages": "632-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101589534",
+      "issn": "2168-6106",
+      "essn": "2168-6114",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23529115"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamainternmed.2013.3023"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1672282"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/03/27 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/03/27 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/06/26 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA Intern Med. 2013 Apr 22;173(8):629-31",
+          "reftype": "Comment in",
+          "pmid": 23529359,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA internal medicine",
+      "elocationid": "doi: 10.1001/jamainternmed.2013.3023",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/04/22 00:00",
+      "sortfirstauthor": "Donz\u00e9 J",
+      "vernaculartitle": ""
+    }
+  }
+}

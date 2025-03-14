@@ -1,0 +1,118 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28699845"
+    ],
+    "28699845": {
+      "uid": "28699845",
+      "pubdate": "2017 Oct-Dec",
+      "epubdate": "2017 Jul 12",
+      "source": "Subst Abus",
+      "authors": [
+        {
+          "name": "Rastegar DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Applewhite D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alvanzo AAH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Welsh C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Niessen T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen ES",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chen ES",
+      "title": "Development and implementation of an alcohol withdrawal protocol using a 5-item scale, the Brief Alcohol Withdrawal Scale (BAWS).",
+      "sorttitle": "development and implementation of an alcohol withdrawal protocol using a 5 item scale the brief alcohol withdrawal scale baws",
+      "volume": "38",
+      "issue": "4",
+      "pages": "394-400",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8808537",
+      "issn": "0889-7077",
+      "essn": "1547-0164",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28699845"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/08897077.2017.1354119"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/07/13 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/06/16 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/07/13 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Substance abuse",
+      "elocationid": "doi: 10.1080/08897077.2017.1354119",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/10/01 00:00",
+      "sortfirstauthor": "Rastegar DA",
+      "vernaculartitle": ""
+    }
+  }
+}

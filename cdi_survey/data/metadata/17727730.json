@@ -1,0 +1,125 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17727730"
+    ],
+    "17727730": {
+      "uid": "17727730",
+      "pubdate": "2007 Aug 29",
+      "epubdate": "2007 Aug 29",
+      "source": "BMC Fam Pract",
+      "authors": [
+        {
+          "name": "Sohal H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eldridge S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feder G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Feder G",
+      "title": "The sensitivity and specificity of four questions (HARK) to identify intimate partner violence: a diagnostic accuracy study in general practice.",
+      "sorttitle": "sensitivity and specificity of four questions hark to identify intimate partner violence a diagnostic accuracy study in general practice",
+      "volume": "8",
+      "issue": "",
+      "pages": "49",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100967792",
+      "issn": "",
+      "essn": "1471-2296",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17727730"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2034562"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2034562;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/1471-2296-8-49"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1471-2296-8-49"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2006/12/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2007/08/29 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/08/31 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/11/14 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/08/31 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 40,
+      "fulljournalname": "BMC family practice",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/08/29 00:00",
+      "sortfirstauthor": "Sohal H",
+      "vernaculartitle": ""
+    }
+  }
+}

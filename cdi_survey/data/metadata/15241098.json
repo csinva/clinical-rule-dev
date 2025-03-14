@@ -1,0 +1,136 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15241098"
+    ],
+    "15241098": {
+      "uid": "15241098",
+      "pubdate": "2004 Jul",
+      "epubdate": "",
+      "source": "Crit Care Med",
+      "authors": [
+        {
+          "name": "Wong CH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khin LW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heng KS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tan KC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Low CO",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Low CO",
+      "title": "The LRINEC (Laboratory Risk Indicator for Necrotizing Fasciitis) score: a tool for distinguishing necrotizing fasciitis from other soft tissue infections.",
+      "sorttitle": "lrinec laboratory risk indicator for necrotizing fasciitis score a tool for distinguishing necrotizing fasciitis from other soft tissue infections",
+      "volume": "32",
+      "issue": "7",
+      "pages": "1535-41",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0355501",
+      "issn": "0090-3493",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15241098"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/01.ccm.0000129486.35458.7d"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00003246-200407000-00011"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/07/09 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/08/04 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/07/09 05:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Crit Care Med. 2004 Jul;32(7):1618-9",
+          "reftype": "Comment in",
+          "pmid": 15241119,
+          "note": ""
+        },
+        {
+          "refsource": "Crit Care Med. 2005 Jul;33(7):1677",
+          "reftype": "Comment in",
+          "pmid": 16003106,
+          "note": ""
+        },
+        {
+          "refsource": "J Oral Maxillofac Surg. 2016 Jun;74(6):1104-5",
+          "reftype": "Comment in",
+          "pmid": 26963076,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Critical care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/07/01 00:00",
+      "sortfirstauthor": "Wong CH",
+      "vernaculartitle": ""
+    }
+  }
+}

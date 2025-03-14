@@ -1,0 +1,165 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8559200"
+    ],
+    "8559200": {
+      "uid": "8559200",
+      "pubdate": "1996 Feb 22",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Sgarbossa EB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pinski SL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Barbagelata A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Underwood DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gates KB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Topol EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Califf RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wagner GS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wagner GS",
+      "title": "Electrocardiographic diagnosis of evolving acute myocardial infarction in the presence of left bundle-branch block. GUSTO-1 (Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries) Investigators.",
+      "sorttitle": "electrocardiographic diagnosis of evolving acute myocardial infarction in the presence of left bundle branch block gusto 1 global utilization of streptokinase and tissue plasminogen activator for occluded coronary arteries investigators",
+      "volume": "334",
+      "issue": "8",
+      "pages": "481-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8559200"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM199602223340801"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1996/02/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1996/02/22 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1996/02/22 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med 1996 Apr 4;334(14):931",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 1996 Feb 22;334(8):528-9",
+          "reftype": "Comment in",
+          "pmid": 8559208,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 1996 Jul 11;335(2):131-2; author reply 133",
+          "reftype": "Comment in",
+          "pmid": 8649478,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 1996 Jul 11;335(2):132; author reply 133",
+          "reftype": "Comment in",
+          "pmid": 8649479,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 1996 Jul 11;335(2):132-3",
+          "reftype": "Comment in",
+          "pmid": 8649480,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 1996 Jul 11;335(2):133",
+          "reftype": "Comment in",
+          "pmid": 8649481,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1996/02/22 00:00",
+      "sortfirstauthor": "Sgarbossa EB",
+      "vernaculartitle": ""
+    }
+  }
+}

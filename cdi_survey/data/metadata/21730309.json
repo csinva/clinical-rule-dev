@@ -1,0 +1,175 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21730309"
+    ],
+    "21730309": {
+      "uid": "21730309",
+      "pubdate": "2011 Jul 26",
+      "epubdate": "2011 Jul 5",
+      "source": "Circulation",
+      "authors": [
+        {
+          "name": "Gupta PK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gupta H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sundaram A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaushik M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Esterbrooks DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hunter CB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pipinos II",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johanning JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lynch TG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Forse RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohiuddin SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mooss AN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mooss AN",
+      "title": "Development and validation of a risk calculator for prediction of cardiac risk after surgery.",
+      "sorttitle": "development and validation of a risk calculator for prediction of cardiac risk after surgery",
+      "volume": "124",
+      "issue": "4",
+      "pages": "381-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147763",
+      "issn": "0009-7322",
+      "essn": "1524-4539",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21730309"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/CIRCULATIONAHA.110.015701"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CIRCULATIONAHA.110.015701"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/07/07 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/07/07 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/09/29 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Circulation. 2011 Jul 26;124(4):376-7",
+          "reftype": "Comment in",
+          "pmid": 21788598,
+          "note": ""
+        },
+        {
+          "refsource": "Circulation. 2012 Feb 21;125(7):e385; author reply e386",
+          "reftype": "Comment in",
+          "pmid": 22354985,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Circulation",
+      "elocationid": "doi: 10.1161/CIRCULATIONAHA.110.015701",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/07/26 00:00",
+      "sortfirstauthor": "Gupta PK",
+      "vernaculartitle": ""
+    }
+  }
+}

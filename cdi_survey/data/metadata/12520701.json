@@ -1,0 +1,104 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12520701"
+    ],
+    "12520701": {
+      "uid": "12520701",
+      "pubdate": "2003 Jan",
+      "epubdate": "",
+      "source": "Am J Clin Pathol",
+      "authors": [
+        {
+          "name": "Vollmer RT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Humphrey PA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Humphrey PA",
+      "title": "Tumor volume in prostate cancer and serum prostate-specific antigen. Analysis from a kinetic viewpoint.",
+      "sorttitle": "tumor volume in prostate cancer and serum prostate specific antigen analysis from a kinetic viewpoint",
+      "volume": "119",
+      "issue": "1",
+      "pages": "80-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370470",
+      "issn": "0002-9173",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12520701"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1309/UNAQ-JTFP-B1RQ-BQD4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/01/11 04:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/01/24 04:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/01/11 04:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Clin Pathol. 2003 Jan;119(1):14-7",
+          "reftype": "Comment in",
+          "pmid": 12520692,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of clinical pathology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/01/01 00:00",
+      "sortfirstauthor": "Vollmer RT",
+      "vernaculartitle": ""
+    }
+  }
+}

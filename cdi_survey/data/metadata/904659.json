@@ -1,0 +1,152 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "904659"
+    ],
+    "904659": {
+      "uid": "904659",
+      "pubdate": "1977 Oct 20",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Goldman L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caldera DL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nussbaum SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Southwick FS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krogstad D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Murray B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burke DS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "O'Malley TA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goroll AH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caplan CH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nolan J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carabello B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Slater EE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Slater EE",
+      "title": "Multifactorial index of cardiac risk in noncardiac surgical procedures.",
+      "sorttitle": "multifactorial index of cardiac risk in noncardiac surgical procedures",
+      "volume": "297",
+      "issue": "16",
+      "pages": "845-50",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "904659"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM197710202971601"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1977/10/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1977/10/20 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1977/10/20 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1977/10/20 00:00",
+      "sortfirstauthor": "Goldman L",
+      "vernaculartitle": ""
+    }
+  }
+}

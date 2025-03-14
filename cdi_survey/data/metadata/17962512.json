@@ -1,0 +1,216 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17962512"
+    ],
+    "17962512": {
+      "uid": "17962512",
+      "pubdate": "2008 Jan 15",
+      "epubdate": "2007 Oct 25",
+      "source": "Blood",
+      "authors": [
+        {
+          "name": "Hoster E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dreyling M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Klapper W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gisselbrecht C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Hoof A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kluin-Nelemans HC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pfreundschuh M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reiser M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Metzner B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Einsele H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peter N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jung W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "W\u00f6rmann B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ludwig WD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "D\u00fchrsen U",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eimermacher H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wandt H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hasford J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hiddemann W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Unterhalt M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "German Low Grade Lymphoma Study Group (GLSG)",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        },
+        {
+          "name": "European Mantle Cell Lymphoma Network",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Unterhalt M",
+      "title": "A new prognostic index (MIPI) for patients with advanced-stage mantle cell lymphoma.",
+      "sorttitle": "new prognostic index mipi for patients with advanced stage mantle cell lymphoma",
+      "volume": "111",
+      "issue": "2",
+      "pages": "558-65",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7603509",
+      "issn": "0006-4971",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17962512"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2007-06-095331"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)48470-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/10/27 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/03/12 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/10/27 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Blood. 2008 Jun 15;111(12):5761",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "Blood. 2008 Sep 15;112(6):2583; author reply 2583-4",
+          "reftype": "Comment in",
+          "pmid": 18779406,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Blood",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/01/15 00:00",
+      "sortfirstauthor": "Hoster E",
+      "vernaculartitle": ""
+    }
+  }
+}

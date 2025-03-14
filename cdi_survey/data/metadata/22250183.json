@@ -1,0 +1,127 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22250183"
+    ],
+    "22250183": {
+      "uid": "22250183",
+      "pubdate": "2012 Aug",
+      "epubdate": "2012 Jan 16",
+      "source": "Ann Oncol",
+      "authors": [
+        {
+          "name": "Bellera CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rainfray M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mathoulin-P\u00e9lissier S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mertens C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Delva F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fonck M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Soubeyran PL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Soubeyran PL",
+      "title": "Screening older cancer patients: first evaluation of the G-8 geriatric screening tool.",
+      "sorttitle": "screening older cancer patients first evaluation of the g 8 geriatric screening tool",
+      "volume": "23",
+      "issue": "8",
+      "pages": "2166-2172",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9007735",
+      "issn": "0923-7534",
+      "essn": "1569-8041",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22250183"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/annonc/mdr587"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0923-7534(19)38102-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/01/18 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/01/18 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/12/10 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "elocationid": "doi: 10.1093/annonc/mdr587",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/08/01 00:00",
+      "sortfirstauthor": "Bellera CA",
+      "vernaculartitle": ""
+    }
+  }
+}

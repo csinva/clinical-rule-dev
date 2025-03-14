@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3737788"
+    ],
+    "3737788": {
+      "uid": "3737788",
+      "pubdate": "1986 May",
+      "epubdate": "",
+      "source": "Psychiatry Res",
+      "authors": [
+        {
+          "name": "Rush AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giles DE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schlesser MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fulton CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weissenburger J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burns C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Burns C",
+      "title": "The Inventory for Depressive Symptomatology (IDS): preliminary findings.",
+      "sorttitle": "inventory for depressive symptomatology ids preliminary findings",
+      "volume": "18",
+      "issue": "1",
+      "pages": "65-87",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7911385",
+      "issn": "0165-1781",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3737788"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0165-1781(86)90060-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0165-1781(86)90060-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1986/05/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1986/05/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1986/05/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Psychiatry research",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1986/05/01 00:00",
+      "sortfirstauthor": "Rush AJ",
+      "vernaculartitle": ""
+    }
+  }
+}

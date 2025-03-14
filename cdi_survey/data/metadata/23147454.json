@@ -1,0 +1,158 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23147454"
+    ],
+    "23147454": {
+      "uid": "23147454",
+      "pubdate": "2012 Nov 12",
+      "epubdate": "",
+      "source": "Arch Intern Med",
+      "authors": [
+        {
+          "name": "O'Donnell MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "D'Uva C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saposnik G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gould L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McGrath E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kapral MK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Investigators of the Registry of the Canadian Stroke Network",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kapral MK",
+      "title": "The PLAN score: a bedside prediction rule for death and severe disability following acute ischemic stroke.",
+      "sorttitle": "plan score a bedside prediction rule for death and severe disability following acute ischemic stroke",
+      "volume": "172",
+      "issue": "20",
+      "pages": "1548-56",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372440",
+      "issn": "0003-9926",
+      "essn": "1538-3679",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23147454"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/2013.jamainternmed.30"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1391071"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/11/14 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/11/14 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/03/13 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Arch Intern Med. 2012 Nov 12;172(20):1536",
+          "reftype": "Comment in",
+          "pmid": 23070111,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA Neurol. 2013 Feb;70(2):252-3",
+          "reftype": "Comment in",
+          "pmid": 23165963,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Intern Med. 2013 Feb 19;158(4):JC13",
+          "reftype": "Comment in",
+          "pmid": 23420250,
+          "note": ""
+        },
+        {
+          "refsource": "Dtsch Med Wochenschr. 2013 Jan;138(4):113",
+          "reftype": "Comment in",
+          "pmid": 23441337,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of internal medicine",
+      "elocationid": "doi: 10.1001/2013.jamainternmed.30",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/11/12 00:00",
+      "sortfirstauthor": "O'Donnell MJ",
+      "vernaculartitle": ""
+    }
+  }
+}

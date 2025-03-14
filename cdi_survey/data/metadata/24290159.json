@@ -1,0 +1,174 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24290159"
+    ],
+    "24290159": {
+      "uid": "24290159",
+      "pubdate": "2014 Jan",
+      "epubdate": "2013 Nov 27",
+      "source": "Lancet Neurol",
+      "authors": [
+        {
+          "name": "Greving JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wermer MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brown RD Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morita A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Juvela S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yonekura M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ishibashi T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Torner JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nakayama T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rinkel GJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Algra A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Algra A",
+      "title": "Development of the PHASES score for prediction of risk of rupture of intracranial aneurysms: a pooled analysis of six prospective cohort studies.",
+      "sorttitle": "development of the phases score for prediction of risk of rupture of intracranial aneurysms a pooled analysis of six prospective cohort studies",
+      "volume": "13",
+      "issue": "1",
+      "pages": "59-66",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101139309",
+      "issn": "1474-4422",
+      "essn": "1474-4465",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24290159"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1474-4422(13)70263-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1474-4422(13)70263-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/12/03 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/12/03 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/02/12 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet Neurol. 2014 Jan;13(1):25-7",
+          "reftype": "Comment in",
+          "pmid": 24290160,
+          "note": ""
+        },
+        {
+          "refsource": "Nat Rev Neurol. 2014 Jan;10(1):1",
+          "reftype": "Comment in",
+          "pmid": 24323047,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2014 Jun;13(6):537-8",
+          "reftype": "Comment in",
+          "pmid": 24849854,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2014 Jun;13(6):538",
+          "reftype": "Comment in",
+          "pmid": 24849856,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Neurology",
+      "elocationid": "doi: 10.1016/S1474-4422(13)70263-1",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/01/01 00:00",
+      "sortfirstauthor": "Greving JP",
+      "vernaculartitle": ""
+    }
+  }
+}

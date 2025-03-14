@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11401607"
+    ],
+    "11401607": {
+      "uid": "11401607",
+      "pubdate": "2001 Jun 13",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Gage BF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Waterman AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shannon W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boechler M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rich MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Radford MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Radford MJ",
+      "title": "Validation of clinical classification schemes for predicting stroke: results from the National Registry of Atrial Fibrillation.",
+      "sorttitle": "validation of clinical classification schemes for predicting stroke results from the national registry of atrial fibrillation",
+      "volume": "285",
+      "issue": "22",
+      "pages": "2864-70",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11401607"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.285.22.2864"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "joc01974"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/06/13 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/07/06 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/06/13 10:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/06/13 00:00",
+      "sortfirstauthor": "Gage BF",
+      "vernaculartitle": ""
+    }
+  }
+}

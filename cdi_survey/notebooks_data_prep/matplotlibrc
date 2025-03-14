@@ -1,0 +1,10 @@
+figure.autolayout : True
+figure.facecolor : 'white'
+
+axes.titlesize : 20
+axes.labelsize      : 15  ## fontsize of the x any y labels
+
+font.size           : 15
+
+xtick.labelsize      : 15 ## fontsize of the tick labels
+ytick.labelsize      : 15 ## fontsize of the tick labels

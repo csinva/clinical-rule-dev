@@ -1,0 +1,48 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "27144627",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://linkinghub.elsevier.com/retrieve/pii/S0016-5085(16)00222-5"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--linkinghub.elsevier.com-ihub-images-PubMedLink.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Elsevier Science",
+                "nameabbr": "ES",
+                "id": "3048"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bowel",
+          "objurls": [],
+          "info": "No LinkOut links available for UID: bowel"
+        },
+        {
+          "id": "disorders",
+          "objurls": [],
+          "info": "No LinkOut links available for UID: disorders"
+        }
+      ]
+    }
+  ]
+}

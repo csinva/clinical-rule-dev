@@ -1,0 +1,263 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25439696"
+    ],
+    "25439696": {
+      "uid": "25439696",
+      "pubdate": "2014 Nov",
+      "epubdate": "2014 Oct 26",
+      "source": "Lancet Oncol",
+      "authors": [
+        {
+          "name": "Rajkumar SV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dimopoulos MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Palumbo A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blade J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Merlini G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mateos MV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kumar S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hillengass J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kastritis E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Richardson P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Landgren O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paiva B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dispenzieri A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weiss B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LeLeu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zweegman S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lonial S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosinol L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zamagni E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jagannath S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sezer O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kristinsson SY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caers J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Usmani SZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lahuerta JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnsen HE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beksac M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cavo M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goldschmidt H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Terpos E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kyle RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson KC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Durie BG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miguel JF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Miguel JF",
+      "title": "International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma.",
+      "sorttitle": "international myeloma working group updated criteria for the diagnosis of multiple myeloma",
+      "volume": "15",
+      "issue": "12",
+      "pages": "e538-48",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100957246",
+      "issn": "1470-2045",
+      "essn": "1474-5488",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25439696"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1470-2045(14)70442-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1470-2045(14)70442-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/12/03 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/12/03 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/02/24 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Oncology",
+      "elocationid": "doi: 10.1016/S1470-2045(14)70442-5",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/11/01 00:00",
+      "sortfirstauthor": "Rajkumar SV",
+      "vernaculartitle": ""
+    }
+  }
+}

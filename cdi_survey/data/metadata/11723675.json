@@ -1,0 +1,88 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11723675"
+    ],
+    "11723675": {
+      "uid": "11723675",
+      "pubdate": "2001",
+      "epubdate": "",
+      "source": "Bratisl Lek Listy",
+      "authors": [
+        {
+          "name": "Zahorec R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zahorec R",
+      "title": "Ratio of neutrophil to lymphocyte counts--rapid and simple parameter of systemic inflammation and stress in critically ill.",
+      "sorttitle": "ratio of neutrophil to lymphocyte counts rapid and simple parameter of systemic inflammation and stress in critically ill",
+      "volume": "102",
+      "issue": "1",
+      "pages": "5-14",
+      "lang": [
+        "eng",
+        "slo"
+      ],
+      "nlmuniqueid": "0065324",
+      "issn": "0006-9248",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11723675"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/11/29 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/01/05 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/11/29 10:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Bratislavske lekarske listy",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/01/01 00:00",
+      "sortfirstauthor": "Zahorec R",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28549662"
+    ],
+    "28549662": {
+      "uid": "28549662",
+      "pubdate": "2017 Jul 15",
+      "epubdate": "2017 May 23",
+      "source": "Lancet",
+      "authors": [
+        {
+          "name": "van der Hulle T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheung WY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kooij S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beenen LFM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Bemmel T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Es J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Faber LM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hazelaar GM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heringhaus C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hofstee H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hovens MMC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaasjager KAH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Klink RCJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kruip MJHA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Loeffen RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mairuhu ATA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Middeldorp S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nijkeuter M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van der Pol LM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schol-Gelok S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ten Wolde M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Klok FA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huisman MV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "YEARS study group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Huisman MV",
+      "title": "Simplified diagnostic management of suspected pulmonary embolism (the YEARS study): a prospective, multicentre, cohort study.",
+      "sorttitle": "simplified diagnostic management of suspected pulmonary embolism the years study a prospective multicentre cohort study",
+      "volume": "390",
+      "issue": "10091",
+      "pages": "289-297",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985213R",
+      "issn": "0140-6736",
+      "essn": "1474-547X",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28549662"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(17)30885-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(17)30885-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/10/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2017/02/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2017/02/10 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/05/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/01/18 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/05/28 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet. 2017 Jul 15;390(10091):210-211",
+          "reftype": "Comment in",
+          "pmid": 28549658,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet. 2017 Jul 15;390(10091):230",
+          "reftype": "Erratum in",
+          "pmid": 28666678,
+          "note": ""
+        },
+        {
+          "refsource": "J Fam Pract. 2019 Jun;68(5):286;287;295",
+          "reftype": "Comment in",
+          "pmid": 31287445,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Lancet (London, England)",
+      "elocationid": "doi: 10.1016/S0140-6736(17)30885-1",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/07/15 00:00",
+      "sortfirstauthor": "van der Hulle T",
+      "vernaculartitle": ""
+    }
+  }
+}

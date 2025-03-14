@@ -1,0 +1,129 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18272098"
+    ],
+    "18272098": {
+      "uid": "18272098",
+      "pubdate": "2008 Feb",
+      "epubdate": "",
+      "source": "Am J Emerg Med",
+      "authors": [
+        {
+          "name": "Wolf SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McCubbin TR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nordenholz KE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naviaux NW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haukoos JS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Haukoos JS",
+      "title": "Assessment of the pulmonary embolism rule-out criteria rule for evaluation of suspected pulmonary embolism in the emergency department.",
+      "sorttitle": "assessment of the pulmonary embolism rule out criteria rule for evaluation of suspected pulmonary embolism in the emergency department",
+      "volume": "26",
+      "issue": "2",
+      "pages": "181-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309942",
+      "issn": "0735-6757",
+      "essn": "1532-8171",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18272098"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ajem.2007.04.026"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0735-6757(07)00307-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2007/03/05 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2007/04/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2007/04/20 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/02/15 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/02/29 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/02/15 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of emergency medicine",
+      "elocationid": "doi: 10.1016/j.ajem.2007.04.026",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/02/01 00:00",
+      "sortfirstauthor": "Wolf SJ",
+      "vernaculartitle": ""
+    }
+  }
+}

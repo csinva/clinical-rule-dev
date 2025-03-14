@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "32299304",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.tandfonline.com/doi/full/10.1080/07481187.2020.1748481"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/https:--www.tandfonline.com-templates-jsp-_style2-_tandf-images-tandf100x25.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Taylor & Francis",
+                "nameabbr": "Taylor",
+                "id": "3079"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

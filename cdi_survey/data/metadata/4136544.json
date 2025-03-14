@@ -1,0 +1,100 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4136544"
+    ],
+    "4136544": {
+      "uid": "4136544",
+      "pubdate": "1974 Jul 13",
+      "epubdate": "",
+      "source": "Lancet",
+      "authors": [
+        {
+          "name": "Teasdale G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jennett B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jennett B",
+      "title": "Assessment of coma and impaired consciousness. A practical scale.",
+      "sorttitle": "assessment of coma and impaired consciousness a practical scale",
+      "volume": "2",
+      "issue": "7872",
+      "pages": "81-4",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985213R",
+      "issn": "0140-6736",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4136544"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0140-6736(74)91639-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(74)91639-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1974/07/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1974/07/13 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1974/07/13 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Lancet (London, England)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1974/07/13 00:00",
+      "sortfirstauthor": "Teasdale G",
+      "vernaculartitle": ""
+    }
+  }
+}

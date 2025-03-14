@@ -1,0 +1,129 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "error": "Invalid uid ?dopt=Abstract at position= 8",
+  "result": {
+    "uids": [
+      "28963294"
+    ],
+    "28963294": {
+      "uid": "28963294",
+      "pubdate": "2017 Sep 27",
+      "epubdate": "2017 Sep 27",
+      "source": "BMJ Open",
+      "authors": [
+        {
+          "name": "Iba T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nisio MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levy JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kitamura N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thachil J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Thachil J",
+      "title": "New criteria for sepsis-induced coagulopathy (SIC) following the revised sepsis definition: a retrospective analysis of a nationwide survey.",
+      "sorttitle": "new criteria for sepsis induced coagulopathy sic following the revised sepsis definition a retrospective analysis of a nationwide survey",
+      "volume": "7",
+      "issue": "9",
+      "pages": "e017046",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101552874",
+      "issn": "",
+      "essn": "2044-6055",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28963294"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5623518"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5623518;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmjopen-2017-017046"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "bmjopen-2017-017046"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2017/10/01 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/10/01 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/06/09 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 30,
+      "fulljournalname": "BMJ open",
+      "elocationid": "doi: 10.1136/bmjopen-2017-017046",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/09/27 00:00",
+      "sortfirstauthor": "Iba T",
+      "vernaculartitle": ""
+    }
+  }
+}

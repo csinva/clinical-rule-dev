@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4067741"
+    ],
+    "4067741": {
+      "uid": "4067741",
+      "pubdate": "1985 Dec",
+      "epubdate": "",
+      "source": "J Pediatr",
+      "authors": [
+        {
+          "name": "Dagan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Powell KR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hall CB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Menegus MA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Menegus MA",
+      "title": "Identification of infants unlikely to have serious bacterial infection although hospitalized for suspected sepsis.",
+      "sorttitle": "identification of infants unlikely to have serious bacterial infection although hospitalized for suspected sepsis",
+      "volume": "107",
+      "issue": "6",
+      "pages": "855-60",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375410",
+      "issn": "0022-3476",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4067741"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0022-3476(85)80175-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-3476(85)80175-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1985/12/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1985/12/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1985/12/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of pediatrics",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1985/12/01 00:00",
+      "sortfirstauthor": "Dagan R",
+      "vernaculartitle": ""
+    }
+  }
+}

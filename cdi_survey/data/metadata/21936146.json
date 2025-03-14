@@ -1,0 +1,100 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21936146"
+    ],
+    "21936146": {
+      "uid": "21936146",
+      "pubdate": "1962 Feb",
+      "epubdate": "",
+      "source": "Surgery",
+      "authors": [
+        {
+          "name": "Nadler SB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hidalgo JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bloch T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bloch T",
+      "title": "Prediction of blood volume in normal human adults.",
+      "sorttitle": "prediction of blood volume in normal human adults",
+      "volume": "51",
+      "issue": "2",
+      "pages": "224-32",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0417347",
+      "issn": "0039-6060",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21936146"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0039-6060(62)90166-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/09/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "1962/02/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/10/22 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Surgery",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1962/02/01 00:00",
+      "sortfirstauthor": "Nadler SB",
+      "vernaculartitle": ""
+    }
+  }
+}

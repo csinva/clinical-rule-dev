@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11556941"
+    ],
+    "11556941": {
+      "uid": "11556941",
+      "pubdate": "2001 Sep",
+      "epubdate": "",
+      "source": "J Gen Intern Med",
+      "authors": [
+        {
+          "name": "Kroenke K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spitzer RL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Williams JB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Williams JB",
+      "title": "The PHQ-9: validity of a brief depression severity measure.",
+      "sorttitle": "phq 9 validity of a brief depression severity measure",
+      "volume": "16",
+      "issue": "9",
+      "pages": "606-13",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8605834",
+      "issn": "0884-8734",
+      "essn": "1525-1497",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11556941"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1495268"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1495268;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1046/j.1525-1497.2001.016009606.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jgi01114"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/09/15 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/10/26 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/09/15 10:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 25,
+      "fulljournalname": "Journal of general internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/09/01 00:00",
+      "sortfirstauthor": "Kroenke K",
+      "vernaculartitle": ""
+    }
+  }
+}

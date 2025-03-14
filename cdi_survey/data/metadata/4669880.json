@@ -1,0 +1,103 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4669880"
+    ],
+    "4669880": {
+      "uid": "4669880",
+      "pubdate": "1972 Nov",
+      "epubdate": "",
+      "source": "Age Ageing",
+      "authors": [
+        {
+          "name": "Hodkinson HM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hodkinson HM",
+      "title": "Evaluation of a mental test score for assessment of mental impairment in the elderly.",
+      "sorttitle": "evaluation of a mental test score for assessment of mental impairment in the elderly",
+      "volume": "1",
+      "issue": "4",
+      "pages": "233-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375655",
+      "issn": "0002-0729",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4669880"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/ageing/1.4.233"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1972/11/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1972/11/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1972/11/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Age Ageing. 2012 Nov;41 Suppl 3:iii35-40",
+          "reftype": "Republished in",
+          "pmid": 23144286,
+          "note": ""
+        },
+        {
+          "refsource": "Anaesthesia. 2019 Nov;74(11):1477-1478",
+          "reftype": "Comment in",
+          "pmid": 31592546,
+          "note": ""
+        }
+      ],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Age and ageing",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1972/11/01 00:00",
+      "sortfirstauthor": "Hodkinson HM",
+      "vernaculartitle": ""
+    }
+  }
+}

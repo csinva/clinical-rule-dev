@@ -1,0 +1,156 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24646875"
+    ],
+    "24646875": {
+      "uid": "24646875",
+      "pubdate": "2014 Apr",
+      "epubdate": "",
+      "source": "Lancet Neurol",
+      "authors": [
+        {
+          "name": "Hart RG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Diener HC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coutts SB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Easton JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Granger CB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "O'Donnell MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sacco RL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Connolly SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cryptogenic Stroke/ESUS International Working Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Connolly SJ",
+      "title": "Embolic strokes of undetermined source: the case for a new clinical construct.",
+      "sorttitle": "embolic strokes of undetermined source the case for a new clinical construct",
+      "volume": "13",
+      "issue": "4",
+      "pages": "429-38",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101139309",
+      "issn": "1474-4422",
+      "essn": "1474-4465",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24646875"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1474-4422(13)70310-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1474-4422(13)70310-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/03/21 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/03/22 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/05/13 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet Neurol. 2014 Apr;13(4):344-6",
+          "reftype": "Comment in",
+          "pmid": 24646868,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2014 Oct;13(10):967",
+          "reftype": "Comment in",
+          "pmid": 25231516,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2014 Oct;13(10):967",
+          "reftype": "Comment in",
+          "pmid": 25231517,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Neurology",
+      "elocationid": "doi: 10.1016/S1474-4422(13)70310-7",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/04/01 00:00",
+      "sortfirstauthor": "Hart RG",
+      "vernaculartitle": ""
+    }
+  }
+}

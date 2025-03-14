@@ -1,0 +1,126 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28460689"
+    ],
+    "28460689": {
+      "uid": "28460689",
+      "pubdate": "2017 Sep-Oct",
+      "epubdate": "2017 Apr 19",
+      "source": "J Electrocardiol",
+      "authors": [
+        {
+          "name": "Driver BE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khalil A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Henry T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kazmi F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adil A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith SW",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Smith SW",
+      "title": "A new 4-variable formula to differentiate normal variant ST segment elevation in V2-V4 (early repolarization) from subtle left anterior descending coronary occlusion - Adding QRS amplitude of V2 improves the model.",
+      "sorttitle": "new 4 variable formula to differentiate normal variant st segment elevation in v2 v4 early repolarization from subtle left anterior descending coronary occlusion adding qrs amplitude of v2 improves the model",
+      "volume": "50",
+      "issue": "5",
+      "pages": "561-569",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0153605",
+      "issn": "0022-0736",
+      "essn": "1532-8430",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28460689"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jelectrocard.2017.04.005"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-0736(17)30107-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2017/01/26 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/05/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/06/21 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/05/03 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of electrocardiology",
+      "elocationid": "doi: 10.1016/j.jelectrocard.2017.04.005",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/09/01 00:00",
+      "sortfirstauthor": "Driver BE",
+      "vernaculartitle": ""
+    }
+  }
+}

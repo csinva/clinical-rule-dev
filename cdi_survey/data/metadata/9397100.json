@@ -1,0 +1,105 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9397100"
+    ],
+    "9397100": {
+      "uid": "9397100",
+      "pubdate": "1997 Dec",
+      "epubdate": "",
+      "source": "Obstet Gynecol",
+      "authors": [
+        {
+          "name": "Flamm BL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Geiger AM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Geiger AM",
+      "title": "Vaginal birth after cesarean delivery: an admission scoring system.",
+      "sorttitle": "vaginal birth after cesarean delivery an admission scoring system",
+      "volume": "90",
+      "issue": "6",
+      "pages": "907-10",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401101",
+      "issn": "0029-7844",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9397100"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0029-7844(97)00531-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0029-7844(97)00531-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1997/12/16 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1997/12/16 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1997/12/16 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Obstetrics and gynecology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1997/12/01 00:00",
+      "sortfirstauthor": "Flamm BL",
+      "vernaculartitle": ""
+    }
+  }
+}

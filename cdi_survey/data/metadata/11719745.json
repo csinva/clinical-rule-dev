@@ -1,0 +1,125 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11719745"
+    ],
+    "11719745": {
+      "uid": "11719745",
+      "pubdate": "2001 Dec",
+      "epubdate": "",
+      "source": "Ann Emerg Med",
+      "authors": [
+        {
+          "name": "Purssell RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pudek M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brubacher J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abu-Laban RB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Abu-Laban RB",
+      "title": "Derivation and validation of a formula to calculate the contribution of ethanol to the osmolal gap.",
+      "sorttitle": "derivation and validation of a formula to calculate the contribution of ethanol to the osmolal gap",
+      "volume": "38",
+      "issue": "6",
+      "pages": "653-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8002646",
+      "issn": "0196-0644",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11719745"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1067/mem.2001.119455"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0196-0644(01)16666-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/11/24 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/01/05 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/11/24 10:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Emerg Med. 2002 Dec;40(6):655-6; author reply 657-8",
+          "reftype": "Comment in",
+          "pmid": 12479206,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Emerg Med. 2002 Dec;40(6):656-7; author reply 657-8",
+          "reftype": "Comment in",
+          "pmid": 12479207,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of emergency medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/12/01 00:00",
+      "sortfirstauthor": "Purssell RA",
+      "vernaculartitle": ""
+    }
+  }
+}

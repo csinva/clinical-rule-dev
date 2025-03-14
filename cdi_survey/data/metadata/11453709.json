@@ -1,0 +1,149 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11453709"
+    ],
+    "11453709": {
+      "uid": "11453709",
+      "pubdate": "2001 Jul 17",
+      "epubdate": "",
+      "source": "Ann Intern Med",
+      "authors": [
+        {
+          "name": "Wells PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rodger M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stiell I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dreyer JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Barnes D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Forgie M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kovacs G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ward J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kovacs MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kovacs MJ",
+      "title": "Excluding pulmonary embolism at the bedside without diagnostic imaging: management of patients with suspected pulmonary embolism presenting to the emergency department by using a simple clinical model and d-dimer.",
+      "sorttitle": "excluding pulmonary embolism at the bedside without diagnostic imaging management of patients with suspected pulmonary embolism presenting to the emergency department by using a simple clinical model and d dimer",
+      "volume": "135",
+      "issue": "2",
+      "pages": "98-107",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372351",
+      "issn": "0003-4819",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11453709"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7326/0003-4819-135-2-200107170-00010"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "200107170-00010"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/07/17 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/07/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/07/17 10:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Intern Med. 2002 May 21;136(10):781",
+          "reftype": "Comment in",
+          "pmid": 12020154,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/07/17 00:00",
+      "sortfirstauthor": "Wells PS",
+      "vernaculartitle": ""
+    }
+  }
+}

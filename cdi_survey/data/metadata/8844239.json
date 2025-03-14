@@ -1,0 +1,128 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8844239"
+    ],
+    "8844239": {
+      "uid": "8844239",
+      "pubdate": "1996 Jul",
+      "epubdate": "",
+      "source": "Intensive Care Med",
+      "authors": [
+        {
+          "name": "Vincent JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moreno R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Takala J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Willatts S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Mendon\u00e7a A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bruining H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reinhart CK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Suter PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thijs LG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Thijs LG",
+      "title": "The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure. On behalf of the Working Group on Sepsis-Related Problems of the European Society of Intensive Care Medicine.",
+      "sorttitle": "sofa sepsis related organ failure assessment score to describe organ dysfunction failure on behalf of the working group on sepsis related problems of the european society of intensive care medicine",
+      "volume": "22",
+      "issue": "7",
+      "pages": "707-10",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7704851",
+      "issn": "0342-4642",
+      "essn": "",
+      "pubtype": [],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8844239"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/BF01709751"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1996/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1996/07/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1996/07/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Intensive care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1996/07/01 00:00",
+      "sortfirstauthor": "Vincent JL",
+      "vernaculartitle": ""
+    }
+  }
+}

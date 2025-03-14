@@ -1,0 +1,166 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18477802"
+    ],
+    "18477802": {
+      "uid": "18477802",
+      "pubdate": "2008 May 21",
+      "epubdate": "2008 May 13",
+      "source": "J Natl Cancer Inst",
+      "authors": [
+        {
+          "name": "Llovet JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Di Bisceglie AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bruix J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kramer BS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lencioni R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu AX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sherman M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schwartz M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lotze M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Talwalkar J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gores GJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Panel of Experts in HCC-Design Clinical Trials",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gores GJ",
+      "title": "Design and endpoints of clinical trials in hepatocellular carcinoma.",
+      "sorttitle": "design and endpoints of clinical trials in hepatocellular carcinoma",
+      "volume": "100",
+      "issue": "10",
+      "pages": "698-711",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7503089",
+      "issn": "0027-8874",
+      "essn": "1460-2105",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18477802"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/jnci/djn134"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "djn134"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/05/15 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/06/05 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/05/15 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Hepatol. 2008 Oct;49(4):672-3",
+          "reftype": "Comment in",
+          "pmid": 18718690,
+          "note": ""
+        },
+        {
+          "refsource": "J Natl Cancer Inst. 2008 Nov 5;100(21):1557; author reply 1557-8",
+          "reftype": "Comment in",
+          "pmid": 18957679,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the National Cancer Institute",
+      "elocationid": "doi: 10.1093/jnci/djn134",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/05/21 00:00",
+      "sortfirstauthor": "Llovet JM",
+      "vernaculartitle": ""
+    }
+  }
+}

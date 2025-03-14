@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3928249"
+    ],
+    "3928249": {
+      "uid": "3928249",
+      "pubdate": "1985 Oct",
+      "epubdate": "",
+      "source": "Crit Care Med",
+      "authors": [
+        {
+          "name": "Knaus WA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Draper EA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wagner DP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zimmerman JE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zimmerman JE",
+      "title": "APACHE II: a severity of disease classification system.",
+      "sorttitle": "apache ii a severity of disease classification system",
+      "volume": "13",
+      "issue": "10",
+      "pages": "818-29",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0355501",
+      "issn": "0090-3493",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3928249"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1985/10/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1985/10/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1985/10/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Critical care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1985/10/01 00:00",
+      "sortfirstauthor": "Knaus WA",
+      "vernaculartitle": ""
+    }
+  }
+}

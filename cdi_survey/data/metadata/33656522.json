@@ -1,0 +1,160 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "33656522"
+    ],
+    "33656522": {
+      "uid": "33656522",
+      "pubdate": "2021 Jun 1",
+      "epubdate": "",
+      "source": "JAMA Cardiol",
+      "authors": [
+        {
+          "name": "Roy PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Friou E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Germeau B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Douillet D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kline JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Righini M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Le Gal G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moumneh T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Penaloza A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Penaloza A",
+      "title": "Derivation and Validation of a 4-Level Clinical Pretest Probability Score for Suspected Pulmonary Embolism to Safely Decrease Imaging Testing.",
+      "sorttitle": "derivation and validation of a 4 level clinical pretest probability score for suspected pulmonary embolism to safely decrease imaging testing",
+      "volume": "6",
+      "issue": "6",
+      "pages": "669-677",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101676033",
+      "issn": "2380-6583",
+      "essn": "2380-6591",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33656522"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7931139"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7931139;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamacardio.2021.0064"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2776853"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/03/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/01/11 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/03/03 12:14"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA Cardiol. 2021 Dec 1;6(12):1468",
+          "reftype": "Comment in",
+          "pmid": 34643644,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA Cardiol. 2021 Dec 1;6(12):1468-1469",
+          "reftype": "Comment in",
+          "pmid": 34643652,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 34,
+      "fulljournalname": "JAMA cardiology",
+      "elocationid": "doi: 10.1001/jamacardio.2021.0064",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/06/01 00:00",
+      "sortfirstauthor": "Roy PM",
+      "vernaculartitle": ""
+    }
+  }
+}

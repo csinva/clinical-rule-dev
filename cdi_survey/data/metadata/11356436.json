@@ -1,0 +1,172 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11356436"
+    ],
+    "11356436": {
+      "uid": "11356436",
+      "pubdate": "2001 May 5",
+      "epubdate": "",
+      "source": "Lancet",
+      "authors": [
+        {
+          "name": "Stiell IG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vandemheen K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Clement C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lesiuk H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laupacis A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McKnight RD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Verbeek R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brison R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cass D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eisenhauer ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greenberg G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Worthington J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Worthington J",
+      "title": "The Canadian CT Head Rule for patients with minor head injury.",
+      "sorttitle": "canadian ct head rule for patients with minor head injury",
+      "volume": "357",
+      "issue": "9266",
+      "pages": "1391-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985213R",
+      "issn": "0140-6736",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11356436"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0140-6736(00)04561-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S014067360004561X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/05/18 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/06/02 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/05/18 10:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet. 2001 Sep 22;358(9286):1013-4",
+          "reftype": "Comment in",
+          "pmid": 11586987,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet. 2001 Sep 22;358(9286):1013; author reply 1014",
+          "reftype": "Comment in",
+          "pmid": 11586988,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Lancet (London, England)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/05/05 00:00",
+      "sortfirstauthor": "Stiell IG",
+      "vernaculartitle": ""
+    }
+  }
+}

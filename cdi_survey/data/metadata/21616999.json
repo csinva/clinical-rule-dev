@@ -1,0 +1,169 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21616999"
+    ],
+    "21616999": {
+      "uid": "21616999",
+      "pubdate": "2011 Aug 15",
+      "epubdate": "",
+      "source": "Am J Respir Crit Care Med",
+      "authors": [
+        {
+          "name": "du Bois RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weycker D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Albera C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bradford WZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Costabel U",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kartashov A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lancaster L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Noble PW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Raghu G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sahn SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Szwarcberg J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomeer M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Valeyre D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "King TE Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "King TE Jr",
+      "title": "Ascertainment of individual risk of mortality for patients with idiopathic pulmonary fibrosis.",
+      "sorttitle": "ascertainment of individual risk of mortality for patients with idiopathic pulmonary fibrosis",
+      "volume": "184",
+      "issue": "4",
+      "pages": "459-66",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9421642",
+      "issn": "1073-449X",
+      "essn": "1535-4970",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21616999"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1164/rccm.201011-1790OC"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "201011-1790OC"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/05/28 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/05/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/10/14 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Respir Crit Care Med. 2011 Aug 15;184(4):395-7",
+          "reftype": "Comment in",
+          "pmid": 21844513,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of respiratory and critical care medicine",
+      "elocationid": "doi: 10.1164/rccm.201011-1790OC",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/08/15 00:00",
+      "sortfirstauthor": "du Bois RM",
+      "vernaculartitle": ""
+    }
+  }
+}

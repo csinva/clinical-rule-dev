@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3558716"
+    ],
+    "3558716": {
+      "uid": "3558716",
+      "pubdate": "1987",
+      "epubdate": "",
+      "source": "J Chronic Dis",
+      "authors": [
+        {
+          "name": "Charlson ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pompei P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ales KL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "MacKenzie CR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "MacKenzie CR",
+      "title": "A new method of classifying prognostic comorbidity in longitudinal studies: development and validation.",
+      "sorttitle": "new method of classifying prognostic comorbidity in longitudinal studies development and validation",
+      "volume": "40",
+      "issue": "5",
+      "pages": "373-83",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985123R",
+      "issn": "0021-9681",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3558716"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0021-9681(87)90171-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1987/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1987/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1987/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of chronic diseases",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1987/01/01 00:00",
+      "sortfirstauthor": "Charlson ME",
+      "vernaculartitle": ""
+    }
+  }
+}

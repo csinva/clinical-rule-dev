@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15043240"
+    ],
+    "15043240": {
+      "uid": "15043240",
+      "pubdate": "2004 Mar",
+      "epubdate": "",
+      "source": "Am J Crit Care",
+      "authors": [
+        {
+          "name": "G\u00e9linas C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fortier M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Viens C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fillion L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Puntillo K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Puntillo K",
+      "title": "Pain assessment and management in critically ill intubated patients: a retrospective study.",
+      "sorttitle": "pain assessment and management in critically ill intubated patients a retrospective study",
+      "volume": "13",
+      "issue": "2",
+      "pages": "126-35",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9211547",
+      "issn": "1062-3264",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15043240"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/03/27 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/07/15 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/03/27 05:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of critical care : an official publication, American Association of Critical-Care Nurses",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/03/01 00:00",
+      "sortfirstauthor": "G\u00e9linas C",
+      "vernaculartitle": ""
+    }
+  }
+}

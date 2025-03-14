@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20625017"
+    ],
+    "20625017": {
+      "uid": "20625017",
+      "pubdate": "2010 Jul 12",
+      "epubdate": "",
+      "source": "Arch Intern Med",
+      "authors": [
+        {
+          "name": "Janssens HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fransen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van de Lisdonk EH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Riel PL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Weel C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Janssen M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Janssen M",
+      "title": "A diagnostic rule for acute gouty arthritis in primary care without joint fluid analysis.",
+      "sorttitle": "diagnostic rule for acute gouty arthritis in primary care without joint fluid analysis",
+      "volume": "170",
+      "issue": "13",
+      "pages": "1120-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372440",
+      "issn": "0003-9926",
+      "essn": "1538-3679",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20625017"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/archinternmed.2010.196"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "170/13/1120"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/07/14 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/07/14 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/09/03 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of internal medicine",
+      "elocationid": "doi: 10.1001/archinternmed.2010.196",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/07/12 00:00",
+      "sortfirstauthor": "Janssens HJ",
+      "vernaculartitle": ""
+    }
+  }
+}

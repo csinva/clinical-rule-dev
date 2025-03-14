@@ -1,0 +1,101 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24219974"
+    ],
+    "24219974": {
+      "uid": "24219974",
+      "pubdate": "2014 Jan",
+      "epubdate": "2013 Oct 22",
+      "source": "Int J Gynaecol Obstet",
+      "authors": [
+        {
+          "name": "Prat J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "FIGO Committee on Gynecologic Oncology",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Prat J",
+      "title": "Staging classification for cancer of the ovary, fallopian tube, and peritoneum.",
+      "sorttitle": "staging classification for cancer of the ovary fallopian tube and peritoneum",
+      "volume": "124",
+      "issue": "1",
+      "pages": "1-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0210174",
+      "issn": "0020-7292",
+      "essn": "1879-3479",
+      "pubtype": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24219974"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijgo.2013.10.001"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0020-7292(13)00520-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/11/14 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/11/14 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/09/03 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+      "elocationid": "doi: 10.1016/j.ijgo.2013.10.001",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/01/01 00:00",
+      "sortfirstauthor": "Prat J",
+      "vernaculartitle": ""
+    }
+  }
+}

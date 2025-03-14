@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "30635475",
+          "objurls": [
+            {
+              "url": {
+                "value": "http://www.neurology.org/cgi/pmidlookup?view=long&pmid=30635475"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--highwire.stanford.edu-icons-externalservices-pubmed-neurology.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "HighWire",
+                "nameabbr": "HighWire",
+                "id": "3051"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

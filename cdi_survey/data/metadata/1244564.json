@@ -1,0 +1,97 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1244564"
+    ],
+    "1244564": {
+      "uid": "1244564",
+      "pubdate": "1976",
+      "epubdate": "",
+      "source": "Nephron",
+      "authors": [
+        {
+          "name": "Cockcroft DW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gault MH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gault MH",
+      "title": "Prediction of creatinine clearance from serum creatinine.",
+      "sorttitle": "prediction of creatinine clearance from serum creatinine",
+      "volume": "16",
+      "issue": "1",
+      "pages": "31-41",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0331777",
+      "issn": "1660-8151",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1244564"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000180580"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1976/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1976/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1976/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Nephron",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1976/01/01 00:00",
+      "sortfirstauthor": "Cockcroft DW",
+      "vernaculartitle": ""
+    }
+  }
+}

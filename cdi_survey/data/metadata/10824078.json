@@ -1,0 +1,133 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10824078"
+    ],
+    "10824078": {
+      "uid": "10824078",
+      "pubdate": "2000 May 25",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Adrogu\u00e9 HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Madias NE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Madias NE",
+      "title": "Hyponatremia.",
+      "sorttitle": "hyponatremia",
+      "volume": "342",
+      "issue": "21",
+      "pages": "1581-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10824078"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM200005253422107"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/05/29 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/06/08 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/05/29 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med. 2000 Sep 21;343(12):886; author reply 888",
+          "reftype": "Comment in",
+          "pmid": 11001688,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Sep 21;343(12):886; author reply 888",
+          "reftype": "Comment in",
+          "pmid": 11001689,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Sep 21;343(12):886-7; author reply 888",
+          "reftype": "Comment in",
+          "pmid": 11001690,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Sep 21;343(12):887; author reply 888",
+          "reftype": "Comment in",
+          "pmid": 11001691,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Sep 21;343(12):887; author reply 888",
+          "reftype": "Comment in",
+          "pmid": 11001692,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2000 Sep 21;343(12):887-8",
+          "reftype": "Comment in",
+          "pmid": 11001693,
+          "note": ""
+        }
+      ],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/05/25 00:00",
+      "sortfirstauthor": "Adrogu\u00e9 HJ",
+      "vernaculartitle": ""
+    }
+  }
+}

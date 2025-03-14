@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27144625"
+    ],
+    "27144625": {
+      "uid": "27144625",
+      "pubdate": "2016 Feb 15",
+      "epubdate": "2016 Feb 15",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Aziz Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fass R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gyawali CP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miwa H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pandolfino JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zerbib F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zerbib F",
+      "title": "Functional Esophageal Disorders.",
+      "sorttitle": "functional esophageal disorders",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "1528-0012",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27144625"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.gastro.2016.02.012"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016-5085(16)00178-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/02/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/02/09 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/05/05 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "pii: S0016-5085(16)00178-5. doi: 10.1053/j.gastro.2016.02.012",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/02/15 00:00",
+      "sortfirstauthor": "Aziz Q",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28259520"
+    ],
+    "28259520": {
+      "uid": "28259520",
+      "pubdate": "2017 Apr",
+      "epubdate": "2017 Mar 2",
+      "source": "Lancet Haematol",
+      "authors": [
+        {
+          "name": "Bendapudi PK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hurwitz S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fry A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marques MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Waldo SW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Upadhyay V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamdan A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brunner AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gansner JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Viswanathan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaufman RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uhl L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stowell CP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dzik WH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Makar RS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Makar RS",
+      "title": "Derivation and external validation of the PLASMIC score for rapid assessment of adults with thrombotic microangiopathies: a cohort study.",
+      "sorttitle": "derivation and external validation of the plasmic score for rapid assessment of adults with thrombotic microangiopathies a cohort study",
+      "volume": "4",
+      "issue": "4",
+      "pages": "e157-e164",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101643584",
+      "issn": "",
+      "essn": "2352-3026",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28259520"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S2352-3026(17)30026-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2352-3026(17)30026-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/12/13 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2017/01/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2017/01/19 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/03/06 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/03/06 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/03/06 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Haematology",
+      "elocationid": "doi: 10.1016/S2352-3026(17)30026-1",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/04/01 00:00",
+      "sortfirstauthor": "Bendapudi PK",
+      "vernaculartitle": ""
+    }
+  }
+}

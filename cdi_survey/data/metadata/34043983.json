@@ -1,0 +1,223 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "34043983"
+    ],
+    "34043983": {
+      "uid": "34043983",
+      "pubdate": "2021 Dec",
+      "epubdate": "2021 May 24",
+      "source": "Am J Obstet Gynecol",
+      "authors": [
+        {
+          "name": "Grobman WA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sandoval G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rice MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bailit JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chauhan SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Costantine MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gyamfi-Bannerman C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Metz TD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Parry S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rouse DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saade GR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simhan HN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thorp JM Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tita ATN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Longo M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Landon MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development Maternal-Fetal Medicine Units Network",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Landon MB",
+      "title": "Prediction of vaginal birth after cesarean delivery in term gestations: a calculator without race and ethnicity.",
+      "sorttitle": "prediction of vaginal birth after cesarean delivery in term gestations a calculator without race and ethnicity",
+      "volume": "225",
+      "issue": "6",
+      "pages": "664.e1-664.e7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370476",
+      "issn": "0002-9378",
+      "essn": "1097-6868",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34043983"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1707781"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8611105"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8611105;manuscript-id: NIHMS1707781;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ajog.2021.05.021"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0002-9378(21)00587-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2021/03/18 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2021/05/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2021/05/17 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/05/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/12/18 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/05/27 20:23"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Obstet Gynecol. 2022 Feb;226(2):281-282",
+          "reftype": "Comment in",
+          "pmid": 34481770,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Obstet Gynecol. 2022 Feb;226(2):282-283",
+          "reftype": "Comment in",
+          "pmid": 34481775,
+          "note": ""
+        },
+        {
+          "refsource": "Am J Obstet Gynecol. 2022 Sep;227(3):537-538",
+          "reftype": "Comment in",
+          "pmid": 35562052,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 29,
+      "fulljournalname": "American journal of obstetrics and gynecology",
+      "elocationid": "doi: 10.1016/j.ajog.2021.05.021",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/12/01 00:00",
+      "sortfirstauthor": "Grobman WA",
+      "vernaculartitle": ""
+    }
+  }
+}

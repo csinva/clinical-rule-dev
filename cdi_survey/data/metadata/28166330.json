@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28166330"
+    ],
+    "28166330": {
+      "uid": "28166330",
+      "pubdate": "2017 Apr 1",
+      "epubdate": "",
+      "source": "Hum Reprod",
+      "authors": [
+        {
+          "name": "Goldman RH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Racowsky C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Farland LV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Munn\u00e9 S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ribustello L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fox JH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fox JH",
+      "title": "Predicting the likelihood of live birth for elective oocyte cryopreservation: a counseling tool for physicians and patients.",
+      "sorttitle": "predicting the likelihood of live birth for elective oocyte cryopreservation a counseling tool for physicians and patients",
+      "volume": "32",
+      "issue": "4",
+      "pages": "853-859",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8701199",
+      "issn": "0268-1161",
+      "essn": "1460-2350",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28166330"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/humrep/dex008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2968357"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/09/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2017/01/11 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/02/07 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/10/19 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/02/07 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Human reproduction (Oxford, England)",
+      "elocationid": "doi: 10.1093/humrep/dex008",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/04/01 00:00",
+      "sortfirstauthor": "Goldman RH",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "29032610"
+    ],
+    "29032610": {
+      "uid": "29032610",
+      "pubdate": "2018 Jan",
+      "epubdate": "2018 Jan 5",
+      "source": "J Hepatobiliary Pancreat Sci",
+      "authors": [
+        {
+          "name": "Kiriyama S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kozaka K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Takada T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Strasberg SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pitt HA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gabata T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hata J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liau KH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miura F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Horiguchi A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu KH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Su CH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wada K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jagannath P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Itoi T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gouma DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mori Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mukai S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gim\u00e9nez ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang WS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Okamoto K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Belli G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dervenis C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chan ACW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lau WY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Endo I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gomi H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yoshida M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mayumi T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baron TH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Santiba\u00f1es E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Teoh AYB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hwang TL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ker CG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han HS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yoon YS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Choi IS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yoon DS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Higuchi R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kitano S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Inomata M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deziel DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jonas E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hirata K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sumiyama Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Inui K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yamamoto M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yamamoto M",
+      "title": "Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholangitis (with videos).",
+      "sorttitle": "tokyo guidelines 2018 diagnostic criteria and severity grading of acute cholangitis with videos",
+      "volume": "25",
+      "issue": "1",
+      "pages": "17-30",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101528587",
+      "issn": "1868-6974",
+      "essn": "1868-6982",
+      "pubtype": [
+        "Letter",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29032610"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jhbp.512"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/10/17 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/08/23 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/10/17 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Endoscopy. 2020 Oct;52(10):925-926",
+          "reftype": "Comment in",
+          "pmid": 32659808,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of hepato-biliary-pancreatic sciences",
+      "elocationid": "doi: 10.1002/jhbp.512",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/01/01 00:00",
+      "sortfirstauthor": "Kiriyama S",
+      "vernaculartitle": ""
+    }
+  }
+}

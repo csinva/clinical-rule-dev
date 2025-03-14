@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16331773"
+    ],
+    "16331773": {
+      "uid": "16331773",
+      "pubdate": "2005 Dec",
+      "epubdate": "",
+      "source": "J Rheumatol",
+      "authors": [
+        {
+          "name": "Wolfe F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Michaud K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pincus T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pincus T",
+      "title": "A composite disease activity scale for clinical practice, observational studies, and clinical trials: the patient activity scale (PAS/PAS-II).",
+      "sorttitle": "composite disease activity scale for clinical practice observational studies and clinical trials the patient activity scale pas pas ii",
+      "volume": "32",
+      "issue": "12",
+      "pages": "2410-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501984",
+      "issn": "0315-162X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16331773"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0315162X-32-2410"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/12/07 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/02/18 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/12/07 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of rheumatology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/12/01 00:00",
+      "sortfirstauthor": "Wolfe F",
+      "vernaculartitle": ""
+    }
+  }
+}

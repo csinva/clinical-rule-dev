@@ -1,0 +1,183 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "26856838"
+    ],
+    "26856838": {
+      "uid": "26856838",
+      "pubdate": "2016 May",
+      "epubdate": "2016 Apr 22",
+      "source": "Antimicrob Agents Chemother",
+      "authors": [
+        {
+          "name": "Webb BJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dascomb K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stenehjem E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vikram HR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Agrwal N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sakata K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Williams K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bockorny B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bagavathy K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mirza S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Metersky M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dean NC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dean NC",
+      "title": "Derivation and Multicenter Validation of the Drug Resistance in Pneumonia Clinical Prediction Score.",
+      "sorttitle": "derivation and multicenter validation of the drug resistance in pneumonia clinical prediction score",
+      "volume": "60",
+      "issue": "5",
+      "pages": "2652-63",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0315061",
+      "issn": "0066-4804",
+      "essn": "1098-6596",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26856838"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4862530"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4862530;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1128/AAC.03071-15"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AAC.03071-15"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2015/12/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/02/03 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/02/10 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/02/10 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/09/16 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Antimicrob Agents Chemother. 2018 Feb 23;62(3):",
+          "reftype": "Comment in",
+          "pmid": 29475891,
+          "note": ""
+        },
+        {
+          "refsource": "Antimicrob Agents Chemother. 2018 Feb 23;62(3):",
+          "reftype": "Comment in",
+          "pmid": 29475893,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 60,
+      "fulljournalname": "Antimicrobial agents and chemotherapy",
+      "elocationid": "doi: 10.1128/AAC.03071-15",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/04/22 00:00",
+      "sortfirstauthor": "Webb BJ",
+      "vernaculartitle": ""
+    }
+  }
+}

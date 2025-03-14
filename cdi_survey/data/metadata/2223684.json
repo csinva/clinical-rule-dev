@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2223684"
+    ],
+    "2223684": {
+      "uid": "2223684",
+      "pubdate": "1990 Oct",
+      "epubdate": "",
+      "source": "Br J Obstet Gynaecol",
+      "authors": [
+        {
+          "name": "Jacobs I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oram D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fairbanks J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Turner J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Frost C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grudzinskas JG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Grudzinskas JG",
+      "title": "A risk of malignancy index incorporating CA 125, ultrasound and menopausal status for the accurate preoperative diagnosis of ovarian cancer.",
+      "sorttitle": "risk of malignancy index incorporating ca 125 ultrasound and menopausal status for the accurate preoperative diagnosis of ovarian cancer",
+      "volume": "97",
+      "issue": "10",
+      "pages": "922-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7503752",
+      "issn": "0306-5456",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2223684"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1471-0528.1990.tb02448.x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1990/10/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1990/10/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1990/10/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "British journal of obstetrics and gynaecology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1990/10/01 00:00",
+      "sortfirstauthor": "Jacobs I",
+      "vernaculartitle": ""
+    }
+  }
+}

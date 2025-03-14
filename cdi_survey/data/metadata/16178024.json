@@ -1,0 +1,119 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16178024"
+    ],
+    "16178024": {
+      "uid": "16178024",
+      "pubdate": "2005 Oct",
+      "epubdate": "",
+      "source": "Ann Neurol",
+      "authors": [
+        {
+          "name": "Wijdicks EF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bamlet WR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maramattom BV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Manno EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McClelland RL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "McClelland RL",
+      "title": "Validation of a new coma scale: The FOUR score.",
+      "sorttitle": "validation of a new coma scale the four score",
+      "volume": "58",
+      "issue": "4",
+      "pages": "585-93",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7707449",
+      "issn": "0364-5134",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16178024"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ana.20611"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/09/24 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/12/16 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/09/24 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Neurol. 2006 Dec;60(6):744-5; author reply 745",
+          "reftype": "Comment in",
+          "pmid": 16847951,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of neurology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/10/01 00:00",
+      "sortfirstauthor": "Wijdicks EF",
+      "vernaculartitle": ""
+    }
+  }
+}

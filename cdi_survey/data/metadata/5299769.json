@@ -1,0 +1,95 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "5299769"
+    ],
+    "5299769": {
+      "uid": "5299769",
+      "pubdate": "1967 Oct 27",
+      "epubdate": "",
+      "source": "Dtsch Med Wochenschr",
+      "authors": [
+        {
+          "name": "Allg\u00f6wer M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burri C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Burri C",
+      "title": "[\"Shock index\"].",
+      "sorttitle": "shock index",
+      "volume": "92",
+      "issue": "43",
+      "pages": "1947-50",
+      "lang": [
+        "ger"
+      ],
+      "nlmuniqueid": "0006723",
+      "issn": "0012-0472",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "5299769"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1055/s-0028-1106070"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1967/10/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1967/10/27 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1967/10/27 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Deutsche medizinische Wochenschrift (1946)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1967/10/27 00:00",
+      "sortfirstauthor": "Allg\u00f6wer M",
+      "vernaculartitle": "\"Schockindex\"."
+    }
+  }
+}

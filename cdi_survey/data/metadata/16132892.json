@@ -1,0 +1,168 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16132892"
+    ],
+    "16132892": {
+      "uid": "16132892",
+      "pubdate": "2005 Oct",
+      "epubdate": "2005 Aug 17",
+      "source": "Intensive Care Med",
+      "authors": [
+        {
+          "name": "Moreno RP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Metnitz PG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Almeida E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jordan B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bauer P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Campos RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iapichino G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Edbrooke D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Capuzzo M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Le Gall JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "SAPS 3 Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Le Gall JR",
+      "title": "SAPS 3--From evaluation of the patient to evaluation of the intensive care unit. Part 2: Development of a prognostic model for hospital mortality at ICU admission.",
+      "sorttitle": "saps 3 from evaluation of the patient to evaluation of the intensive care unit part 2 development of a prognostic model for hospital mortality at icu admission",
+      "volume": "31",
+      "issue": "10",
+      "pages": "1345-55",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7704851",
+      "issn": "0342-4642",
+      "essn": "1432-1238",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16132892"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1315315"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1315315;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00134-005-2763-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2005/04/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2005/07/22 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/09/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/01/25 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/09/01 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Intensive Care Med. 2006 May;32(5):796",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 31,
+      "fulljournalname": "Intensive care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/10/01 00:00",
+      "sortfirstauthor": "Moreno RP",
+      "vernaculartitle": ""
+    }
+  }
+}

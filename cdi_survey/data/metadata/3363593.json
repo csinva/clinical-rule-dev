@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3363593"
+    ],
+    "3363593": {
+      "uid": "3363593",
+      "pubdate": "1988 May",
+      "epubdate": "",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "van Swieten JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Koudstaal PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Visser MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schouten HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Gijn J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "van Gijn J",
+      "title": "Interobserver agreement for the assessment of handicap in stroke patients.",
+      "sorttitle": "interobserver agreement for the assessment of handicap in stroke patients",
+      "volume": "19",
+      "issue": "5",
+      "pages": "604-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3363593"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/01.str.19.5.604"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1988/05/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1988/05/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1988/05/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Stroke",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1988/05/01 00:00",
+      "sortfirstauthor": "van Swieten JC",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "32960645"
+    ],
+    "32960645": {
+      "uid": "32960645",
+      "pubdate": "2021 Jan",
+      "epubdate": "2020 Sep 22",
+      "source": "Ann Intern Med",
+      "authors": [
+        {
+          "name": "Garibaldi BT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fiksel J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Muschelli J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Robinson ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rouhizadeh M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perin J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schumock G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nagy P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gray JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Malapati H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ghobadi-Krueger M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Niessen TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim BS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hill PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahmed MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dobkin ED",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blanding R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abele J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Woods B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Harkness K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thiemann DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bowring MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shah AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bandeen-Roche K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosen A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeger SL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gupta A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gupta A",
+      "title": "Patient Trajectories Among Persons Hospitalized for COVID-19 : A Cohort Study.",
+      "sorttitle": "patient trajectories among persons hospitalized for covid 19 a cohort study",
+      "volume": "174",
+      "issue": "1",
+      "pages": "33-41",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372351",
+      "issn": "0003-4819",
+      "essn": "1539-3704",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32960645"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7530643"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7530643;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7326/M20-3905"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/09/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/01/29 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2020/09/22 17:11"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Intern Med. 2021 Jan;174(1):144",
+          "reftype": "Erratum in",
+          "pmid": 33166225,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 50,
+      "fulljournalname": "Annals of internal medicine",
+      "elocationid": "doi: 10.7326/M20-3905",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/01/01 00:00",
+      "sortfirstauthor": "Garibaldi BT",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17493754"
+    ],
+    "17493754": {
+      "uid": "17493754",
+      "pubdate": "2007 Jul",
+      "epubdate": "2007 May 9",
+      "source": "Pain",
+      "authors": [
+        {
+          "name": "Butler SF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Budman SH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fernandez KC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Houle B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Benoit C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Katz N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jamison RN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jamison RN",
+      "title": "Development and validation of the Current Opioid Misuse Measure.",
+      "sorttitle": "development and validation of the current opioid misuse measure",
+      "volume": "130",
+      "issue": "1-2",
+      "pages": "144-56",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7508686",
+      "issn": "0304-3959",
+      "essn": "1872-6623",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17493754"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS26030"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1950245"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1950245;manuscript-id: NIHMS26030;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.pain.2007.01.014"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0304-3959(07)00022-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2006/08/16 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2006/12/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2007/01/16 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/05/12 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/06/28 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/05/12 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Pain. 2009 Mar;142(1-2):169",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 38,
+      "fulljournalname": "Pain",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/07/01 00:00",
+      "sortfirstauthor": "Butler SF",
+      "vernaculartitle": ""
+    }
+  }
+}

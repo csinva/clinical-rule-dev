@@ -1,0 +1,139 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "30612768"
+    ],
+    "30612768": {
+      "uid": "30612768",
+      "pubdate": "2019 Feb",
+      "epubdate": "2019 Jan 4",
+      "source": "Arthroscopy",
+      "authors": [
+        {
+          "name": "Hevesi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heidenreich MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Camp CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hewett TE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stuart MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dahm DL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krych AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Krych AJ",
+      "title": "The Recurrent Instability of the Patella Score: A Statistically Based Model for Prediction of Long-Term Recurrence Risk After First-Time Dislocation.",
+      "sorttitle": "recurrent instability of the patella score a statistically based model for prediction of long term recurrence risk after first time dislocation",
+      "volume": "35",
+      "issue": "2",
+      "pages": "537-543",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8506498",
+      "issn": "0749-8063",
+      "essn": "1526-3231",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30612768"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.arthro.2018.09.017"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0749-8063(18)30827-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2018/05/16 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2018/09/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2018/09/14 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/01/08 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/01/28 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2019/01/08 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+      "elocationid": "doi: 10.1016/j.arthro.2018.09.017",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/02/01 00:00",
+      "sortfirstauthor": "Hevesi M",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "30302348"
+    ],
+    "30302348": {
+      "uid": "30302348",
+      "pubdate": "2018 Oct",
+      "epubdate": "2018 Oct 3",
+      "source": "Orthop J Sports Med",
+      "authors": [
+        {
+          "name": "Hevesi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hartigan DE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu IT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wyles CC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Desai VS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Wijnen AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saris DBF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levy BA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krych AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Krych AJ",
+      "title": "The Rapidly Assessed Predictor of Intraoperative Damage (RAPID) Score: An In-Clinic Predictive Model for High-Grade Acetabular Chondrolabral Disruption.",
+      "sorttitle": "rapidly assessed predictor of intraoperative damage rapid score an in clinic predictive model for high grade acetabular chondrolabral disruption",
+      "volume": "6",
+      "issue": "10",
+      "pages": "2325967118799068",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101620522",
+      "issn": "2325-9671",
+      "essn": "2325-9671",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30302348"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6170967"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6170967;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/2325967118799068"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1177_2325967118799068"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2018/10/11 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/10/12 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/10/12 06:01"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 30,
+      "fulljournalname": "Orthopaedic journal of sports medicine",
+      "elocationid": "doi: 10.1177/2325967118799068",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/10/03 00:00",
+      "sortfirstauthor": "Hevesi M",
+      "vernaculartitle": ""
+    }
+  }
+}

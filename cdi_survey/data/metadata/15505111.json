@@ -1,0 +1,194 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15505111"
+    ],
+    "15505111": {
+      "uid": "15505111",
+      "pubdate": "2004 Oct 26",
+      "epubdate": "",
+      "source": "Circulation",
+      "authors": [
+        {
+          "name": "Newburger JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Takahashi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gerber MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gewitz MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tani LY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burns JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shulman ST",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bolger AF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferrieri P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baltimore RS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wilson WR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baddour LM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levison ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pallasch TJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Falace DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taubert KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Committee on Rheumatic Fever, Endocarditis and Kawasaki Disease",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        },
+        {
+          "name": "Council on Cardiovascular Disease in the Young",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        },
+        {
+          "name": "American Heart Association",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        },
+        {
+          "name": "American Academy of Pediatrics",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Taubert KA",
+      "title": "Diagnosis, treatment, and long-term management of Kawasaki disease: a statement for health professionals from the Committee on Rheumatic Fever, Endocarditis and Kawasaki Disease, Council on Cardiovascular Disease in the Young, American Heart Association.",
+      "sorttitle": "diagnosis treatment and long term management of kawasaki disease a statement for health professionals from the committee on rheumatic fever endocarditis and kawasaki disease council on cardiovascular disease in the young american heart association",
+      "volume": "110",
+      "issue": "17",
+      "pages": "2747-71",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147763",
+      "issn": "0009-7322",
+      "essn": "1524-4539",
+      "pubtype": [
+        "Guideline",
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15505111"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/01.CIR.0000145143.19711.78"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "110/17/2747"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/10/27 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/05/13 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/10/27 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Circulation",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/10/26 00:00",
+      "sortfirstauthor": "Newburger JW",
+      "vernaculartitle": ""
+    }
+  }
+}

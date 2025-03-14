@@ -1,0 +1,145 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "22311929"
+    ],
+    "22311929": {
+      "uid": "22311929",
+      "pubdate": "2012 Feb 7",
+      "epubdate": "",
+      "source": "Neurology",
+      "authors": [
+        {
+          "name": "Strbian D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Meretoja A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahlhelm FJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pitk\u00e4niemi J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lyrer P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaste M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Engelter S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tatlisumak T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tatlisumak T",
+      "title": "Predicting outcome of IV thrombolysis-treated ischemic stroke patients: the DRAGON score.",
+      "sorttitle": "predicting outcome of iv thrombolysis treated ischemic stroke patients the dragon score",
+      "volume": "78",
+      "issue": "6",
+      "pages": "427-32",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401060",
+      "issn": "0028-3878",
+      "essn": "1526-632X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22311929"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1212/WNL.0b013e318245d2a9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "78/6/427"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2012/02/08 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2012/02/09 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/07/20 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Neurology. 2012 Apr 24;78(17):1368",
+          "reftype": "Comment in",
+          "pmid": 22529207,
+          "note": ""
+        },
+        {
+          "refsource": "Neurology. 2012 Jul 31;79(5):486-7; author reply 486-7",
+          "reftype": "Comment in",
+          "pmid": 22851721,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurology",
+      "elocationid": "doi: 10.1212/WNL.0b013e318245d2a9",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2012/02/07 00:00",
+      "sortfirstauthor": "Strbian D",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12049574"
+    ],
+    "12049574": {
+      "uid": "12049574",
+      "pubdate": "2002 Jun",
+      "epubdate": "",
+      "source": "Arch Ophthalmol",
+      "authors": [
+        {
+          "name": "Kass MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heuer DK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Higginbotham EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Keltner JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Parrish RK 2nd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wilson MR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gordon MO",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gordon MO",
+      "title": "The Ocular Hypertension Treatment Study: a randomized trial determines that topical ocular hypotensive medication delays or prevents the onset of primary open-angle glaucoma.",
+      "sorttitle": "ocular hypertension treatment study a randomized trial determines that topical ocular hypotensive medication delays or prevents the onset of primary open angle glaucoma",
+      "volume": "120",
+      "issue": "6",
+      "pages": "701-13; discussion 829-30",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7706534",
+      "issn": "0003-9950",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12049574"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/archopht.120.6.701"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ecs20045"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2002/06/07 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/06/18 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2002/06/07 10:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Arch Ophthalmol. 2003 Jul;121(7):1070; author reply 1070",
+          "reftype": "Comment in",
+          "pmid": 12860828,
+          "note": ""
+        },
+        {
+          "refsource": "Arch Ophthalmol. 2004 Jul;122(7):1088-9; author reply 1089",
+          "reftype": "Comment in",
+          "pmid": 15249390,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2002/06/01 00:00",
+      "sortfirstauthor": "Kass MA",
+      "vernaculartitle": ""
+    }
+  }
+}

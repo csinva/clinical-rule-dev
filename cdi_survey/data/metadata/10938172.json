@@ -1,0 +1,151 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10938172"
+    ],
+    "10938172": {
+      "uid": "10938172",
+      "pubdate": "2000 Aug 16",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Antman EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cohen M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernink PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McCabe CH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Horacek T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Papuchis G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mautner B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Corbalan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Radley D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Braunwald E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Braunwald E",
+      "title": "The TIMI risk score for unstable angina/non-ST elevation MI: A method for prognostication and therapeutic decision making.",
+      "sorttitle": "timi risk score for unstable angina non st elevation mi a method for prognostication and therapeutic decision making",
+      "volume": "284",
+      "issue": "7",
+      "pages": "835-42",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10938172"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.284.7.835"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "joc00458"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/08/11 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/09/02 11:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/08/11 11:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 2000 Aug 16;284(7):876-8",
+          "reftype": "Comment in",
+          "pmid": 10938178,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/08/16 00:00",
+      "sortfirstauthor": "Antman EM",
+      "vernaculartitle": ""
+    }
+  }
+}

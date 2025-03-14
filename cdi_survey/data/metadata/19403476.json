@@ -1,0 +1,129 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19403476"
+    ],
+    "19403476": {
+      "uid": "19403476",
+      "pubdate": "2009 May",
+      "epubdate": "",
+      "source": "Pediatrics",
+      "authors": [
+        {
+          "name": "Garro AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rutman M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simonsen K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jaeger JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chapin K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lockhart G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lockhart G",
+      "title": "Prospective validation of a clinical prediction model for Lyme meningitis in children.",
+      "sorttitle": "prospective validation of a clinical prediction model for lyme meningitis in children",
+      "volume": "123",
+      "issue": "5",
+      "pages": "e829-34",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376422",
+      "issn": "0031-4005",
+      "essn": "1098-4275",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19403476"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1542/peds.2008-2048"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "123/5/e829"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/05/01 09:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/05/01 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/05/27 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Pediatrics. 2009 May;123(5):1408",
+          "reftype": "Comment in",
+          "pmid": 19403507,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatrics",
+      "elocationid": "doi: 10.1542/peds.2008-2048",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/05/01 00:00",
+      "sortfirstauthor": "Garro AC",
+      "vernaculartitle": ""
+    }
+  }
+}

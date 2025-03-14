@@ -1,0 +1,139 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "9060552"
+    ],
+    "9060552": {
+      "uid": "9060552",
+      "pubdate": "1997 Mar",
+      "epubdate": "",
+      "source": "J Clin Oncol",
+      "authors": [
+        {
+          "name": "Brice P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bastion Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lepage E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brousse N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ha\u00efoun C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moreau P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Straetmans N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tilly H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tabah I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Solal-C\u00e9ligny P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Solal-C\u00e9ligny P",
+      "title": "Comparison in low-tumor-burden follicular lymphomas between an initial no-treatment policy, prednimustine, or interferon alfa: a randomized study from the Groupe d'Etude des Lymphomes Folliculaires. Groupe d'Etude des Lymphomes de l'Adulte.",
+      "sorttitle": "comparison in low tumor burden follicular lymphomas between an initial no treatment policy prednimustine or interferon alfa a randomized study from the groupe d etude des lymphomes folliculaires groupe d etude des lymphomes de l adulte",
+      "volume": "15",
+      "issue": "3",
+      "pages": "1110-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309333",
+      "issn": "0732-183X",
+      "essn": "",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9060552"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1200/JCO.1997.15.3.1110"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1997/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1997/03/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1997/03/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1997/03/01 00:00",
+      "sortfirstauthor": "Brice P",
+      "vernaculartitle": ""
+    }
+  }
+}

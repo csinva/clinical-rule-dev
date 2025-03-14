@@ -1,0 +1,119 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2490426"
+    ],
+    "2490426": {
+      "uid": "2490426",
+      "pubdate": "1989 Aug",
+      "epubdate": "",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "O'Grady JG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alexander GJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hayllar KM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Williams R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Williams R",
+      "title": "Early indicators of prognosis in fulminant hepatic failure.",
+      "sorttitle": "early indicators of prognosis in fulminant hepatic failure",
+      "volume": "97",
+      "issue": "2",
+      "pages": "439-45",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2490426"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0016-5085(89)90081-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0016-5085(89)90081-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1989/08/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1989/08/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1989/08/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Gastroenterology. 1991 May;100(5 Pt 1):1480-1",
+          "reftype": "Comment in",
+          "pmid": 2013397,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1989/08/01 00:00",
+      "sortfirstauthor": "O'Grady JG",
+      "vernaculartitle": ""
+    }
+  }
+}

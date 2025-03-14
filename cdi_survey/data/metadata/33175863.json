@@ -1,0 +1,180 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "33175863"
+    ],
+    "33175863": {
+      "uid": "33175863",
+      "pubdate": "2020",
+      "epubdate": "2020 Nov 11",
+      "source": "PLoS One",
+      "authors": [
+        {
+          "name": "King JT Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yoon JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rentsch CT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tate JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Park LS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kidwai-Khan F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Skanderson M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hauser RG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacobson DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Erdos J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cho K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ramoni R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gagnon DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Justice AC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Justice AC",
+      "title": "Development and validation of a 30-day mortality index based on pre-existing medical administrative data from 13,323 COVID-19 patients: The Veterans Health Administration COVID-19 (VACO) Index.",
+      "sorttitle": "development and validation of a 30 day mortality index based on pre existing medical administrative data from 13 323 covid 19 patients the veterans health administration covid 19 vaco index",
+      "volume": "15",
+      "issue": "11",
+      "pages": "e0241825",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101285081",
+      "issn": "",
+      "essn": "1932-6203",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33175863"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7657526"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7657526;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0241825"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-20-27401"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2020/09/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2020/10/21 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2020/11/11 17:13"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/11/12 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/11/20 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 29,
+      "fulljournalname": "PloS one",
+      "elocationid": "doi: 10.1371/journal.pone.0241825",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2020/11/11 00:00",
+      "sortfirstauthor": "King JT Jr",
+      "vernaculartitle": ""
+    }
+  }
+}

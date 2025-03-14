@@ -1,0 +1,166 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18768945"
+    ],
+    "18768945": {
+      "uid": "18768945",
+      "pubdate": "2008 Sep 4",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Kim WR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Biggins SW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kremers WK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wiesner RH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kamath PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Benson JT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Edwards E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Therneau TM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Therneau TM",
+      "title": "Hyponatremia and mortality among patients on the liver-transplant waiting list.",
+      "sorttitle": "hyponatremia and mortality among patients on the liver transplant waiting list",
+      "volume": "359",
+      "issue": "10",
+      "pages": "1018-26",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "1533-4406",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18768945"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS669285"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4374557"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4374557;manuscript-id: NIHMS669285;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa0801209"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "359/10/1018"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/09/05 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/09/13 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/09/05 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "N Engl J Med. 2008 Sep 4;359(10):1060-2",
+          "reftype": "Comment in",
+          "pmid": 18768952,
+          "note": ""
+        },
+        {
+          "refsource": "N Engl J Med. 2008 Dec 11;359(24):2615; author reply 2615",
+          "reftype": "Comment in",
+          "pmid": 19073986,
+          "note": ""
+        },
+        {
+          "refsource": "J Hepatol. 2009 Apr;50(4):836-8",
+          "reftype": "Comment in",
+          "pmid": 19231009,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 40,
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "doi: 10.1056/NEJMoa0801209",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/09/04 00:00",
+      "sortfirstauthor": "Kim WR",
+      "vernaculartitle": ""
+    }
+  }
+}

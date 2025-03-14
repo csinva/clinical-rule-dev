@@ -1,0 +1,90 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6829965"
+    ],
+    "6829965": {
+      "uid": "6829965",
+      "pubdate": "1983 Mar",
+      "epubdate": "",
+      "source": "Anesthesiology",
+      "authors": [
+        {
+          "name": "Gross JB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gross JB",
+      "title": "Estimating allowable blood loss: corrected for dilution.",
+      "sorttitle": "estimating allowable blood loss corrected for dilution",
+      "volume": "58",
+      "issue": "3",
+      "pages": "277-80",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1300217",
+      "issn": "0003-3022",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6829965"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00000542-198303000-00016"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1983/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1983/03/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1983/03/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Anesthesiology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1983/03/01 00:00",
+      "sortfirstauthor": "Gross JB",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25100651"
+    ],
+    "25100651": {
+      "uid": "25100651",
+      "pubdate": "2014 Dec",
+      "epubdate": "2014 Aug 6",
+      "source": "Thorax",
+      "authors": [
+        {
+          "name": "Clive AO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kahan BC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hooper CE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bhatnagar R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morley AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zahan-Evans N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bintcliffe OJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boshuizen RC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fysh ET",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tobin CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Medford AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Harvey JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van den Heuvel MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee YC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maskell NA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Maskell NA",
+      "title": "Predicting survival in malignant pleural effusion: development and validation of the LENT prognostic score.",
+      "sorttitle": "predicting survival in malignant pleural effusion development and validation of the lent prognostic score",
+      "volume": "69",
+      "issue": "12",
+      "pages": "1098-104",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0417353",
+      "issn": "0040-6376",
+      "essn": "1468-3296",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25100651"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4251306"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4251306;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/thoraxjnl-2014-205285"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "thoraxjnl-2014-205285"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/08/08 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/08/08 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/01/13 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Thorax. 2014 Dec;69(12):1144",
+          "reftype": "Comment in",
+          "pmid": 25246667,
+          "note": ""
+        },
+        {
+          "refsource": "Thorax. 2014 Dec;69(12):1144-5",
+          "reftype": "Comment in",
+          "pmid": 25253357,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 25,
+      "fulljournalname": "Thorax",
+      "elocationid": "doi: 10.1136/thoraxjnl-2014-205285",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/12/01 00:00",
+      "sortfirstauthor": "Clive AO",
+      "vernaculartitle": ""
+    }
+  }
+}

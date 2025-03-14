@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "444788"
+    ],
+    "444788": {
+      "uid": "444788",
+      "pubdate": "1979 Apr",
+      "epubdate": "",
+      "source": "Br J Psychiatry",
+      "authors": [
+        {
+          "name": "Montgomery SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Asberg M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Asberg M",
+      "title": "A new depression scale designed to be sensitive to change.",
+      "sorttitle": "new depression scale designed to be sensitive to change",
+      "volume": "134",
+      "issue": "",
+      "pages": "382-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0342367",
+      "issn": "0007-1250",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "444788"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1192/bjp.134.4.382"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0007125000058487"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1979/04/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1979/04/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1979/04/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The British journal of psychiatry : the journal of mental science",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1979/04/01 00:00",
+      "sortfirstauthor": "Montgomery SA",
+      "vernaculartitle": ""
+    }
+  }
+}

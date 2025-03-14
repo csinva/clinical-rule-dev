@@ -1,0 +1,98 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8416784"
+    ],
+    "8416784": {
+      "uid": "8416784",
+      "pubdate": "1993 Jan",
+      "epubdate": "",
+      "source": "Dis Colon Rectum",
+      "authors": [
+        {
+          "name": "Jorge JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wexner SD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wexner SD",
+      "title": "Etiology and management of fecal incontinence.",
+      "sorttitle": "etiology and management of fecal incontinence",
+      "volume": "36",
+      "issue": "1",
+      "pages": "77-97",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372764",
+      "issn": "0012-3706",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8416784"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/BF02050307"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1993/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1993/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1993/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Diseases of the colon and rectum",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1993/01/01 00:00",
+      "sortfirstauthor": "Jorge JM",
+      "vernaculartitle": ""
+    }
+  }
+}

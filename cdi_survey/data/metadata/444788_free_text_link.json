@@ -1,0 +1,38 @@
+{
+  "header": {
+    "type": "elink",
+    "version": "0.3"
+  },
+  "linksets": [
+    {
+      "dbfrom": "pubmed",
+      "idurllist": [
+        {
+          "id": "444788",
+          "objurls": [
+            {
+              "url": {
+                "value": "https://www.cambridge.org/core/product/identifier/S0007125000058487/type/journal_article"
+              },
+              "iconurl": {
+                "value": "/corehtml/query/egifs/http:--journals.cambridge.org-images-cjo.gif"
+              },
+              "subjecttypes": [],
+              "categories": [
+                "Full Text Sources"
+              ],
+              "attributes": [
+                "subscription/membership/fee required"
+              ],
+              "provider": {
+                "name": "Cambridge University Press",
+                "nameabbr": "camup",
+                "id": "3288"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

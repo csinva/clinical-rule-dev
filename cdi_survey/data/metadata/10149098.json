@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10149098"
+    ],
+    "10149098": {
+      "uid": "10149098",
+      "pubdate": "1991",
+      "epubdate": "",
+      "source": "Clin Intensive Care",
+      "authors": [
+        {
+          "name": "Singh NC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kissoon N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Frewen T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tiffin N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tiffin N",
+      "title": "Physiological responses to endotracheal and oral suctioning in paediatric patients: the influence of endotracheal tube sizes and suction pressures.",
+      "sorttitle": "physiological responses to endotracheal and oral suctioning in paediatric patients the influence of endotracheal tube sizes and suction pressures",
+      "volume": "2",
+      "issue": "6",
+      "pages": "345-50",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9101410",
+      "issn": "0956-3075",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10149098"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1990/12/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1990/12/10 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1990/12/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical intensive care : international journal of critical & coronary care medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1991/01/01 00:00",
+      "sortfirstauthor": "Singh NC",
+      "vernaculartitle": ""
+    }
+  }
+}

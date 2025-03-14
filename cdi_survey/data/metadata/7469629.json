@@ -1,0 +1,107 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7469629"
+    ],
+    "7469629": {
+      "uid": "7469629",
+      "pubdate": "1981 Feb 23",
+      "epubdate": "",
+      "source": "Arch Intern Med",
+      "authors": [
+        {
+          "name": "Rumack BH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peterson RC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Koch GG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Amara IA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Amara IA",
+      "title": "Acetaminophen overdose. 662 cases with evaluation of oral acetylcysteine treatment.",
+      "sorttitle": "acetaminophen overdose 662 cases with evaluation of oral acetylcysteine treatment",
+      "volume": "141",
+      "issue": "3 Spec No",
+      "pages": "380-5",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372440",
+      "issn": "0003-9926",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7469629"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/archinte.141.3.380"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1981/02/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1981/02/23 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1981/02/23 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1981/02/23 00:00",
+      "sortfirstauthor": "Rumack BH",
+      "vernaculartitle": ""
+    }
+  }
+}

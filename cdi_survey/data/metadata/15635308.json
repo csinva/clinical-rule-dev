@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15635308"
+    ],
+    "15635308": {
+      "uid": "15635308",
+      "pubdate": "2005 Jan",
+      "epubdate": "",
+      "source": "Ann Emerg Med",
+      "authors": [
+        {
+          "name": "Gill M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Windemuth R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Steele R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Green SM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Green SM",
+      "title": "A comparison of the Glasgow Coma Scale score to simplified alternative scores for the prediction of traumatic brain injury outcomes.",
+      "sorttitle": "comparison of the glasgow coma scale score to simplified alternative scores for the prediction of traumatic brain injury outcomes",
+      "volume": "45",
+      "issue": "1",
+      "pages": "37-42",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8002646",
+      "issn": "0196-0644",
+      "essn": "1097-6760",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15635308"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.annemergmed.2004.07.429"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0196064404011527"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/01/07 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/03/26 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/01/07 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of emergency medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/01/01 00:00",
+      "sortfirstauthor": "Gill M",
+      "vernaculartitle": ""
+    }
+  }
+}

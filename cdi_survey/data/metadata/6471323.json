@@ -1,0 +1,99 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "6471323"
+    ],
+    "6471323": {
+      "uid": "6471323",
+      "pubdate": "1984 Oct 12",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Ewing JA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ewing JA",
+      "title": "Detecting alcoholism. The CAGE questionnaire.",
+      "sorttitle": "detecting alcoholism the cage questionnaire",
+      "volume": "252",
+      "issue": "14",
+      "pages": "1905-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6471323"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.252.14.1905"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1984/10/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1984/10/12 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1984/10/12 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 2008 Nov 5;300(17):2054-6",
+          "reftype": "Comment in",
+          "pmid": 18984895,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1984/10/12 00:00",
+      "sortfirstauthor": "Ewing JA",
+      "vernaculartitle": ""
+    }
+  }
+}

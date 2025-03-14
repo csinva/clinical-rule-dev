@@ -1,0 +1,124 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8019315"
+    ],
+    "8019315": {
+      "uid": "8019315",
+      "pubdate": "1994 Jun 11",
+      "epubdate": "",
+      "source": "BMJ",
+      "authors": [
+        {
+          "name": "Altman DG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bland JM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bland JM",
+      "title": "Diagnostic tests. 1: Sensitivity and specificity.",
+      "sorttitle": "diagnostic tests 1 sensitivity and specificity",
+      "volume": "308",
+      "issue": "6943",
+      "pages": "1552",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8900488",
+      "issn": "0959-8138",
+      "essn": "1468-5833",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8019315"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2540489"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2540489;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmj.308.6943.1552"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1994/06/11 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1994/06/11 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1994/06/11 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "BMJ. 1994 Aug 20-27;309(6953):539",
+          "reftype": "Comment in",
+          "pmid": 8086921,
+          "note": ""
+        },
+        {
+          "refsource": "BMJ. 1994 Aug 20-27;309(6953):539",
+          "reftype": "Comment in",
+          "pmid": 8086922,
+          "note": ""
+        },
+        {
+          "refsource": "BMJ. 2004 Jul 17;329(7458):168-9",
+          "reftype": "Comment in",
+          "pmid": 15258077,
+          "note": ""
+        }
+      ],
+      "attributes": [],
+      "pmcrefcount": 1,
+      "fulljournalname": "BMJ (Clinical research ed.)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1994/06/11 00:00",
+      "sortfirstauthor": "Altman DG",
+      "vernaculartitle": ""
+    }
+  }
+}

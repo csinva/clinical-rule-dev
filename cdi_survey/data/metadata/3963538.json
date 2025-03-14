@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3963538"
+    ],
+    "3963538": {
+      "uid": "3963538",
+      "pubdate": "1986 May",
+      "epubdate": "",
+      "source": "Ann Emerg Med",
+      "authors": [
+        {
+          "name": "Goldfrank L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weisman RS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Errick JK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lo MW",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lo MW",
+      "title": "A dosing nomogram for continuous infusion intravenous naloxone.",
+      "sorttitle": "dosing nomogram for continuous infusion intravenous naloxone",
+      "volume": "15",
+      "issue": "5",
+      "pages": "566-70",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8002646",
+      "issn": "0196-0644",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3963538"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0196-0644(86)80994-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0196-0644(86)80994-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1986/05/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1986/05/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1986/05/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of emergency medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1986/05/01 00:00",
+      "sortfirstauthor": "Goldfrank L",
+      "vernaculartitle": ""
+    }
+  }
+}

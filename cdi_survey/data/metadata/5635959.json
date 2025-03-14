@@ -1,0 +1,95 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "5635959"
+    ],
+    "5635959": {
+      "uid": "5635959",
+      "pubdate": "1968 Jan",
+      "epubdate": "",
+      "source": "J Neurosurg",
+      "authors": [
+        {
+          "name": "Hunt WE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hess RM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hess RM",
+      "title": "Surgical risk as related to time of intervention in the repair of intracranial aneurysms.",
+      "sorttitle": "surgical risk as related to time of intervention in the repair of intracranial aneurysms",
+      "volume": "28",
+      "issue": "1",
+      "pages": "14-20",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0253357",
+      "issn": "0022-3085",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "5635959"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3171/jns.1968.28.1.0014"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1968/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1968/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1968/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of neurosurgery",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1968/01/01 00:00",
+      "sortfirstauthor": "Hunt WE",
+      "vernaculartitle": ""
+    }
+  }
+}

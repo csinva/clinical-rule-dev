@@ -1,0 +1,165 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23570474"
+    ],
+    "23570474": {
+      "uid": "23570474",
+      "pubdate": "2013 Jan",
+      "epubdate": "",
+      "source": "Acad Emerg Med",
+      "authors": [
+        {
+          "name": "Stiell IG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Clement CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brison RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rowe BH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borgundvaag B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aaron SD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lang E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Calder LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perry JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Forster AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells GA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wells GA",
+      "title": "A risk scoring system to identify emergency department patients with heart failure at high risk for serious adverse events.",
+      "sorttitle": "risk scoring system to identify emergency department patients with heart failure at high risk for serious adverse events",
+      "volume": "20",
+      "issue": "1",
+      "pages": "17-26",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9418450",
+      "issn": "1069-6563",
+      "essn": "1553-2712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23570474"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/acem.12056"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2012/05/08 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2012/07/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2012/07/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2012/07/14 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/04/11 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/04/11 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2013/11/07 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Acad Emerg Med. 2013 Jan;20(1):106-7",
+          "reftype": "Comment in",
+          "pmid": 23570485,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Academic emergency medicine : official journal of the Society for Academic Emergency Medicine",
+      "elocationid": "doi: 10.1111/acem.12056",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/01/01 00:00",
+      "sortfirstauthor": "Stiell IG",
+      "vernaculartitle": ""
+    }
+  }
+}

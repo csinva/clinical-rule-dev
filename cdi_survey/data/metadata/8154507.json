@@ -1,0 +1,114 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8154507"
+    ],
+    "8154507": {
+      "uid": "8154507",
+      "pubdate": "1994 Mar",
+      "epubdate": "",
+      "source": "Am J Med",
+      "authors": [
+        {
+          "name": "Durack DT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lukes AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bright DK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bright DK",
+      "title": "New criteria for diagnosis of infective endocarditis: utilization of specific echocardiographic findings. Duke Endocarditis Service.",
+      "sorttitle": "new criteria for diagnosis of infective endocarditis utilization of specific echocardiographic findings duke endocarditis service",
+      "volume": "96",
+      "issue": "3",
+      "pages": "200-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0267200",
+      "issn": "0002-9343",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8154507"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0002-9343(94)90143-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0002-9343(94)90143-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1994/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1994/03/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1994/03/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Am J Med. 1994 Mar;96(3):220-2",
+          "reftype": "Comment in",
+          "pmid": 8154509,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1994/03/01 00:00",
+      "sortfirstauthor": "Durack DT",
+      "vernaculartitle": ""
+    }
+  }
+}

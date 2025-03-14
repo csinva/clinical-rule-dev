@@ -1,0 +1,181 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24262323"
+    ],
+    "24262323": {
+      "uid": "24262323",
+      "pubdate": "2014 Jan",
+      "epubdate": "2013 Nov 21",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "Perry JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sharma M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sivilotti ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sutherland J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Worster A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "\u00c9mond M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stotts G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jin AY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oczkowski WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sahlas DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Murray HE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "MacKey A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Verreault S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stiell IG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Stiell IG",
+      "title": "A prospective cohort study of patients with transient ischemic attack to identify high-risk clinical characteristics.",
+      "sorttitle": "prospective cohort study of patients with transient ischemic attack to identify high risk clinical characteristics",
+      "volume": "45",
+      "issue": "1",
+      "pages": "92-100",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "1524-4628",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24262323"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/STROKEAHA.113.003085"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "STROKEAHA.113.003085"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2013/11/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/11/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/02/22 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Stroke. 2014 May;45(5):e88",
+          "reftype": "Comment in",
+          "pmid": 24723315,
+          "note": ""
+        },
+        {
+          "refsource": "Stroke. 2014 May;45(5):e87",
+          "reftype": "Comment in",
+          "pmid": 24723317,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Stroke",
+      "elocationid": "doi: 10.1161/STROKEAHA.113.003085",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/01/01 00:00",
+      "sortfirstauthor": "Perry JJ",
+      "vernaculartitle": ""
+    }
+  }
+}

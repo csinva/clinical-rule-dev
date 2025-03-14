@@ -1,0 +1,10 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "error": "Invalid uid query.fcgi?cmd=Retrieve at position= 0",
+  "result": {
+    "uids": []
+  }
+}

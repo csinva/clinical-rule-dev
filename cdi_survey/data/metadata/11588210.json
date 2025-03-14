@@ -1,0 +1,114 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11588210"
+    ],
+    "11588210": {
+      "uid": "11588210",
+      "pubdate": "2001 Oct",
+      "epubdate": "",
+      "source": "QJM",
+      "authors": [
+        {
+          "name": "Subbe CP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kruger M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rutherford P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gemmel L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gemmel L",
+      "title": "Validation of a modified Early Warning Score in medical admissions.",
+      "sorttitle": "validation of a modified early warning score in medical admissions",
+      "volume": "94",
+      "issue": "10",
+      "pages": "521-6",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9438285",
+      "issn": "1460-2725",
+      "essn": "1460-2393",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11588210"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/qjmed/94.10.521"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/10/06 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/01/05 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/10/06 10:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "QJM. 2001 Oct;94(10):507-10",
+          "reftype": "Comment in",
+          "pmid": 11588208,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "QJM : monthly journal of the Association of Physicians",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/10/01 00:00",
+      "sortfirstauthor": "Subbe CP",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "14747812"
+    ],
+    "14747812": {
+      "uid": "14747812",
+      "pubdate": "2004 Feb",
+      "epubdate": "",
+      "source": "Ann Emerg Med",
+      "authors": [
+        {
+          "name": "Quinn JV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stiell IG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McDermott DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sellers KL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kohn MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells GA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wells GA",
+      "title": "Derivation of the San Francisco Syncope Rule to predict patients with short-term serious outcomes.",
+      "sorttitle": "derivation of the san francisco syncope rule to predict patients with short term serious outcomes",
+      "volume": "43",
+      "issue": "2",
+      "pages": "224-32",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8002646",
+      "issn": "0196-0644",
+      "essn": "1097-6760",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14747812"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0196-0644(03)00823-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0196064403008230"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/01/30 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2004/09/04 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/01/30 05:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Emerg Med. 2004 Feb;43(2):233-7",
+          "reftype": "Comment in",
+          "pmid": 14747813,
+          "note": ""
+        },
+        {
+          "refsource": "Ann Emerg Med. 2004 Oct;44(4):422-3; author reply 423-4",
+          "reftype": "Comment in",
+          "pmid": 15460588,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of emergency medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/02/01 00:00",
+      "sortfirstauthor": "Quinn JV",
+      "vernaculartitle": ""
+    }
+  }
+}

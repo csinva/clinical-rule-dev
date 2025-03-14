@@ -1,0 +1,220 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "32396163"
+    ],
+    "32396163": {
+      "uid": "32396163",
+      "pubdate": "2020 Aug 1",
+      "epubdate": "",
+      "source": "JAMA Intern Med",
+      "authors": [
+        {
+          "name": "Liang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ou L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guan W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhong N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "China Medical Treatment Expert Group for COVID-19",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "He J",
+      "title": "Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19.",
+      "sorttitle": "development and validation of a clinical risk score to predict the occurrence of critical illness in hospitalized patients with covid 19",
+      "volume": "180",
+      "issue": "8",
+      "pages": "1081-1089",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101589534",
+      "issn": "2168-6106",
+      "essn": "2168-6114",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32396163"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7218676"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7218676;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamainternmed.2020.2033"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2766086"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/05/13 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/10/03 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2020/05/13 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA Intern Med. 2021 Jan 1;181(1):143-144",
+          "reftype": "Comment in",
+          "pmid": 33165518,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA Intern Med. 2021 Jul 1;181(7):1000-1001",
+          "reftype": "Comment in",
+          "pmid": 33818609,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 10,
+      "fulljournalname": "JAMA internal medicine",
+      "elocationid": "doi: 10.1001/jamainternmed.2020.2033",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2020/08/01 00:00",
+      "sortfirstauthor": "Liang W",
+      "vernaculartitle": ""
+    }
+  }
+}

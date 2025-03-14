@@ -1,0 +1,97 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "13431307"
+    ],
+    "13431307": {
+      "uid": "13431307",
+      "pubdate": "1957 May",
+      "epubdate": "",
+      "source": "Pediatrics",
+      "authors": [
+        {
+          "name": "HOLLIDAY MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "SEGAR WE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "SEGAR WE",
+      "title": "The maintenance need for water in parenteral fluid therapy.",
+      "sorttitle": "maintenance need for water in parenteral fluid therapy",
+      "volume": "19",
+      "issue": "5",
+      "pages": "823-32",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376422",
+      "issn": "0031-4005",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "13431307"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1957/05/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1957/05/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1957/05/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Pediatrics. 2004 Dec;114(6):1741",
+          "reftype": "Comment in",
+          "pmid": 15574653,
+          "note": ""
+        }
+      ],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatrics",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1957/05/01 00:00",
+      "sortfirstauthor": "HOLLIDAY MA",
+      "vernaculartitle": ""
+    }
+  }
+}

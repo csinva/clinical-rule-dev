@@ -1,0 +1,145 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15636651"
+    ],
+    "15636651": {
+      "uid": "15636651",
+      "pubdate": "2005 Jan",
+      "epubdate": "",
+      "source": "Pediatr Crit Care Med",
+      "authors": [
+        {
+          "name": "Goldstein B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giroir B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Randolph A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "International Consensus Conference on Pediatric Sepsis",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Randolph A",
+      "title": "International pediatric sepsis consensus conference: definitions for sepsis and organ dysfunction in pediatrics.",
+      "sorttitle": "international pediatric sepsis consensus conference definitions for sepsis and organ dysfunction in pediatrics",
+      "volume": "6",
+      "issue": "1",
+      "pages": "2-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100954653",
+      "issn": "1529-7535",
+      "essn": "",
+      "pubtype": [
+        "Consensus Development Conference",
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15636651"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/01.PCC.0000149131.72248.E6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01.PCC.0000149131.72248.E6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2005/01/08 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/07/15 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2005/01/08 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Pediatr Crit Care Med. 2005 Jan;6(1):83-4",
+          "reftype": "Comment in",
+          "pmid": 15643302,
+          "note": ""
+        },
+        {
+          "refsource": "Pediatr Crit Care Med. 2005 Jul;6(4):500; author reply 500-1",
+          "reftype": "Comment in",
+          "pmid": 16003219,
+          "note": ""
+        },
+        {
+          "refsource": "Pediatr Crit Care Med. 2005 Jul;6(4):501; author reply 501",
+          "reftype": "Comment in",
+          "pmid": 16003221,
+          "note": ""
+        },
+        {
+          "refsource": "Pediatr Crit Care Med. 2014 Feb;15(2):182",
+          "reftype": "Comment in",
+          "pmid": 24492191,
+          "note": ""
+        },
+        {
+          "refsource": "Pediatr Crit Care Med. 2014 Feb;15(2):183",
+          "reftype": "Comment in",
+          "pmid": 24492192,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2005/01/01 00:00",
+      "sortfirstauthor": "Goldstein B",
+      "vernaculartitle": ""
+    }
+  }
+}

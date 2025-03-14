@@ -1,0 +1,155 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17299196"
+    ],
+    "17299196": {
+      "uid": "17299196",
+      "pubdate": "2007 Feb 14",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Ridker PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buring JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rifai N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cook NR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cook NR",
+      "title": "Development and validation of improved algorithms for the assessment of global cardiovascular risk in women: the Reynolds Risk Score.",
+      "sorttitle": "development and validation of improved algorithms for the assessment of global cardiovascular risk in women the reynolds risk score",
+      "volume": "297",
+      "issue": "6",
+      "pages": "611-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "1538-3598",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17299196"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.297.6.611"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "297/6/611"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/02/15 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/02/21 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/02/15 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 2007 Apr 4;297(13):1433",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2007 Feb 14;297(6):641-3",
+          "reftype": "Comment in",
+          "pmid": 17299201,
+          "note": ""
+        },
+        {
+          "refsource": "Nat Clin Pract Cardiovasc Med. 2007 Jul;4(7):366-7",
+          "reftype": "Comment in",
+          "pmid": 17519911,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2007 Jul 11;298(2):175-6; author reply 177-8",
+          "reftype": "Comment in",
+          "pmid": 17622595,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2007 Jul 11;298(2):176-7; author reply 177-8",
+          "reftype": "Comment in",
+          "pmid": 17622596,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2007 Jul 11;298(2):176; author reply 177-8",
+          "reftype": "Comment in",
+          "pmid": 17622597,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2007 Jul 11;298(2):177; author reply 177-8",
+          "reftype": "Comment in",
+          "pmid": 17622598,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/02/14 00:00",
+      "sortfirstauthor": "Ridker PM",
+      "vernaculartitle": ""
+    }
+  }
+}

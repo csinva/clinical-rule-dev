@@ -1,0 +1,180 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "25737484"
+    ],
+    "25737484": {
+      "uid": "25737484",
+      "pubdate": "2015 Mar",
+      "epubdate": "2015 Mar 3",
+      "source": "Circ Cardiovasc Qual Outcomes",
+      "authors": [
+        {
+          "name": "Mahler SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Riley RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hiestand BC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Russell GB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoekstra JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lefebvre CW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nicks BA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cline DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Askew KL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elliott SB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herrington DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burke GL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller CD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Miller CD",
+      "title": "The HEART Pathway randomized trial: identifying emergency department patients with acute chest pain for early discharge.",
+      "sorttitle": "heart pathway randomized trial identifying emergency department patients with acute chest pain for early discharge",
+      "volume": "8",
+      "issue": "2",
+      "pages": "195-203",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101489148",
+      "issn": "1941-7713",
+      "essn": "1941-7705",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25737484"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS681340"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4413911"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4413911;manuscript-id: NIHMS681340;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/CIRCOUTCOMES.114.001384"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CIRCOUTCOMES.114.001384"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2015/03/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/03/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2015/12/19 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Circ Cardiovasc Qual Outcomes. 2015 Mar;8(2):135-7",
+          "reftype": "Comment in",
+          "pmid": 25737489,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 29,
+      "fulljournalname": "Circulation. Cardiovascular quality and outcomes",
+      "elocationid": "doi: 10.1161/CIRCOUTCOMES.114.001384",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2015/03/01 00:00",
+      "sortfirstauthor": "Mahler SA",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24626115"
+    ],
+    "24626115": {
+      "uid": "24626115",
+      "pubdate": "2014 Mar",
+      "epubdate": "",
+      "source": "CJEM",
+      "authors": [
+        {
+          "name": "Scheuermeyer FX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wong H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boychuk B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Innes G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grafstein E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gin K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Christenson J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Christenson J",
+      "title": "Development and validation of a prediction rule for early discharge of low-risk emergency department patients with potential ischemic chest pain.",
+      "sorttitle": "development and validation of a prediction rule for early discharge of low risk emergency department patients with potential ischemic chest pain",
+      "volume": "16",
+      "issue": "2",
+      "pages": "106-19",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100893237",
+      "issn": "1481-8035",
+      "essn": "1481-8043",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24626115"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2310/8000.2013.130938"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/03/15 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/03/15 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/01/21 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "CJEM",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/03/01 00:00",
+      "sortfirstauthor": "Scheuermeyer FX",
+      "vernaculartitle": ""
+    }
+  }
+}

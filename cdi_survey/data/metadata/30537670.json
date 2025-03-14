@@ -1,0 +1,150 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "30537670"
+    ],
+    "30537670": {
+      "uid": "30537670",
+      "pubdate": "2019 Jan",
+      "epubdate": "2018 Dec 8",
+      "source": "Epilepsy Behav",
+      "authors": [
+        {
+          "name": "Pi\u00f1a-Garza JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boyce D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tworek DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davis KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gatens H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lai G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McGoldrick PE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomas B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolf SM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wolf SM",
+      "title": "The refractory epilepsy screening tool for Lennox-Gastaut syndrome (REST-LGS).",
+      "sorttitle": "refractory epilepsy screening tool for lennox gastaut syndrome rest lgs",
+      "volume": "90",
+      "issue": "",
+      "pages": "148-153",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100892858",
+      "issn": "1525-5050",
+      "essn": "1525-5069",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30537670"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.yebeh.2018.11.016"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1525-5050(18)30566-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2018/07/11 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2018/11/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2018/11/15 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/12/12 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/07/10 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/12/12 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Epilepsy & behavior : E&B",
+      "elocationid": "doi: 10.1016/j.yebeh.2018.11.016",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/01/01 00:00",
+      "sortfirstauthor": "Pi\u00f1a-Garza JE",
+      "vernaculartitle": ""
+    }
+  }
+}

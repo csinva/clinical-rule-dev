@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21045745"
+    ],
+    "21045745": {
+      "uid": "21045745",
+      "pubdate": "2011 Sep",
+      "epubdate": "",
+      "source": "J Trauma",
+      "authors": [
+        {
+          "name": "Rodriguez RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hendey GW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mower W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kea B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fortman J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Merchant G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoffman JR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hoffman JR",
+      "title": "Derivation of a decision instrument for selective chest radiography in blunt trauma.",
+      "sorttitle": "derivation of a decision instrument for selective chest radiography in blunt trauma",
+      "volume": "71",
+      "issue": "3",
+      "pages": "549-53",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376373",
+      "issn": "0022-5282",
+      "essn": "1529-8809",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21045745"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/TA.0b013e3181f2ac9d"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/11/04 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/11/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/03/01 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Trauma Acute Care Surg. 2012 Oct;73(4):1034",
+          "reftype": "Comment in",
+          "pmid": 23026922,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of trauma",
+      "elocationid": "doi: 10.1097/TA.0b013e3181f2ac9d",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/09/01 00:00",
+      "sortfirstauthor": "Rodriguez RM",
+      "vernaculartitle": ""
+    }
+  }
+}

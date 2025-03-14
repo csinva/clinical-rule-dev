@@ -1,0 +1,270 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24849862"
+    ],
+    "24849862": {
+      "uid": "24849862",
+      "pubdate": "2014 Jun",
+      "epubdate": "",
+      "source": "Lancet Neurol",
+      "authors": [
+        {
+          "name": "Dubois B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feldman HH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacova C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hampel H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Molinuevo JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blennow K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "DeKosky ST",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gauthier S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Selkoe D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bateman R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cappa S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Crutch S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Engelborghs S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Frisoni GB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fox NC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Galasko D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Habert MO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jicha GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nordberg A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pasquier F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rabinovici G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Robert P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rowe C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Salloway S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sarazin M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Epelbaum S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Souza LC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vellas B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Visser PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schneider L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stern Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scheltens P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cummings JL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cummings JL",
+      "title": "Advancing research diagnostic criteria for Alzheimer's disease: the IWG-2 criteria.",
+      "sorttitle": "advancing research diagnostic criteria for alzheimer s disease the iwg 2 criteria",
+      "volume": "13",
+      "issue": "6",
+      "pages": "614-29",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101139309",
+      "issn": "1474-4422",
+      "essn": "1474-4465",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24849862"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1474-4422(14)70090-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1474-4422(14)70090-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/05/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/05/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/07/09 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet Neurol. 2014 Aug;13(8):757",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "Lancet Neurol. 2014 Jun;13(6):532-4",
+          "reftype": "Comment in",
+          "pmid": 24849852,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Neurology",
+      "elocationid": "doi: 10.1016/S1474-4422(14)70090-0",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/06/01 00:00",
+      "sortfirstauthor": "Dubois B",
+      "vernaculartitle": ""
+    }
+  }
+}

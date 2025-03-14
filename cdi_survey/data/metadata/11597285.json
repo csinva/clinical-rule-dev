@@ -1,0 +1,207 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11597285"
+    ],
+    "11597285": {
+      "uid": "11597285",
+      "pubdate": "2001 Oct 17",
+      "epubdate": "",
+      "source": "JAMA",
+      "authors": [
+        {
+          "name": "Stiell IG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vandemheen KL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Clement CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lesiuk H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Maio VJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laupacis A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schull M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McKnight RD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Verbeek R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brison R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cass D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dreyer J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eisenhauer MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greenberg GH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "MacPhail I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morrison L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reardon M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Worthington J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Worthington J",
+      "title": "The Canadian C-spine rule for radiography in alert and stable trauma patients.",
+      "sorttitle": "canadian c spine rule for radiography in alert and stable trauma patients",
+      "volume": "286",
+      "issue": "15",
+      "pages": "1841-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501160",
+      "issn": "0098-7484",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11597285"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.286.15.1841"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "joc10637"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/10/26 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/11/03 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/10/26 10:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "JAMA. 2001 Oct 17;286(15):1893-4",
+          "reftype": "Comment in",
+          "pmid": 11597293,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2002 Feb 6;287(5):583; author reply 584",
+          "reftype": "Comment in",
+          "pmid": 11829681,
+          "note": ""
+        },
+        {
+          "refsource": "JAMA. 2002 Feb 6;287(5):583-4",
+          "reftype": "Comment in",
+          "pmid": 11829682,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JAMA",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/10/17 00:00",
+      "sortfirstauthor": "Stiell IG",
+      "vernaculartitle": ""
+    }
+  }
+}

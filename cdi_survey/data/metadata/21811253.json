@@ -1,0 +1,142 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21811253"
+    ],
+    "21811253": {
+      "uid": "21811253",
+      "pubdate": "2011 Aug 23",
+      "epubdate": "2011 Aug 2",
+      "source": "Br J Cancer",
+      "authors": [
+        {
+          "name": "Carmona-Bayonas A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "G\u00f3mez J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gonz\u00e1lez-Billalabeitia E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Canteras M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Navarrete A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gonz\u00e1lvez ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vicente V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ayala de la Pe\u00f1a F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ayala de la Pe\u00f1a F",
+      "title": "Prognostic evaluation of febrile neutropenia in apparently stable adult cancer patients.",
+      "sorttitle": "prognostic evaluation of febrile neutropenia in apparently stable adult cancer patients",
+      "volume": "105",
+      "issue": "5",
+      "pages": "612-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370635",
+      "issn": "0007-0920",
+      "essn": "1532-1827",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21811253"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3188929"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3188929;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/bjc.2011.284"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "bjc2011284"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/08/04 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/08/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/11/02 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 26,
+      "fulljournalname": "British journal of cancer",
+      "elocationid": "doi: 10.1038/bjc.2011.284",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/08/23 00:00",
+      "sortfirstauthor": "Carmona-Bayonas A",
+      "vernaculartitle": ""
+    }
+  }
+}

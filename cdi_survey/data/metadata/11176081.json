@@ -1,0 +1,124 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11176081"
+    ],
+    "11176081": {
+      "uid": "11176081",
+      "pubdate": "2001 Feb",
+      "epubdate": "",
+      "source": "Anesthesiology",
+      "authors": [
+        {
+          "name": "Dupuis JY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nathan H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lam M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grimes S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bourke M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bourke M",
+      "title": "The cardiac anesthesia risk evaluation score: a clinically useful predictor of mortality and morbidity after cardiac surgery.",
+      "sorttitle": "cardiac anesthesia risk evaluation score a clinically useful predictor of mortality and morbidity after cardiac surgery",
+      "volume": "94",
+      "issue": "2",
+      "pages": "194-204",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1300217",
+      "issn": "0003-3022",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11176081"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00000542-200102000-00006"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/02/15 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/03/10 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/02/15 11:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Anesthesiology. 2001 Feb;94(2):191-3",
+          "reftype": "Comment in",
+          "pmid": 11176080,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Anesthesiology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/02/01 00:00",
+      "sortfirstauthor": "Dupuis JY",
+      "vernaculartitle": ""
+    }
+  }
+}

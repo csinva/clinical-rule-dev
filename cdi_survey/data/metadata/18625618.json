@@ -1,0 +1,144 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18625618"
+    ],
+    "18625618": {
+      "uid": "18625618",
+      "pubdate": "2009 Jan",
+      "epubdate": "2008 Jul 14",
+      "source": "Ann Rheum Dis",
+      "authors": [
+        {
+          "name": "Lukas C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Landew\u00e9 R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sieper J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dougados M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davis J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Braun J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van der Linden S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van der Heijde D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Assessment of SpondyloArthritis international Society",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "van der Heijde D",
+      "title": "Development of an ASAS-endorsed disease activity score (ASDAS) in patients with ankylosing spondylitis.",
+      "sorttitle": "development of an asas endorsed disease activity score asdas in patients with ankylosing spondylitis",
+      "volume": "68",
+      "issue": "1",
+      "pages": "18-24",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372355",
+      "issn": "0003-4967",
+      "essn": "1468-2060",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18625618"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/ard.2008.094870"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ard.2008.094870"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2008/07/16 09:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/07/16 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/01/27 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Rheum Dis. 2009 Jan;68(1):1-2",
+          "reftype": "Comment in",
+          "pmid": 19088258,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of the rheumatic diseases",
+      "elocationid": "doi: 10.1136/ard.2008.094870",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/01/01 00:00",
+      "sortfirstauthor": "Lukas C",
+      "vernaculartitle": ""
+    }
+  }
+}

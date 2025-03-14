@@ -1,0 +1,140 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10701144"
+    ],
+    "10701144": {
+      "uid": "10701144",
+      "pubdate": "2000 Feb",
+      "epubdate": "",
+      "source": "Inflamm Bowel Dis",
+      "authors": [
+        {
+          "name": "Gasche C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scholmerich J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brynskov J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "D'Haens G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hanauer SB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Irvine EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jewell DP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rachmilewitz D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sachar DB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sandborn WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sutherland LR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sutherland LR",
+      "title": "A simple classification of Crohn's disease: report of the Working Party for the World Congresses of Gastroenterology, Vienna 1998.",
+      "sorttitle": "simple classification of crohn s disease report of the working party for the world congresses of gastroenterology vienna 1998",
+      "volume": "6",
+      "issue": "1",
+      "pages": "8-15",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9508162",
+      "issn": "1078-0998",
+      "essn": "",
+      "pubtype": [],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10701144"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00054725-200002000-00002"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/03/04 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/03/25 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/03/04 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Inflammatory bowel diseases",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/02/01 00:00",
+      "sortfirstauthor": "Gasche C",
+      "vernaculartitle": ""
+    }
+  }
+}

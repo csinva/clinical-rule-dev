@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19762709"
+    ],
+    "19762709": {
+      "uid": "19762709",
+      "pubdate": "2009 Nov",
+      "epubdate": "2009 Sep 17",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "Kattah JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Talkad AV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang DZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hsieh YH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Newman-Toker DE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Newman-Toker DE",
+      "title": "HINTS to diagnose stroke in the acute vestibular syndrome: three-step bedside oculomotor examination more sensitive than early MRI diffusion-weighted imaging.",
+      "sorttitle": "hints to diagnose stroke in the acute vestibular syndrome three step bedside oculomotor examination more sensitive than early mri diffusion weighted imaging",
+      "volume": "40",
+      "issue": "11",
+      "pages": "3504-10",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "1524-4628",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19762709"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS149499"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4593511"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4593511;manuscript-id: NIHMS149499;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/STROKEAHA.109.551234"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "STROKEAHA.109.551234"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/09/19 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/09/19 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/12/16 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 26,
+      "fulljournalname": "Stroke",
+      "elocationid": "doi: 10.1161/STROKEAHA.109.551234",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/11/01 00:00",
+      "sortfirstauthor": "Kattah JC",
+      "vernaculartitle": ""
+    }
+  }
+}

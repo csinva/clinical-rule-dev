@@ -1,0 +1,127 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19875722"
+    ],
+    "19875722": {
+      "uid": "19875722",
+      "pubdate": "2010 Jul",
+      "epubdate": "2009 Oct 29",
+      "source": "Am J Crit Care",
+      "authors": [
+        {
+          "name": "Edmiaston J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Connor LT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Loehr L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nassief A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nassief A",
+      "title": "Validation of a dysphagia screening tool in acute stroke patients.",
+      "sorttitle": "validation of a dysphagia screening tool in acute stroke patients",
+      "volume": "19",
+      "issue": "4",
+      "pages": "357-64",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9211547",
+      "issn": "1062-3264",
+      "essn": "1937-710X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19875722"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS197293"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2896456"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2896456;manuscript-id: NIHMS197293;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4037/ajcc2009961"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ajcc2009961"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/10/31 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/10/31 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2010/11/09 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 22,
+      "fulljournalname": "American journal of critical care : an official publication, American Association of Critical-Care Nurses",
+      "elocationid": "doi: 10.4037/ajcc2009961",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/07/01 00:00",
+      "sortfirstauthor": "Edmiaston J",
+      "vernaculartitle": ""
+    }
+  }
+}

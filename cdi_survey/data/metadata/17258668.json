@@ -1,0 +1,153 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17258668"
+    ],
+    "17258668": {
+      "uid": "17258668",
+      "pubdate": "2007 Jan 27",
+      "epubdate": "",
+      "source": "Lancet",
+      "authors": [
+        {
+          "name": "Johnston SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rothwell PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nguyen-Huynh MN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giles MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elkins JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernstein AL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sidney S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sidney S",
+      "title": "Validation and refinement of scores to predict very early stroke risk after transient ischaemic attack.",
+      "sorttitle": "validation and refinement of scores to predict very early stroke risk after transient ischaemic attack",
+      "volume": "369",
+      "issue": "9558",
+      "pages": "283-92",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985213R",
+      "issn": "0140-6736",
+      "essn": "1474-547X",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17258668"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(07)60150-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(07)60150-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/01/30 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/02/09 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/01/30 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet. 2007 Jan 27;369(9558):251-2",
+          "reftype": "Comment in",
+          "pmid": 17258647,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet. 2007 Mar 31;369(9567):1082",
+          "reftype": "Comment in",
+          "pmid": 17398306,
+          "note": ""
+        },
+        {
+          "refsource": "ACP J Club. 2007 May-Jun;146(3):79",
+          "reftype": "Comment in",
+          "pmid": 17474688,
+          "note": ""
+        },
+        {
+          "refsource": "Evid Based Med. 2007 Jun;12(3):88",
+          "reftype": "Comment in",
+          "pmid": 17537896,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Lancet (London, England)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/01/27 00:00",
+      "sortfirstauthor": "Johnston SC",
+      "vernaculartitle": ""
+    }
+  }
+}

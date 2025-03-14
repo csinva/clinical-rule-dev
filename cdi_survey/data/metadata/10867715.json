@@ -1,0 +1,117 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "10867715"
+    ],
+    "10867715": {
+      "uid": "10867715",
+      "pubdate": "2000 May-Jun",
+      "epubdate": "",
+      "source": "Diabetes Metab Res Rev",
+      "authors": [
+        {
+          "name": "Griffin SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Little PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hales CN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kinmonth AL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wareham NJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wareham NJ",
+      "title": "Diabetes risk score: towards earlier detection of type 2 diabetes in general practice.",
+      "sorttitle": "diabetes risk score towards earlier detection of type 2 diabetes in general practice",
+      "volume": "16",
+      "issue": "3",
+      "pages": "164-71",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100883450",
+      "issn": "1520-7552",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10867715"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/1520-7560(200005/06)16:3<164::aid-dmrr103>3.0.co;2-r"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1002/1520-7560(200005/06)16:3<164::AID-DMRR103>3.0.CO;2-R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/06/27 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2000/08/06 11:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/06/27 11:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Diabetes/metabolism research and reviews",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/05/01 00:00",
+      "sortfirstauthor": "Griffin SJ",
+      "vernaculartitle": ""
+    }
+  }
+}

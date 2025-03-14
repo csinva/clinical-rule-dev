@@ -1,0 +1,91 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "4950264"
+    ],
+    "4950264": {
+      "uid": "4950264",
+      "pubdate": "1964",
+      "epubdate": "",
+      "source": "Major Probl Clin Surg",
+      "authors": [
+        {
+          "name": "Child CG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Turcotte JG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Turcotte JG",
+      "title": "Surgery and portal hypertension.",
+      "sorttitle": "surgery and portal hypertension",
+      "volume": "1",
+      "issue": "",
+      "pages": "1-85",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1271453",
+      "issn": "0025-1062",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4950264"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1964/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1964/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1964/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Major problems in clinical surgery",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1964/01/01 00:00",
+      "sortfirstauthor": "Child CG",
+      "vernaculartitle": ""
+    }
+  }
+}

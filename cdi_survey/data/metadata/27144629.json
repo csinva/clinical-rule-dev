@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27144629"
+    ],
+    "27144629": {
+      "uid": "27144629",
+      "pubdate": "2016 Feb 19",
+      "epubdate": "2016 Feb 19",
+      "source": "Gastroenterology",
+      "authors": [
+        {
+          "name": "Cotton PB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elta GH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carter CR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pasricha PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Corazziari ES",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Corazziari ES",
+      "title": "Rome IV. Gallbladder and Sphincter of Oddi Disorders.",
+      "sorttitle": "rome iv gallbladder and sphincter of oddi disorders",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0374630",
+      "issn": "0016-5085",
+      "essn": "1528-0012",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27144629"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.gastro.2016.02.033"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016-5085(16)00224-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/02/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/02/15 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/05/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/05/05 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Dig Endosc. 2023 Jan;35(1):147",
+          "reftype": "Comment in",
+          "pmid": 36250217,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastroenterology",
+      "elocationid": "pii: S0016-5085(16)00224-9. doi: 10.1053/j.gastro.2016.02.033",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/02/19 00:00",
+      "sortfirstauthor": "Cotton PB",
+      "vernaculartitle": ""
+    }
+  }
+}

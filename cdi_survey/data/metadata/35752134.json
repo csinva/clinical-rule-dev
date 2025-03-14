@@ -1,0 +1,139 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "35752134"
+    ],
+    "35752134": {
+      "uid": "35752134",
+      "pubdate": "2022 Sep",
+      "epubdate": "2022 Jun 22",
+      "source": "Oral Oncol",
+      "authors": [
+        {
+          "name": "Jacobs CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Barak I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jung SH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rocke DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kahmke RR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Suneja G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mowery YM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mowery YM",
+      "title": "Prediction model to estimate overall survival benefit of postoperative radiotherapy for resected major salivary gland cancers.",
+      "sorttitle": "prediction model to estimate overall survival benefit of postoperative radiotherapy for resected major salivary gland cancers",
+      "volume": "132",
+      "issue": "",
+      "pages": "105955",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9709118",
+      "issn": "1368-8375",
+      "essn": "1879-0593",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35752134"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.oraloncology.2022.105955"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1368-8375(22)00244-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2021/12/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2022/05/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2022/05/31 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2022/06/26 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/07/27 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2022/06/25 18:29"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Oral oncology",
+      "elocationid": "doi: 10.1016/j.oraloncology.2022.105955",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2022/09/01 00:00",
+      "sortfirstauthor": "Jacobs CD",
+      "vernaculartitle": ""
+    }
+  }
+}

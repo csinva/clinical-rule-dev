@@ -1,0 +1,147 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18556582"
+    ],
+    "18556582": {
+      "uid": "18556582",
+      "pubdate": "2008 Aug",
+      "epubdate": "2008 Jun 12",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "Rost NS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith EE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Snider RW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chanderraj R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schwab K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "FitzMaurice E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wendell L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goldstein JN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greenberg SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosand J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rosand J",
+      "title": "Prediction of functional outcome in patients with primary intracerebral hemorrhage: the FUNC score.",
+      "sorttitle": "prediction of functional outcome in patients with primary intracerebral hemorrhage the func score",
+      "volume": "39",
+      "issue": "8",
+      "pages": "2304-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "1524-4628",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18556582"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/STROKEAHA.107.512202"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "STROKEAHA.107.512202"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/06/17 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2008/08/22 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/06/17 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Stroke",
+      "elocationid": "doi: 10.1161/STROKEAHA.107.512202",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/08/01 00:00",
+      "sortfirstauthor": "Rost NS",
+      "vernaculartitle": ""
+    }
+  }
+}

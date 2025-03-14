@@ -1,0 +1,160 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "23707435"
+    ],
+    "23707435": {
+      "uid": "23707435",
+      "pubdate": "2013 Sep",
+      "epubdate": "2013 May 22",
+      "source": "Contemp Clin Trials",
+      "authors": [
+        {
+          "name": "Boudreaux ED",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goldstein AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sullivan AF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Allen MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Manton AP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arias SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Camargo CA Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Camargo CA Jr",
+      "title": "The Emergency Department Safety Assessment and Follow-up Evaluation (ED-SAFE): method and design considerations.",
+      "sorttitle": "emergency department safety assessment and follow up evaluation ed safe method and design considerations",
+      "volume": "36",
+      "issue": "1",
+      "pages": "14-24",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101242342",
+      "issn": "1551-7144",
+      "essn": "1559-2030",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23707435"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS498264"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3979300"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3979300;manuscript-id: NIHMS498264;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cct.2013.05.008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1551-7144(13)00075-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2013/01/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2013/04/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2013/05/12 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2013/05/28 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2013/05/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/04/16 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 26,
+      "fulljournalname": "Contemporary clinical trials",
+      "elocationid": "doi: 10.1016/j.cct.2013.05.008",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2013/09/01 00:00",
+      "sortfirstauthor": "Boudreaux ED",
+      "vernaculartitle": ""
+    }
+  }
+}

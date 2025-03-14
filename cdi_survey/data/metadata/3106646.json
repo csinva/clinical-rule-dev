@@ -1,0 +1,97 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3106646"
+    ],
+    "3106646": {
+      "uid": "3106646",
+      "pubdate": "1987 Apr",
+      "epubdate": "",
+      "source": "J Trauma",
+      "authors": [
+        {
+          "name": "Boyd CR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tolson MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Copes WS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Copes WS",
+      "title": "Evaluating trauma care: the TRISS method. Trauma Score and the Injury Severity Score.",
+      "sorttitle": "evaluating trauma care the triss method trauma score and the injury severity score",
+      "volume": "27",
+      "issue": "4",
+      "pages": "370-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376373",
+      "issn": "0022-5282",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3106646"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1987/04/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1987/04/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1987/04/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of trauma",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1987/04/01 00:00",
+      "sortfirstauthor": "Boyd CR",
+      "vernaculartitle": ""
+    }
+  }
+}

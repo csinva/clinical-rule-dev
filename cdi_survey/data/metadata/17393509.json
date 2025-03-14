@@ -1,0 +1,179 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17393509"
+    ],
+    "17393509": {
+      "uid": "17393509",
+      "pubdate": "2007 Apr",
+      "epubdate": "",
+      "source": "Hepatology",
+      "authors": [
+        {
+          "name": "Angulo P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hui JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marchesini G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bugianesi E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "George J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Farrell GC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Enders F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saksena S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burt AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bida JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lindor K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sanderson SO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lenzi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adams LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kench J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Therneau TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Day CP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Day CP",
+      "title": "The NAFLD fibrosis score: a noninvasive system that identifies liver fibrosis in patients with NAFLD.",
+      "sorttitle": "nafld fibrosis score a noninvasive system that identifies liver fibrosis in patients with nafld",
+      "volume": "45",
+      "issue": "4",
+      "pages": "846-54",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8302946",
+      "issn": "0270-9139",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17393509"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/hep.21496"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/03/30 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/05/30 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/03/30 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Gastroenterology. 2007 Oct;133(4):1377-8; discussion 1378-9",
+          "reftype": "Comment in",
+          "pmid": 17919509,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Hepatology (Baltimore, Md.)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/04/01 00:00",
+      "sortfirstauthor": "Angulo P",
+      "vernaculartitle": ""
+    }
+  }
+}

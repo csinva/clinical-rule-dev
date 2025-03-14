@@ -1,0 +1,97 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11036829"
+    ],
+    "11036829": {
+      "uid": "11036829",
+      "pubdate": "2000 Oct",
+      "epubdate": "",
+      "source": "J Rheumatol",
+      "authors": [
+        {
+          "name": "Wener MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Daum PR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McQuillan GM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "McQuillan GM",
+      "title": "The influence of age, sex, and race on the upper reference limit of serum C-reactive protein concentration.",
+      "sorttitle": "influence of age sex and race on the upper reference limit of serum c reactive protein concentration",
+      "volume": "27",
+      "issue": "10",
+      "pages": "2351-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7501984",
+      "issn": "0315-162X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11036829"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2000/10/19 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/02/28 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2000/10/19 11:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of rheumatology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2000/10/01 00:00",
+      "sortfirstauthor": "Wener MH",
+      "vernaculartitle": ""
+    }
+  }
+}

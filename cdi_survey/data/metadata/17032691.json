@@ -1,0 +1,165 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17032691"
+    ],
+    "17032691": {
+      "uid": "17032691",
+      "pubdate": "2006 Nov 25",
+      "epubdate": "2006 Oct 10",
+      "source": "BMJ",
+      "authors": [
+        {
+          "name": "Fox KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dabbous OH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goldberg RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pieper KS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eagle KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Van de Werf F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Avezum A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goodman SG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Flather MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson FA Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Granger CB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Granger CB",
+      "title": "Prediction of risk of death and myocardial infarction in the six months after presentation with acute coronary syndrome: prospective multinational observational study (GRACE).",
+      "sorttitle": "prediction of risk of death and myocardial infarction in the six months after presentation with acute coronary syndrome prospective multinational observational study grace",
+      "volume": "333",
+      "issue": "7578",
+      "pages": "1091",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8900488",
+      "issn": "0959-8138",
+      "essn": "1756-1833",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17032691"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1661748"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1661748;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmj.38985.646481.55"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "bmj.38985.646481.55"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/10/13 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/12/09 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/10/13 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "BMJ. 2006 Nov 25;333(7578):1079-80",
+          "reftype": "Comment in",
+          "pmid": 17124199,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 29,
+      "fulljournalname": "BMJ (Clinical research ed.)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/11/25 00:00",
+      "sortfirstauthor": "Fox KA",
+      "vernaculartitle": ""
+    }
+  }
+}

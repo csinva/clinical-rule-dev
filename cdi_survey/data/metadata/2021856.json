@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2021856"
+    ],
+    "2021856": {
+      "uid": "2021856",
+      "pubdate": "1991 Mar",
+      "epubdate": "",
+      "source": "Br J Surg",
+      "authors": [
+        {
+          "name": "Copeland GP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jones D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Walters M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Walters M",
+      "title": "POSSUM: a scoring system for surgical audit.",
+      "sorttitle": "possum a scoring system for surgical audit",
+      "volume": "78",
+      "issue": "3",
+      "pages": "355-60",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372553",
+      "issn": "0007-1323",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2021856"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/bjs.1800780327"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1991/03/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1991/03/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1991/03/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The British journal of surgery",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1991/03/01 00:00",
+      "sortfirstauthor": "Copeland GP",
+      "vernaculartitle": ""
+    }
+  }
+}

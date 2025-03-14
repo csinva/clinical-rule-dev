@@ -1,0 +1,162 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "7752753"
+    ],
+    "7752753": {
+      "uid": "7752753",
+      "pubdate": "1995 May 27",
+      "epubdate": "",
+      "source": "Lancet",
+      "authors": [
+        {
+          "name": "Wells PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hirsh J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lensing AW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Foster G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kearon C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weitz J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "D'Ovidio R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cogo A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Prandoni P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Prandoni P",
+      "title": "Accuracy of clinical assessment of deep-vein thrombosis.",
+      "sorttitle": "accuracy of clinical assessment of deep vein thrombosis",
+      "volume": "345",
+      "issue": "8961",
+      "pages": "1326-30",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985213R",
+      "issn": "0140-6736",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7752753"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0140-6736(95)92535-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(95)92535-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1995/05/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1995/05/27 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1995/05/27 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "ACP J Club. 1996 Jan-Feb;124(1):19",
+          "reftype": "Comment in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "Lancet 1995 Aug 19;346(8973):516",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "Lancet. 1995 Aug 5;346(8971):375",
+          "reftype": "Comment in",
+          "pmid": 7623544,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Lancet (London, England)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1995/05/27 00:00",
+      "sortfirstauthor": "Wells PS",
+      "vernaculartitle": ""
+    }
+  }
+}

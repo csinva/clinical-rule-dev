@@ -1,0 +1,160 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17371884"
+    ],
+    "17371884": {
+      "uid": "17371884",
+      "pubdate": "2007 Mar 20",
+      "epubdate": "",
+      "source": "Ann Intern Med",
+      "authors": [
+        {
+          "name": "Smits M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dippel DW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Steyerberg EW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Haan GG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dekker HM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vos PE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kool DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nederkoorn PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hofman PA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Twijnstra A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tanghe HL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hunink MG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hunink MG",
+      "title": "Predicting intracranial traumatic findings on computed tomography in patients with minor head injury: the CHIP prediction rule.",
+      "sorttitle": "predicting intracranial traumatic findings on computed tomography in patients with minor head injury the chip prediction rule",
+      "volume": "146",
+      "issue": "6",
+      "pages": "397-405",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372351",
+      "issn": "0003-4819",
+      "essn": "1539-3704",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17371884"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7326/0003-4819-146-6-200703200-00004"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "146/6/397"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2007/03/21 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2007/04/03 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2007/03/21 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Intern Med. 2007 Mar 20;146(6):I55",
+          "reftype": "Summary for patients in",
+          "pmid": 17371881,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2007/03/20 00:00",
+      "sortfirstauthor": "Smits M",
+      "vernaculartitle": ""
+    }
+  }
+}

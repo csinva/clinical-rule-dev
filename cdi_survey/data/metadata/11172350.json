@@ -1,0 +1,151 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11172350"
+    ],
+    "11172350": {
+      "uid": "11172350",
+      "pubdate": "2001 Feb",
+      "epubdate": "",
+      "source": "Hepatology",
+      "authors": [
+        {
+          "name": "Kamath PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wiesner RH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Malinchoc M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kremers W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Therneau TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kosberg CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "D'Amico G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dickson ER",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim WR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kim WR",
+      "title": "A model to predict survival in patients with end-stage liver disease.",
+      "sorttitle": "model to predict survival in patients with end stage liver disease",
+      "volume": "33",
+      "issue": "2",
+      "pages": "464-70",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8302946",
+      "issn": "0270-9139",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11172350"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/jhep.2001.22172"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0270913901841793"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/02/15 11:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2001/03/17 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/02/15 11:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Hepatology. 2001 Feb;33(2):473-5",
+          "reftype": "Comment in",
+          "pmid": 11172352,
+          "note": ""
+        },
+        {
+          "refsource": "Hepatology. 2001 Jul;34(1):215-6",
+          "reftype": "Comment in",
+          "pmid": 11431756,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Hepatology (Baltimore, Md.)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/02/01 00:00",
+      "sortfirstauthor": "Kamath PS",
+      "vernaculartitle": ""
+    }
+  }
+}

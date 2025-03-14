@@ -1,0 +1,135 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "28196932"
+    ],
+    "28196932": {
+      "uid": "28196932",
+      "pubdate": "2017 Mar",
+      "epubdate": "2017 Feb 14",
+      "source": "Pediatrics",
+      "authors": [
+        {
+          "name": "Chang PW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kuzniewicz MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McCulloch CE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Newman TB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Newman TB",
+      "title": "A Clinical Prediction Rule for Rebound Hyperbilirubinemia Following Inpatient Phototherapy.",
+      "sorttitle": "clinical prediction rule for rebound hyperbilirubinemia following inpatient phototherapy",
+      "volume": "139",
+      "issue": "3",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376422",
+      "issn": "0031-4005",
+      "essn": "1098-4275",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28196932"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1542/peds.2016-2896"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "peds.2016-2896"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "accepted",
+          "date": "2016/12/19 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/02/16 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/07/01 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/02/16 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Pediatrics. 2017 Mar;139(3):null",
+          "reftype": "Comment in",
+          "pmid": 28196933,
+          "note": ""
+        },
+        {
+          "refsource": "Pediatrics. 2017 Aug;140(2):null",
+          "reftype": "Comment in",
+          "pmid": 28771425,
+          "note": ""
+        },
+        {
+          "refsource": "Pediatrics. 2017 Aug;140(2):null",
+          "reftype": "Comment in",
+          "pmid": 28771426,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatrics",
+      "elocationid": "pii: e20162896. doi: 10.1542/peds.2016-2896",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/03/01 00:00",
+      "sortfirstauthor": "Chang PW",
+      "vernaculartitle": ""
+    }
+  }
+}

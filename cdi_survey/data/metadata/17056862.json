@@ -1,0 +1,151 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "17056862"
+    ],
+    "17056862": {
+      "uid": "17056862",
+      "pubdate": "2006 Nov",
+      "epubdate": "",
+      "source": "Arch Dis Child",
+      "authors": [
+        {
+          "name": "Dunning J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Daly JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lomas JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lecky F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Batchelor J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mackway-Jones K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Children's head injury algorithm for the prediction of important clinical events study group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mackway-Jones K",
+      "title": "Derivation of the children's head injury algorithm for the prediction of important clinical events decision rule for head injury in children.",
+      "sorttitle": "derivation of the children s head injury algorithm for the prediction of important clinical events decision rule for head injury in children",
+      "volume": "91",
+      "issue": "11",
+      "pages": "885-91",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372434",
+      "issn": "0003-9888",
+      "essn": "1468-2044",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17056862"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2082967"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2082967;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/adc.2005.083980"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "91/11/885"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/10/24 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/11/15 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/10/24 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Arch Dis Child. 2006 Nov;91(11):877-8",
+          "reftype": "Comment in",
+          "pmid": 17056858,
+          "note": ""
+        },
+        {
+          "refsource": "J Fam Pract. 2007 Jan;56(1):16",
+          "reftype": "Comment in",
+          "pmid": 17607820,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 33,
+      "fulljournalname": "Archives of disease in childhood",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/11/01 00:00",
+      "sortfirstauthor": "Dunning J",
+      "vernaculartitle": ""
+    }
+  }
+}

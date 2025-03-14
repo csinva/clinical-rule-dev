@@ -1,0 +1,151 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "15312219"
+    ],
+    "15312219": {
+      "uid": "15312219",
+      "pubdate": "2004 Aug",
+      "epubdate": "2004 May 24",
+      "source": "Crit Care",
+      "authors": [
+        {
+          "name": "Bellomo R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ronco C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kellum JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mehta RL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Palevsky P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Acute Dialysis Quality Initiative workgroup",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Palevsky P",
+      "title": "Acute renal failure - definition, outcome measures, animal models, fluid therapy and information technology needs: the Second International Consensus Conference of the Acute Dialysis Quality Initiative (ADQI) Group.",
+      "sorttitle": "acute renal failure definition outcome measures animal models fluid therapy and information technology needs the second international consensus conference of the acute dialysis quality initiative adqi group",
+      "volume": "8",
+      "issue": "4",
+      "pages": "R204-12",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9801902",
+      "issn": "1364-8535",
+      "essn": "1466-609X",
+      "pubtype": [
+        "Consensus Development Conference",
+        "Guideline",
+        "Journal Article",
+        "Practice Guideline",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15312219"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC522841"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC522841;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/cc2872"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cc2872"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2004/03/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2004/04/22 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2004/08/18 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2005/11/04 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2004/08/18 05:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Crit Care. 2007;11(2):411",
+          "reftype": "Comment in",
+          "pmid": 17466080,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 46,
+      "fulljournalname": "Critical care (London, England)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2004/08/01 00:00",
+      "sortfirstauthor": "Bellomo R",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "20854372"
+    ],
+    "20854372": {
+      "uid": "20854372",
+      "pubdate": "2010 Dec",
+      "epubdate": "",
+      "source": "J Thromb Haemost",
+      "authors": [
+        {
+          "name": "Cuker A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arepally G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Crowther MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rice L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Datko F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hook K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Propert KJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kuter DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ortel TL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Konkle BA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cines DB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cines DB",
+      "title": "The HIT Expert Probability (HEP) Score: a novel pre-test probability model for heparin-induced thrombocytopenia based on broad expert opinion.",
+      "sorttitle": "hit expert probability hep score a novel pre test probability model for heparin induced thrombocytopenia based on broad expert opinion",
+      "volume": "8",
+      "issue": "12",
+      "pages": "2642-50",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101170508",
+      "issn": "",
+      "essn": "1538-7836",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20854372"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1538-7836.2010.04059.x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2010/09/22 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2010/09/22 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/04/13 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of thrombosis and haemostasis : JTH",
+      "elocationid": "doi: 10.1111/j.1538-7836.2010.04059.x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2010/12/01 00:00",
+      "sortfirstauthor": "Cuker A",
+      "vernaculartitle": ""
+    }
+  }
+}

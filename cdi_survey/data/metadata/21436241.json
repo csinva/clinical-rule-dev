@@ -1,0 +1,187 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21436241"
+    ],
+    "21436241": {
+      "uid": "21436241",
+      "pubdate": "2011 Sep",
+      "epubdate": "2011 Mar 24",
+      "source": "Chest",
+      "authors": [
+        {
+          "name": "Spyropoulos AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson FA Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "FitzGerald G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Decousus H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pini M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chong BH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zotz RB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bergmann JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tapson V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Froehlich JB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Monreal M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Merli GJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pavanello R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Turpie AGG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nakamura M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Piovella F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kakkar AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spencer FA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "IMPROVE Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Spencer FA",
+      "title": "Predictive and associative models to identify hospitalized medical patients at risk for VTE.",
+      "sorttitle": "predictive and associative models to identify hospitalized medical patients at risk for vte",
+      "volume": "140",
+      "issue": "3",
+      "pages": "706-714",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0231335",
+      "issn": "0012-3692",
+      "essn": "1931-3543",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21436241"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1378/chest.10-1944"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0012-3692(11)60477-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/03/26 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/03/26 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/12/15 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Chest",
+      "elocationid": "doi: 10.1378/chest.10-1944",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/09/01 00:00",
+      "sortfirstauthor": "Spyropoulos AC",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16871531"
+    ],
+    "16871531": {
+      "uid": "16871531",
+      "pubdate": "2006 Aug",
+      "epubdate": "",
+      "source": "Arthritis Rheum",
+      "authors": [
+        {
+          "name": "Taylor W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gladman D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Helliwell P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marchesoni A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mease P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mielants H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "CASPAR Study Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mielants H",
+      "title": "Classification criteria for psoriatic arthritis: development of new criteria from a large international study.",
+      "sorttitle": "classification criteria for psoriatic arthritis development of new criteria from a large international study",
+      "volume": "54",
+      "issue": "8",
+      "pages": "2665-73",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370605",
+      "issn": "0004-3591",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16871531"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/art.21972"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/07/28 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/09/20 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/07/28 09:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Arthritis Rheum. 2007 Feb;56(2):699-700; author reply 700",
+          "reftype": "Comment in",
+          "pmid": 17265515,
+          "note": ""
+        },
+        {
+          "refsource": "J Rheumatol. 2008 Oct;35(10):2069-70; author reply 2070",
+          "reftype": "Comment in",
+          "pmid": 18843760,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Arthritis and rheumatism",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/08/01 00:00",
+      "sortfirstauthor": "Taylor W",
+      "vernaculartitle": ""
+    }
+  }
+}

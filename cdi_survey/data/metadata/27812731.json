@@ -1,0 +1,132 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "27812731"
+    ],
+    "27812731": {
+      "uid": "27812731",
+      "pubdate": "2017 Feb",
+      "epubdate": "2016 Nov 3",
+      "source": "Intensive Care Med",
+      "authors": [
+        {
+          "name": "Duan J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bai L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Huang S",
+      "title": "Assessment of heart rate, acidosis, consciousness, oxygenation, and respiratory rate to predict noninvasive ventilation failure in hypoxemic patients.",
+      "sorttitle": "assessment of heart rate acidosis consciousness oxygenation and respiratory rate to predict noninvasive ventilation failure in hypoxemic patients",
+      "volume": "43",
+      "issue": "2",
+      "pages": "192-199",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7704851",
+      "issn": "0342-4642",
+      "essn": "1432-1238",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27812731"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00134-016-4601-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00134-016-4601-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/08/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/10/19 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/11/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/11/08 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/11/05 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Intensive Care Med. 2017 Feb;43(2):243-245",
+          "reftype": "Comment in",
+          "pmid": 28102438,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Intensive care medicine",
+      "elocationid": "doi: 10.1007/s00134-016-4601-3",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/02/01 00:00",
+      "sortfirstauthor": "Duan J",
+      "vernaculartitle": ""
+    }
+  }
+}

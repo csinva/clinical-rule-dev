@@ -1,0 +1,97 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1415365"
+    ],
+    "1415365": {
+      "uid": "1415365",
+      "pubdate": "1992",
+      "epubdate": "",
+      "source": "Am J Nephrol",
+      "authors": [
+        {
+          "name": "Kaplan AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kohn OF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kohn OF",
+      "title": "Fractional excretion of urea as a guide to renal dysfunction.",
+      "sorttitle": "fractional excretion of urea as a guide to renal dysfunction",
+      "volume": "12",
+      "issue": "1-2",
+      "pages": "49-54",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8109361",
+      "issn": "0250-8095",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1415365"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000168417"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1992/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1992/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1992/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of nephrology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1992/01/01 00:00",
+      "sortfirstauthor": "Kaplan AA",
+      "vernaculartitle": ""
+    }
+  }
+}

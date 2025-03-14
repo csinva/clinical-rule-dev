@@ -1,0 +1,128 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "18980482"
+    ],
+    "18980482": {
+      "uid": "18980482",
+      "pubdate": "2008",
+      "epubdate": "",
+      "source": "Neurosurg Focus",
+      "authors": [
+        {
+          "name": "Patel AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dailey A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brodke DS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Daubs M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson PA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hurlbert RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vacccaro AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spine Trauma Study Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Vacccaro AR",
+      "title": "Subaxial cervical spine trauma classification: the Subaxial Injury Classification system and case examples.",
+      "sorttitle": "subaxial cervical spine trauma classification the subaxial injury classification system and case examples",
+      "volume": "25",
+      "issue": "5",
+      "pages": "E8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100896471",
+      "issn": "",
+      "essn": "1092-0684",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18980482"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3171/FOC.2008.25.11.E8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2008/11/05 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/04/09 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2008/11/05 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurosurgical focus",
+      "elocationid": "doi: 10.3171/FOC.2008.25.11.E8",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2008/01/01 00:00",
+      "sortfirstauthor": "Patel AA",
+      "vernaculartitle": ""
+    }
+  }
+}

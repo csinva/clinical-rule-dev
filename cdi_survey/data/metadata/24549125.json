@@ -1,0 +1,158 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "24549125"
+    ],
+    "24549125": {
+      "uid": "24549125",
+      "pubdate": "2014 Apr 1",
+      "epubdate": "2014 Feb 18",
+      "source": "CMAJ",
+      "authors": [
+        {
+          "name": "Stiell IG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Clement CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aaron SD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rowe BH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perry JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brison RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Calder LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lang E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borgundvaag B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Forster AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells GA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wells GA",
+      "title": "Clinical characteristics associated with adverse events in patients with exacerbation of chronic obstructive pulmonary disease: a prospective cohort study.",
+      "sorttitle": "clinical characteristics associated with adverse events in patients with exacerbation of chronic obstructive pulmonary disease a prospective cohort study",
+      "volume": "186",
+      "issue": "6",
+      "pages": "E193-204",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9711805",
+      "issn": "0820-3946",
+      "essn": "1488-2329",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24549125"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3971051"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3971051;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1503/cmaj.130968"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cmaj.130968"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2014/02/20 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2014/02/20 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2014/05/23 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 37,
+      "fulljournalname": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+      "elocationid": "doi: 10.1503/cmaj.130968",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2014/04/01 00:00",
+      "sortfirstauthor": "Stiell IG",
+      "vernaculartitle": ""
+    }
+  }
+}

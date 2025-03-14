@@ -1,0 +1,124 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2240918"
+    ],
+    "2240918": {
+      "uid": "2240918",
+      "pubdate": "1990 Dec 15",
+      "epubdate": "",
+      "source": "Ann Intern Med",
+      "authors": [
+        {
+          "name": "Inouye SK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Dyck CH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alessi CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Balkin S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Siegal AP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Horwitz RI",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Horwitz RI",
+      "title": "Clarifying confusion: the confusion assessment method. A new method for detection of delirium.",
+      "sorttitle": "clarifying confusion the confusion assessment method a new method for detection of delirium",
+      "volume": "113",
+      "issue": "12",
+      "pages": "941-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372351",
+      "issn": "0003-4819",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2240918"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7326/0003-4819-113-12-941"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1990/12/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1990/12/15 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1990/12/15 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Ann Intern Med. 1991 Jun 1;114(11):991-2",
+          "reftype": "Comment in",
+          "pmid": 1859558,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of internal medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1990/12/15 00:00",
+      "sortfirstauthor": "Inouye SK",
+      "vernaculartitle": ""
+    }
+  }
+}

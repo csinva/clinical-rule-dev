@@ -1,0 +1,189 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "31662037"
+    ],
+    "31662037": {
+      "uid": "31662037",
+      "pubdate": "2019 Dec",
+      "epubdate": "2019 Oct 30",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "Powers WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rabinstein AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ackerson T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adeoye OM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bambakidis NC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Becker K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Biller J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brown M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Demaerschalk BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoh B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jauch EC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kidwell CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leslie-Mazwi TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ovbiagele B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scott PA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheth KN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Southerland AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Summers DV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tirschwell DL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tirschwell DL",
+      "title": "Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association.",
+      "sorttitle": "guidelines for the early management of patients with acute ischemic stroke 2019 update to the 2018 guidelines for the early management of acute ischemic stroke a guideline for healthcare professionals from the american heart association american stroke association",
+      "volume": "50",
+      "issue": "12",
+      "pages": "e344-e418",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "1524-4628",
+      "pubtype": [
+        "Editorial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31662037"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/STR.0000000000000211"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/10/31 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/04/09 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2019/10/31 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Stroke. 2019 Dec;50(12):e440-e441",
+          "reftype": "Erratum in",
+          "pmid": 31765293,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Stroke",
+      "elocationid": "doi: 10.1161/STR.0000000000000211",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/12/01 00:00",
+      "sortfirstauthor": "Powers WJ",
+      "vernaculartitle": ""
+    }
+  }
+}

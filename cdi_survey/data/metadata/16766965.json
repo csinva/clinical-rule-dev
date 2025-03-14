@@ -1,0 +1,147 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "16766965"
+    ],
+    "16766965": {
+      "uid": "16766965",
+      "pubdate": "2006 Jun",
+      "epubdate": "",
+      "source": "J Trauma",
+      "authors": [
+        {
+          "name": "Y\u00fccel N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lefering R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maegele M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vorweg M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tjardes T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruchholtz S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neugebauer EA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wappler F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bouillon B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rixen D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Polytrauma Study Group of the German Trauma Society",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rixen D",
+      "title": "Trauma Associated Severe Hemorrhage (TASH)-Score: probability of mass transfusion as surrogate for life threatening hemorrhage after multiple trauma.",
+      "sorttitle": "trauma associated severe hemorrhage tash score probability of mass transfusion as surrogate for life threatening hemorrhage after multiple trauma",
+      "volume": "60",
+      "issue": "6",
+      "pages": "1228-36; discussion 1236-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376373",
+      "issn": "0022-5282",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16766965"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/01.ta.0000220386.84012.bf"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00005373-200606000-00011"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2006/06/13 09:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2006/07/22 09:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2006/06/13 09:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of trauma",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2006/06/01 00:00",
+      "sortfirstauthor": "Y\u00fccel N",
+      "vernaculartitle": ""
+    }
+  }
+}

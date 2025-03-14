@@ -1,0 +1,294 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "19758692"
+    ],
+    "19758692": {
+      "uid": "19758692",
+      "pubdate": "2009 Oct 3",
+      "epubdate": "2009 Sep 14",
+      "source": "Lancet",
+      "authors": [
+        {
+          "name": "Kuppermann N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holmes JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dayan PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoyle JD Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Atabaki SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holubkov R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nadel FM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Monroe D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stanley RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borgialli DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Badawy MK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schunk JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Quayle KS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahajan P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lichenstein R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lillis KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tunik MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacobs ES",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Callahan JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gorelick MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Glass TF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee LK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bachman MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cooper A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Powell EC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gerardi MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Melville KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Muizelaar JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wisner DH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zuspan SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dean JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wootton-Gorges SL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pediatric Emergency Care Applied Research Network (PECARN)",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wootton-Gorges SL",
+      "title": "Identification of children at very low risk of clinically-important brain injuries after head trauma: a prospective cohort study.",
+      "sorttitle": "identification of children at very low risk of clinically important brain injuries after head trauma a prospective cohort study",
+      "volume": "374",
+      "issue": "9696",
+      "pages": "1160-70",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985213R",
+      "issn": "0140-6736",
+      "essn": "1474-547X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19758692"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(09)61558-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(09)61558-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2009/09/18 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2009/09/18 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2009/10/16 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Lancet. 2014 Jan 25;383(9914):308",
+          "reftype": "Erratum in",
+          "pmid": "",
+          "note": ""
+        },
+        {
+          "refsource": "Lancet. 2009 Oct 3;374(9696):1127-9",
+          "reftype": "Comment in",
+          "pmid": 19758693,
+          "note": ""
+        },
+        {
+          "refsource": "Lancet. 2010 Jan 16;375(9710):198-9; author reply 199",
+          "reftype": "Comment in",
+          "pmid": 20109919,
+          "note": ""
+        },
+        {
+          "refsource": "J Pediatr. 2010 Mar;156(3):509-10",
+          "reftype": "Comment in",
+          "pmid": 20176197,
+          "note": ""
+        },
+        {
+          "refsource": "J Fam Pract. 2010 Mar;59(3):159-64",
+          "reftype": "Comment in",
+          "pmid": 20230734,
+          "note": ""
+        },
+        {
+          "refsource": "Acad Pediatr. 2016 May-Jun;16(4):336-42",
+          "reftype": "Comment in",
+          "pmid": 26523635,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Lancet (London, England)",
+      "elocationid": "doi: 10.1016/S0140-6736(09)61558-0",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2009/10/03 00:00",
+      "sortfirstauthor": "Kuppermann N",
+      "vernaculartitle": ""
+    }
+  }
+}

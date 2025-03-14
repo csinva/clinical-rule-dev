@@ -1,0 +1,179 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "26916042"
+    ],
+    "26916042": {
+      "uid": "26916042",
+      "pubdate": "2016 May",
+      "epubdate": "2016 Feb 22",
+      "source": "J Infect",
+      "authors": [
+        {
+          "name": "Tubiana S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duval X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alla F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Selton-Suty C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tattevin P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Delahaye F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Piroth L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chirouze C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lavigne JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Erpelding ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoen B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vandenesch F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iung B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Le Moing V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "VIRSTA/AEPEI Study Group",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Le Moing V",
+      "title": "The VIRSTA score, a prediction score to estimate risk of infective endocarditis and determine priority for echocardiography in patients with Staphylococcus aureus bacteremia.",
+      "sorttitle": "virsta score a prediction score to estimate risk of infective endocarditis and determine priority for echocardiography in patients with staphylococcus aureus bacteremia",
+      "volume": "72",
+      "issue": "5",
+      "pages": "544-53",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7908424",
+      "issn": "0163-4453",
+      "essn": "1532-2742",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26916042"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jinf.2016.02.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0163-4453(16)00051-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2015/10/30 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2016/01/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/02/12 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/02/27 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/02/27 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/12/24 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of infection",
+      "elocationid": "doi: 10.1016/j.jinf.2016.02.003",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/05/01 00:00",
+      "sortfirstauthor": "Tubiana S",
+      "vernaculartitle": ""
+    }
+  }
+}

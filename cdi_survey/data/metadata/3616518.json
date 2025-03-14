@@ -1,0 +1,102 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3616518"
+    ],
+    "3616518": {
+      "uid": "3616518",
+      "pubdate": "1987",
+      "epubdate": "",
+      "source": "Schizophr Bull",
+      "authors": [
+        {
+          "name": "Kay SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fiszbein A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Opler LA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Opler LA",
+      "title": "The positive and negative syndrome scale (PANSS) for schizophrenia.",
+      "sorttitle": "positive and negative syndrome scale panss for schizophrenia",
+      "volume": "13",
+      "issue": "2",
+      "pages": "261-76",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0236760",
+      "issn": "0586-7614",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3616518"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/schbul/13.2.261"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "1987/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "1987/01/01 00:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "1987/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Schizophrenia bulletin",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "1987/01/01 00:00",
+      "sortfirstauthor": "Kay SR",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "31221255"
+    ],
+    "31221255": {
+      "uid": "31221255",
+      "pubdate": "2019 Jun 25",
+      "epubdate": "",
+      "source": "J Am Coll Cardiol",
+      "authors": [
+        {
+          "name": "Dakik HA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chehab O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eldirani M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sbeity E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Karam C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abou Hassan O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Msheik M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hassan H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Msheik A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaspar C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Makki M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tamim H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tamim H",
+      "title": "A New Index for Pre-Operative Cardiovascular Evaluation.",
+      "sorttitle": "new index for pre operative cardiovascular evaluation",
+      "volume": "73",
+      "issue": "24",
+      "pages": "3067-3078",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8301365",
+      "issn": "0735-1097",
+      "essn": "1558-3597",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31221255"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jacc.2019.04.023"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0735-1097(19)34935-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2018/09/27 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2019/03/31 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2019/04/02 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2019/06/22 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/06/22 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/04/09 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Am Coll Cardiol. 2019 Jun 25;73(24):3079-3081",
+          "reftype": "Comment in",
+          "pmid": 31221256,
+          "note": ""
+        },
+        {
+          "refsource": "J Am Coll Cardiol. 2019 Nov 5;74(18):2327-2328",
+          "reftype": "Comment in",
+          "pmid": 31672192,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American College of Cardiology",
+      "elocationid": "doi: 10.1016/j.jacc.2019.04.023",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/06/25 00:00",
+      "sortfirstauthor": "Dakik HA",
+      "vernaculartitle": ""
+    }
+  }
+}

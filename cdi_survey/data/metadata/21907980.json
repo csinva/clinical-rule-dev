@@ -1,0 +1,138 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21907980"
+    ],
+    "21907980": {
+      "uid": "21907980",
+      "pubdate": "2011 Dec",
+      "epubdate": "2011 Sep 10",
+      "source": "Gastrointest Endosc",
+      "authors": [
+        {
+          "name": "Saltzman JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tabak YP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hyett BH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Travis AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johannes RS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Johannes RS",
+      "title": "A simple risk score accurately predicts in-hospital mortality, length of stay, and cost in acute upper GI bleeding.",
+      "sorttitle": "simple risk score accurately predicts in hospital mortality length of stay and cost in acute upper gi bleeding",
+      "volume": "74",
+      "issue": "6",
+      "pages": "1215-24",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0010505",
+      "issn": "0016-5107",
+      "essn": "1097-6779",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21907980"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.gie.2011.06.024"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0016-5107(11)01863-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2011/05/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2011/06/17 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2011/09/13 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/09/13 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2012/04/27 06:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Gastrointest Endosc. 2011 Dec;74(6):1225-9",
+          "reftype": "Comment in",
+          "pmid": 22136772,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gastrointestinal endoscopy",
+      "elocationid": "doi: 10.1016/j.gie.2011.06.024",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/12/01 00:00",
+      "sortfirstauthor": "Saltzman JR",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "12807591"
+    ],
+    "12807591": {
+      "uid": "12807591",
+      "pubdate": "2003 Jan-Feb",
+      "epubdate": "",
+      "source": "J Am Med Dir Assoc",
+      "authors": [
+        {
+          "name": "Warden V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hurley AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Volicer L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Volicer L",
+      "title": "Development and psychometric evaluation of the Pain Assessment in Advanced Dementia (PAINAD) scale.",
+      "sorttitle": "development and psychometric evaluation of the pain assessment in advanced dementia painad scale",
+      "volume": "4",
+      "issue": "1",
+      "pages": "9-15",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100893243",
+      "issn": "1525-8610",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12807591"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/01.JAM.0000043422.31640.F7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1525-8610(04)70258-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2003/06/17 05:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2003/07/23 05:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2003/06/17 05:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Am Med Dir Assoc. 2003 Jan-Feb;4(1):50-1",
+          "reftype": "Comment in",
+          "pmid": 12807599,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American Medical Directors Association",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2003/01/01 00:00",
+      "sortfirstauthor": "Warden V",
+      "vernaculartitle": ""
+    }
+  }
+}

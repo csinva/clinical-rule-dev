@@ -1,0 +1,223 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "21317270"
+    ],
+    "21317270": {
+      "uid": "21317270",
+      "pubdate": "2011 Mar",
+      "epubdate": "2011 Feb 11",
+      "source": "Stroke",
+      "authors": [
+        {
+          "name": "Ichord RN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bastian R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abraham L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Askalan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Benedict S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernard TJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beslow L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deveber G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dowling M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Friedman N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fullerton H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jordan L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kan L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kirton A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Amlie-Lefond C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Licht D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lo W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McClure C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pavlakis S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith SE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tan M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kasner S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jawad AF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jawad AF",
+      "title": "Interrater reliability of the Pediatric National Institutes of Health Stroke Scale (PedNIHSS) in a multicenter study.",
+      "sorttitle": "interrater reliability of the pediatric national institutes of health stroke scale pednihss in a multicenter study",
+      "volume": "42",
+      "issue": "3",
+      "pages": "613-7",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0235266",
+      "issn": "0039-2499",
+      "essn": "1524-4628",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21317270"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS268930"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3065389"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3065389;manuscript-id: NIHMS268930;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/STROKEAHA.110.607192"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "STROKEAHA.110.607192"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2011/02/15 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2011/02/15 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2011/04/20 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 16,
+      "fulljournalname": "Stroke",
+      "elocationid": "doi: 10.1161/STROKEAHA.110.607192",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2011/03/01 00:00",
+      "sortfirstauthor": "Ichord RN",
+      "vernaculartitle": ""
+    }
+  }
+}
