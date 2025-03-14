@@ -30,3 +30,4 @@ cancel_jobs.py
 reports/**.pdf
 reports/*/*.pdf
 .iai
+experimental/data
